@@ -1,0 +1,8 @@
+- look in prod replica db (prod10) for the precal trio books (OpenStaxCollege authorship)
+- neb get all three collections
+- make symlinks for ease of use
+- dump all module ids from book into `module-ids` file IN CANONICAL ORDER e.g. `find ./college-algebra/m* -maxdepth 1 -type d | xargs -I {} basename {} >> module-ids` with headers before the book data e.g. `echo '--- college-algebra'`
+- create find-module-canonical.py and run on created list - dump this output in `canonical-modules`
+- move modules into modules directory from their canonical copy e.g. `cat canonical-modules | awk '{ print "cp -r "$1"/"$2" modules/"; }' | xargs -I {} bash -c '{}'`
+- move collection xml files into collections dir
+- move metadata files into metadata dir

@@ -1,0 +1,108 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction to Trigonometric Functions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m49369/latest</md:content-url>
+  <md:content-id>m49369</md:content-id>
+  <md:title>Introduction to Trigonometric Functions</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2014/02/21 13:34:42 -0600</md:created>
+  <md:revised>2014/11/24 09:35:57 -0600</md:revised>
+  <md:actors>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    <md:person userid="cnxprecal">
+      <md:firstname>OpenStax College</md:firstname>
+      <md:surname>Precalculus</md:surname>
+      <md:fullname>OpenStax Precalculus</md:fullname>
+      <md:email>sanura@mac.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">cnxprecal OpenStaxCollege</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>adjacent side</md:keyword>
+    <md:keyword>angle</md:keyword>
+    <md:keyword>angular speed</md:keyword>
+    <md:keyword>arc length</md:keyword>
+    <md:keyword>area of a sector</md:keyword>
+    <md:keyword>cofunction identity</md:keyword>
+    <md:keyword>cosecant</md:keyword>
+    <md:keyword>cosine function</md:keyword>
+    <md:keyword>cotangent</md:keyword>
+    <md:keyword>coterminal angles</md:keyword>
+    <md:keyword>degree</md:keyword>
+    <md:keyword>hypotenuse</md:keyword>
+    <md:keyword>identities</md:keyword>
+    <md:keyword>initial side</md:keyword>
+    <md:keyword>linear speed</md:keyword>
+    <md:keyword>measure of an angle</md:keyword>
+    <md:keyword>negative angle</md:keyword>
+    <md:keyword>opposite side</md:keyword>
+    <md:keyword>period</md:keyword>
+    <md:keyword>positive angle</md:keyword>
+    <md:keyword>Pythagorean Identity</md:keyword>
+    <md:keyword>quadrantal angle</md:keyword>
+    <md:keyword>radian</md:keyword>
+    <md:keyword>radian measure</md:keyword>
+    <md:keyword>ray</md:keyword>
+    <md:keyword>reference angle</md:keyword>
+    <md:keyword>secant</md:keyword>
+    <md:keyword>sine function</md:keyword>
+    <md:keyword>standard position</md:keyword>
+    <md:keyword>tangent</md:keyword>
+    <md:keyword>terminal side</md:keyword>
+    <md:keyword>unit circle</md:keyword>
+    <md:keyword>vertex</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Mathematics and Statistics</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+    <?cnx.eoc class="key-equations" title="Key Equations"?>
+    <?cnx.eoc class="key-concepts" title="Key Concepts"?>
+    <?cnx.eoc class="review-exercises" title="Review Exercises"?>
+    <?cnx.eoc class="practice-test" title="Practice Test"?>  
+    <?cnx.answers class="try"?>
+    <?cnx.answers class="section-exercises"?>
+    
+    <figure id="Figure_05_00_001" class="splash unnumbered"><label/><media id="fs-id1165134043537" alt="Two boats at a dock during low tide.">
+        <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_00_001.jpg"/>
+      </media>
+      
+    <caption>The tide rises and falls at regular, predictable intervals. (credit: Andrea Schaffer, Flickr)</caption></figure><para id="fs-id1165134376081">Life is dense with phenomena that repeat in regular intervals. Each day, for example, the tides rise and fall in response to the gravitational pull of the moon. Similarly, the progression from day to night occurs as a result of Earth’s rotation, and the pattern of the seasons repeats in response to Earth’s revolution around the sun. Outside of nature, many stocks that mirror a company’s profits are influenced by changes in the economic business cycle.</para> 
+    <para id="fs-id1165135570435">
+      In mathematics, a function that repeats its values in regular intervals is known as a periodic function. The graphs of such functions show a general shape reflective of a pattern that keeps repeating. This means the graph of the function has the same output at exactly the same place in every cycle. And this translates to all the cycles of the function having exactly the same length. So, if we know all the details of one full cycle of a true periodic function, then we know the state of the function’s outputs at all times, future and past. In this chapter, we will investigate various examples of periodic functions.</para>
+    
+    
+  </content>
+  
+</document>

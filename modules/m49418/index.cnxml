@@ -1,0 +1,140 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction to Systems of Equations and Inequalities</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>https://legacy.cnx.org/content</md:repository>
+  <md:content-url>https://legacy.cnx.org/content/m49418/latest/</md:content-url>
+  <md:content-id>m49418</md:content-id>
+  <md:title>Introduction to Systems of Equations and Inequalities</md:title>
+  <md:version>1.13</md:version>
+  <md:created>2014/02/21 10:33:07 -0600</md:created>
+  <md:revised>2020/08/21 19:06:27.391 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="cnxcollalg">
+      <md:firstname>OpenStax</md:firstname>
+      <md:surname>College Algebra</md:surname>
+      <md:fullname>OpenStax College Algebra</md:fullname>
+      <md:email>saf3@rice.edu</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:person>
+    <md:person userid="cnxcat">
+      <md:firstname>OpenStax</md:firstname>
+      <md:surname>CAT</md:surname>
+      <md:fullname>OpenStax Algebra and Trigonometry</md:fullname>
+      <md:email>alinams@rice.edu</md:email>
+    </md:person>
+    <md:person userid="cnxprecal">
+      <md:firstname>OpenStax College</md:firstname>
+      <md:surname>Precalculus</md:surname>
+      <md:fullname>OpenStax Precalculus</md:fullname>
+      <md:email>sanura@mac.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">cnxcollalg OpenStaxCollege cnxcat cnxprecal</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>augmented matrix</md:keyword>
+    <md:keyword>break-even point</md:keyword>
+    <md:keyword>coefficient matrix</md:keyword>
+    <md:keyword>column</md:keyword>
+    <md:keyword>consistent system</md:keyword>
+    <md:keyword>cost function</md:keyword>
+    <md:keyword>Cramer</md:keyword>
+    <md:keyword>Cramer’s rule</md:keyword>
+    <md:keyword>decomposition</md:keyword>
+    <md:keyword>dependent system</md:keyword>
+    <md:keyword>determinant</md:keyword>
+    <md:keyword>elimination</md:keyword>
+    <md:keyword>entry</md:keyword>
+    <md:keyword>feasible region</md:keyword>
+    <md:keyword>Gauss</md:keyword>
+    <md:keyword>Gaussian elimination</md:keyword>
+    <md:keyword>Heaviside method</md:keyword>
+    <md:keyword>identity matrix</md:keyword>
+    <md:keyword>inconsistent system</md:keyword>
+    <md:keyword>independent system</md:keyword>
+    <md:keyword>invertible matrix</md:keyword>
+    <md:keyword>main diagonal</md:keyword>
+    <md:keyword>matrices</md:keyword>
+    <md:keyword>matrix</md:keyword>
+    <md:keyword>matrix multiplication</md:keyword>
+    <md:keyword>matrix operations</md:keyword>
+    <md:keyword>multiplicative inverse of a matrix</md:keyword>
+    <md:keyword>nonlinear inequality</md:keyword>
+    <md:keyword>ordered triple</md:keyword>
+    <md:keyword>partial fraction decomposition</md:keyword>
+    <md:keyword>partial fractions</md:keyword>
+    <md:keyword>product of two matrices</md:keyword>
+    <md:keyword>profit function</md:keyword>
+    <md:keyword>revenue function</md:keyword>
+    <md:keyword>row</md:keyword>
+    <md:keyword>row operations</md:keyword>
+    <md:keyword>row-echelon form</md:keyword>
+    <md:keyword>row-equivalent</md:keyword>
+    <md:keyword>scalar multiple</md:keyword>
+    <md:keyword>scalar multiplication</md:keyword>
+    <md:keyword>solution</md:keyword>
+    <md:keyword>solution set</md:keyword>
+    <md:keyword>square matrix</md:keyword>
+    <md:keyword>substitution method</md:keyword>
+    <md:keyword>system of dependent equations</md:keyword>
+    <md:keyword>system of linear equations</md:keyword>
+    <md:keyword>system of nonlinear equations</md:keyword>
+    <md:keyword>system of nonlinear inequalities</md:keyword>
+    <md:keyword>system of three equations in three variables</md:keyword>
+    <md:keyword>systems of linear equations in three variables</md:keyword>
+    <md:keyword>systems of three equations</md:keyword>
+    <md:keyword>upper triangular form</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Mathematics and Statistics</md:subject>
+    <md:subject>Mathematics and Statistics</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="key-equations" title="Key Equations"?>
+<?cnx.eoc class="key-concepts" title="Key Concepts"?>
+<?cnx.eoc class="review-exercises" title="Review Exercises"?>
+<?cnx.eoc class="practice-test" title="Practice Test"?>
+<?cnx.answers class="try"?>
+<?cnx.answers class="section-exercises"?>
+
+<figure id="Figure_09_00_001" class="splash unnumbered"><label/><media id="fs-id1165134248824" alt="">
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_00_001.jpg"/>
+</media>
+<caption>Enigma machines like this one, once owned by Italian dictator Benito Mussolini, were used by government and military officials for enciphering and deciphering top-secret communications during World War II. (credit: Dave Addey, Flickr)</caption></figure><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165133091456">At the start of the Second World War, British military and intelligence officers recognized that defeating Nazi Germany would require the Allies to know what the enemy was planning. This task was complicated by the fact that the German military transmitted all of its communications through a presumably uncrackable code created by a machine called Enigma. The Germans had been encoding their messages with this machine since the early 1930s. Not long after the war started, the British recruited a team of brilliant codebreakers to crack the Enigma code. The codebreakers used what they knew about the Enigma machine to build a mechanical computer that could crack the code. The Germans were so confident that the code could not be cracked, that they felt comfortable transmitting all manner of battlefield intelligence encoded with the machine. But the Allies had cracked it. And that knowledge of what the Germans were planning proved to be a key part of the ultimate Allied victory of Nazi Germany in 1945.</para><para id="fs-id1165134041946">The Enigma is perhaps the most famous cryptographic device ever known. It stands as an example of the pivotal role cryptography has played in society. Now, technology has moved cryptanalysis to the digital world.</para>
+
+<para id="fs-id1165137427219">Many ciphers are designed using invertible matrices as the method of message transference, as finding the inverse of a matrix is generally part of the process of decoding. In addition to knowing the matrix and its inverse, the receiver must also know the key that, when used with the matrix inverse, will allow the message to be read.</para>
+
+<para id="fs-id1165135449595">In this chapter, we will investigate matrices and their inverses, and various ways to use matrices to solve systems of equations. First, however, we will study systems of equations on their own: linear and nonlinear, and then partial fractions. We will not be breaking any secret codes here, but we will lay the foundation for future courses.</para>
+
+</content>
+
+</document>

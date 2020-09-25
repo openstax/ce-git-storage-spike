@@ -1,0 +1,94 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction to Equations and Inequalities</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>https://legacy.cnx.org/content</md:repository>
+  <md:content-url>https://legacy.cnx.org/content/m51251/latest/</md:content-url>
+  <md:content-id>m51251</md:content-id>
+  <md:title>Introduction to Equations and Inequalities</md:title>
+  <md:version>1.13</md:version>
+  <md:created>2014/10/02 11:51:55 -0500</md:created>
+  <md:revised>2020/08/21 15:42:55.884 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="cnxcollalg">
+      <md:firstname>OpenStax</md:firstname>
+      <md:surname>College Algebra</md:surname>
+      <md:fullname>OpenStax College Algebra</md:fullname>
+      <md:email>saf3@rice.edu</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">cnxcollalg OpenStaxCollege</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+  <?cnx.eoc class="key-equations" title="Key Equations"?>
+  <?cnx.eoc class="key-concepts" title="Key Concepts"?>
+  <?cnx.eoc class="review-exercises" title="Review Exercises"?>
+  <?cnx.eoc class="practice-test" title="Practice Test"?>
+<?cnx.answers class="try"?>
+<?cnx.answers class="section-exercises"?>
+
+<figure id="Figure_02_00_001" class="splash unnumbered"><label/><media id="fs-id2426443" alt="A large orange circle with an arrow printed on it facing to the right atop a rectangular base, known as chains in football, is shown prominently in the foreground.  In the background there is a game of football ongoing with fans in their seats.">
+<image mime-type="image/jpg" src="CNX_CAT_Figure_02_00_001.jpg"/>
+</media>
+</figure><para id="fs-id1419117">For most people, the term territorial possession indicates restrictions, usually dealing with trespassing or rite of passage and takes place in some foreign location. What most Americans do not realize is that from September through December, territorial possession dominates our lifestyles while watching the NFL. In this area, territorial possession is governed by the referees who make their decisions based on what the chains reveal. If the ball is at point <emphasis effect="italics">A</emphasis> <m:math>
+ <m:mrow><m:mrow><m:mo>(</m:mo>
+   <m:mrow>
+    <m:msub>
+     <m:mi>x</m:mi>
+     <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>,</m:mo><m:msub>
+     <m:mi>y</m:mi>
+     <m:mn>1</m:mn>
+    </m:msub>
+
+   </m:mrow>
+  <m:mo>)</m:mo></m:mrow><m:mo>,</m:mo>
+ </m:mrow>
+</m:math> then it is up to the quarterback to decide which route to point <emphasis effect="italics">B</emphasis> <m:math>
+ <m:mrow><m:mrow><m:mo>(</m:mo>
+   <m:mrow>
+    <m:msub>
+     <m:mi>x</m:mi>
+     <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>,</m:mo><m:msub>
+     <m:mi>y</m:mi>
+     <m:mn>2</m:mn>
+    </m:msub>
+
+   </m:mrow>
+  <m:mo>)</m:mo></m:mrow><m:mo>,</m:mo>
+ </m:mrow>
+</m:math> the end zone, is most feasible.</para></content>
+
+</document>

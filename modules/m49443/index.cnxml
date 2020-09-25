@@ -1,0 +1,132 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction to Sequences, Probability and Counting Theory</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>https://legacy.cnx.org/content</md:repository>
+  <md:content-url>https://legacy.cnx.org/content/m49443/latest/</md:content-url>
+  <md:content-id>m49443</md:content-id>
+  <md:title>Introduction to Sequences, Probability and Counting Theory</md:title>
+  <md:version>1.11</md:version>
+  <md:created>2014/02/23 22:57:10 -0600</md:created>
+  <md:revised>2020/08/22 02:06:59.931 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="cnxcollalg">
+      <md:firstname>OpenStax</md:firstname>
+      <md:surname>College Algebra</md:surname>
+      <md:fullname>OpenStax College Algebra</md:fullname>
+      <md:email>saf3@rice.edu</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:person>
+    <md:person userid="cnxcat">
+      <md:firstname>OpenStax</md:firstname>
+      <md:surname>CAT</md:surname>
+      <md:fullname>OpenStax Algebra and Trigonometry</md:fullname>
+      <md:email>alinams@rice.edu</md:email>
+    </md:person>
+    <md:person userid="cnxprecal">
+      <md:firstname>OpenStax College</md:firstname>
+      <md:surname>Precalculus</md:surname>
+      <md:fullname>OpenStax Precalculus</md:fullname>
+      <md:email>sanura@mac.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">cnxcollalg OpenStaxCollege cnxcat cnxprecal</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>Addition Principle</md:keyword>
+    <md:keyword>annuity</md:keyword>
+    <md:keyword>arithmetic sequence</md:keyword>
+    <md:keyword>arithmetic series</md:keyword>
+    <md:keyword>binomial coefficient</md:keyword>
+    <md:keyword>binomial expansion</md:keyword>
+    <md:keyword>Binomial Theorem</md:keyword>
+    <md:keyword>combination</md:keyword>
+    <md:keyword>common difference</md:keyword>
+    <md:keyword>common ratio</md:keyword>
+    <md:keyword>complement</md:keyword>
+    <md:keyword>event</md:keyword>
+    <md:keyword>events</md:keyword>
+    <md:keyword>experiment</md:keyword>
+    <md:keyword>explicit formula</md:keyword>
+    <md:keyword>finite sequence</md:keyword>
+    <md:keyword>Fundamental Counting</md:keyword>
+    <md:keyword>geometric sequence</md:keyword>
+    <md:keyword>geometric series</md:keyword>
+    <md:keyword>index of summation</md:keyword>
+    <md:keyword>infinite sequence</md:keyword>
+    <md:keyword>infinite series</md:keyword>
+    <md:keyword>lower limit of</md:keyword>
+    <md:keyword>Multiplication</md:keyword>
+    <md:keyword>mutually exclusive</md:keyword>
+    <md:keyword>n factorial</md:keyword>
+    <md:keyword>nth partial sum</md:keyword>
+    <md:keyword>nth term of a sequence</md:keyword>
+    <md:keyword>outcome</md:keyword>
+    <md:keyword>permutation</md:keyword>
+    <md:keyword>Principle</md:keyword>
+    <md:keyword>probability</md:keyword>
+    <md:keyword>probability model</md:keyword>
+    <md:keyword>recursive formula</md:keyword>
+    <md:keyword>sample space</md:keyword>
+    <md:keyword>sequence</md:keyword>
+    <md:keyword>series</md:keyword>
+    <md:keyword>summation</md:keyword>
+    <md:keyword>summation notation</md:keyword>
+    <md:keyword>terms</md:keyword>
+    <md:keyword>union of two events</md:keyword>
+    <md:keyword>upper limit of</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Mathematics and Statistics</md:subject>
+    <md:subject>Mathematics and Statistics</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="key-equations" title="Key Equations"?>
+<?cnx.eoc class="key-concepts" title="Key Concepts"?>
+<?cnx.eoc class="review-exercises" title="Review Exercises"?>
+<?cnx.eoc class="practice-test" title="Practice Test"?>
+<?cnx.answers class="try"?>
+<?cnx.answers class="section-exercises"?>
+
+<figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="CNX_Precalc_Figure_11_00_001" class="splash unnumbered"><label/><media id="fs-id1126772" alt="A mega-millions lottery ticket.">
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_00_001F.jpg"/>
+</media>
+
+<caption>(credit: Robert Couse-Baker, Flickr.)</caption></figure><para id="fs-id1268082">A lottery winner has some big decisions to make regarding what to do with the winnings. Buy a villa in Saint Barthélemy? A luxury convertible? A cruise around the world?</para>
+
+<para id="fs-id1291728">The likelihood of winning the lottery is slim, but we all love to fantasize about what we could buy with the winnings. One of the first things a lottery winner has to decide is whether to take the winnings in the form of a lump sum or as a series of regular payments, called an annuity, over the next 30 years or so.</para> 
+
+<para id="fs-id1639385">This decision is often based on many factors, such as tax implications, interest rates, and investment strategies. There are also personal reasons to consider when making the choice, and one can make many arguments for either decision. However, most lottery winners opt for the lump sum.</para>
+
+<para id="fs-id1637799">In this chapter, we will explore the mathematics behind situations such as these. We will take an in-depth look at annuities. We will also look at the branch of mathematics that would allow us to calculate the number of ways to choose lottery numbers and the probability of winning.</para>
+
+</content>
+</document>
