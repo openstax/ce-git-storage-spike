@@ -5,4 +5,4 @@
 - create find-module-canonical.py and run on created list - dump this output in `canonical-modules`
 - move modules into modules directory from their canonical copy e.g. `cat canonical-modules | awk '{ print "cp -r "$1"/"$2" modules/"; }' | xargs -I {} bash -c '{}'`
 - move collection xml files into collections dir
-- move metadata files into metadata dir
+- move collection metadata files into metadata dir
