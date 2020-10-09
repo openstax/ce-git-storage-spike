@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://cnx.rice.edu/mdml" xmlns:s="http://cnx.rice.edu/system-info" xmlns:cnxml="http://cnx.rice.edu/cnxml" xmlns:mathml="http://www.w3.org/1998/Math/MathML" xmlns:qml="http://cnx.rice.edu/qml/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mdml="http://cnx.rice.edu/mdml">
+  <xs:import namespace="http://cnx.rice.edu/cnxml" schemaLocation="cnxml.xsd"/>
+  <xs:import namespace="http://cnx.rice.edu/qml/1.0" schemaLocation="qml-defs.xsd"/>
+  <xs:import namespace="http://cnx.rice.edu/system-info" schemaLocation="s.xsd"/>
+  <xs:import namespace="http://www.w3.org/1998/Math/MathML" schemaLocation="mathml2.xsd"/>
+  <xs:import namespace="http://www.w3.org/1999/xlink" schemaLocation="xlink.xsd"/>
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
+  <xs:group name="mdml-metadata-content">
+    <xs:sequence>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="mdml:content-id"/>
+        <xs:element ref="mdml:repository"/>
+        <xs:element ref="mdml:content-url"/>
+        <xs:element ref="mdml:title"/>
+        <xs:element ref="mdml:short-title"/>
+        <xs:element ref="mdml:subtitle"/>
+        <xs:element ref="mdml:version"/>
+        <xs:element ref="mdml:created"/>
+        <xs:element ref="mdml:revised"/>
+        <xs:element ref="mdml:actors"/>
+        <xs:element ref="mdml:roles"/>
+        <xs:element ref="mdml:license"/>
+        <xs:element ref="mdml:extended-attribution"/>
+        <xs:element ref="mdml:derived-from"/>
+        <xs:element ref="mdml:keywordlist"/>
+        <xs:element ref="mdml:subjectlist"/>
+        <xs:element ref="mdml:education-levellist"/>
+        <xs:element ref="mdml:abstract"/>
+        <xs:element ref="mdml:language"/>
+        <xs:element ref="mdml:objectives"/>
+        <xs:element ref="mdml:homepage"/>
+        <xs:element ref="mdml:institution"/>
+        <xs:element ref="mdml:course-code"/>
+        <xs:element ref="mdml:instructor"/>
+      </xs:choice>
+    </xs:sequence>
+  </xs:group>
+  <xs:attributeGroup name="mdml-mdml-version-attribute">
+    <xs:attribute name="mdml-version" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="0.5"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:element name="content-id">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:NMTOKEN">
+          <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="repository">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="content-url">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="title">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="version">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="short-title">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="subtitle">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="created">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="revised">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="homepage">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="actors">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element ref="mdml:person"/>
+        <xs:element ref="mdml:organization"/>
+      </xs:choice>
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="person">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="mdml:honorific"/>
+        <xs:element ref="mdml:firstname"/>
+        <xs:element ref="mdml:othername"/>
+        <xs:element ref="mdml:surname"/>
+        <xs:element ref="mdml:lineage"/>
+        <xs:element ref="mdml:fullname"/>
+        <xs:element ref="mdml:email"/>
+        <xs:element ref="mdml:homepage"/>
+      </xs:choice>
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+      <xs:attribute name="userid"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="organization">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="mdml:fullname"/>
+        <xs:element ref="mdml:shortname"/>
+        <xs:element ref="mdml:email"/>
+        <xs:element ref="mdml:homepage"/>
+      </xs:choice>
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+      <xs:attribute name="userid"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="mdml-userid-attribute">
+    <xs:attribute name="userid" use="required"/>
+  </xs:attributeGroup>
+  <xs:element name="shortname">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="roles">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="mdml:role"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="role">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+      <xs:attribute name="type" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="honorific">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="firstname">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="othername">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="surname">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="lineage">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="fullname">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="email">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="license">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+      <xs:attributeGroup ref="mdml:mdml-url"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="extended-attribution">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:mdml-extended-attribution-content">
+          <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="keywordlist">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="mdml:keyword"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="keyword">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="subjectlist">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="mdml:subject"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="subject">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+      <xs:attributeGroup ref="mdml:mdml-source-attribute"/>
+      <xs:attributeGroup ref="mdml:mdml-key-attribute"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="education-levellist">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="mdml:education-level"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="education-level">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+      <xs:attributeGroup ref="mdml:mdml-source-attribute"/>
+      <xs:attributeGroup ref="mdml:mdml-key-attribute"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="mdml-source-attribute">
+    <xs:attribute name="source"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="mdml-key-attribute">
+    <xs:attribute name="key"/>
+  </xs:attributeGroup>
+  <xs:element name="institution">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="course-code">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="instructor">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="derived-from">
+    <xs:complexType>
+      <xs:group minOccurs="0" maxOccurs="unbounded" ref="mdml:mdml-metadata-content"/>
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+      <xs:attribute ref="s:implementation"/>
+      <xs:attributeGroup ref="cnxml:mdml-derived-from-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="repository-attribute">
+    <xs:attribute name="repository" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="mdml-url">
+    <xs:attribute name="url" use="required"/>
+  </xs:attributeGroup>
+  <xs:element name="version-history">
+    <xs:complexType>
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+      <xs:attributeGroup ref="mdml:mdml-url"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ancillary">
+    <xs:complexType>
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+      <xs:attributeGroup ref="mdml:mdml-url"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="abstract">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:mdml-abstract-content">
+          <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="language">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="objectives">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="cnxml:mdml-common-attributes"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

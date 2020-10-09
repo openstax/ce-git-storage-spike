@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cnxml": "xml"
+    },
+    "xml.catalogs": [
+        "/workspace/ce-git-storage-spike/xsd_INVALID_/catalog.xml"
+    ]
+}

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://cnx.rice.edu/cnxml" xmlns:s="http://cnx.rice.edu/system-info" xmlns:cnxml="http://cnx.rice.edu/cnxml" xmlns:mathml="http://www.w3.org/1998/Math/MathML" xmlns:qml="http://cnx.rice.edu/qml/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mdml="http://cnx.rice.edu/mdml">
+  <xs:import namespace="http://cnx.rice.edu/mdml" schemaLocation="mdml-defs.xsd"/>
+  <xs:import namespace="http://cnx.rice.edu/qml/1.0" schemaLocation="qml-defs.xsd"/>
+  <xs:import namespace="http://cnx.rice.edu/system-info" schemaLocation="s.xsd"/>
+  <xs:import namespace="http://www.w3.org/1998/Math/MathML" schemaLocation="mathml2.xsd"/>
+  <xs:import namespace="http://www.w3.org/1999/xlink" schemaLocation="xlink.xsd"/>
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
+  <xs:complexType name="cnxml-abstract-content" mixed="true">
+    <xs:choice maxOccurs="unbounded">
+      <xs:group ref="cnxml:cnxml-abstract-para"/>
+      <xs:group ref="cnxml:cnxml-abstract-para-content"/>
+    </xs:choice>
+  </xs:complexType>
+  <xs:group name="cnxml-abstract-para">
+    <xs:sequence>
+      <xs:element name="para">
+        <xs:complexType mixed="true">
+          <xs:group ref="cnxml:cnxml-abstract-para-content"/>
+          <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-para-content">
+    <xs:sequence>
+      <xs:choice maxOccurs="unbounded">
+        <xs:group ref="cnxml:cnxml-abstract-inline-class"/>
+        <xs:group ref="cnxml:cnxml-abstract-block-class"/>
+      </xs:choice>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-block-class">
+    <xs:choice>
+      <xs:group ref="cnxml:cnxml-abstract-quote"/>
+      <xs:group ref="cnxml:cnxml-abstract-preformat"/>
+      <xs:group ref="cnxml:cnxml-abstract-list"/>
+    </xs:choice>
+  </xs:group>
+  <xs:group name="cnxml-abstract-text-extras">
+    <xs:sequence>
+      <xs:element ref="mathml:math"/>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-inline-class">
+    <xs:sequence>
+      <xs:choice minOccurs="0">
+        <xs:group ref="cnxml:cnxml-abstract-emphasis"/>
+        <xs:group ref="cnxml:cnxml-abstract-term"/>
+        <xs:group ref="cnxml:cnxml-abstract-foreign"/>
+        <xs:group ref="cnxml:cnxml-abstract-cite"/>
+        <xs:group ref="cnxml:cnxml-abstract-span"/>
+        <xs:group ref="cnxml:cnxml-abstract-sup"/>
+        <xs:group ref="cnxml:cnxml-abstract-sub"/>
+        <xs:group ref="cnxml:cnxml-abstract-code"/>
+        <xs:group ref="cnxml:cnxml-abstract-text-extras"/>
+      </xs:choice>
+    </xs:sequence>
+  </xs:group>
+  <xs:complexType name="cnxml-abstract-inline-content" mixed="true">
+    <xs:group maxOccurs="unbounded" ref="cnxml:cnxml-abstract-inline-class"/>
+  </xs:complexType>
+  <xs:group name="cnxml-abstract-emphasis">
+    <xs:sequence>
+      <xs:element name="emphasis">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-inline-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-term">
+    <xs:sequence>
+      <xs:element name="term">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-inline-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-foreign">
+    <xs:sequence>
+      <xs:element name="foreign">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-inline-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-cite">
+    <xs:sequence>
+      <xs:element name="cite">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-inline-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-span">
+    <xs:sequence>
+      <xs:element name="span">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-inline-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-sup">
+    <xs:sequence>
+      <xs:element name="sup">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-inline-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-sub">
+    <xs:sequence>
+      <xs:element name="sub">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-inline-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-code">
+    <xs:sequence>
+      <xs:element name="code">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-inline-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-display-attribute"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-quote">
+    <xs:sequence>
+      <xs:element name="quote">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-display-attribute"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-preformat">
+    <xs:sequence>
+      <xs:element name="preformat">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-display-attribute"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-list">
+    <xs:sequence>
+      <xs:element name="list">
+        <xs:complexType>
+          <xs:group maxOccurs="unbounded" ref="cnxml:cnxml-abstract-item"/>
+          <xs:attributeGroup ref="cnxml:cnxml-abstract-list-type-attribute"/>
+          <xs:attributeGroup ref="cnxml:cnxml-abstract-display-attribute"/>
+          <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-item">
+    <xs:sequence>
+      <xs:element name="item">
+        <xs:complexType mixed="true">
+          <xs:group ref="cnxml:cnxml-abstract-para-content"/>
+          <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+</xs:schema>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://cnx.rice.edu/qml/1.0" xmlns:s="http://cnx.rice.edu/system-info" xmlns:cnxml="http://cnx.rice.edu/cnxml" xmlns:mathml="http://www.w3.org/1998/Math/MathML" xmlns:qml="http://cnx.rice.edu/qml/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mdml="http://cnx.rice.edu/mdml">
+  <xs:import namespace="http://cnx.rice.edu/cnxml" schemaLocation="cnxml.xsd"/>
+  <xs:import namespace="http://cnx.rice.edu/mdml" schemaLocation="mdml-defs.xsd"/>
+  <xs:import namespace="http://cnx.rice.edu/system-info" schemaLocation="s.xsd"/>
+  <xs:import namespace="http://www.w3.org/1998/Math/MathML" schemaLocation="mathml2.xsd"/>
+  <xs:import namespace="http://www.w3.org/1999/xlink" schemaLocation="xlink.xsd"/>
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
+  <xs:attributeGroup name="qml-id-attribute">
+    <xs:attribute name="id" use="required" type="xs:ID"/>
+  </xs:attributeGroup>
+  <xs:element name="problemset">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="qml:item"/>
+      </xs:sequence>
+      <xs:attribute name="id" type="xs:ID"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="item" substitutionGroup="cnxml:exercise-content-extras"/>
+  <xs:element name="question" type="cnxml:qml-text"/>
+  <xs:element name="resource">
+    <xs:complexType>
+      <xs:attribute name="uri" use="required"/>
+      <xs:attribute name="id" type="xs:ID"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="answer">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="qml:response"/>
+        <xs:sequence minOccurs="0">
+          <xs:element ref="qml:feedback"/>
+          <xs:element minOccurs="0" ref="qml:feedback"/>
+        </xs:sequence>
+      </xs:sequence>
+      <xs:attribute name="id" type="xs:ID"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="response" type="cnxml:qml-text"/>
+  <xs:element name="feedback">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:qml-text">
+          <xs:attribute name="correct">
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="yes"/>
+                <xs:enumeration value="no"/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="hint" type="cnxml:qml-text"/>
+  <xs:element name="key">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:qml-text">
+          <xs:attribute name="answer"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

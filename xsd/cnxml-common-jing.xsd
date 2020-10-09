@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Same as cnxml-common.rng except for the @hrefs -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://cnx.rice.edu/cnxml" xmlns:s="http://cnx.rice.edu/system-info" xmlns:cnxml="http://cnx.rice.edu/cnxml" xmlns:mathml="http://www.w3.org/1998/Math/MathML" xmlns:qml="http://cnx.rice.edu/qml/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mdml="http://cnx.rice.edu/mdml">
+  <xs:include schemaLocation="cnxml-abstract-defs.xsd"/>
+  <xs:include schemaLocation="cnxml-defs.xsd"/>
+  <xs:import namespace="http://cnx.rice.edu/mdml" schemaLocation="mdml-defs.xsd"/>
+  <xs:import namespace="http://cnx.rice.edu/qml/1.0" schemaLocation="qml-defs.xsd"/>
+  <xs:import namespace="http://cnx.rice.edu/system-info" schemaLocation="s.xsd"/>
+  <xs:import namespace="http://www.w3.org/1998/Math/MathML" schemaLocation="mathml2.xsd"/>
+  <xs:import namespace="http://www.w3.org/1999/xlink" schemaLocation="xlink.xsd"/>
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
+  <xs:attributeGroup name="cnxml-abstract-common-attributes">
+    <xs:attributeGroup ref="cnxml:common-attributes-noclass"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="cnxml-abstract-list-type-attribute">
+    <xs:attribute name="list-type">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="bulleted"/>
+          <xs:enumeration value="enumerated"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="cnxml-abstract-display-attribute">
+    <xs:attributeGroup ref="cnxml:display-attribute"/>
+  </xs:attributeGroup>
+  <!-- Make these relative -->
+  <xs:complexType name="mdml-abstract-content">
+    <xs:complexContent>
+      <xs:extension base="cnxml:cnxml-abstract-content"/>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:attributeGroup name="mdml-common-attributes">
+    <xs:attributeGroup ref="cnxml:common-attributes"/>
+  </xs:attributeGroup>
+  <xs:complexType name="mdml-extended-attribution-content">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" ref="cnxml:link-group"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:attributeGroup name="mdml-derived-from-attributes">
+    <xs:attribute name="url"/>
+    <xs:attribute name="document"/>
+    <xs:attribute name="version"/>
+    <xs:attribute name="repository"/>
+  </xs:attributeGroup>
+  <!--
+    <define name="PHIL_MML.math">
+      <externalRef href="../../../../mathml/schema/rng/2.0/mathml2.rng"/>
+      <include href="../../../../mathml/schema/rng/2.0/mathml2.rng"/>
+      <element name="mathml_goes_here">
+        <attribute name="aksdjalskdja"/>
+      </element>
+    </define>
+  -->
+  <xs:complexType name="qml-text" mixed="true">
+    <xs:choice minOccurs="0" maxOccurs="unbounded">
+      <xs:element ref="cnxml:section"/>
+      <xs:group ref="cnxml:media"/>
+    </xs:choice>
+  </xs:complexType>
+  <xs:complexType name="metadata-content">
+    <xs:group ref="mdml:mdml-metadata-content"/>
+  </xs:complexType>
+  <xs:complexType name="content-content">
+    <xs:choice>
+      <xs:group maxOccurs="unbounded" ref="cnxml:section-content-class"/>
+      <xs:element ref="qml:problemset"/>
+    </xs:choice>
+  </xs:complexType>
+  <xs:element name="exercise-content-extras" abstract="true">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="qml:question"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="qml:resource"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="qml:answer"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="qml:hint"/>
+        <xs:element minOccurs="0" ref="qml:feedback"/>
+        <xs:element minOccurs="0" ref="qml:key"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="qml:qml-id-attribute"/>
+      <xs:attribute name="type" use="required">
+        <xs:simpleType>
+          <xs:restriction base="xs:token">
+            <xs:enumeration value="single-response"/>
+            <xs:enumeration value="multiple-response"/>
+            <xs:enumeration value="text-response"/>
+            <xs:enumeration value="ordered-response"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:group name="equation-content-extras">
+    <xs:sequence>
+      <xs:element ref="mathml:math"/>
+    </xs:sequence>
+  </xs:group>
+  <xs:element name="bibtexml_goes_here">
+    <xs:complexType>
+      <xs:attribute name="woieurwoeur" use="required"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
