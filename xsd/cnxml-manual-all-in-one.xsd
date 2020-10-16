@@ -1,0 +1,2412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://cnx.rice.edu/cnxml" xmlns:s="http://cnx.rice.edu/system-info" xmlns:cnxml="http://cnx.rice.edu/cnxml" xmlns:mathml="http://www.w3.org/1998/Math/MathML" xmlns:qml="http://cnx.rice.edu/qml/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mdml="http://cnx.rice.edu/mdml">
+  <xs:import namespace="http://cnx.rice.edu/mdml" schemaLocation="mdml-defs.xsd"/>
+  <xs:import namespace="http://cnx.rice.edu/qml/1.0" schemaLocation="qml-defs.xsd"/>
+  <xs:import namespace="http://cnx.rice.edu/system-info" schemaLocation="s.xsd"/>
+  <xs:import namespace="http://www.w3.org/1998/Math/MathML" schemaLocation="mathml2.xsd"/>
+  <xs:import namespace="http://www.w3.org/1999/xlink" schemaLocation="xlink.xsd"/>
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
+  <xs:attributeGroup name="cnxml-abstract-common-attributes">
+    <xs:attributeGroup ref="cnxml:common-attributes-noclass"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="cnxml-abstract-list-type-attribute">
+    <xs:attribute name="list-type">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="bulleted"/>
+          <xs:enumeration value="enumerated"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="cnxml-abstract-display-attribute">
+    <xs:attributeGroup ref="cnxml:display-attribute"/>
+  </xs:attributeGroup>
+  <!-- Make these relative -->
+  <xs:complexType name="mdml-abstract-content">
+    <xs:complexContent>
+      <xs:extension base="cnxml:cnxml-abstract-content"/>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:attributeGroup name="mdml-common-attributes">
+    <xs:attributeGroup ref="cnxml:common-attributes"/>
+  </xs:attributeGroup>
+  <xs:complexType name="mdml-extended-attribution-content">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" ref="cnxml:link-group"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:attributeGroup name="mdml-derived-from-attributes">
+    <xs:attribute name="url"/>
+    <xs:attribute name="document"/>
+    <xs:attribute name="version"/>
+    <xs:attribute name="repository"/>
+  </xs:attributeGroup>
+  <!--
+    <define name="PHIL_MML.math">
+      <externalRef href="../../../../mathml/schema/rng/2.0/mathml2.rng"/>
+      <include href="../../../../mathml/schema/rng/2.0/mathml2.rng"/>
+      <element name="mathml_goes_here">
+        <attribute name="aksdjalskdja"/>
+      </element>
+    </define>
+  -->
+  <xs:complexType name="qml-text" mixed="true">
+    <xs:choice minOccurs="0" maxOccurs="unbounded">
+      <xs:element ref="cnxml:section"/>
+      <xs:group ref="cnxml:media"/>
+    </xs:choice>
+  </xs:complexType>
+  <xs:complexType name="metadata-content">
+    <xs:group ref="mdml:mdml-metadata-content"/>
+  </xs:complexType>
+  <xs:complexType name="content-content">
+    <xs:choice>
+      <xs:group maxOccurs="unbounded" ref="cnxml:section-content-class"/>
+      <xs:element ref="qml:problemset"/>
+    </xs:choice>
+  </xs:complexType>
+  <xs:element name="exercise-content-extras" abstract="true">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="qml:question"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="qml:resource"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="qml:answer"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="qml:hint"/>
+        <xs:element minOccurs="0" ref="qml:feedback"/>
+        <xs:element minOccurs="0" ref="qml:key"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="qml:qml-id-attribute"/>
+      <xs:attribute name="type" use="required">
+        <xs:simpleType>
+          <xs:restriction base="xs:token">
+            <xs:enumeration value="single-response"/>
+            <xs:enumeration value="multiple-response"/>
+            <xs:enumeration value="text-response"/>
+            <xs:enumeration value="ordered-response"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:group name="equation-content-extras">
+    <xs:sequence>
+      <xs:element ref="mathml:math"/>
+    </xs:sequence>
+  </xs:group>
+  <xs:element name="bibtexml_goes_here">
+    <xs:complexType>
+      <xs:attribute name="woieurwoeur" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="cnxml-abstract-content" mixed="true">
+    <xs:choice maxOccurs="unbounded">
+      <xs:group ref="cnxml:cnxml-abstract-para"/>
+      <xs:group ref="cnxml:cnxml-abstract-para-content"/>
+    </xs:choice>
+  </xs:complexType>
+  <xs:group name="cnxml-abstract-para">
+    <xs:sequence>
+      <xs:element name="para">
+        <xs:complexType mixed="true">
+          <xs:group ref="cnxml:cnxml-abstract-para-content"/>
+          <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-para-content">
+    <xs:sequence>
+      <xs:choice maxOccurs="unbounded">
+        <xs:group ref="cnxml:cnxml-abstract-inline-class"/>
+        <xs:group ref="cnxml:cnxml-abstract-block-class"/>
+      </xs:choice>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-block-class">
+    <xs:choice>
+      <xs:group ref="cnxml:cnxml-abstract-quote"/>
+      <xs:group ref="cnxml:cnxml-abstract-preformat"/>
+      <xs:group ref="cnxml:cnxml-abstract-list"/>
+    </xs:choice>
+  </xs:group>
+  <xs:group name="cnxml-abstract-text-extras">
+    <xs:sequence>
+      <xs:element ref="mathml:math"/>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-inline-class">
+    <xs:sequence>
+      <xs:choice minOccurs="0">
+        <xs:group ref="cnxml:cnxml-abstract-emphasis"/>
+        <xs:group ref="cnxml:cnxml-abstract-term"/>
+        <xs:group ref="cnxml:cnxml-abstract-foreign"/>
+        <xs:group ref="cnxml:cnxml-abstract-cite"/>
+        <xs:group ref="cnxml:cnxml-abstract-span"/>
+        <xs:group ref="cnxml:cnxml-abstract-sup"/>
+        <xs:group ref="cnxml:cnxml-abstract-sub"/>
+        <xs:group ref="cnxml:cnxml-abstract-code"/>
+        <xs:group ref="cnxml:cnxml-abstract-text-extras"/>
+      </xs:choice>
+    </xs:sequence>
+  </xs:group>
+  <xs:complexType name="cnxml-abstract-inline-content" mixed="true">
+    <xs:group maxOccurs="unbounded" ref="cnxml:cnxml-abstract-inline-class"/>
+  </xs:complexType>
+  <xs:group name="cnxml-abstract-emphasis">
+    <xs:sequence>
+      <xs:element name="emphasis">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-inline-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-term">
+    <xs:sequence>
+      <xs:element name="term">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-inline-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-foreign">
+    <xs:sequence>
+      <xs:element name="foreign">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-inline-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-cite">
+    <xs:sequence>
+      <xs:element name="cite">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-inline-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-span">
+    <xs:sequence>
+      <xs:element name="span">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-inline-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-sup">
+    <xs:sequence>
+      <xs:element name="sup">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-inline-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-sub">
+    <xs:sequence>
+      <xs:element name="sub">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-inline-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-code">
+    <xs:sequence>
+      <xs:element name="code">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-inline-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-display-attribute"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-quote">
+    <xs:sequence>
+      <xs:element name="quote">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-display-attribute"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-preformat">
+    <xs:sequence>
+      <xs:element name="preformat">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:cnxml-abstract-content">
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+              <xs:attributeGroup ref="cnxml:cnxml-abstract-display-attribute"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-list">
+    <xs:sequence>
+      <xs:element name="list">
+        <xs:complexType>
+          <xs:group maxOccurs="unbounded" ref="cnxml:cnxml-abstract-item"/>
+          <xs:attributeGroup ref="cnxml:cnxml-abstract-list-type-attribute"/>
+          <xs:attributeGroup ref="cnxml:cnxml-abstract-display-attribute"/>
+          <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cnxml-abstract-item">
+    <xs:sequence>
+      <xs:element name="item">
+        <xs:complexType mixed="true">
+          <xs:group ref="cnxml:cnxml-abstract-para-content"/>
+          <xs:attributeGroup ref="cnxml:cnxml-abstract-common-attributes"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <!-- Attribute Definitions -->
+  <xs:attributeGroup name="id-attribute">
+    <xs:attribute name="id" use="required" type="xs:ID"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="class-attribute">
+    <xs:attribute name="class" use="required" type="xs:token"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="foreign-namespaced-attribute">
+    <xs:anyAttribute processContents="skip"/>
+  </xs:attributeGroup>
+  <!-- We enumerate supported values, but any text values are accepted. -->
+  <xs:attributeGroup name="effect-attribute">
+    <xs:attribute name="effect" use="required">
+      <xs:simpleType>
+        <xs:union memberTypes="xs:NMTOKEN">
+          <xs:simpleType>
+            <xs:restriction base="xs:token">
+              <xs:enumeration value="bold"/>
+            </xs:restriction>
+          </xs:simpleType>
+          <xs:simpleType>
+            <xs:restriction base="xs:token">
+              <xs:enumeration value="italics"/>
+            </xs:restriction>
+          </xs:simpleType>
+          <xs:simpleType>
+            <xs:restriction base="xs:token">
+              <xs:enumeration value="underline"/>
+            </xs:restriction>
+          </xs:simpleType>
+          <xs:simpleType>
+            <xs:restriction base="xs:token">
+              <xs:enumeration value="normal"/>
+            </xs:restriction>
+          </xs:simpleType>
+          <xs:simpleType>
+            <xs:restriction base="xs:token">
+              <xs:enumeration value="smallcaps"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:union>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="display-attribute">
+    <xs:attribute name="display">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="block"/>
+          <xs:enumeration value="none"/>
+          <xs:enumeration value="inline"/>
+          <xs:enumeration value="none"/>
+          <xs:enumeration value="none"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="display-block-default-attribute">
+    <xs:attribute name="display" default="block">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="block"/>
+          <xs:enumeration value="none"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="display-block-attribute">
+    <xs:attribute name="display" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="block"/>
+          <xs:enumeration value="none"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="display-inline-default-attribute">
+    <xs:attribute name="display" default="inline">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="inline"/>
+          <xs:enumeration value="none"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="display-any-attribute">
+    <xs:attribute name="display">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="block"/>
+          <xs:enumeration value="inline"/>
+          <xs:enumeration value="none"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="display-inline-attribute">
+    <xs:attribute name="display" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="inline"/>
+          <xs:enumeration value="none"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="display-none-attribute">
+    <xs:attribute name="display" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="none"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="type-attribute">
+    <xs:attribute name="type"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="strength-attribute">
+    <xs:attribute name="strength" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="1"/>
+          <xs:enumeration value="2"/>
+          <xs:enumeration value="3"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="window-attribute">
+    <xs:attribute name="window" default="replace">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="replace"/>
+          <xs:enumeration value="new"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="url-attribute">
+    <xs:attribute name="url" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="document-attribute">
+    <xs:attribute name="document" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="version-attribute">
+    <xs:attribute name="version" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="targetid-attribute">
+    <xs:attribute name="target-id" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="resource-attribute">
+    <xs:attribute name="resource" use="required"/>
+  </xs:attributeGroup>
+  <!--
+    Attributes pattern for 'link' element.  Require at least one
+    attribute that points to a link target: either @url, or at
+    least one of the old cnxn-style linking attributes (@document,
+    @targetid, or @resource).  It takes a little effort to make
+    this pattern unambiguous.
+  -->
+  <xs:attributeGroup name="link-attributes">
+    <xs:attribute name="strength">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="1"/>
+          <xs:enumeration value="2"/>
+          <xs:enumeration value="3"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+    <xs:attributeGroup ref="cnxml:window-attribute"/>
+    <xs:attribute name="url"/>
+    <xs:attribute name="document"/>
+    <xs:attribute name="version"/>
+    <xs:attribute name="target-id"/>
+    <xs:attribute name="resource"/>
+  </xs:attributeGroup>
+  <!--
+    For linking elements other than 'link'.  Here we can afford to
+    make each attribute optional, so no problems with ambiguity.
+  -->
+  <xs:attributeGroup name="linking-attributes">
+    <xs:attributeGroup ref="cnxml:window-attribute"/>
+    <xs:attribute name="url"/>
+    <xs:attribute name="document"/>
+    <xs:attribute name="version"/>
+    <xs:attribute name="target-id"/>
+    <xs:attribute name="resource"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="note-type-attribute">
+    <xs:attribute name="type" default="note">
+      <xs:simpleType>
+        <xs:union memberTypes="xs:token">
+          <xs:simpleType>
+            <xs:restriction base="xs:token">
+              <xs:enumeration value="note"/>
+            </xs:restriction>
+          </xs:simpleType>
+          <xs:simpleType>
+            <xs:restriction base="xs:token">
+              <xs:enumeration value="aside"/>
+            </xs:restriction>
+          </xs:simpleType>
+          <xs:simpleType>
+            <xs:restriction base="xs:token">
+              <xs:enumeration value="warning"/>
+            </xs:restriction>
+          </xs:simpleType>
+          <xs:simpleType>
+            <xs:restriction base="xs:token">
+              <xs:enumeration value="tip"/>
+            </xs:restriction>
+          </xs:simpleType>
+          <xs:simpleType>
+            <xs:restriction base="xs:token">
+              <xs:enumeration value="important"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:union>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="list-type-attribute">
+    <xs:attribute name="list-type" default="bulleted">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="bulleted"/>
+          <xs:enumeration value="enumerated"/>
+          <xs:enumeration value="labeled-item"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="bulleted-list-type-attribute">
+    <xs:attribute name="list-type" default="bulleted">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="bulleted"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="enumerated-list-type-attribute">
+    <xs:attribute name="list-type" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="enumerated"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="labeled-item-list-type-attribute">
+    <xs:attribute name="list-type" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="labeled-item"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="bullet-style-attribute">
+    <xs:attribute name="bullet-style" default="bullet"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="number-style-attribute">
+    <xs:attribute name="number-style" default="arabic">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="arabic"/>
+          <xs:enumeration value="upper-alpha"/>
+          <xs:enumeration value="lower-alpha"/>
+          <xs:enumeration value="upper-roman"/>
+          <xs:enumeration value="lower-roman"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="mark-prefix-attribute">
+    <xs:attribute name="mark-prefix"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="mark-suffix-attribute">
+    <xs:attribute name="mark-suffix" default="."/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="bulleted-mark-suffix-attribute">
+    <xs:attribute name="mark-suffix" default=""/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="labeled-item-mark-suffix-attribute">
+    <xs:attribute name="mark-suffix" default=":"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="block-item-sep-attribute">
+    <xs:attribute name="item-sep"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="inline-item-sep-attribute">
+    <xs:attribute name="item-sep" default=";"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="start-value-attribute">
+    <xs:attribute name="start-value" default="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:integer">
+          <xs:minInclusive value="1"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="code-lang-attribute">
+    <xs:attribute name="lang" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="alt-attribute">
+    <xs:attribute name="alt" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="longdesc-attribute">
+    <xs:attribute name="longdesc" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="height-attribute">
+    <xs:attribute name="height" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="width-attribute">
+    <xs:attribute name="width" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="print-width-attribute">
+    <xs:attribute name="print-width" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="src-attribute">
+    <xs:attribute name="src" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="mime-type-attribute">
+    <xs:attribute name="mime-type" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="for-attribute">
+    <xs:attribute name="for" use="required">
+      <xs:simpleType>
+        <xs:union memberTypes="xs:NMTOKEN">
+          <xs:simpleType>
+            <xs:restriction base="xs:token">
+              <xs:enumeration value="online"/>
+            </xs:restriction>
+          </xs:simpleType>
+          <xs:simpleType>
+            <xs:restriction base="xs:token">
+              <xs:enumeration value="pdf"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:union>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="thumbnail-attribute">
+    <xs:attribute name="thumbnail" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="codebase-attribute">
+    <xs:attribute name="codebase" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="code-attribute">
+    <xs:attribute name="code" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="archive-attribute">
+    <xs:attribute name="archive" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="name-attribute">
+    <xs:attribute name="name" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="wmode-attribute">
+    <xs:attribute name="wmode" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="window"/>
+          <xs:enumeration value="opaque"/>
+          <xs:enumeration value="transparent"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="quality-attribute">
+    <xs:attribute name="quality" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="low"/>
+          <xs:enumeration value="autolow"/>
+          <xs:enumeration value="autohigh"/>
+          <xs:enumeration value="medium"/>
+          <xs:enumeration value="high"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="scale-attribute">
+    <xs:attribute name="scale" default="default">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="default"/>
+          <xs:enumeration value="noorder"/>
+          <xs:enumeration value="exactfit"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="bgcolor-attribute">
+    <xs:attribute name="bgcolor" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:pattern value="#[a-fA-F0-9]{6}"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="flash-vars-attribute">
+    <xs:attribute name="flash-vars" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="standby-attribute">
+    <xs:attribute name="standby"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="autoplay-attribute">
+    <xs:attribute name="autoplay" default="false">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="true"/>
+          <xs:enumeration value="false"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="loop-attribute">
+    <xs:attribute name="loop" default="false">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="true"/>
+          <xs:enumeration value="false"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="controller-attribute">
+    <xs:attribute name="controller" default="false">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="true"/>
+          <xs:enumeration value="false"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="volume-attribute">
+    <xs:attribute name="volume" default="50">
+      <xs:simpleType>
+        <xs:restriction base="xs:integer">
+          <xs:minInclusive value="1"/>
+          <xs:maxInclusive value="100"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="viname-attribute">
+    <xs:attribute name="viname" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="labview-version-attribute">
+    <xs:attribute name="version" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="7.0"/>
+          <xs:enumeration value="8.0"/>
+          <xs:enumeration value="8.2"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="pub-type">
+    <xs:attribute name="pub-type" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="article"/>
+          <xs:enumeration value="book"/>
+          <xs:enumeration value="booklet"/>
+          <xs:enumeration value="conference"/>
+          <xs:enumeration value="inbook"/>
+          <xs:enumeration value="incollection"/>
+          <xs:enumeration value="inproceedings"/>
+          <xs:enumeration value="manual"/>
+          <xs:enumeration value="mastersthesis"/>
+          <xs:enumeration value="misc"/>
+          <xs:enumeration value="phdthesis"/>
+          <xs:enumeration value="proceedings"/>
+          <xs:enumeration value="techreport"/>
+          <xs:enumeration value="unpublished"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="link-group-type-attribute">
+    <xs:attribute name="type" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="rule-type-attribute">
+    <xs:attribute name="type" default="rule"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="seealso-type-attribute">
+    <xs:attribute name="type"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="cnxml-version">
+    <xs:attribute name="cnxml-version" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="0.7"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="count-attribute">
+    <xs:attribute name="count" default="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:integer">
+          <xs:minInclusive value="1"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="print-placement-attribute">
+    <xs:attribute name="print-placement">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="here"/>
+          <xs:enumeration value="end"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="common-attributes-noclass">
+    <xs:attributeGroup ref="cnxml:foreign-namespaced-attribute"/>
+    <xs:attribute ref="xml:lang"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="common-attributes">
+    <xs:attributeGroup ref="cnxml:common-attributes-noclass"/>
+    <xs:attribute name="class" type="xs:token"/>
+  </xs:attributeGroup>
+  <!-- Content Classes -->
+  <xs:group name="text-extras">
+    <xs:sequence>
+      <xs:element minOccurs="0" ref="mathml:math"/>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="inline-class">
+    <xs:choice>
+      <xs:group ref="cnxml:text-extras"/>
+      <xs:group ref="cnxml:span"/>
+      <xs:group ref="cnxml:term"/>
+      <xs:group ref="cnxml:cite"/>
+      <xs:element ref="cnxml:cite-title"/>
+      <xs:group ref="cnxml:foreign"/>
+      <xs:group ref="cnxml:emphasis"/>
+      <xs:group ref="cnxml:sub"/>
+      <xs:group ref="cnxml:sup"/>
+      <xs:group ref="cnxml:inline-code"/>
+      <xs:group ref="cnxml:inline-preformat"/>
+      <xs:group ref="cnxml:inline-quote"/>
+      <xs:group ref="cnxml:inline-note"/>
+      <xs:group ref="cnxml:inline-list"/>
+      <xs:group ref="cnxml:inline-media"/>
+      <xs:element ref="cnxml:footnote"/>
+      <xs:element ref="cnxml:link"/>
+      <xs:element ref="cnxml:newline"/>
+      <xs:element ref="cnxml:space"/>
+    </xs:choice>
+  </xs:group>
+  <xs:group name="basic-blocks-class">
+    <xs:choice>
+      <xs:element ref="cnxml:div"/>
+      <xs:element ref="cnxml:definition"/>
+      <xs:element ref="cnxml:example"/>
+      <xs:element ref="cnxml:figure"/>
+      <xs:group ref="cnxml:block-code"/>
+      <xs:group ref="cnxml:block-preformat"/>
+      <xs:group ref="cnxml:block-quote"/>
+      <xs:group ref="cnxml:block-note"/>
+      <xs:group ref="cnxml:block-media"/>
+      <xs:group ref="cnxml:block-list"/>
+      <xs:element ref="cnxml:table"/>
+      <xs:element ref="cnxml:rule"/>
+      <xs:element ref="cnxml:equation"/>
+      <xs:element ref="cnxml:exercise"/>
+    </xs:choice>
+  </xs:group>
+  <xs:group name="para-content-class">
+    <xs:choice>
+      <xs:group ref="cnxml:inline-class"/>
+      <xs:group ref="cnxml:basic-blocks-class"/>
+    </xs:choice>
+  </xs:group>
+  <xs:group name="div-content-class">
+    <xs:choice>
+      <xs:group ref="cnxml:para"/>
+      <xs:group ref="cnxml:para-content-class"/>
+    </xs:choice>
+  </xs:group>
+  <xs:group name="section-content-class">
+    <xs:choice>
+      <xs:element ref="cnxml:section"/>
+      <xs:group ref="cnxml:basic-blocks-class"/>
+      <xs:group ref="cnxml:para"/>
+    </xs:choice>
+  </xs:group>
+  <xs:element name="media-object-class" abstract="true"/>
+  <xs:group name="media-object-fallback-class">
+    <xs:choice>
+      <xs:group ref="cnxml:text-extras"/>
+      <xs:group ref="cnxml:span"/>
+      <xs:group ref="cnxml:term"/>
+      <xs:group ref="cnxml:cite"/>
+      <xs:element ref="cnxml:cite-title"/>
+      <xs:group ref="cnxml:foreign"/>
+      <xs:group ref="cnxml:emphasis"/>
+      <xs:group ref="cnxml:sub"/>
+      <xs:group ref="cnxml:sup"/>
+      <xs:group ref="cnxml:inline-code"/>
+      <xs:group ref="cnxml:inline-preformat"/>
+      <xs:group ref="cnxml:inline-quote"/>
+      <xs:group ref="cnxml:inline-note"/>
+      <xs:group ref="cnxml:inline-list"/>
+      <xs:element ref="cnxml:media-object-class"/>
+    </xs:choice>
+  </xs:group>
+  <!-- Shared Content Models -->
+  <xs:group name="inline-content">
+    <xs:sequence>
+      <xs:group minOccurs="0" maxOccurs="unbounded" ref="cnxml:inline-class"/>
+    </xs:sequence>
+  </xs:group>
+  <xs:attributeGroup name="inline-content">
+    <xs:attributeGroup ref="cnxml:common-attributes"/>
+    <xs:attribute name="id" type="xs:ID"/>
+  </xs:attributeGroup>
+  <xs:group name="div-content">
+    <xs:sequence>
+      <xs:group minOccurs="0" ref="cnxml:title"/>
+      <xs:group maxOccurs="unbounded" ref="cnxml:div-content-class"/>
+    </xs:sequence>
+  </xs:group>
+  <xs:complexType name="section-content">
+    <xs:sequence>
+      <xs:element minOccurs="0" ref="cnxml:label"/>
+      <xs:group minOccurs="0" ref="cnxml:title"/>
+      <xs:group maxOccurs="unbounded" ref="cnxml:section-content-class"/>
+    </xs:sequence>
+    <xs:attributeGroup ref="cnxml:common-attributes"/>
+    <xs:attributeGroup ref="cnxml:id-attribute"/>
+    <xs:attributeGroup ref="cnxml:type-attribute"/>
+  </xs:complexType>
+  <xs:complexType name="statement-content">
+    <xs:complexContent>
+      <xs:extension base="cnxml:section-content"/>
+    </xs:complexContent>
+  </xs:complexType>
+  <!-- Element Definitions -->
+  <xs:group name="anyElement">
+    <xs:sequence>
+      <xs:any processContents="skip"/>
+    </xs:sequence>
+  </xs:group>
+  <xs:element name="document">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:group ref="cnxml:document-title"/>
+        <xs:element minOccurs="0" ref="cnxml:metadata"/>
+        <xs:element minOccurs="0" ref="cnxml:featured-links"/>
+        <xs:element ref="cnxml:content"/>
+        <xs:element minOccurs="0" ref="cnxml:glossary"/>
+        <xs:element minOccurs="0" ref="cnxml:bibtexml_goes_here"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:id-attribute"/>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attributeGroup ref="cnxml:cnxml-version"/>
+      <xs:attribute name="module-id" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="metadata">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:metadata-content">
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+          <xs:attributeGroup ref="cnxml:metadata-extra-attributes"/>
+          <xs:attribute name="id" type="xs:ID"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="metadata-extra-attributes">
+    <xs:attribute name="mdml-version" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="0.5"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:element name="featured-links">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="cnxml:link-group"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attribute name="id" type="xs:ID"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="link-group">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="cnxml:label"/>
+        <xs:element maxOccurs="unbounded" ref="cnxml:link"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attribute name="id" type="xs:ID"/>
+      <xs:attributeGroup ref="cnxml:link-group-type-attribute"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="content">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:content-content">
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+          <xs:attribute name="id" type="xs:ID"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="glossary">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="cnxml:definition"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attribute name="id" type="xs:ID"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="section" type="cnxml:section-content"/>
+  <xs:element name="div">
+    <xs:complexType mixed="true">
+      <xs:group ref="cnxml:div-content"/>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attributeGroup ref="cnxml:id-attribute"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:group name="block-preformat">
+    <xs:sequence>
+      <xs:element name="preformat">
+        <xs:complexType mixed="true">
+          <xs:group ref="cnxml:div-content"/>
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+          <xs:attributeGroup ref="cnxml:id-attribute"/>
+          <xs:attributeGroup ref="cnxml:display-block-default-attribute"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="inline-preformat">
+    <xs:sequence>
+      <xs:element name="preformat">
+        <xs:complexType mixed="true">
+          <xs:group ref="cnxml:inline-content"/>
+          <xs:attributeGroup ref="cnxml:display-inline-attribute"/>
+          <xs:attributeGroup ref="cnxml:inline-content"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="para">
+    <xs:sequence>
+      <xs:element name="para">
+        <xs:complexType mixed="true">
+          <xs:sequence>
+            <xs:group minOccurs="0" ref="cnxml:title"/>
+            <xs:group maxOccurs="unbounded" ref="cnxml:para-content-class"/>
+          </xs:sequence>
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+          <xs:attributeGroup ref="cnxml:id-attribute"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="title">
+    <xs:sequence>
+      <xs:element name="title">
+        <xs:complexType mixed="true">
+          <xs:group ref="cnxml:inline-content"/>
+          <xs:attributeGroup ref="cnxml:inline-content"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="document-title">
+    <xs:sequence>
+      <xs:element name="title">
+        <xs:complexType mixed="true">
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+          <xs:attribute name="id" type="xs:ID"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:element name="label">
+    <xs:complexType mixed="true">
+      <xs:group ref="cnxml:inline-content"/>
+      <xs:attributeGroup ref="cnxml:inline-content"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="newline">
+    <xs:complexType>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attribute name="id" type="xs:ID"/>
+      <xs:attributeGroup ref="cnxml:count-attribute"/>
+      <xs:attribute name="effect">
+        <xs:simpleType>
+          <xs:union memberTypes="xs:NMTOKEN">
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="bold"/>
+              </xs:restriction>
+            </xs:simpleType>
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="italics"/>
+              </xs:restriction>
+            </xs:simpleType>
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="underline"/>
+              </xs:restriction>
+            </xs:simpleType>
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="normal"/>
+              </xs:restriction>
+            </xs:simpleType>
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="smallcaps"/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:union>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="space">
+    <xs:complexType>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attribute name="id" type="xs:ID"/>
+      <xs:attributeGroup ref="cnxml:count-attribute"/>
+      <xs:attribute name="effect">
+        <xs:simpleType>
+          <xs:union memberTypes="xs:NMTOKEN">
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="bold"/>
+              </xs:restriction>
+            </xs:simpleType>
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="italics"/>
+              </xs:restriction>
+            </xs:simpleType>
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="underline"/>
+              </xs:restriction>
+            </xs:simpleType>
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="normal"/>
+              </xs:restriction>
+            </xs:simpleType>
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="smallcaps"/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:union>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:group name="span">
+    <xs:sequence>
+      <xs:element name="span">
+        <xs:complexType mixed="true">
+          <xs:group ref="cnxml:inline-content"/>
+          <xs:attribute name="effect">
+            <xs:simpleType>
+              <xs:union memberTypes="xs:NMTOKEN">
+                <xs:simpleType>
+                  <xs:restriction base="xs:token">
+                    <xs:enumeration value="bold"/>
+                  </xs:restriction>
+                </xs:simpleType>
+                <xs:simpleType>
+                  <xs:restriction base="xs:token">
+                    <xs:enumeration value="italics"/>
+                  </xs:restriction>
+                </xs:simpleType>
+                <xs:simpleType>
+                  <xs:restriction base="xs:token">
+                    <xs:enumeration value="underline"/>
+                  </xs:restriction>
+                </xs:simpleType>
+                <xs:simpleType>
+                  <xs:restriction base="xs:token">
+                    <xs:enumeration value="normal"/>
+                  </xs:restriction>
+                </xs:simpleType>
+                <xs:simpleType>
+                  <xs:restriction base="xs:token">
+                    <xs:enumeration value="smallcaps"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:union>
+            </xs:simpleType>
+          </xs:attribute>
+          <xs:attributeGroup ref="cnxml:inline-content"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="cite">
+    <xs:sequence>
+      <xs:element name="cite">
+        <xs:complexType mixed="true">
+          <xs:group ref="cnxml:inline-content"/>
+          <xs:attributeGroup ref="cnxml:linking-attributes"/>
+          <xs:attributeGroup ref="cnxml:inline-content"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:element name="cite-title">
+    <xs:complexType mixed="true">
+      <xs:group ref="cnxml:inline-content"/>
+      <xs:attribute name="pub-type">
+        <xs:simpleType>
+          <xs:restriction base="xs:token">
+            <xs:enumeration value="article"/>
+            <xs:enumeration value="book"/>
+            <xs:enumeration value="booklet"/>
+            <xs:enumeration value="conference"/>
+            <xs:enumeration value="inbook"/>
+            <xs:enumeration value="incollection"/>
+            <xs:enumeration value="inproceedings"/>
+            <xs:enumeration value="manual"/>
+            <xs:enumeration value="mastersthesis"/>
+            <xs:enumeration value="misc"/>
+            <xs:enumeration value="phdthesis"/>
+            <xs:enumeration value="proceedings"/>
+            <xs:enumeration value="techreport"/>
+            <xs:enumeration value="unpublished"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+      <xs:attributeGroup ref="cnxml:inline-content"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="link">
+    <xs:complexType mixed="true">
+      <xs:group ref="cnxml:inline-content"/>
+      <xs:attributeGroup ref="cnxml:link-attributes"/>
+      <xs:attributeGroup ref="cnxml:inline-content"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:group name="emphasis">
+    <xs:sequence>
+      <xs:element name="emphasis">
+        <xs:complexType mixed="true">
+          <xs:group ref="cnxml:inline-content"/>
+          <xs:attribute name="effect">
+            <xs:simpleType>
+              <xs:union memberTypes="xs:NMTOKEN">
+                <xs:simpleType>
+                  <xs:restriction base="xs:token">
+                    <xs:enumeration value="bold"/>
+                  </xs:restriction>
+                </xs:simpleType>
+                <xs:simpleType>
+                  <xs:restriction base="xs:token">
+                    <xs:enumeration value="italics"/>
+                  </xs:restriction>
+                </xs:simpleType>
+                <xs:simpleType>
+                  <xs:restriction base="xs:token">
+                    <xs:enumeration value="underline"/>
+                  </xs:restriction>
+                </xs:simpleType>
+                <xs:simpleType>
+                  <xs:restriction base="xs:token">
+                    <xs:enumeration value="normal"/>
+                  </xs:restriction>
+                </xs:simpleType>
+                <xs:simpleType>
+                  <xs:restriction base="xs:token">
+                    <xs:enumeration value="smallcaps"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:union>
+            </xs:simpleType>
+          </xs:attribute>
+          <xs:attributeGroup ref="cnxml:inline-content"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="term">
+    <xs:sequence>
+      <xs:element name="term">
+        <xs:complexType mixed="true">
+          <xs:group ref="cnxml:inline-content"/>
+          <xs:attributeGroup ref="cnxml:linking-attributes"/>
+          <xs:attributeGroup ref="cnxml:inline-content"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="sub">
+    <xs:sequence>
+      <xs:element name="sub">
+        <xs:complexType mixed="true">
+          <xs:group ref="cnxml:inline-content"/>
+          <xs:attributeGroup ref="cnxml:inline-content"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="sup">
+    <xs:sequence>
+      <xs:element name="sup">
+        <xs:complexType mixed="true">
+          <xs:group ref="cnxml:inline-content"/>
+          <xs:attributeGroup ref="cnxml:inline-content"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="block-quote">
+    <xs:sequence>
+      <xs:element name="quote">
+        <xs:complexType mixed="true">
+          <xs:sequence>
+            <xs:element minOccurs="0" ref="cnxml:label"/>
+            <xs:group ref="cnxml:div-content"/>
+          </xs:sequence>
+          <xs:attributeGroup ref="cnxml:display-block-default-attribute"/>
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+          <xs:attributeGroup ref="cnxml:id-attribute"/>
+          <xs:attributeGroup ref="cnxml:type-attribute"/>
+          <xs:attributeGroup ref="cnxml:linking-attributes"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="inline-quote">
+    <xs:sequence>
+      <xs:element name="quote">
+        <xs:complexType mixed="true">
+          <xs:sequence>
+            <xs:element minOccurs="0" ref="cnxml:label"/>
+            <xs:group ref="cnxml:inline-content"/>
+          </xs:sequence>
+          <xs:attributeGroup ref="cnxml:display-inline-attribute"/>
+          <xs:attributeGroup ref="cnxml:linking-attributes"/>
+          <xs:attributeGroup ref="cnxml:type-attribute"/>
+          <xs:attributeGroup ref="cnxml:inline-content"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="foreign">
+    <xs:sequence>
+      <xs:element name="foreign">
+        <xs:complexType mixed="true">
+          <xs:group ref="cnxml:inline-content"/>
+          <xs:attributeGroup ref="cnxml:linking-attributes"/>
+          <xs:attributeGroup ref="cnxml:inline-content"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:element name="footnote">
+    <xs:complexType mixed="true">
+      <xs:group ref="cnxml:div-content"/>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attributeGroup ref="cnxml:id-attribute"/>
+    </xs:complexType>
+  </xs:element>
+  <!-- FIXME: Do we want to continue to permit 'media' or text in 'equation'? -->
+  <xs:element name="equation">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="cnxml:label"/>
+        <xs:group minOccurs="0" ref="cnxml:title"/>
+        <xs:choice minOccurs="0">
+          <xs:group ref="cnxml:media"/>
+          <xs:group ref="cnxml:equation-content-extras"/>
+        </xs:choice>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attributeGroup ref="cnxml:id-attribute"/>
+      <xs:attributeGroup ref="cnxml:type-attribute"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:group name="block-note">
+    <xs:sequence>
+      <xs:element name="note">
+        <xs:complexType mixed="true">
+          <xs:sequence>
+            <xs:element minOccurs="0" ref="cnxml:label"/>
+            <xs:group ref="cnxml:div-content"/>
+          </xs:sequence>
+          <xs:attributeGroup ref="cnxml:display-block-default-attribute"/>
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+          <xs:attributeGroup ref="cnxml:id-attribute"/>
+          <xs:attributeGroup ref="cnxml:note-type-attribute"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="inline-note">
+    <xs:sequence>
+      <xs:element name="note">
+        <xs:complexType mixed="true">
+          <xs:sequence>
+            <xs:element minOccurs="0" ref="cnxml:label"/>
+            <xs:group ref="cnxml:inline-content"/>
+          </xs:sequence>
+          <xs:attributeGroup ref="cnxml:display-inline-attribute"/>
+          <xs:attributeGroup ref="cnxml:note-type-attribute"/>
+          <xs:attributeGroup ref="cnxml:inline-content"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="note">
+    <xs:choice>
+      <xs:group ref="cnxml:block-note"/>
+      <xs:group ref="cnxml:inline-note"/>
+    </xs:choice>
+  </xs:group>
+  <xs:attributeGroup name="list-common-content">
+    <xs:attributeGroup ref="cnxml:common-attributes"/>
+    <xs:attributeGroup ref="cnxml:mark-prefix-attribute"/>
+    <xs:attributeGroup ref="cnxml:type-attribute"/>
+  </xs:attributeGroup>
+  <xs:complexType name="block-list-common-content">
+    <xs:sequence>
+      <xs:element minOccurs="0" ref="cnxml:label"/>
+      <xs:group minOccurs="0" ref="cnxml:title"/>
+      <xs:group maxOccurs="unbounded" ref="cnxml:block-list-item"/>
+    </xs:sequence>
+    <xs:attributeGroup ref="cnxml:display-block-default-attribute"/>
+    <xs:attributeGroup ref="cnxml:id-attribute"/>
+    <xs:attributeGroup ref="cnxml:block-item-sep-attribute"/>
+  </xs:complexType>
+  <xs:complexType name="inline-list-common-content">
+    <xs:sequence>
+      <xs:element minOccurs="0" ref="cnxml:label"/>
+      <xs:group minOccurs="0" ref="cnxml:title"/>
+      <xs:group maxOccurs="unbounded" ref="cnxml:inline-list-item"/>
+    </xs:sequence>
+    <xs:attributeGroup ref="cnxml:display-inline-attribute"/>
+    <xs:attribute name="id" type="xs:ID"/>
+    <xs:attributeGroup ref="cnxml:inline-item-sep-attribute"/>
+  </xs:complexType>
+  <xs:attributeGroup name="bulleted-list-common-content">
+    <xs:attributeGroup ref="cnxml:bulleted-list-type-attribute"/>
+    <xs:attributeGroup ref="cnxml:bulleted-mark-suffix-attribute"/>
+    <xs:attributeGroup ref="cnxml:bullet-style-attribute"/>
+    <xs:attributeGroup ref="cnxml:list-common-content"/>
+  </xs:attributeGroup>
+  <xs:group name="bulleted-block-list">
+    <xs:sequence>
+      <xs:element name="list">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:block-list-common-content">
+              <xs:attributeGroup ref="cnxml:bulleted-list-common-content"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="bulleted-inline-list">
+    <xs:sequence>
+      <xs:element name="list">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:inline-list-common-content">
+              <xs:attributeGroup ref="cnxml:bulleted-list-common-content"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:attributeGroup name="enumerated-list-common-content">
+    <xs:attributeGroup ref="cnxml:mark-suffix-attribute"/>
+    <xs:attributeGroup ref="cnxml:enumerated-list-type-attribute"/>
+    <xs:attributeGroup ref="cnxml:number-style-attribute"/>
+    <xs:attributeGroup ref="cnxml:start-value-attribute"/>
+    <xs:attributeGroup ref="cnxml:list-common-content"/>
+  </xs:attributeGroup>
+  <xs:group name="enumerated-block-list">
+    <xs:sequence>
+      <xs:element name="list">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:block-list-common-content">
+              <xs:attributeGroup ref="cnxml:enumerated-list-common-content"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="enumerated-inline-list">
+    <xs:sequence>
+      <xs:element name="list">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:inline-list-common-content">
+              <xs:attributeGroup ref="cnxml:enumerated-list-common-content"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:attributeGroup name="labeled-item-list-common-content">
+    <xs:attributeGroup ref="cnxml:labeled-item-mark-suffix-attribute"/>
+    <xs:attributeGroup ref="cnxml:labeled-item-list-type-attribute"/>
+    <xs:attributeGroup ref="cnxml:list-common-content"/>
+  </xs:attributeGroup>
+  <xs:group name="labeled-item-block-list">
+    <xs:sequence>
+      <xs:element name="list">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:block-list-common-content">
+              <xs:attributeGroup ref="cnxml:labeled-item-list-common-content"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="labeled-item-inline-list">
+    <xs:sequence>
+      <xs:element name="list">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:inline-list-common-content">
+              <xs:attributeGroup ref="cnxml:labeled-item-list-common-content"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="block-list">
+    <xs:choice>
+      <xs:group ref="cnxml:bulleted-block-list"/>
+      <xs:group ref="cnxml:enumerated-block-list"/>
+      <xs:group ref="cnxml:labeled-item-block-list"/>
+    </xs:choice>
+  </xs:group>
+  <xs:group name="inline-list">
+    <xs:choice>
+      <xs:group ref="cnxml:bulleted-inline-list"/>
+      <xs:group ref="cnxml:enumerated-inline-list"/>
+      <xs:group ref="cnxml:labeled-item-inline-list"/>
+    </xs:choice>
+  </xs:group>
+  <xs:group name="list">
+    <xs:choice>
+      <xs:group ref="cnxml:block-list"/>
+      <xs:group ref="cnxml:inline-list"/>
+    </xs:choice>
+  </xs:group>
+  <xs:group name="block-list-item">
+    <xs:sequence>
+      <xs:element name="item">
+        <xs:complexType mixed="true">
+          <xs:sequence>
+            <xs:element minOccurs="0" ref="cnxml:label"/>
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="cnxml:div-content-class"/>
+          </xs:sequence>
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+          <xs:attribute name="id" type="xs:ID"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="inline-list-item">
+    <xs:sequence>
+      <xs:element name="item">
+        <xs:complexType mixed="true">
+          <xs:sequence>
+            <xs:element minOccurs="0" ref="cnxml:label"/>
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="cnxml:inline-class"/>
+          </xs:sequence>
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+          <xs:attribute name="id" type="xs:ID"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="inline-code">
+    <xs:sequence>
+      <xs:element name="code">
+        <xs:complexType mixed="true">
+          <xs:group maxOccurs="unbounded" ref="cnxml:inline-class"/>
+          <xs:attributeGroup ref="cnxml:display-inline-default-attribute"/>
+          <xs:attribute name="lang"/>
+          <xs:attributeGroup ref="cnxml:type-attribute"/>
+          <xs:attribute name="id" type="xs:ID"/>
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="block-code">
+    <xs:sequence>
+      <xs:element name="code">
+        <xs:complexType mixed="true">
+          <xs:sequence>
+            <xs:element minOccurs="0" ref="cnxml:label"/>
+            <xs:group minOccurs="0" ref="cnxml:title"/>
+            <xs:group maxOccurs="unbounded" ref="cnxml:inline-class"/>
+            <xs:element minOccurs="0" ref="cnxml:caption"/>
+          </xs:sequence>
+          <xs:attributeGroup ref="cnxml:display-block-attribute"/>
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+          <xs:attributeGroup ref="cnxml:id-attribute"/>
+          <xs:attribute name="lang"/>
+          <xs:attributeGroup ref="cnxml:type-attribute"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="code">
+    <xs:choice>
+      <xs:group ref="cnxml:inline-code"/>
+      <xs:group ref="cnxml:block-code"/>
+    </xs:choice>
+  </xs:group>
+  <!--
+    NOTE: I have removed 'table' and 'code' as possible content for
+    'figure', but this decision can be revisited.
+  -->
+  <xs:element name="figure">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="cnxml:label"/>
+        <xs:group minOccurs="0" ref="cnxml:title"/>
+        <xs:choice>
+          <xs:group ref="cnxml:media"/>
+          <xs:element ref="cnxml:table"/>
+          <xs:group ref="cnxml:code"/>
+          <xs:sequence>
+            <xs:element ref="cnxml:subfigure"/>
+            <xs:element maxOccurs="unbounded" ref="cnxml:subfigure"/>
+          </xs:sequence>
+        </xs:choice>
+        <xs:element minOccurs="0" ref="cnxml:caption"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attributeGroup ref="cnxml:id-attribute"/>
+      <xs:attribute name="orient" default="horizontal">
+        <xs:simpleType>
+          <xs:restriction base="xs:token">
+            <xs:enumeration value="horizontal"/>
+            <xs:enumeration value="vertical"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+      <xs:attributeGroup ref="cnxml:type-attribute"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="subfigure">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="cnxml:label"/>
+        <xs:group minOccurs="0" ref="cnxml:title"/>
+        <xs:choice>
+          <xs:group ref="cnxml:media"/>
+          <xs:element ref="cnxml:table"/>
+          <xs:group ref="cnxml:code"/>
+        </xs:choice>
+        <xs:element minOccurs="0" ref="cnxml:caption"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attributeGroup ref="cnxml:id-attribute"/>
+      <xs:attributeGroup ref="cnxml:type-attribute"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="caption">
+    <xs:complexType mixed="true">
+      <xs:group ref="cnxml:inline-content"/>
+      <xs:attributeGroup ref="cnxml:inline-content"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="media-common-content">
+    <xs:sequence>
+      <xs:group minOccurs="0" ref="cnxml:longdesc"/>
+      <xs:element ref="cnxml:media-object-class"/>
+      <xs:element minOccurs="0" maxOccurs="unbounded" ref="cnxml:media-object-class"/>
+    </xs:sequence>
+    <xs:attributeGroup ref="cnxml:common-attributes"/>
+    <xs:attributeGroup ref="cnxml:id-attribute"/>
+    <xs:attributeGroup ref="cnxml:alt-attribute"/>
+    <xs:attributeGroup ref="cnxml:longdesc"/>
+  </xs:complexType>
+  <xs:group name="inline-media">
+    <xs:sequence>
+      <xs:element name="media">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:media-common-content">
+              <xs:attribute name="display">
+                <xs:simpleType>
+                  <xs:restriction base="xs:token">
+                    <xs:enumeration value="inline"/>
+                    <xs:enumeration value="none"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:attribute>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="block-media">
+    <xs:sequence>
+      <xs:element name="media">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:media-common-content">
+              <xs:attributeGroup ref="cnxml:display-any-attribute"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="nodisplay-media">
+    <xs:sequence>
+      <xs:element name="media">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:extension base="cnxml:media-common-content">
+              <xs:attributeGroup ref="cnxml:display-none-attribute"/>
+            </xs:extension>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:element name="longdesc">
+    <xs:complexType mixed="true">
+      <xs:group ref="cnxml:div-content"/>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attribute name="id" type="xs:ID"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:group name="longdesc">
+    <xs:sequence>
+      <xs:element minOccurs="0" ref="cnxml:longdesc"/>
+    </xs:sequence>
+  </xs:group>
+  <xs:attributeGroup name="longdesc">
+    <xs:attribute name="longdesc"/>
+  </xs:attributeGroup>
+  <xs:group name="media">
+    <xs:choice>
+      <xs:group ref="cnxml:block-media"/>
+      <xs:group ref="cnxml:inline-media"/>
+    </xs:choice>
+  </xs:group>
+  <xs:element name="param">
+    <xs:complexType>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attribute name="id" type="xs:ID"/>
+      <xs:attribute name="name" use="required"/>
+      <xs:attribute name="value" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <!-- @src must be handled per-element -->
+  <xs:complexType name="media-object-common-content" mixed="true">
+    <xs:sequence>
+      <xs:group minOccurs="0" ref="cnxml:longdesc"/>
+      <xs:element minOccurs="0" maxOccurs="unbounded" ref="cnxml:param"/>
+      <xs:group minOccurs="0" maxOccurs="unbounded" ref="cnxml:media-object-fallback-class"/>
+    </xs:sequence>
+    <xs:attributeGroup ref="cnxml:common-attributes"/>
+    <xs:attribute name="id" type="xs:ID"/>
+    <xs:attribute name="height"/>
+    <xs:attribute name="width"/>
+    <xs:attributeGroup ref="cnxml:mime-type-attribute"/>
+    <xs:attribute name="for">
+      <xs:simpleType>
+        <xs:union memberTypes="xs:NMTOKEN">
+          <xs:simpleType>
+            <xs:restriction base="xs:token">
+              <xs:enumeration value="online"/>
+            </xs:restriction>
+          </xs:simpleType>
+          <xs:simpleType>
+            <xs:restriction base="xs:token">
+              <xs:enumeration value="pdf"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:union>
+      </xs:simpleType>
+    </xs:attribute>
+    <xs:attributeGroup ref="cnxml:longdesc"/>
+  </xs:complexType>
+  <xs:complexType name="audio-video-common-content">
+    <xs:complexContent>
+      <xs:extension base="cnxml:media-object-common-content">
+        <xs:attributeGroup ref="cnxml:src-attribute"/>
+        <xs:attributeGroup ref="cnxml:standby-attribute"/>
+        <xs:attributeGroup ref="cnxml:autoplay-attribute"/>
+        <xs:attributeGroup ref="cnxml:loop-attribute"/>
+        <xs:attributeGroup ref="cnxml:controller-attribute"/>
+        <xs:attributeGroup ref="cnxml:volume-attribute"/>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="object" substitutionGroup="cnxml:media-object-class">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:media-object-common-content">
+          <xs:attributeGroup ref="cnxml:src-attribute"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="image" substitutionGroup="cnxml:media-object-class">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:media-object-common-content">
+          <xs:attributeGroup ref="cnxml:src-attribute"/>
+          <xs:attribute name="print-width"/>
+          <xs:attribute name="thumbnail"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="audio" substitutionGroup="cnxml:media-object-class" type="cnxml:audio-video-common-content"/>
+  <xs:element name="video" substitutionGroup="cnxml:media-object-class" type="cnxml:audio-video-common-content"/>
+  <xs:element name="java-applet" substitutionGroup="cnxml:media-object-class">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:media-object-common-content">
+          <xs:attribute name="src"/>
+          <xs:attribute name="codebase"/>
+          <xs:attributeGroup ref="cnxml:code-attribute"/>
+          <xs:attribute name="archive"/>
+          <xs:attribute name="name"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="flash" substitutionGroup="cnxml:media-object-class">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:media-object-common-content">
+          <xs:attributeGroup ref="cnxml:src-attribute"/>
+          <xs:attribute name="wmode">
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="window"/>
+                <xs:enumeration value="opaque"/>
+                <xs:enumeration value="transparent"/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+          <xs:attributeGroup ref="cnxml:loop-attribute"/>
+          <xs:attribute name="quality">
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="low"/>
+                <xs:enumeration value="autolow"/>
+                <xs:enumeration value="autohigh"/>
+                <xs:enumeration value="medium"/>
+                <xs:enumeration value="high"/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+          <xs:attributeGroup ref="cnxml:scale-attribute"/>
+          <xs:attribute name="bgcolor">
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:pattern value="#[a-fA-F0-9]{6}"/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+          <xs:attribute name="flash-vars"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="iframe" substitutionGroup="cnxml:media-object-class">
+    <xs:complexType>
+      <xs:attributeGroup ref="cnxml:src-attribute"/>
+      <xs:attribute name="id" type="xs:ID"/>
+      <xs:attribute name="height"/>
+      <xs:attribute name="width"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="labview" substitutionGroup="cnxml:media-object-class">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:media-object-common-content">
+          <xs:attributeGroup ref="cnxml:src-attribute"/>
+          <xs:attributeGroup ref="cnxml:viname-attribute"/>
+          <xs:attributeGroup ref="cnxml:labview-version-attribute"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="text" substitutionGroup="cnxml:media-object-class">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:group minOccurs="0" ref="cnxml:longdesc"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="cnxml:param"/>
+        <xs:group maxOccurs="unbounded" ref="cnxml:div-content-class"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attribute name="id" type="xs:ID"/>
+      <xs:attribute name="height"/>
+      <xs:attribute name="width"/>
+      <xs:attribute name="mime-type"/>
+      <xs:attributeGroup ref="cnxml:longdesc"/>
+      <xs:attribute name="src"/>
+      <xs:attribute name="for">
+        <xs:simpleType>
+          <xs:union memberTypes="xs:NMTOKEN">
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="online"/>
+              </xs:restriction>
+            </xs:simpleType>
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="pdf"/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:union>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="download" substitutionGroup="cnxml:media-object-class">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:media-object-common-content">
+          <xs:attributeGroup ref="cnxml:src-attribute"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="example" type="cnxml:section-content"/>
+  <xs:element name="exercise">
+    <xs:complexType>
+      <xs:choice>
+        <xs:sequence>
+          <xs:element minOccurs="0" ref="cnxml:label"/>
+          <xs:group minOccurs="0" ref="cnxml:title"/>
+          <xs:element ref="cnxml:problem"/>
+          <xs:element minOccurs="0" maxOccurs="unbounded" ref="cnxml:solution"/>
+          <xs:element minOccurs="0" ref="cnxml:commentary"/>
+        </xs:sequence>
+        <xs:element ref="cnxml:exercise-content-extras"/>
+      </xs:choice>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attributeGroup ref="cnxml:id-attribute"/>
+      <xs:attributeGroup ref="cnxml:print-placement-attribute"/>
+      <xs:attributeGroup ref="cnxml:type-attribute"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="problem" type="cnxml:section-content"/>
+  <xs:element name="solution">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:section-content">
+          <xs:attributeGroup ref="cnxml:print-placement-attribute"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="commentary">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="cnxml:label"/>
+        <xs:group minOccurs="0" ref="cnxml:title"/>
+        <xs:group maxOccurs="unbounded" ref="cnxml:div-content-class"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attributeGroup ref="cnxml:id-attribute"/>
+      <xs:attributeGroup ref="cnxml:type-attribute"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="definition">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="cnxml:label"/>
+        <xs:group ref="cnxml:term"/>
+        <xs:choice>
+          <xs:element ref="cnxml:seealso"/>
+          <xs:sequence>
+            <xs:sequence maxOccurs="unbounded">
+              <xs:element ref="cnxml:meaning"/>
+              <xs:element minOccurs="0" maxOccurs="unbounded" ref="cnxml:example"/>
+            </xs:sequence>
+            <xs:element minOccurs="0" ref="cnxml:seealso"/>
+          </xs:sequence>
+        </xs:choice>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attributeGroup ref="cnxml:id-attribute"/>
+      <xs:attributeGroup ref="cnxml:type-attribute"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="meaning">
+    <xs:complexType mixed="true">
+      <xs:group ref="cnxml:div-content"/>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attributeGroup ref="cnxml:id-attribute"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="seealso">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="cnxml:label"/>
+        <xs:group maxOccurs="unbounded" ref="cnxml:term"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attribute name="id" type="xs:ID"/>
+      <xs:attributeGroup ref="cnxml:seealso-type-attribute"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="rule">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="cnxml:label"/>
+        <xs:group minOccurs="0" ref="cnxml:title"/>
+        <xs:element maxOccurs="unbounded" ref="cnxml:statement"/>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="cnxml:proof"/>
+          <xs:element ref="cnxml:example"/>
+        </xs:choice>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attributeGroup ref="cnxml:id-attribute"/>
+      <xs:attributeGroup ref="cnxml:rule-type-attribute"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="statement" type="cnxml:statement-content"/>
+  <xs:element name="proof" type="cnxml:statement-content"/>
+  <!-- CALS Table Definitions -->
+  <xs:simpleType name="yesorno">
+    <xs:restriction base="xs:integer">
+      <xs:minInclusive value="0"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:attributeGroup name="colsep-attribute">
+    <xs:attribute name="colsep" type="cnxml:yesorno"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="rowsep-attribute">
+    <xs:attribute name="rowsep" type="cnxml:yesorno"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="align-attribute">
+    <xs:attribute name="align" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="left"/>
+          <xs:enumeration value="right"/>
+          <xs:enumeration value="center"/>
+          <xs:enumeration value="justify"/>
+          <xs:enumeration value="char"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="valign-attribute">
+    <xs:attribute name="valign">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="top"/>
+          <xs:enumeration value="middle"/>
+          <xs:enumeration value="bottom"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="char-attribute">
+    <xs:attribute name="char" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="charoff-attribute">
+    <xs:attribute name="charoff" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="cols-attribute">
+    <xs:attribute name="cols" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="colname-attribute">
+    <xs:attribute name="colname" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="spanname-attribute">
+    <xs:attribute name="spanname" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="morerows-attribute">
+    <xs:attribute name="morerows" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="namest-attribute">
+    <xs:attribute name="namest" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="nameend-attribute">
+    <xs:attribute name="nameend" use="required"/>
+  </xs:attributeGroup>
+  <xs:group name="table.title">
+    <xs:sequence>
+      <xs:group ref="cnxml:title"/>
+    </xs:sequence>
+  </xs:group>
+  <xs:group name="table-main.mdl">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" ref="cnxml:tgroup"/>
+    </xs:sequence>
+  </xs:group>
+  <xs:complexType name="table.mdl">
+    <xs:sequence>
+      <xs:element minOccurs="0" ref="cnxml:label"/>
+      <xs:group minOccurs="0" ref="cnxml:table.title"/>
+      <xs:group ref="cnxml:table-main.mdl"/>
+      <xs:element minOccurs="0" ref="cnxml:caption"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:attributeGroup name="table.att">
+    <xs:attributeGroup ref="cnxml:id-attribute"/>
+    <xs:attribute name="tabstyle"/>
+    <xs:attribute name="tocentry" type="cnxml:yesorno"/>
+    <xs:attribute name="shortentry" type="cnxml:yesorno"/>
+    <xs:attribute name="orient">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="port"/>
+          <xs:enumeration value="land"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+    <xs:attribute name="pgwide" type="cnxml:yesorno"/>
+  </xs:attributeGroup>
+  <xs:complexType name="tgroup.mdl">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" ref="cnxml:colspec"/>
+      <xs:element minOccurs="0" maxOccurs="unbounded" ref="cnxml:spanspec"/>
+      <xs:element minOccurs="0" ref="cnxml:thead"/>
+      <xs:element minOccurs="0" ref="cnxml:tfoot"/>
+      <xs:element ref="cnxml:tbody"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:attributeGroup name="tgroup.att">
+    <xs:attribute name="tgroupstyle"/>
+  </xs:attributeGroup>
+  <xs:complexType name="hdft.mdl">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" ref="cnxml:colspec"/>
+      <xs:element maxOccurs="unbounded" ref="cnxml:row"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="row.mdl">
+    <xs:choice maxOccurs="unbounded">
+      <xs:element ref="cnxml:entry"/>
+      <xs:element ref="cnxml:entrytbl"/>
+    </xs:choice>
+  </xs:complexType>
+  <xs:complexType name="entrytbl.mdl">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" ref="cnxml:colspec"/>
+      <xs:element minOccurs="0" maxOccurs="unbounded" ref="cnxml:spanspec"/>
+      <xs:element minOccurs="0" ref="cnxml:thead"/>
+      <xs:element ref="cnxml:tbody"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="entry.mdl" mixed="true">
+    <xs:group minOccurs="0" maxOccurs="unbounded" ref="cnxml:div-content-class"/>
+  </xs:complexType>
+  <xs:element name="table">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:table.mdl">
+          <xs:attribute name="frame">
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="top"/>
+                <xs:enumeration value="bottom"/>
+                <xs:enumeration value="topbot"/>
+                <xs:enumeration value="all"/>
+                <xs:enumeration value="sides"/>
+                <xs:enumeration value="none"/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+          <xs:attribute name="summary" use="required"/>
+          <xs:attributeGroup ref="cnxml:colsep-attribute"/>
+          <xs:attributeGroup ref="cnxml:rowsep-attribute"/>
+          <xs:attributeGroup ref="cnxml:table.att"/>
+          <xs:attributeGroup ref="cnxml:type-attribute"/>
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="tgroup">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:tgroup.mdl">
+          <xs:attributeGroup ref="cnxml:cols-attribute"/>
+          <xs:attributeGroup ref="cnxml:tgroup.att"/>
+          <xs:attributeGroup ref="cnxml:colsep-attribute"/>
+          <xs:attributeGroup ref="cnxml:rowsep-attribute"/>
+          <xs:attribute name="align">
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="left"/>
+                <xs:enumeration value="right"/>
+                <xs:enumeration value="center"/>
+                <xs:enumeration value="justify"/>
+                <xs:enumeration value="char"/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+          <xs:attribute name="char"/>
+          <xs:attribute name="charoff"/>
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+          <xs:attribute name="id" type="xs:ID"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="colspec">
+    <xs:complexType>
+      <xs:attribute name="colnum"/>
+      <xs:attribute name="colname"/>
+      <xs:attribute name="colwidth"/>
+      <xs:attributeGroup ref="cnxml:colsep-attribute"/>
+      <xs:attributeGroup ref="cnxml:rowsep-attribute"/>
+      <xs:attribute name="align">
+        <xs:simpleType>
+          <xs:restriction base="xs:token">
+            <xs:enumeration value="left"/>
+            <xs:enumeration value="right"/>
+            <xs:enumeration value="center"/>
+            <xs:enumeration value="justify"/>
+            <xs:enumeration value="char"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+      <xs:attribute name="char"/>
+      <xs:attribute name="charoff"/>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attribute name="id" type="xs:ID"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="spanspec">
+    <xs:complexType>
+      <xs:attribute name="namest"/>
+      <xs:attribute name="nameend"/>
+      <xs:attributeGroup ref="cnxml:spanname-attribute"/>
+      <xs:attribute name="colwidth"/>
+      <xs:attributeGroup ref="cnxml:colsep-attribute"/>
+      <xs:attributeGroup ref="cnxml:rowsep-attribute"/>
+      <xs:attribute name="align">
+        <xs:simpleType>
+          <xs:restriction base="xs:token">
+            <xs:enumeration value="left"/>
+            <xs:enumeration value="right"/>
+            <xs:enumeration value="center"/>
+            <xs:enumeration value="justify"/>
+            <xs:enumeration value="char"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+      <xs:attribute name="char"/>
+      <xs:attribute name="charoff"/>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attribute name="id" type="xs:ID"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="thead">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:hdft.mdl">
+          <xs:attributeGroup ref="cnxml:valign-attribute"/>
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+          <xs:attribute name="id" type="xs:ID"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="tfoot">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:hdft.mdl">
+          <xs:attributeGroup ref="cnxml:valign-attribute"/>
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+          <xs:attribute name="id" type="xs:ID"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="tbody">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="cnxml:row"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="cnxml:valign-attribute"/>
+      <xs:attributeGroup ref="cnxml:common-attributes"/>
+      <xs:attribute name="id" type="xs:ID"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="row">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:row.mdl">
+          <xs:attributeGroup ref="cnxml:rowsep-attribute"/>
+          <xs:attributeGroup ref="cnxml:valign-attribute"/>
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+          <xs:attribute name="id" type="xs:ID"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="entrytbl">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:entrytbl.mdl">
+          <xs:attributeGroup ref="cnxml:cols-attribute"/>
+          <xs:attributeGroup ref="cnxml:tgroup.att"/>
+          <xs:attribute name="colname"/>
+          <xs:attribute name="spanname"/>
+          <xs:attribute name="namest"/>
+          <xs:attribute name="nameend"/>
+          <xs:attributeGroup ref="cnxml:colsep-attribute"/>
+          <xs:attributeGroup ref="cnxml:rowsep-attribute"/>
+          <xs:attribute name="align">
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="left"/>
+                <xs:enumeration value="right"/>
+                <xs:enumeration value="center"/>
+                <xs:enumeration value="justify"/>
+                <xs:enumeration value="char"/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+          <xs:attribute name="char"/>
+          <xs:attribute name="charoff"/>
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+          <xs:attribute name="id" type="xs:ID"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="entry">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="cnxml:entry.mdl">
+          <xs:attribute name="colname"/>
+          <xs:attribute name="namest"/>
+          <xs:attribute name="nameend"/>
+          <xs:attribute name="spanname"/>
+          <xs:attribute name="morerows"/>
+          <xs:attributeGroup ref="cnxml:colsep-attribute"/>
+          <xs:attributeGroup ref="cnxml:rowsep-attribute"/>
+          <xs:attribute name="align">
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="left"/>
+                <xs:enumeration value="right"/>
+                <xs:enumeration value="center"/>
+                <xs:enumeration value="justify"/>
+                <xs:enumeration value="char"/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+          <xs:attribute name="char"/>
+          <xs:attribute name="charoff"/>
+          <xs:attribute name="rotate" type="cnxml:yesorno"/>
+          <xs:attributeGroup ref="cnxml:valign-attribute"/>
+          <xs:attributeGroup ref="cnxml:common-attributes"/>
+          <xs:attribute name="id" type="xs:ID"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
