@@ -3,6 +3,6 @@
         "*.cnxml": "xml"
     },
     "xml.catalogs": [
-        "/workspace/ce-git-storage-spike/xsd/catalog.xml"
+        "./xsd/catalog.xml"
     ]
 }

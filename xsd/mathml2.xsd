@@ -1,0 +1,2789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.w3.org/1998/Math/MathML" xmlns:s="http://cnx.rice.edu/system-info" xmlns:cnxml="http://cnx.rice.edu/cnxml" xmlns:mathml="http://www.w3.org/1998/Math/MathML" xmlns:qml="http://cnx.rice.edu/qml/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mdml="http://cnx.rice.edu/mdml">
+  <xs:import namespace="http://cnx.rice.edu/cnxml" schemaLocation="cnxml.xsd"/>
+  <xs:import namespace="http://cnx.rice.edu/qml/1.0" schemaLocation="qml-defs.xsd"/>
+  <xs:import namespace="http://cnx.rice.edu/system-info" schemaLocation="s.xsd"/>
+  <xs:import namespace="http://www.w3.org/1999/xlink" schemaLocation="xlink.xsd"/>
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
+  <!--
+    <start>
+      <ref name="PHIL_MML.math"/>
+    </start>
+  -->
+  <xs:element name="math">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.MathExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-math"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.MATHML.Common.attrib">
+    <xs:annotation>
+      <xs:documentation>
+      Attributes shared by all elements
+    </xs:documentation>
+    </xs:annotation>
+    <xs:attribute ref="xlink:href"/>
+    <xs:attribute ref="xlink:type"/>
+    <xs:attribute name="class" type="xs:NMTOKENS"/>
+    <xs:attribute name="style"/>
+    <xs:attribute name="id" type="xs:ID"/>
+    <xs:attribute name="xref" type="xs:IDREF"/>
+    <xs:attribute name="other"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-fontsize">
+    <xs:attribute name="fontsize"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-fontweight">
+    <xs:attribute name="fontweight">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="normal"/>
+          <xs:enumeration value="bold"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-fontstyle">
+    <xs:attribute name="fontstyle">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="normal"/>
+          <xs:enumeration value="italic"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-fontfamily">
+    <xs:attribute name="fontfamily"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-color">
+    <xs:attribute name="color"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-mathvariant">
+    <xs:annotation>
+      <xs:documentation>
+      MathML2 typographically-distinguished symbol attributes
+    </xs:documentation>
+    </xs:annotation>
+    <xs:attribute name="mathvariant"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-mathsize">
+    <xs:attribute name="mathsize"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-mathcolor">
+    <xs:attribute name="mathcolor"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-mathbackground">
+    <xs:attribute name="mathbackground"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-fontinfo">
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-fontsize"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-fontweight"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-fontstyle"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-fontfamily"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-color"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-mathvariant"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-mathsize"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-mathcolor"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-mathbackground"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-form">
+    <xs:attribute name="form">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="prefix"/>
+          <xs:enumeration value="infix"/>
+          <xs:enumeration value="postfix"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-fence">
+    <xs:attribute name="fence">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="true"/>
+          <xs:enumeration value="false"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-separator">
+    <xs:attribute name="separator">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="true"/>
+          <xs:enumeration value="false"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-lspace">
+    <xs:attribute name="lspace"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-rspace">
+    <xs:attribute name="rspace"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-stretchy">
+    <xs:attribute name="stretchy">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="true"/>
+          <xs:enumeration value="false"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-symmetric">
+    <xs:attribute name="symmetric">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="true"/>
+          <xs:enumeration value="false"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-maxsize">
+    <xs:attribute name="maxsize"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-minsize">
+    <xs:attribute name="minsize"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-largeop">
+    <xs:attribute name="largeop">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="true"/>
+          <xs:enumeration value="false"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-movablelimits">
+    <xs:attribute name="movablelimits">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="true"/>
+          <xs:enumeration value="false"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-accent">
+    <xs:attribute name="accent">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="true"/>
+          <xs:enumeration value="false"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-opinfo">
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-form"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-fence"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-separator"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-lspace"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-rspace"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-stretchy"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-symmetric"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-maxsize"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-minsize"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-largeop"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-movablelimits"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-accent"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-width">
+    <xs:attribute name="width"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-height">
+    <xs:attribute name="height"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-depth">
+    <xs:attribute name="depth"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-linebreak">
+    <xs:attribute name="linebreak"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-sizeinfo">
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-width"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-height"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-depth"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-lquote">
+    <xs:attribute name="lquote"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-rquote">
+    <xs:attribute name="rquote"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-linethickness">
+    <xs:attribute name="linethickness"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-scriptlevel">
+    <xs:attribute name="scriptlevel"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-displaystyle">
+    <xs:attribute name="displaystyle">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="true"/>
+          <xs:enumeration value="false"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-scriptsizemultiplier">
+    <xs:attribute name="scriptsizemultiplier"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-scriptminsize">
+    <xs:attribute name="scriptminsize"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-background">
+    <xs:attribute name="background"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-veryverythinmathspace">
+    <xs:attribute name="veryverythinmathspace"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-verythinmathspace">
+    <xs:attribute name="verythinmathspace"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-thinmathspace">
+    <xs:attribute name="thinmathspace"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-mediummathspace">
+    <xs:attribute name="mediummathspace"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-thickmathspace">
+    <xs:attribute name="thickmathspace"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-verythickmathspace">
+    <xs:attribute name="verythickmathspace"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-veryverythickmathspace">
+    <xs:attribute name="veryverythickmathspace"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-open">
+    <xs:attribute name="open"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-close">
+    <xs:attribute name="close"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-separators">
+    <xs:attribute name="separators"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-subscriptshift">
+    <xs:attribute name="subscriptshift"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-superscriptshift">
+    <xs:attribute name="superscriptshift"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-accentunder">
+    <xs:attribute name="accentunder">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="true"/>
+          <xs:enumeration value="false"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-align">
+    <xs:attribute name="align"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-numalign">
+    <xs:attribute name="numalign"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-denomalign">
+    <xs:attribute name="denomalign"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-rowalign">
+    <xs:attribute name="rowalign"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-columnalign">
+    <xs:attribute name="columnalign"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-columnwidth">
+    <xs:attribute name="columnwidth"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-groupalign">
+    <xs:attribute name="groupalign"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-alignmentscope">
+    <xs:attribute name="alignmentscope"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-rowspacing">
+    <xs:attribute name="rowspacing"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-columnspacing">
+    <xs:attribute name="columnspacing"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-rowlines">
+    <xs:attribute name="rowlines"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-columnlines">
+    <xs:attribute name="columnlines"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-frame">
+    <xs:attribute name="frame">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="none"/>
+          <xs:enumeration value="solid"/>
+          <xs:enumeration value="dashed"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-side">
+    <xs:attribute name="side">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="left"/>
+          <xs:enumeration value="right"/>
+          <xs:enumeration value="leftoverlap"/>
+          <xs:enumeration value="rightoverlap"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-framespacing">
+    <xs:attribute name="framespacing"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-equalrows">
+    <xs:attribute name="equalrows"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-equalcolumns">
+    <xs:attribute name="equalcolumns"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-tableinfo">
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-align"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-rowalign"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-columnalign"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-columnwidth"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-groupalign"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-alignmentscope"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-side"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-rowspacing"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-columnspacing"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-rowlines"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-columnlines"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-width"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-frame"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-framespacing"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-equalrows"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-equalcolumns"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-displaystyle"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-rowspan">
+    <xs:attribute name="rowspan"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-columnspan">
+    <xs:attribute name="columnspan"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-edge">
+    <xs:attribute name="edge">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="left"/>
+          <xs:enumeration value="right"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-actiontype">
+    <xs:attribute name="actiontype"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-selection">
+    <xs:attribute name="selection"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-name">
+    <xs:attribute name="name"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-alt">
+    <xs:attribute name="alt"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-index">
+    <xs:attribute name="index"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-bevelled">
+    <xs:attribute name="bevelled"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.ptoken" abstract="true"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-mi">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-fontinfo"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-mn">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-fontinfo"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-mo">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-fontinfo"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-opinfo"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-mtext">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-fontinfo"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-ms">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-fontinfo"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-lquote"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-rquote"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.petoken" abstract="true">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mspace"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mspace" substitutionGroup="mathml:PHIL_MML.petoken"/>
+  <xs:group name="PHIL_MML.any">
+    <xs:sequence>
+      <xs:choice minOccurs="0">
+        <xs:element ref="mathml:mspace"/>
+        <xs:element ref="mathml:mprescripts"/>
+        <xs:element ref="mathml:none"/>
+        <xs:element ref="mathml:malignmark"/>
+        <xs:element ref="mathml:maligngroup"/>
+        <xs:element ref="mathml:mglyph"/>
+        <xs:element ref="mathml:sep"/>
+        <xs:element ref="mathml:integers"/>
+        <xs:element ref="mathml:reals"/>
+        <xs:element ref="mathml:rationals"/>
+        <xs:element ref="mathml:naturalnumbers"/>
+        <xs:element ref="mathml:complexes"/>
+        <xs:element ref="mathml:primes"/>
+        <xs:element ref="mathml:exponentiale"/>
+        <xs:element ref="mathml:imaginaryi"/>
+        <xs:element ref="mathml:notanumber"/>
+        <xs:element ref="mathml:true"/>
+        <xs:element ref="mathml:false"/>
+        <xs:element ref="mathml:emptyset"/>
+        <xs:element ref="mathml:pi"/>
+        <xs:element ref="mathml:eulergamma"/>
+        <xs:element ref="mathml:infinity"/>
+        <xs:element ref="mathml:inverse"/>
+        <xs:element ref="mathml:domain"/>
+        <xs:element ref="mathml:codomain"/>
+        <xs:element ref="mathml:image"/>
+        <xs:element ref="mathml:ident"/>
+        <xs:element ref="mathml:compose"/>
+        <xs:element ref="mathml:exp"/>
+        <xs:element ref="mathml:abs"/>
+        <xs:element ref="mathml:arg"/>
+        <xs:element ref="mathml:real"/>
+        <xs:element ref="mathml:imaginary"/>
+        <xs:element ref="mathml:conjugate"/>
+        <xs:element ref="mathml:factorial"/>
+        <xs:element ref="mathml:floor"/>
+        <xs:element ref="mathml:ceiling"/>
+        <xs:element ref="mathml:minus"/>
+        <xs:element ref="mathml:quotient"/>
+        <xs:element ref="mathml:divide"/>
+        <xs:element ref="mathml:power"/>
+        <xs:element ref="mathml:rem"/>
+        <xs:element ref="mathml:plus"/>
+        <xs:element ref="mathml:max"/>
+        <xs:element ref="mathml:min"/>
+        <xs:element ref="mathml:times"/>
+        <xs:element ref="mathml:gcd"/>
+        <xs:element ref="mathml:lcm"/>
+        <xs:element ref="mathml:root"/>
+        <xs:element ref="mathml:exists"/>
+        <xs:element ref="mathml:forall"/>
+        <xs:element ref="mathml:and"/>
+        <xs:element ref="mathml:or"/>
+        <xs:element ref="mathml:xor"/>
+        <xs:element ref="mathml:not"/>
+        <xs:element ref="mathml:implies"/>
+        <xs:element ref="mathml:divergence"/>
+        <xs:element ref="mathml:grad"/>
+        <xs:element ref="mathml:curl"/>
+        <xs:element ref="mathml:laplacian"/>
+        <xs:element ref="mathml:log"/>
+        <xs:element ref="mathml:int"/>
+        <xs:element ref="mathml:diff"/>
+        <xs:element ref="mathml:partialdiff"/>
+        <xs:element ref="mathml:ln"/>
+        <xs:element ref="mathml:card"/>
+        <xs:element ref="mathml:setdiff"/>
+        <xs:element ref="mathml:union"/>
+        <xs:element ref="mathml:intersect"/>
+        <xs:element ref="mathml:cartesianproduct"/>
+        <xs:element ref="mathml:sum"/>
+        <xs:element ref="mathml:product"/>
+        <xs:element ref="mathml:limit"/>
+        <xs:element ref="mathml:sin"/>
+        <xs:element ref="mathml:cos"/>
+        <xs:element ref="mathml:tan"/>
+        <xs:element ref="mathml:sec"/>
+        <xs:element ref="mathml:csc"/>
+        <xs:element ref="mathml:cot"/>
+        <xs:element ref="mathml:sinh"/>
+        <xs:element ref="mathml:cosh"/>
+        <xs:element ref="mathml:tanh"/>
+        <xs:element ref="mathml:sech"/>
+        <xs:element ref="mathml:csch"/>
+        <xs:element ref="mathml:coth"/>
+        <xs:element ref="mathml:arcsin"/>
+        <xs:element ref="mathml:arccos"/>
+        <xs:element ref="mathml:arctan"/>
+        <xs:element ref="mathml:arccosh"/>
+        <xs:element ref="mathml:arccot"/>
+        <xs:element ref="mathml:arccoth"/>
+        <xs:element ref="mathml:arccsc"/>
+        <xs:element ref="mathml:arccsch"/>
+        <xs:element ref="mathml:arcsec"/>
+        <xs:element ref="mathml:arcsech"/>
+        <xs:element ref="mathml:arcsinh"/>
+        <xs:element ref="mathml:arctanh"/>
+        <xs:element ref="mathml:mean"/>
+        <xs:element ref="mathml:sdev"/>
+        <xs:element ref="mathml:variance"/>
+        <xs:element ref="mathml:median"/>
+        <xs:element ref="mathml:mode"/>
+        <xs:element ref="mathml:moment"/>
+        <xs:element ref="mathml:determinant"/>
+        <xs:element ref="mathml:transpose"/>
+        <xs:element ref="mathml:vectorproduct"/>
+        <xs:element ref="mathml:scalarproduct"/>
+        <xs:element ref="mathml:outerproduct"/>
+        <xs:element ref="mathml:selector"/>
+        <xs:element ref="mathml:neq"/>
+        <xs:element ref="mathml:factorof"/>
+        <xs:element ref="mathml:eq"/>
+        <xs:element ref="mathml:equivalent"/>
+        <xs:element ref="mathml:approx"/>
+        <xs:element ref="mathml:gt"/>
+        <xs:element ref="mathml:lt"/>
+        <xs:element ref="mathml:geq"/>
+        <xs:element ref="mathml:leq"/>
+        <xs:element ref="mathml:in"/>
+        <xs:element ref="mathml:notin"/>
+        <xs:element ref="mathml:notsubset"/>
+        <xs:element ref="mathml:notprsubset"/>
+        <xs:element ref="mathml:subset"/>
+        <xs:element ref="mathml:prsubset"/>
+        <xs:element ref="mathml:tendsto"/>
+        <xs:element ref="mathml:ci"/>
+        <xs:element ref="mathml:csymbol"/>
+        <xs:element ref="mathml:cn"/>
+        <xs:element ref="mathml:apply"/>
+        <xs:element ref="mathml:reln"/>
+        <xs:element ref="mathml:lambda"/>
+        <xs:element ref="mathml:condition"/>
+        <xs:element ref="mathml:declare"/>
+        <xs:element ref="mathml:semantics"/>
+        <xs:element ref="mathml:annotation"/>
+        <xs:element ref="mathml:annotation-xml"/>
+        <xs:element ref="mathml:interval"/>
+        <xs:element ref="mathml:set"/>
+        <xs:element ref="mathml:list"/>
+        <xs:element ref="mathml:vector"/>
+        <xs:element ref="mathml:matrix"/>
+        <xs:element ref="mathml:matrixrow"/>
+        <xs:element ref="mathml:piecewise"/>
+        <xs:element ref="mathml:piece"/>
+        <xs:element ref="mathml:otherwise"/>
+        <xs:element ref="mathml:fn"/>
+        <xs:element ref="mathml:lowlimit"/>
+        <xs:element ref="mathml:uplimit"/>
+        <xs:element ref="mathml:bvar"/>
+        <xs:element ref="mathml:degree"/>
+        <xs:element ref="mathml:logbase"/>
+        <xs:element ref="mathml:momentabout"/>
+        <xs:element ref="mathml:domainofapplication"/>
+        <xs:element ref="mathml:mstyle"/>
+        <xs:element ref="mathml:merror"/>
+        <xs:element ref="mathml:mphantom"/>
+        <xs:element ref="mathml:mrow"/>
+        <xs:element ref="mathml:mfrac"/>
+        <xs:element ref="mathml:msqrt"/>
+        <xs:element ref="mathml:menclose"/>
+        <xs:element ref="mathml:mroot"/>
+        <xs:element ref="mathml:msub"/>
+        <xs:element ref="mathml:msup"/>
+        <xs:element ref="mathml:msubsup"/>
+        <xs:element ref="mathml:mmultiscripts"/>
+        <xs:element ref="mathml:munder"/>
+        <xs:element ref="mathml:mover"/>
+        <xs:element ref="mathml:munderover"/>
+        <xs:element ref="mathml:mtable"/>
+        <xs:element ref="mathml:mtr"/>
+        <xs:element ref="mathml:mlabeledtr"/>
+        <xs:element ref="mathml:mtd"/>
+        <xs:element ref="mathml:maction"/>
+        <xs:element ref="mathml:mfenced"/>
+        <xs:element ref="mathml:mpadded"/>
+        <xs:element ref="mathml:mi"/>
+        <xs:element ref="mathml:mn"/>
+        <xs:element ref="mathml:mo"/>
+        <xs:element ref="mathml:mtext"/>
+        <xs:element ref="mathml:ms"/>
+        <xs:element ref="mathml:math"/>
+      </xs:choice>
+    </xs:sequence>
+  </xs:group>
+  <xs:attributeGroup name="PHIL_MML.attlist-mspace">
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-sizeinfo"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-linebreak"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.pgenschema" abstract="true" substitutionGroup="mathml:PHIL_MML.plschema"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-mrow">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-mfrac">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-bevelled"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-numalign"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-denomalign"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-linethickness"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-msqrt">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-menclose">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attribute name="notation" default="longdiv"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-mroot">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-mstyle">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-fontinfo"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-opinfo"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-lquote"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-rquote"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-linethickness"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-scriptlevel"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-scriptsizemultiplier"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-scriptminsize"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-background"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-veryverythinmathspace"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-verythinmathspace"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-thinmathspace"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-mediummathspace"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-thickmathspace"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-verythickmathspace"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-veryverythickmathspace"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-open"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-close"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-separators"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-subscriptshift"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-superscriptshift"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-accentunder"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-tableinfo"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-rowspan"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-columnspan"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-edge"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-actiontype"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-selection"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-merror">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-mpadded">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-sizeinfo"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-lspace"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-mphantom">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-mfenced">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-open"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-close"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-separators"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.pscrschema" abstract="true" substitutionGroup="mathml:PHIL_MML.plschema"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-msub">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-subscriptshift"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-msup">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-superscriptshift"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-msubsup">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-subscriptshift"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-superscriptshift"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-munder">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-accentunder"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-mover">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-accent"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-munderover">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-accent"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-accentunder"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-mmultiscripts">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-subscriptshift"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-superscriptshift"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.pscreschema" abstract="true">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="mprescripts" substitutionGroup="mathml:PHIL_MML.pscreschema"/>
+  <xs:element name="none" substitutionGroup="mathml:PHIL_MML.pscreschema"/>
+  <xs:element name="PHIL_MML.ptabschema" abstract="true" substitutionGroup="mathml:PHIL_MML.plschema"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-mtable">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-tableinfo"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-mtr">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-rowalign"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-columnalign"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-groupalign"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-mlabeledtr">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-rowalign"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-columnalign"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-groupalign"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-mtd">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-rowalign"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-columnalign"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-groupalign"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-rowspan"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-columnspan"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.plschema" abstract="true"/>
+  <xs:element name="PHIL_MML.peschema" abstract="true"/>
+  <xs:element name="malignmark" substitutionGroup="mathml:PHIL_MML.peschema">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-malignmark"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-malignmark">
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-edge"/>
+  </xs:attributeGroup>
+  <xs:element name="maligngroup" substitutionGroup="mathml:PHIL_MML.peschema">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-maligngroup"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-maligngroup">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-groupalign"/>
+  </xs:attributeGroup>
+  <xs:element name="mglyph">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mglyph"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-mglyph">
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-alt"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-fontfamily"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-index"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.pactions" abstract="true">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-maction"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-maction">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-actiontype"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-selection"/>
+  </xs:attributeGroup>
+  <xs:group name="PHIL_MML.PresInCont">
+    <xs:annotation>
+      <xs:documentation>
+      The following entity for substitution into
+      content constructs excludes elements that
+      are not valid as expressions.
+    </xs:documentation>
+    </xs:annotation>
+    <xs:choice>
+      <xs:element ref="mathml:PHIL_MML.ptoken"/>
+      <xs:element ref="mathml:PHIL_MML.petoken"/>
+      <xs:element ref="mathml:PHIL_MML.plschema"/>
+      <xs:element ref="mathml:PHIL_MML.peschema"/>
+      <xs:element ref="mathml:PHIL_MML.pactions"/>
+    </xs:choice>
+  </xs:group>
+  <xs:group name="PHIL_MML.Presentation">
+    <xs:annotation>
+      <xs:documentation>
+      Presentation entity: all presentation constructs
+    </xs:documentation>
+    </xs:annotation>
+    <xs:choice>
+      <xs:element ref="mathml:PHIL_MML.ptoken"/>
+      <xs:element ref="mathml:PHIL_MML.petoken"/>
+      <xs:element ref="mathml:PHIL_MML.pscreschema"/>
+      <xs:element ref="mathml:PHIL_MML.plschema"/>
+      <xs:element ref="mathml:PHIL_MML.peschema"/>
+      <xs:element ref="mathml:PHIL_MML.pactions"/>
+    </xs:choice>
+  </xs:group>
+  <xs:attributeGroup name="PHIL_MML.att-base">
+    <xs:attribute name="base" default="10"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-closure">
+    <xs:attribute name="closure" default="closed"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-definition">
+    <xs:attribute name="definitionURL" default=""/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-encoding">
+    <xs:attribute name="encoding" default=""/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-nargs">
+    <xs:attribute name="nargs" default="1"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-occurrence">
+    <xs:attribute name="occurrence" default="function-model"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-order">
+    <xs:attribute name="order" default="numeric"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-scope">
+    <xs:attribute name="scope" default="local"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-type">
+    <xs:attribute name="type"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.ctoken" abstract="true" substitutionGroup="mathml:PHIL_MML.Content"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-ci">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-type"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-csymbol">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-type"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-cn">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-type"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-base"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.cspecial" abstract="true" substitutionGroup="mathml:PHIL_MML.Content"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-apply">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-reln">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-lambda">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.cother" abstract="true" substitutionGroup="mathml:PHIL_MML.Content"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-condition">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-declare">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-type"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-scope"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-nargs"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-occurrence"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="sep" substitutionGroup="mathml:PHIL_MML.cother">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="PHIL_MML.csemantics" abstract="true" substitutionGroup="mathml:PHIL_MML.Content"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-semantics">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-annotation">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-annotation-xml">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.cconstructor" abstract="true" substitutionGroup="mathml:PHIL_MML.Content"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-interval">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-closure"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-set">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-type"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-list">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-order"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-vector">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-matrix">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-matrixrow">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-piecewise">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-piece">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-otherwise">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.c0ary" abstract="true" substitutionGroup="mathml:PHIL_MML.Content"/>
+  <xs:element name="integers" substitutionGroup="mathml:PHIL_MML.c0ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-integers"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-integers">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="reals" substitutionGroup="mathml:PHIL_MML.c0ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-reals"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-reals">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="rationals" substitutionGroup="mathml:PHIL_MML.c0ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-rationals"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-rationals">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="naturalnumbers" substitutionGroup="mathml:PHIL_MML.c0ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-naturalnumbers"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-naturalnumbers">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="complexes" substitutionGroup="mathml:PHIL_MML.c0ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-complexes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-complexes">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="primes" substitutionGroup="mathml:PHIL_MML.c0ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-primes"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-primes">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="exponentiale" substitutionGroup="mathml:PHIL_MML.c0ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-exponentiale"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-exponentiale">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="imaginaryi" substitutionGroup="mathml:PHIL_MML.c0ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-imaginaryi"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-imaginaryi">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="notanumber" substitutionGroup="mathml:PHIL_MML.c0ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-notanumber"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-notanumber">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="true" substitutionGroup="mathml:PHIL_MML.c0ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-true"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-true">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="false" substitutionGroup="mathml:PHIL_MML.c0ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-false"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-false">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="emptyset" substitutionGroup="mathml:PHIL_MML.c0ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-emptyset"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-emptyset">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="pi" substitutionGroup="mathml:PHIL_MML.c0ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-pi"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-pi">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="eulergamma" substitutionGroup="mathml:PHIL_MML.c0ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-eulergamma"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-eulergamma">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="infinity" substitutionGroup="mathml:PHIL_MML.c0ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-infinity"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-infinity">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.cfuncop1ary" abstract="true" substitutionGroup="mathml:PHIL_MML.cop1ary"/>
+  <xs:element name="inverse" substitutionGroup="mathml:PHIL_MML.cfuncop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-inverse"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-inverse">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="domain" substitutionGroup="mathml:PHIL_MML.cfuncop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-domain"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-domain">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="codomain" substitutionGroup="mathml:PHIL_MML.cfuncop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-codomain"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-codomain">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="image" substitutionGroup="mathml:PHIL_MML.cfuncop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-image"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-image">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.cfuncopnary" abstract="true" substitutionGroup="mathml:PHIL_MML.copnary"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-fn">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="ident" substitutionGroup="mathml:PHIL_MML.cfuncop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-ident"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-ident">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="compose" substitutionGroup="mathml:PHIL_MML.cfuncopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-compose"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-compose">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.carithop1ary" abstract="true" substitutionGroup="mathml:PHIL_MML.cop1ary"/>
+  <xs:element name="exp" substitutionGroup="mathml:PHIL_MML.carithop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-exp"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-exp">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="abs" substitutionGroup="mathml:PHIL_MML.carithop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-abs"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-abs">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="arg" substitutionGroup="mathml:PHIL_MML.carithop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-arg"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-arg">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="real" substitutionGroup="mathml:PHIL_MML.carithop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-real"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-real">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="imaginary" substitutionGroup="mathml:PHIL_MML.carithop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-imaginary"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-imaginary">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="conjugate" substitutionGroup="mathml:PHIL_MML.carithop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-conjugate"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-conjugate">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="factorial" substitutionGroup="mathml:PHIL_MML.carithop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-factorial"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-factorial">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="floor" substitutionGroup="mathml:PHIL_MML.carithop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-floor"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-floor">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="ceiling" substitutionGroup="mathml:PHIL_MML.carithop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-ceiling"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-ceiling">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.carithop1or2ary" abstract="true" substitutionGroup="mathml:PHIL_MML.copmisc">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-minus"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="minus" substitutionGroup="mathml:PHIL_MML.carithop1or2ary"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-minus">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.carithop2ary" abstract="true" substitutionGroup="mathml:PHIL_MML.cop2ary"/>
+  <xs:element name="quotient" substitutionGroup="mathml:PHIL_MML.carithop2ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-quotient"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-quotient">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="divide" substitutionGroup="mathml:PHIL_MML.carithop2ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-divide"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-divide">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="power" substitutionGroup="mathml:PHIL_MML.carithop2ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-power"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-power">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="rem" substitutionGroup="mathml:PHIL_MML.carithop2ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-rem"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-rem">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.carithopnary" abstract="true" substitutionGroup="mathml:PHIL_MML.copnary"/>
+  <xs:element name="plus" substitutionGroup="mathml:PHIL_MML.carithopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-plus"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-plus">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="max" substitutionGroup="mathml:PHIL_MML.carithopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-max"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-max">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="min" substitutionGroup="mathml:PHIL_MML.carithopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-min"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-min">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="times" substitutionGroup="mathml:PHIL_MML.carithopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-times"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-times">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="gcd" substitutionGroup="mathml:PHIL_MML.carithopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-gcd"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-gcd">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="lcm" substitutionGroup="mathml:PHIL_MML.carithopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-lcm"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-lcm">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.carithoproot" abstract="true" substitutionGroup="mathml:PHIL_MML.copmisc">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-root"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="root" substitutionGroup="mathml:PHIL_MML.carithoproot"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-root">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.clogicopquant" abstract="true" substitutionGroup="mathml:PHIL_MML.copmisc"/>
+  <xs:element name="exists" substitutionGroup="mathml:PHIL_MML.clogicopquant">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-exists"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-exists">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="forall" substitutionGroup="mathml:PHIL_MML.clogicopquant">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-forall"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-forall">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.clogicopnary" abstract="true" substitutionGroup="mathml:PHIL_MML.copnary"/>
+  <xs:element name="and" substitutionGroup="mathml:PHIL_MML.clogicopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-and"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-and">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="or" substitutionGroup="mathml:PHIL_MML.clogicopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-or"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-or">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="xor" substitutionGroup="mathml:PHIL_MML.clogicopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-xor"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-xor">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.clogicop1ary" abstract="true" substitutionGroup="mathml:PHIL_MML.cop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-not"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="not" substitutionGroup="mathml:PHIL_MML.clogicop1ary"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-not">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.clogicop2ary" abstract="true" substitutionGroup="mathml:PHIL_MML.cop2ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-implies"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="implies" substitutionGroup="mathml:PHIL_MML.clogicop2ary"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-implies">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.ccalcop" abstract="true" substitutionGroup="mathml:PHIL_MML.copmisc"/>
+  <xs:element name="divergence" substitutionGroup="mathml:PHIL_MML.ccalcop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-divergence"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-divergence">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="grad" substitutionGroup="mathml:PHIL_MML.ccalcop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-grad"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-grad">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="curl" substitutionGroup="mathml:PHIL_MML.ccalcop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-curl"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-curl">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="laplacian" substitutionGroup="mathml:PHIL_MML.ccalcop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-laplacian"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-laplacian">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="log" substitutionGroup="mathml:PHIL_MML.ccalcop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-log"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-log">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="int" substitutionGroup="mathml:PHIL_MML.ccalcop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-int"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-int">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="diff" substitutionGroup="mathml:PHIL_MML.ccalcop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-diff"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-diff">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="partialdiff" substitutionGroup="mathml:PHIL_MML.ccalcop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-partialdiff"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-partialdiff">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.ccalcop1ary" abstract="true" substitutionGroup="mathml:PHIL_MML.cop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-ln"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ln" substitutionGroup="mathml:PHIL_MML.ccalcop1ary"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-ln">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.csetop1ary" abstract="true" substitutionGroup="mathml:PHIL_MML.cop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-card"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="card" substitutionGroup="mathml:PHIL_MML.csetop1ary"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-card">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.csetop2ary" abstract="true" substitutionGroup="mathml:PHIL_MML.cop2ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-setdiff"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setdiff" substitutionGroup="mathml:PHIL_MML.csetop2ary"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-setdiff">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.csetopnary" abstract="true" substitutionGroup="mathml:PHIL_MML.copnary"/>
+  <xs:element name="union" substitutionGroup="mathml:PHIL_MML.csetopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-union"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-union">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="intersect" substitutionGroup="mathml:PHIL_MML.csetopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-intersect"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-intersect">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="cartesianproduct" substitutionGroup="mathml:PHIL_MML.csetopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-cartesianproduct"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-cartesianproduct">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.cseqop" abstract="true" substitutionGroup="mathml:PHIL_MML.copmisc"/>
+  <xs:element name="sum" substitutionGroup="mathml:PHIL_MML.cseqop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-sum"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-sum">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="product" substitutionGroup="mathml:PHIL_MML.cseqop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-product"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-product">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="limit" substitutionGroup="mathml:PHIL_MML.cseqop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-limit"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-limit">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.ctrigop" abstract="true" substitutionGroup="mathml:PHIL_MML.cop1ary"/>
+  <xs:element name="sin" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-sin"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-sin">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="cos" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-cos"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-cos">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="tan" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-tan"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-tan">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="sec" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-sec"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-sec">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="csc" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-csc"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-csc">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="cot" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-cot"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-cot">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="sinh" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-sinh"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-sinh">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="cosh" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-cosh"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-cosh">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="tanh" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-tanh"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-tanh">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="sech" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-sech"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-sech">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="csch" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-csch"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-csch">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="coth" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-coth"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-coth">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="arcsin" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-arcsin"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-arcsin">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="arccos" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-arccos"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-arccos">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="arctan" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-arctan"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-arctan">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="arccosh" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-arccosh"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-arccosh">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="arccot" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-arccot"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-arccot">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="arccoth" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-arccoth"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-arccoth">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="arccsc" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-arccsc"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-arccsc">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="arccsch" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-arccsch"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-arccsch">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="arcsec" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-arcsec"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-arcsec">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="arcsech" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-arcsech"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-arcsech">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="arcsinh" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-arcsinh"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-arcsinh">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="arctanh" substitutionGroup="mathml:PHIL_MML.ctrigop">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-arctanh"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-arctanh">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.cstatopnary" abstract="true" substitutionGroup="mathml:PHIL_MML.copnary"/>
+  <xs:element name="mean" substitutionGroup="mathml:PHIL_MML.cstatopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mean"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-mean">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="sdev" substitutionGroup="mathml:PHIL_MML.cstatopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-sdev"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-sdev">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="variance" substitutionGroup="mathml:PHIL_MML.cstatopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-variance"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-variance">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="median" substitutionGroup="mathml:PHIL_MML.cstatopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-median"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-median">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="mode" substitutionGroup="mathml:PHIL_MML.cstatopnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mode"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-mode">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.cstatopmoment" abstract="true" substitutionGroup="mathml:PHIL_MML.copmisc">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-moment"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="moment" substitutionGroup="mathml:PHIL_MML.cstatopmoment"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-moment">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.clalgop1ary" abstract="true" substitutionGroup="mathml:PHIL_MML.cop1ary"/>
+  <xs:element name="determinant" substitutionGroup="mathml:PHIL_MML.clalgop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-determinant"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-determinant">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="transpose" substitutionGroup="mathml:PHIL_MML.clalgop1ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-transpose"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-transpose">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.clalgop2ary" abstract="true" substitutionGroup="mathml:PHIL_MML.cop2ary"/>
+  <xs:element name="vectorproduct" substitutionGroup="mathml:PHIL_MML.clalgop2ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-vectorproduct"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-vectorproduct">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="scalarproduct" substitutionGroup="mathml:PHIL_MML.clalgop2ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-scalarproduct"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-scalarproduct">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="outerproduct" substitutionGroup="mathml:PHIL_MML.clalgop2ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-outerproduct"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-outerproduct">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.clalgopnary" abstract="true" substitutionGroup="mathml:PHIL_MML.copnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-selector"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selector" substitutionGroup="mathml:PHIL_MML.clalgopnary"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-selector">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.cgenrel2ary" abstract="true" substitutionGroup="mathml:PHIL_MML.crel2ary"/>
+  <xs:element name="neq" substitutionGroup="mathml:PHIL_MML.cgenrel2ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-neq"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-neq">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="factorof" substitutionGroup="mathml:PHIL_MML.cgenrel2ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-factorof"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-factorof">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.cgenrelnary" abstract="true" substitutionGroup="mathml:PHIL_MML.crelnary"/>
+  <xs:element name="eq" substitutionGroup="mathml:PHIL_MML.cgenrelnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-eq"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-eq">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="equivalent" substitutionGroup="mathml:PHIL_MML.cgenrelnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-equivalent"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-equivalent">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="approx" substitutionGroup="mathml:PHIL_MML.cgenrelnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-approx"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-approx">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="gt" substitutionGroup="mathml:PHIL_MML.cgenrelnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-gt"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-gt">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="lt" substitutionGroup="mathml:PHIL_MML.cgenrelnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-lt"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-lt">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="geq" substitutionGroup="mathml:PHIL_MML.cgenrelnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-geq"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-geq">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="leq" substitutionGroup="mathml:PHIL_MML.cgenrelnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-leq"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-leq">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.csetrel2ary" abstract="true" substitutionGroup="mathml:PHIL_MML.crel2ary"/>
+  <xs:element name="in" substitutionGroup="mathml:PHIL_MML.csetrel2ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-in"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-in">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="notin" substitutionGroup="mathml:PHIL_MML.csetrel2ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-notin"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-notin">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="notsubset" substitutionGroup="mathml:PHIL_MML.csetrel2ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-notsubset"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-notsubset">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="notprsubset" substitutionGroup="mathml:PHIL_MML.csetrel2ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-notprsubset"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-notprsubset">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.csetrelnary" abstract="true" substitutionGroup="mathml:PHIL_MML.crelnary"/>
+  <xs:element name="subset" substitutionGroup="mathml:PHIL_MML.csetrelnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-subset"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-subset">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="prsubset" substitutionGroup="mathml:PHIL_MML.csetrelnary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-prsubset"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.attlist-prsubset">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.cseqrel2ary" abstract="true" substitutionGroup="mathml:PHIL_MML.crel2ary">
+    <xs:complexType>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-tendsto"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="tendsto" substitutionGroup="mathml:PHIL_MML.cseqrel2ary"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-tendsto">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-definition"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-encoding"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-type"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.cquantifier" abstract="true" substitutionGroup="mathml:PHIL_MML.Content"/>
+  <xs:attributeGroup name="PHIL_MML.attlist-lowlimit">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-uplimit">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-bvar">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-degree">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-logbase">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-momentabout">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-domainofapplication">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+  </xs:attributeGroup>
+  <xs:element name="PHIL_MML.cop1ary" abstract="true" substitutionGroup="mathml:PHIL_MML.Content"/>
+  <xs:element name="PHIL_MML.cop2ary" abstract="true" substitutionGroup="mathml:PHIL_MML.Content"/>
+  <xs:element name="PHIL_MML.copnary" abstract="true" substitutionGroup="mathml:PHIL_MML.Content"/>
+  <xs:element name="PHIL_MML.copmisc" abstract="true" substitutionGroup="mathml:PHIL_MML.Content"/>
+  <xs:element name="PHIL_MML.crel2ary" abstract="true" substitutionGroup="mathml:PHIL_MML.Content"/>
+  <xs:element name="PHIL_MML.crelnary" abstract="true" substitutionGroup="mathml:PHIL_MML.Content"/>
+  <xs:element name="PHIL_MML.Content" abstract="true">
+    <xs:annotation>
+      <xs:documentation>
+      Content constructs: all
+    </xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:group name="PHIL_MML.ContInPres">
+    <xs:annotation>
+      <xs:documentation>
+      Content constructs for substitution in presentation structures
+    </xs:documentation>
+    </xs:annotation>
+    <xs:choice>
+      <xs:element ref="mathml:ci"/>
+      <xs:element ref="mathml:csymbol"/>
+      <xs:element ref="mathml:cn"/>
+      <xs:element ref="mathml:PHIL_MML.c0ary"/>
+      <xs:element ref="mathml:apply"/>
+      <xs:element ref="mathml:fn"/>
+      <xs:element ref="mathml:lambda"/>
+      <xs:element ref="mathml:reln"/>
+      <xs:element ref="mathml:PHIL_MML.cconstructor"/>
+      <xs:element ref="mathml:semantics"/>
+      <xs:element ref="mathml:declare"/>
+    </xs:choice>
+  </xs:group>
+  <xs:complexType name="PHIL_MML.ContentExpression">
+    <xs:choice minOccurs="0" maxOccurs="unbounded">
+      <xs:element ref="mathml:PHIL_MML.Content"/>
+      <xs:group ref="mathml:PHIL_MML.PresInCont"/>
+    </xs:choice>
+  </xs:complexType>
+  <xs:complexType name="PHIL_MML.PresExpression">
+    <xs:choice minOccurs="0" maxOccurs="unbounded">
+      <xs:group ref="mathml:PHIL_MML.Presentation"/>
+      <xs:group ref="mathml:PHIL_MML.ContInPres"/>
+    </xs:choice>
+  </xs:complexType>
+  <xs:complexType name="PHIL_MML.MathExpression">
+    <xs:choice minOccurs="0" maxOccurs="unbounded">
+      <xs:group ref="mathml:PHIL_MML.PresInCont"/>
+      <xs:group ref="mathml:PHIL_MML.ContInPres"/>
+    </xs:choice>
+  </xs:complexType>
+  <xs:group name="PHIL_MML.MathMLCharacters">
+    <xs:annotation>
+      <xs:documentation>
+      PCDATA or MathML character elements
+    </xs:documentation>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element minOccurs="0" ref="mathml:mglyph"/>
+    </xs:sequence>
+  </xs:group>
+  <xs:element name="ci" substitutionGroup="mathml:PHIL_MML.ctoken">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:group ref="mathml:PHIL_MML.MathMLCharacters"/>
+        <xs:group ref="mathml:PHIL_MML.PresInCont"/>
+      </xs:choice>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-ci"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="csymbol" substitutionGroup="mathml:PHIL_MML.ctoken">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:group ref="mathml:PHIL_MML.MathMLCharacters"/>
+        <xs:group ref="mathml:PHIL_MML.PresInCont"/>
+      </xs:choice>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-csymbol"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cn" substitutionGroup="mathml:PHIL_MML.ctoken">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:group ref="mathml:PHIL_MML.MathMLCharacters"/>
+        <xs:element ref="mathml:sep"/>
+        <xs:group ref="mathml:PHIL_MML.PresInCont"/>
+      </xs:choice>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-cn"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="apply" substitutionGroup="mathml:PHIL_MML.cspecial">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-apply"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="reln" substitutionGroup="mathml:PHIL_MML.cspecial">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-reln"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="lambda" substitutionGroup="mathml:PHIL_MML.cspecial">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-lambda"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="condition" substitutionGroup="mathml:PHIL_MML.cother">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-condition"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="declare" substitutionGroup="mathml:PHIL_MML.cother">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-declare"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="semantics" substitutionGroup="mathml:PHIL_MML.csemantics">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-semantics"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="annotation" substitutionGroup="mathml:PHIL_MML.csemantics">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-annotation"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="annotation-xml" substitutionGroup="mathml:PHIL_MML.csemantics">
+    <xs:complexType mixed="true">
+      <xs:group minOccurs="0" maxOccurs="unbounded" ref="mathml:PHIL_MML.any"/>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-annotation-xml"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="interval" substitutionGroup="mathml:PHIL_MML.cconstructor">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-interval"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="set" substitutionGroup="mathml:PHIL_MML.cconstructor">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-set"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="list" substitutionGroup="mathml:PHIL_MML.cconstructor">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-list"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="vector" substitutionGroup="mathml:PHIL_MML.cconstructor">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-vector"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="matrix" substitutionGroup="mathml:PHIL_MML.cconstructor">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-matrix"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="matrixrow" substitutionGroup="mathml:PHIL_MML.cconstructor">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-matrixrow"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="piecewise" substitutionGroup="mathml:PHIL_MML.cconstructor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="mathml:piece"/>
+        <xs:element minOccurs="0" ref="mathml:otherwise"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-piecewise"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="piece">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-piece"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="otherwise">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-otherwise"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="fn" substitutionGroup="mathml:PHIL_MML.cfuncopnary">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-fn"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="lowlimit" substitutionGroup="mathml:PHIL_MML.cquantifier">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-lowlimit"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="uplimit" substitutionGroup="mathml:PHIL_MML.cquantifier">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-uplimit"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="bvar" substitutionGroup="mathml:PHIL_MML.cquantifier">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-bvar"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="degree" substitutionGroup="mathml:PHIL_MML.cquantifier">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-degree"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="logbase" substitutionGroup="mathml:PHIL_MML.cquantifier">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-logbase"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="momentabout" substitutionGroup="mathml:PHIL_MML.cquantifier">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-momentabout"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="domainofapplication" substitutionGroup="mathml:PHIL_MML.cquantifier">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.ContentExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-domainofapplication"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mstyle" substitutionGroup="mathml:PHIL_MML.pgenschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mstyle"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="merror" substitutionGroup="mathml:PHIL_MML.pgenschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-merror"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mphantom" substitutionGroup="mathml:PHIL_MML.pgenschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mphantom"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mrow" substitutionGroup="mathml:PHIL_MML.pgenschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mrow"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mfrac" substitutionGroup="mathml:PHIL_MML.pgenschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mfrac"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="msqrt" substitutionGroup="mathml:PHIL_MML.pgenschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-msqrt"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="menclose" substitutionGroup="mathml:PHIL_MML.pgenschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-menclose"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mroot" substitutionGroup="mathml:PHIL_MML.pgenschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mroot"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="msub" substitutionGroup="mathml:PHIL_MML.pscrschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-msub"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="msup" substitutionGroup="mathml:PHIL_MML.pscrschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-msup"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="msubsup" substitutionGroup="mathml:PHIL_MML.pscrschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-msubsup"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mmultiscripts" substitutionGroup="mathml:PHIL_MML.pscrschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mmultiscripts"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="munder" substitutionGroup="mathml:PHIL_MML.pscrschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-munder"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mover" substitutionGroup="mathml:PHIL_MML.pscrschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mover"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="munderover" substitutionGroup="mathml:PHIL_MML.pscrschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-munderover"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mtable" substitutionGroup="mathml:PHIL_MML.ptabschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mtable"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mtr" substitutionGroup="mathml:PHIL_MML.ptabschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mtr"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mlabeledtr" substitutionGroup="mathml:PHIL_MML.ptabschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mlabeledtr"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mtd" substitutionGroup="mathml:PHIL_MML.ptabschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mtd"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="maction" substitutionGroup="mathml:PHIL_MML.pactions"/>
+  <xs:element name="mfenced" substitutionGroup="mathml:PHIL_MML.pgenschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mfenced"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mpadded" substitutionGroup="mathml:PHIL_MML.pgenschema">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="mathml:PHIL_MML.PresExpression">
+          <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mpadded"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mi" substitutionGroup="mathml:PHIL_MML.ptoken">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:group ref="mathml:PHIL_MML.MathMLCharacters"/>
+        <xs:element ref="mathml:malignmark"/>
+      </xs:choice>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mi"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mn" substitutionGroup="mathml:PHIL_MML.ptoken">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:group ref="mathml:PHIL_MML.MathMLCharacters"/>
+        <xs:element ref="mathml:malignmark"/>
+      </xs:choice>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mn"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mo" substitutionGroup="mathml:PHIL_MML.ptoken">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:group ref="mathml:PHIL_MML.MathMLCharacters"/>
+        <xs:element ref="mathml:malignmark"/>
+      </xs:choice>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mo"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mtext" substitutionGroup="mathml:PHIL_MML.ptoken">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:group ref="mathml:PHIL_MML.MathMLCharacters"/>
+        <xs:element ref="mathml:malignmark"/>
+      </xs:choice>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-mtext"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ms" substitutionGroup="mathml:PHIL_MML.ptoken">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:group ref="mathml:PHIL_MML.MathMLCharacters"/>
+        <xs:element ref="mathml:malignmark"/>
+      </xs:choice>
+      <xs:attributeGroup ref="mathml:PHIL_MML.attlist-ms"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="PHIL_MML.att-macros">
+    <xs:attribute name="macros"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-mode">
+    <xs:attribute name="mode"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-display">
+    <xs:attribute name="display"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-topinfo">
+    <xs:attributeGroup ref="mathml:PHIL_MML.MATHML.Common.attrib"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-macros"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-mode"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-display"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-baseline">
+    <xs:attribute name="baseline"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-overflow">
+    <xs:attribute name="overflow" default="scroll">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="scroll"/>
+          <xs:enumeration value="elide"/>
+          <xs:enumeration value="truncate"/>
+          <xs:enumeration value="scale"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-altimg">
+    <xs:attribute name="altimg"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-alttext">
+    <xs:attribute name="alttext"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.att-browif">
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-type"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-name"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-height"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-width"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-baseline"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-overflow"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-altimg"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-alttext"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="PHIL_MML.attlist-math">
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-topinfo"/>
+    <xs:attributeGroup ref="mathml:PHIL_MML.att-browif"/>
+  </xs:attributeGroup>
+</xs:schema>
