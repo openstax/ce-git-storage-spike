@@ -22,3 +22,5 @@ A dashboard shows up when you open a CNXML file (demo bug). The current one is a
     - add/rename/remove/reorder items in the Table of Contents
     - seeing who has the files open
     - a link to edit the file
+
+foo
