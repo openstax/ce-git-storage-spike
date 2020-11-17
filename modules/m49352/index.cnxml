@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49352/latest/</md:content-url>
   <md:content-id>m49352</md:content-id>
   <md:title>Inverses and Radical Functions</md:title>
-  <md:version>1.20</md:version>
+  <md:version>1.23</md:version>
   <md:created>2014/02/21 05:28:16 -0600</md:created>
   <md:revised>2019/06/17 11:04:39.840 GMT-5</md:revised>
   <md:actors>
@@ -617,7 +617,7 @@ and <m:math>
 </m:math>
 </equation></note>
 
-<note id="fs-id1165137646263" class="precalculus howto">
+<note id="fs-id1165137646263" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165137501372"><emphasis>Given a polynomial function, find the inverse of the function by restricting the domain in such a way that the new function is one-to-one.</emphasis></para>
 <list id="fs-id1165133276230" list-type="enumerated" number-style="arabic">
@@ -1281,7 +1281,7 @@ and <m:math>
 <para id="fs-id1165137409777">If a function is not one-to-one, it cannot have an inverse. If we restrict the domain of the function so that it becomes one-to-one, thus creating a new function, this new function will have an inverse.</para>
 </note>
 
-<note id="fs-id1165137431545" class="precalculus howto">
+<note id="fs-id1165137431545" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165137656706"><emphasis>Given a polynomial function, restrict the domain of a function that is not one-to-one and then find the inverse.</emphasis></para>
 <list id="fs-id1165137532171" list-type="enumerated" number-style="arabic">
@@ -1509,7 +1509,8 @@ this gave us the values <m:math>
  </m:mrow>
 </m:math> which is what our inverse function gives.</para>
 
-<list id="fs-id1165137735027" list-type="enumerated" number-style="lower-alpha"><item>The domain of the original function was restricted to <m:math>
+<list id="fs-id1165137735027" list-type="enumerated" number-style="arabic" class="circled">
+  <item><span class="token">ⓐ</span>The domain of the original function was restricted to <m:math>
  <m:mrow>
   <m:mi>x</m:mi><m:mo>≥</m:mo><m:mn>4</m:mn><m:mo>,</m:mo>
  </m:mrow>
@@ -1535,7 +1536,7 @@ this gave us the values <m:math>
  </m:mrow>
 </m:math>
 </equation></item>
-<item>The domain of the original function was restricted to <m:math>
+<item><span class="token">ⓑ</span> The domain of the original function was restricted to <m:math>
  <m:mrow>
   <m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>4</m:mn><m:mo>,</m:mo>
  </m:mrow>
@@ -2028,7 +2029,7 @@ this gave us the values <m:math>
 
 <section id="fs-id1165137894462">
 <title>Solving Applications of Radical Functions</title>
-<para id="fs-id1165137696560">Notice that the functions from previous examples were all polynomials, and their inverses were radical functions. If we want to find the <term class="no-emphasis">inverse of a radical function</term>, we will need to restrict the domain of the answer because the range of the original function is limited.</para><note id="fs-id1165137415876" class="precalculus howto">
+<para id="fs-id1165137696560">Notice that the functions from previous examples were all polynomials, and their inverses were radical functions. If we want to find the <term class="no-emphasis">inverse of a radical function</term>, we will need to restrict the domain of the answer because the range of the original function is limited.</para><note id="fs-id1165137415876" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165137455923"><emphasis>Given a radical function, find the inverse.</emphasis></para>
 <list id="fs-id1165137542989" list-type="enumerated" number-style="arabic">
@@ -2808,7 +2809,7 @@ with <m:math>
 </exercise>
 </note>
 
-<note id="fs-id1165137551968" class="precalculus media">
+<note id="fs-id1165137551968" class="precalculus media media-notitle">
 <label>Media</label>
 <para id="fs-id1165137761312">Access these online resources for additional instruction and practice with inverses and radical functions.</para>
 <list id="fs-id1165134306731" list-type="bulleted"><item><link url="http://openstax.org/l/graphsquareroot">Graphing the Basic Square Root Function</link></item>
@@ -3880,7 +3881,7 @@ See <link target-id="Example_03_08_01"/>.</item>
  </section>
 <section id="fs-id1165137676077">
 <title>Technology</title>
-<para id="fs-id1165137551626">For the following exercises, use a calculator to graph the function. Then, using the graph, give three points on the graph of the inverse with <emphasis effect="italics">y</emphasis>-coordinates given.</para><exercise id="fs-id1165137855040"><problem id="fs-id1165137575507"><para id="fs-id1165137575508"> <m:math>
+<para id="fs-id1165137551626">For the following exercises, use a calculator to graph the function. Then, using the graph, give three points on the graph of the inverse with <emphasis effect="italics">y</emphasis>-coordinates given.</para><exercise id="fs-id1165137855040" class="material-set-2"><problem id="fs-id1165137575507"><para id="fs-id1165137575508"> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msup>
    <m:mi>x</m:mi>
@@ -3899,7 +3900,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 <media id="fs-id1165137470403" alt="Graph of f(x)= x^3-x-2.">
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_216.jpg"/>
 </media>
-</solution></exercise><exercise id="fs-id1165137571412"><problem id="fs-id1165137571413"><para id="fs-id1165137571414"> <m:math>
+</solution></exercise><exercise id="fs-id1165137571412" class="material-set-2"><problem id="fs-id1165137571413"><para id="fs-id1165137571414"> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msup>
    <m:mi>x</m:mi>
@@ -3909,7 +3910,7 @@ See <link target-id="Example_03_08_01"/>.</item>
  </m:mrow>
 </m:math>
 </para></problem></exercise>
-<exercise id="fs-id1165135336074"><problem id="fs-id1165135336075"><para id="fs-id1165135336076"> <m:math>
+<exercise id="fs-id1165135336074" class="material-set-2"><problem id="fs-id1165135336075"><para id="fs-id1165135336076"> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msup>
    <m:mi>x</m:mi>
@@ -3929,7 +3930,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 <media id="fs-id1165135613310" alt="Graph of f(x)= x^3+3x-4.">
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_218.jpg"/>
 </media>
-</solution></exercise><exercise id="fs-id1165137768493"><problem id="fs-id1165137414579"><para id="fs-id1165137414580"> <m:math>
+</solution></exercise><exercise id="fs-id1165137768493" class="material-set-2"><problem id="fs-id1165137414579"><para id="fs-id1165137414580"> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msup>
    <m:mi>x</m:mi>
@@ -3939,7 +3940,7 @@ See <link target-id="Example_03_08_01"/>.</item>
  </m:mrow>
 </m:math>
 </para></problem></exercise>
-<exercise id="fs-id1165137812553"><problem id="fs-id1165137812554"><para id="fs-id1165137812555"> <m:math>
+<exercise id="fs-id1165137812553" class="material-set-2"><problem id="fs-id1165137812554"><para id="fs-id1165137812555"> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msup>
    <m:mi>x</m:mi>
@@ -4232,7 +4233,7 @@ as a function of height <m:math>
  </m:mrow>
 </m:math> as a function of <m:math>
  <m:mrow>
-  <m:mi>V</m:mi><m:mo>,</m:mo>
+  <m:mi>A</m:mi><m:mo>,</m:mo>
  </m:mrow>
 </m:math> and find the radius of a sphere with a surface area of 1000 square inches.</para></problem></exercise>
 <exercise id="fs-id1165135199586"><problem id="fs-id1165137611961"><para id="fs-id1165137611962">A container holds 100 ml of a solution that is 25 ml acid. If <m:math>
@@ -4377,7 +4378,7 @@ as a function of height <m:math>
  </m:mrow>
 </m:math> If the height of the cylinder is 4 feet, express the radius as a function of <m:math>
  <m:mrow>
-  <m:mi>V</m:mi>
+  <m:mi>A</m:mi>
  </m:mrow>
 </m:math> and find the radius if the surface area is 200 square feet.</para></problem></exercise>
 <exercise id="fs-id1165135209080"><problem id="fs-id1165135209081"><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135209082">The volume of a right circular cone, <m:math>

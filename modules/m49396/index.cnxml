@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49396/latest/</md:content-url>
   <md:content-id>m49396</md:content-id>
   <md:title>Double-Angle, Half-Angle, and Reduction Formulas</md:title>
-  <md:version>1.18</md:version>
+  <md:version>1.19</md:version>
   <md:created>2014/02/21 09:02:22 -0600</md:created>
   <md:revised>2019/05/24 14:56:01.868 GMT-5</md:revised>
   <md:actors>
@@ -475,7 +475,7 @@
 
         </m:mrow>
       </m:math>
-      </equation></note><note id="fs-id1578259" class="precalculus howto">
+      </equation></note><note id="fs-id1578259" class="how-to-notitle">
       <label>How To</label>
       <para id="fs-id1342627"><emphasis>Given the tangent of an angle and the quadrant in which it is located, use the double-angle formulas to find the exact value.
       </emphasis></para>
@@ -3382,7 +3382,7 @@
       </exercise>
     </example>
 
-    <note id="fs-id2784673" class="precalculus howto">
+    <note id="fs-id2784673" class="how-to-notitle">
       <label>How To</label>
       <para id="fs-id1936207"><emphasis>Given the tangent of an angle and the quadrant in which the angle lies, find the exact values of trigonometric functions of half of the angle.</emphasis></para>
       <list id="fs-id1936213" list-type="enumerated" number-style="arabic">

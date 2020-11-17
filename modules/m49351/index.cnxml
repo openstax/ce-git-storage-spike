@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49351/latest/</md:content-url>
   <md:content-id>m49351</md:content-id>
   <md:title>Rational Functions</md:title>
-  <md:version>1.24</md:version>
+  <md:version>1.26</md:version>
   <md:created>2014/02/20 23:21:51 -0600</md:created>
   <md:revised>2020/02/10 13:21:52.739 US/Central</md:revised>
   <md:actors>
@@ -978,7 +978,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 <para id="fs-id1165135641749">The domain of a rational function includes all real numbers except those that cause the denominator to equal zero.</para>
 </note>
 
-<note id="fs-id1165135530461" class="precalculus howto">
+<note id="fs-id1165135530461" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165137695173"><emphasis>Given a rational function, find the domain.</emphasis></para>
 <list id="fs-id1165137724163" list-type="enumerated" number-style="arabic">
@@ -1128,7 +1128,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 <title>Vertical Asymptotes</title>
 <para id="fs-id1165137638515">The vertical asymptotes of a rational function may be found by examining the factors of the denominator that are not common to the factors in the numerator. Vertical asymptotes occur at the zeros of such factors.</para>
 
-<note id="fs-id1165133097252" class="precalculus howto">
+<note id="fs-id1165133097252" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165137451766"><emphasis>Given a rational function, identify any vertical asymptotes of its graph.</emphasis></para>
 <list id="fs-id1165134079627" list-type="enumerated" number-style="arabic">
@@ -1834,8 +1834,8 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 <problem id="fs-id1165137812574">
 <title>Identifying Horizontal and Slant Asymptotes</title>
 <para id="fs-id1165134148527">For the functions below, identify the horizontal or slant asymptote.</para>
-<list id="fs-id1165137418760" list-type="enumerated" number-style="lower-alpha">
-<item> <m:math>
+<list id="fs-id1165137418760" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span> <m:math>
  <m:mrow>
   <m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
    <m:mrow>
@@ -1860,7 +1860,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 
  </m:mrow>
 </m:math> </item>
-<item> <m:math>
+<item><span class="token">ⓑ</span> <m:math>
  <m:mrow>
   <m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
    <m:mrow>
@@ -1877,7 +1877,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 
  </m:mrow>
 </m:math> </item>
-<item> <m:math>
+<item><span class="token">ⓒ</span> <m:math>
  <m:mrow>
   <m:mi>k</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
    <m:mrow>
@@ -1914,7 +1914,8 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
   <m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>q</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>≠</m:mo><m:mn>0.</m:mn>
  </m:mrow>
 </m:math> </para>
-<list id="fs-id1165137610755" list-type="enumerated" number-style="lower-alpha"><item> <m:math>
+<list id="fs-id1165137610755" list-type="enumerated" number-style="arabic" class="circled">
+  <item><span class="token">ⓐ</span> <m:math>
  <m:mrow>
   <m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
    <m:mrow>
@@ -1955,7 +1956,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
   <m:mi>y</m:mi><m:mo>=</m:mo><m:mn>3.</m:mn>
  </m:mrow>
 </m:math> </item>
-<item> <m:math>
+<item><span class="token">ⓑ</span> <m:math>
  <m:mrow>
   <m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
    <m:mrow>
@@ -2101,7 +2102,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
   <m:mi>y</m:mi><m:mo>=</m:mo><m:mo/><m:mi>x</m:mi><m:mo>–</m:mo><m:mn>6.</m:mn>
  </m:mrow>
 </m:math> </para></item>
-<item> <m:math>
+<item><span class="token">ⓒ</span> <m:math>
  <m:mrow>
   <m:mi>k</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
    <m:mrow>
@@ -2671,7 +2672,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
   <m:mo>.</m:mo>
  </m:mrow>
 </m:math> </item>
-</list><note id="fs-id1165135192767" class="precalculus howto">
+</list><note id="fs-id1165135192767" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165137640498"><emphasis>Given a rational function, sketch a graph.</emphasis></para>
 <list id="fs-id1165137640503" list-type="enumerated" number-style="arabic">
@@ -3066,7 +3067,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
   <m:mi>a</m:mi>
  </m:mrow>
 </m:math> can be determined given a value of the function other than the <emphasis effect="italics">x</emphasis>-intercept or by the horizontal asymptote if it is nonzero.</para>
-</note><note id="fs-id1165137423517" class="precalculus howto">
+</note><note id="fs-id1165137423517" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165137575250"><emphasis>Given a graph of a rational function, write the function.</emphasis></para>
 <list id="fs-id1165137654907" list-type="enumerated" number-style="arabic">
@@ -3241,7 +3242,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 </solution>
 </exercise></example>
 
-<note id="fs-id1165135152264" class="precalculus media">
+<note id="fs-id1165135152264" class="precalculus media media-notitle">
 <label>Media</label>
 <para id="fs-id1165137627838">Access these online resources for additional instruction and practice with rational functions.</para><list id="fs-id1165135250839" list-type="bulleted">
 <item><link url="http://openstax.org/l/graphrational">Graphing Rational Functions</link></item>
@@ -5093,7 +5094,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 </exercise>
 
 <para id="fs-id1165137442586">For the following exercises, use the graphs to write an equation for the function.</para>
-<exercise id="fs-id1165137442589"><problem id="fs-id1165135149090">
+<exercise id="fs-id1165137442589" class="material-set-2"><problem id="fs-id1165135149090">
 
 <media id="fs-id1165135149095" alt="Graph of a rational function with vertical asymptotes at x=-3 and x=4.">
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_217.jpg"/>
@@ -5116,13 +5117,13 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 
  </m:mrow>
 </m:math> </para></solution>
-</exercise><exercise id="fs-id1165137891476"><problem id="fs-id1165137891478">
+</exercise><exercise id="fs-id1165137891476" class="material-set-2"><problem id="fs-id1165137891478">
 
 <media id="fs-id1165134346335" alt="Graph of a rational function with vertical asymptotes at x=-3 and x=4.">
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_218.jpg"/>
 </media>
 </problem>
-</exercise><exercise id="fs-id1165135389887"><problem id="fs-id1165135389889">
+</exercise><exercise id="fs-id1165135389887" class="material-set-2"><problem id="fs-id1165135389889">
 
 <media id="fs-id1165137832198" alt="Graph of a rational function with vertical asymptotes at x=-3 and x=3.">
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_219.jpg"/>
@@ -5145,12 +5146,12 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 
  </m:mrow>
 </m:math> </para></solution>
-</exercise><exercise id="fs-id1165135434130"><problem id="fs-id1165135434132">
+</exercise><exercise id="fs-id1165135434130" class="material-set-2"><problem id="fs-id1165135434132">
 <media id="fs-id1165135434137" alt="Graph of a rational function with vertical asymptotes at x=-3 and x=4.">
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_220.jpg"/>
 </media>
 </problem>
-</exercise><exercise id="fs-id1165135186507"><problem id="fs-id1165135186509">
+</exercise><exercise id="fs-id1165135186507" class="material-set-2"><problem id="fs-id1165135186509">
 <media id="fs-id1165135186515" alt="Graph of a rational function with vertical asymptote at x=1.">
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_221.jpg"/>
 </media>
@@ -5176,13 +5177,13 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 
  </m:mrow>
 </m:math> </para></solution>
-</exercise><exercise id="fs-id1165135522187"><problem id="fs-id1165135522190">
+</exercise><exercise id="fs-id1165135522187" class="material-set-2"><problem id="fs-id1165135522190">
 
 <media id="fs-id1165135541931" alt="Graph of a rational function with vertical asymptote at x=-2.">
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_222.jpg"/>
 </media>
 </problem>
-</exercise><exercise id="fs-id1165135575978"><problem id="fs-id1165135575980">
+</exercise><exercise id="fs-id1165135575978" class="material-set-2"><problem id="fs-id1165135575980">
 
 <media id="fs-id1165137456138" alt="Graph of a rational function with vertical asymptotes at x=-3 and x=2.">
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_223.jpg"/>
@@ -5213,7 +5214,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 
  </m:mrow>
 </m:math> </para></solution>
-</exercise><exercise id="fs-id1165137424684"><problem id="fs-id1165137424686">
+</exercise><exercise id="fs-id1165137424684" class="material-set-2"><problem id="fs-id1165137424686">
 <media id="fs-id1165137424692" alt="Graph of a rational function with vertical asymptotes at x=-2 and x=4.">
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_224.jpg"/>
 </media>
@@ -5277,7 +5278,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 <colspec colnum="4" colname="c4"/>
 <colspec colnum="5" colname="c5"/>
 <colspec colnum="6" colname="c6"/>
-<thead>
+<tbody>
 <row>
 <entry align="center"> <m:math>
  <m:mi>x</m:mi>
@@ -5288,8 +5289,6 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 <entry align="center">10,000</entry>
 <entry align="center">100,000</entry>
 </row>
-</thead>
-<tbody>
 <row>
 <entry align="center"> <m:math>
  <m:mi>y</m:mi>
@@ -5822,7 +5821,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 <section id="fs-id1165137757845">
 <title>Real-World Applications</title>
 <para id="fs-id1165137757851">For the following exercises, express a rational function that describes the situation.</para>
-<exercise id="fs-id1165135188456">
+<exercise id="fs-id1165135188456" class="material-set-2">
 <problem id="fs-id1165135188458">
 <para id="fs-id1165135188460">A large mixing tank currently contains 200 gallons of water, into which 10 pounds of sugar have been mixed. A tap will open, pouring 10 gallons of water per minute into the tank at the same time sugar is poured into the tank at a rate of 3 pounds per minute. Find the concentration (pounds per gallon) of sugar in the tank after <m:math>
  <m:mrow>
@@ -5831,7 +5830,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 </m:math> minutes.</para>
 </problem>
 </exercise>
-<exercise id="fs-id1165134192931">
+<exercise id="fs-id1165134192931" class="material-set-2">
 <problem id="fs-id1165134192933"><para id="fs-id1165134192934">A large mixing tank currently contains 300 gallons of water, into which 8 pounds of sugar have been mixed. A tap will open, pouring 20 gallons of water per minute into the tank at the same time sugar is poured into the tank at a rate of 2 pounds per minute. Find the concentration (pounds per gallon) of sugar in the tank after <m:math>
  <m:mrow>
   <m:mi>t</m:mi>
@@ -5854,7 +5853,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 
 <para id="fs-id1165135193296">For the following exercises, use the given rational function to answer the question.</para>
 
-<exercise id="fs-id1165135193299"><problem id="fs-id1165135193300"><para id="fs-id1165135193301">The concentration <m:math>
+<exercise id="fs-id1165135193299" class="material-set-2"><problem id="fs-id1165135193300"><para id="fs-id1165135193301">The concentration <m:math>
  <m:mrow>
   <m:mi>C</m:mi>
  </m:mrow>
@@ -5883,7 +5882,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
   <m:mi>t</m:mi>
  </m:mrow>
 </m:math> increases?</para></problem></exercise>
-<exercise id="fs-id1165137737405">
+<exercise id="fs-id1165137737405" class="material-set-2">
 <problem id="fs-id1165137737407"><para id="fs-id1165137737408">The concentration <m:math>
  <m:mrow>
   <m:mi>C</m:mi>
@@ -5948,7 +5947,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> = radius.</para></problem></exercise>
 
-<exercise id="fs-id1165137705041"><problem id="fs-id1165137705042"><para id="fs-id1165137705043">A right circular cylinder with no top has a volume of 50 cubic meters. Find the radius that will yield minimum surface area. Let <m:math>
+<exercise id="fs-id1165137705041" class="material-set-2"><problem id="fs-id1165137705042"><para id="fs-id1165137705043">A right circular cylinder with no top has a volume of 50 cubic meters. Find the radius that will yield minimum surface area. Let <m:math>
  <m:mrow>
   <m:mi>x</m:mi>
  </m:mrow>
@@ -5969,7 +5968,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> Radius = 2.52 meters.</para></solution>
 </exercise>
-<exercise id="fs-id1165135241237"><problem id="fs-id1165135241238"><para id="fs-id1165135241239">A right circular cylinder is to have a volume of 40 cubic inches. It costs 4 cents/square inch to construct the top and bottom and 1 cent/square inch to construct the rest of the cylinder. Find the radius to yield minimum cost. Let <m:math>
+<exercise id="fs-id1165135241237" class="material-set-2"><problem id="fs-id1165135241238"><para id="fs-id1165135241239">A right circular cylinder is to have a volume of 40 cubic inches. It costs 4 cents/square inch to construct the top and bottom and 1 cent/square inch to construct the rest of the cylinder. Find the radius to yield minimum cost. Let <m:math>
  <m:mrow>
   <m:mi>x</m:mi>
  </m:mrow>

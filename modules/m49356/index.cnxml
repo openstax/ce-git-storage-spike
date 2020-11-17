@@ -8,9 +8,9 @@
   <md:content-url>https://legacy.cnx.org/content/m49356/latest/</md:content-url>
   <md:content-id>m49356</md:content-id>
   <md:title>Introduction to Exponential and Logarithmic Functions</md:title>
-  <md:version>1.11</md:version>
+  <md:version>1.13</md:version>
   <md:created>2014/02/21 11:36:17 -0600</md:created>
-  <md:revised>2020/08/21 18:44:44.736 GMT-5</md:revised>
+  <md:revised>2020/11/06 08:29:07.567 US/Central</md:revised>
   <md:actors>
     <md:person userid="cnxcollalg">
       <md:firstname>OpenStax</md:firstname>
@@ -44,7 +44,7 @@
   </md:actors>
   <md:roles>
     <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">cnxcollalg OpenStaxCollege cnxcat cnxprecal</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxcollalg cnxcat cnxprecal</md:role>
     <md:role type="licensor">OSCRiceUniversity</md:role>
   </md:roles>
   <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
@@ -81,7 +81,6 @@
     <md:keyword>regression analysis</md:keyword>
   </md:keywordlist>
   <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
     <md:subject>Mathematics and Statistics</md:subject>
   </md:subjectlist>
   <md:abstract/>

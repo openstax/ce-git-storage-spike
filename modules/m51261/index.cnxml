@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m51261/latest/</md:content-url>
   <md:content-id>m51261</md:content-id>
   <md:title>Functions and Function Notation</md:title>
-  <md:version>1.43</md:version>
+  <md:version>1.44</md:version>
   <md:created>2014/10/01 21:20:42 -0500</md:created>
   <md:revised>2020/09/14 11:26:12.170 GMT-5</md:revised>
   <md:actors>
@@ -3412,17 +3412,17 @@ and <m:math>
  </problem>
 <solution id="fs-id1165137409631">
  <para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165137529461"><m:math>
-  
- 
+
+
        <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>−</m:mo><m:mn>11</m:mn><m:mo>;</m:mo>
 </m:math><newline/>
       <m:math>
        <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>−</m:mo><m:mn>1</m:mn><m:mo>;</m:mo>
  </m:math><newline/>
-   <m:math>   
+   <m:math>
        <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mi>a</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>5</m:mn><m:mo>;</m:mo>
 </m:math><newline/>
-   <m:math>   
+   <m:math>
        <m:mo>−</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>5</m:mn><m:mo>;</m:mo></m:math><newline/>
        <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>h</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>2</m:mn><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>h</m:mi><m:mo>−</m:mo><m:mn>5</m:mn>
 </m:math></para></solution>
@@ -3458,27 +3458,27 @@ and <m:math>
        <m:mo>+</m:mo><m:mn>5</m:mn><m:mo>;</m:mo>
 </m:math><newline/>
 <m:math>
-      
+
        <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>5</m:mn><m:mo>;</m:mo>
 </m:math><newline/>
       <m:math>
        <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mi>a</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msqrt>
-        
+
          <m:mn>2</m:mn><m:mo>+</m:mo><m:mi>a</m:mi>
        </m:msqrt>
        <m:mo>+</m:mo><m:mn>5</m:mn><m:mo>;</m:mo>
 </m:math><newline/>
 <m:math>
-      
+
        <m:mo>−</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>−</m:mo><m:msqrt>
-        
+
          <m:mn>2</m:mn><m:mo>−</m:mo><m:mi>a</m:mi>
        </m:msqrt>
        <m:mo>−</m:mo><m:mn>5</m:mn><m:mo>;</m:mo></m:math><newline/><m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>h</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo>
-    
-  
+
+
    <m:msqrt>
-    
+
      <m:mn>2</m:mn><m:mo>−</m:mo><m:mi>a</m:mi><m:mo>−</m:mo><m:mi>h</m:mi>
    </m:msqrt>
    <m:mo>+</m:mo><m:mn>5</m:mn>
@@ -3511,24 +3511,24 @@ and <m:math>
 <solution id="fs-id1165135357153">
  <para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135357155"><m:math>
  <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>2</m:mn><m:mo>;</m:mo></m:math>
-  
-      
+
+
     <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>−</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mo>−</m:mo><m:mn>2</m:mn><m:mo>;</m:mo>
    </m:math>
 
 <newline/>
-   <m:math>   
-       <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mi>a</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>|</m:mo> 
-        <m:mo>−</m:mo><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>1</m:mn> <m:mo>|</m:mo><m:mo>−</m:mo><m:mo>|</m:mo> 
+   <m:math>
+       <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mi>a</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>|</m:mo>
+        <m:mo>−</m:mo><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>1</m:mn> <m:mo>|</m:mo><m:mo>−</m:mo><m:mo>|</m:mo>
          <m:mo>−</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>1</m:mn> <m:mo>|</m:mo><m:mo>;</m:mo>
 </m:math><newline/>
-  <m:math>    
-       <m:mo>−</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>−</m:mo><m:mo>|</m:mo> 
-        <m:mi>a</m:mi><m:mo>−</m:mo><m:mn>1</m:mn> <m:mo>|</m:mo><m:mo>+</m:mo><m:mo>|</m:mo> 
+  <m:math>
+       <m:mo>−</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>−</m:mo><m:mo>|</m:mo>
+        <m:mi>a</m:mi><m:mo>−</m:mo><m:mn>1</m:mn> <m:mo>|</m:mo><m:mo>+</m:mo><m:mo>|</m:mo>
          <m:mi>a</m:mi><m:mo>+</m:mo><m:mn>1</m:mn> <m:mo>|</m:mo><m:mo>;</m:mo></m:math><newline/>
 <m:math>
-<m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>h</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>|</m:mo> 
-          <m:mi>a</m:mi><m:mo>+</m:mo><m:mi>h</m:mi><m:mo>−</m:mo><m:mn>1</m:mn> <m:mo>|</m:mo><m:mo>−</m:mo><m:mo>|</m:mo> 
+<m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>h</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>|</m:mo>
+          <m:mi>a</m:mi><m:mo>+</m:mo><m:mi>h</m:mi><m:mo>−</m:mo><m:mn>1</m:mn> <m:mo>|</m:mo><m:mo>−</m:mo><m:mo>|</m:mo>
            <m:mi>a</m:mi><m:mo>+</m:mo><m:mi>h</m:mi><m:mo>+</m:mo><m:mn>1</m:mn> <m:mo>|</m:mo>
  </m:math>
  </para></solution>
@@ -4200,7 +4200,7 @@ and <m:math>
 </m:mtd>
 <m:mtd>
  <m:mrow>
-<m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>4.5</m:mn><m:mo>;</m:mo>
+<m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>5</m:mn><m:mo>;</m:mo>
  </m:mrow>
 </m:mtd>
 <m:mtd>

@@ -8,7 +8,7 @@
   <md:content-url>http://legacy.cnx.org/content/m49398/latest</md:content-url>
   <md:content-id>m49398</md:content-id>
   <md:title>Solving Trigonometric Equations</md:title>
-  <md:version>1.15</md:version>
+  <md:version>1.17</md:version>
   <md:created>2014/02/20 21:11:06 -0600</md:created>
   <md:revised>2018/05/22 10:39:30 -0500</md:revised>
   <md:actors>
@@ -253,7 +253,7 @@
 </exercise>
 </example>
 
-<note id="fs-id1588467" class="precalculus howto">
+<note id="fs-id1588467" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1335125"><emphasis>Given a trigonometric equation, solve using algebra</emphasis>.</para><list id="fs-id1753734" list-type="enumerated" number-style="arabic">
 <item>Look for a pattern that suggests an algebraic property, such as the difference of squares or a factoring opportunity.</item>
@@ -4550,33 +4550,7 @@
  </m:mrow>
 </m:math>
 </para></problem>
-<solution id="fs-id1973264"><para id="fs-id1973265"> <m:math>
- <m:mrow>
-  <m:mfrac>
-   <m:mi>π</m:mi>
-   <m:mn>6</m:mn>
-  </m:mfrac>
-  <m:mo>,</m:mo><m:mfrac>
-   <m:mrow>
-    <m:mn>5</m:mn><m:mi>π</m:mi>
-   </m:mrow>
-   <m:mn>6</m:mn>
-  </m:mfrac>
-  <m:mo>,</m:mo><m:mfrac>
-   <m:mrow>
-    <m:mn>7</m:mn><m:mi>π</m:mi>
-   </m:mrow>
-   <m:mn>6</m:mn>
-  </m:mfrac>
-  <m:mo>,</m:mo><m:mfrac>
-   <m:mrow>
-    <m:mn>11</m:mn><m:mi>π</m:mi>
-   </m:mrow>
-   <m:mn>6</m:mn>
-  </m:mfrac>
-
- </m:mrow>
-</m:math>
+<solution id="fs-id1973264"><para id="fs-id1973265"> <m:math><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup><m:mi>sin</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mfenced><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mfenced><m:mo>,</m:mo><m:mi mathvariant="normal">π</m:mi><m:mo>-</m:mo><m:msup><m:mi>sin</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mfenced><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mfenced><m:mo>,</m:mo><m:mi mathvariant="normal">π</m:mi><m:mo>+</m:mo><m:msup><m:mi>sin</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mfenced><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mfenced><m:mo>,</m:mo><m:mn>2</m:mn><m:mi mathvariant="normal">π</m:mi><m:mo>-</m:mo><m:msup><m:mi>sin</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mfenced><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mfenced></m:math>
 </para></solution></exercise>
 <exercise id="fs-id3522511"><problem id="fs-id3522512"><para id="fs-id3522514"> <m:math>
  <m:mrow>

@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49395/latest/</md:content-url>
   <md:content-id>m49395</md:content-id>
   <md:title>Sum and Difference Identities</md:title>
-  <md:version>1.18</md:version>
+  <md:version>1.19</md:version>
   <md:created>2014/02/21 02:54:15 +0000</md:created>
   <md:revised>2020/02/11 13:36:02.868 US/Central</md:revised>
   <md:actors>
@@ -653,7 +653,7 @@
         </m:mrow>
       </m:math>
       </equation>
-    </note><note id="fs-id861912" class="precalculus howto">
+    </note><note id="fs-id861912" class="how-to-notitle">
       <label>How To</label>
       <para id="fs-id1728576"><emphasis>Given two angles, find the cosine of the difference between the angles.
       </emphasis></para>
@@ -1218,7 +1218,7 @@
             <m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mi>sin</m:mi><m:mspace width="0.3em"/><m:mi>α</m:mi><m:mspace width="0.3em"/><m:mi>cos</m:mi><m:mspace width="0.3em"/><m:mi>β</m:mi><m:mo>−</m:mo><m:mi>cos</m:mi><m:mspace width="0.3em"/><m:mi>α</m:mi><m:mspace width="0.3em"/><m:mi>sin</m:mi><m:mspace width="0.3em"/><m:mi>β</m:mi>
         </m:mrow>
       </m:math>
-      </equation></note><note id="fs-id1274546" class="precalculus howto">
+      </equation></note><note id="fs-id1274546" class="how-to-notitle">
       <label>How To</label>
       <para id="fs-id1891863"><emphasis>Given two angles, find the sine of the difference between the angles.
       </emphasis></para>
@@ -2554,7 +2554,7 @@
 
         </m:mrow>
       </m:math>
-      </equation></note><note id="fs-id1567999" class="precalculus howto">
+      </equation></note><note id="fs-id1567999" class="how-to-notitle">
       <label>How To</label>
       <para id="fs-id1233471"><emphasis>Given two angles, find the tangent of the sum of the angles.
       </emphasis></para>
@@ -4193,7 +4193,7 @@
 
   </section><section id="fs-id1926444">
     <title>Using the Sum and Difference Formulas to Verify Identities</title>
-    <para id="fs-id2637951">Verifying an identity means demonstrating that the equation holds for all values of the variable. It helps to be very familiar with the identities or to have a list of them accessible while working the problems. Reviewing the general rules from <link class="target-chapter" document="m49393">Solving Trigonometric Equations with Identities</link> may help simplify the process of verifying an identity.</para><note id="fs-id2637962" class="precalculus howto">
+    <para id="fs-id2637951">Verifying an identity means demonstrating that the equation holds for all values of the variable. It helps to be very familiar with the identities or to have a list of them accessible while working the problems. Reviewing the general rules from <link class="target-chapter" document="m49393">Solving Trigonometric Equations with Identities</link> may help simplify the process of verifying an identity.</para><note id="fs-id2637962" class="how-to-notitle">
       <label>How To</label>
       <para id="fs-id1863876"><emphasis>Given an identity, verify using sum and difference formulas.</emphasis></para><list id="fs-id1863880" list-type="enumerated" number-style="arabic">
         <item>Begin with the expression on the side of the equal sign that appears most complex. Rewrite that expression until it matches the other side of the equal sign. Occasionally, we might have to alter both sides, but working on only one side is the most efficient.</item>

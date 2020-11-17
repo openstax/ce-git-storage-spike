@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49438/latest/</md:content-url>
   <md:content-id>m49438</md:content-id>
   <md:title>The Ellipse</md:title>
-  <md:version>1.30</md:version>
+  <md:version>1.31</md:version>
   <md:created>2014/02/22 22:01:25 -0600</md:created>
   <md:revised>2020/08/28 13:48:44.224 GMT-5</md:revised>
   <md:actors>
@@ -7994,14 +7994,14 @@ the coordinates of the foci are <m:math>
       <m:mrow>
        <m:mrow><m:mo>(</m:mo>
         <m:mrow>
-         <m:mn>1</m:mn><m:mo>,</m:mo><m:mn>1</m:mn><m:mo>+</m:mo><m:mn>4</m:mn><m:msqrt>
+         <m:mn>1</m:mn><m:mo>,</m:mo><m:mn>1</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:msqrt>
           <m:mn>3</m:mn>
          </m:msqrt>
 
         </m:mrow>
         <m:mo>)</m:mo></m:mrow><m:mo>,</m:mo><m:mrow><m:mo>(</m:mo>
          <m:mrow>
-          <m:mn>1</m:mn><m:mo>,</m:mo><m:mn>1</m:mn><m:mo>−</m:mo><m:mn>4</m:mn><m:msqrt>
+          <m:mn>1</m:mn><m:mo>,</m:mo><m:mn>1</m:mn><m:mo>−</m:mo><m:mn>2</m:mn><m:msqrt>
            <m:mn>3</m:mn>
           </m:msqrt>
 

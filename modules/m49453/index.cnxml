@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49453/latest/</md:content-url>
   <md:content-id>m49453</md:content-id>
   <md:title>Finding Limits: Properties of Limits</md:title>
-  <md:version>1.13</md:version>
+  <md:version>1.14</md:version>
   <md:created>2014/02/23 18:35:59 -0600</md:created>
   <md:revised>2020/02/11 14:19:59.049 US/Central</md:revised>
   <md:actors>
@@ -738,7 +738,7 @@
 </m:math> is equivalent to simply evaluating the function for <m:math>
  <m:mi>a</m:mi>
 </m:math>.</para>
-<note id="fs-id1165135193626" class="precalculus howto">
+<note id="fs-id1165135193626" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165137726409"><emphasis>Given a function containing a polynomial, find its limit.</emphasis>
 <list id="fs-id1165137415162" list-type="enumerated" number-style="arabic">
@@ -1248,7 +1248,7 @@
 </note>
 </section><section id="fs-id1165135203513"><title>Finding the Limit of a Quotient</title><para id="fs-id1165135203522">Finding the limit of a function expressed as a quotient can be more complicated. We often need to rewrite the function algebraically before applying the properties of a limit. If the denominator evaluates to 0 when we apply the properties of a limit directly, we must rewrite the quotient in a different form. One approach is to write the quotient in factored form and simplify.</para>
 
-<note id="fs-id1165137925330" class="precalculus howto">
+<note id="fs-id1165137925330" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165137925336"><emphasis>Given the limit of a function in quotient form, use factoring to evaluate it.</emphasis></para>
 <list id="fs-id1165137925341" list-type="enumerated" number-style="arabic">
@@ -1602,7 +1602,7 @@
 </exercise>
 </note>
 
-<note id="fs-id1165135332980" class="precalculus howto">
+<note id="fs-id1165135332980" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165135264733"><emphasis>Given a limit of a function containing a root, use a conjugate to evaluate.</emphasis></para><list id="fs-id1165135264743" list-type="enumerated" number-style="arabic"><item>If the quotient as given is not in indeterminate <m:math>
  <m:mrow>
@@ -2291,7 +2291,7 @@
 </exercise>
 </note>
 
-<note id="fs-id1165135344974" class="precalculus howto">
+<note id="fs-id1165135344974" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165135344979"><emphasis>Given a quotient with absolute values, evaluate its limit.</emphasis></para>
 <list id="fs-id1165135344985" list-type="enumerated" number-style="arabic"><item>Try factoring or finding the LCD.</item>

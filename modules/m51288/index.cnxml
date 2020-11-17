@@ -8,9 +8,9 @@
   <md:content-url>https://legacy.cnx.org/content/m51288/latest/</md:content-url>
   <md:content-id>m51288</md:content-id>
   <md:title>Solving Trigonometric Equations with Identities</md:title>
-  <md:version>1.12</md:version>
+  <md:version>1.14</md:version>
   <md:created>2014/10/03 10:32:29 -0500</md:created>
-  <md:revised>2020/02/19 10:56:29.221 US/Central</md:revised>
+  <md:revised>2020/10/28 13:18:04.850 GMT-5</md:revised>
   <md:actors>
     <md:organization userid="OpenStaxCollege">
       <md:shortname>OpenStax</md:shortname>
@@ -21,7 +21,7 @@
       <md:firstname>Rice</md:firstname>
       <md:surname>University</md:surname>
       <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
+      <md:email>info@openstax.org</md:email>
     </md:person>
     <md:person userid="cnxcat">
       <md:firstname>OpenStax</md:firstname>
