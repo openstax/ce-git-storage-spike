@@ -4,7 +4,7 @@ rm -f module-ids canonical-modules
 while read slug collid
 do
   rm -rf ./"$slug"
-  neb get -r -d $slug staging $collid latest
+  neb get -r -d $slug cnx.org $collid latest
   echo "--- $slug" >> module-ids
   find "./$slug/" -maxdepth 1 -mindepth 1 -type d | xargs -I{} basename {}  >> module-ids
 done < archive-syncfile
