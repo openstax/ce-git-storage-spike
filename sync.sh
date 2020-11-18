@@ -14,7 +14,7 @@ rm -rf modules collections metadata media
 mkdir modules collections metadata media
 cat canonical-modules | awk '{ print "cp -r "$1"/"$2" modules/"; }' | xargs -I {} bash -c '{}'
 find modules/. -name .sha1sum | xargs rm
-find modules/. -type f \( ! -name "*.cnxml" ! -name "*.json" \) | xargs -I{} mv {} media/.
+python $CODE_DIR/consolidate_media.py modules media
 while read slug collid
 do
   mv "$slug/collection.xml" "collections/$slug.collection.xml"
