@@ -46,7 +46,7 @@ def main():
 
     shas_by_filename = {}  # Map of filename: sha
     shas_by_filepath = {}  # Map of filepath: sha
-    sha_collisions = []  # List of file names with sha collisions
+    sha_collisions = set()  # Set of file names with sha collisions
 
     for media in media_files:
         sha1 = hashlib.sha1()
@@ -56,7 +56,7 @@ def main():
 
         prev_sha = shas_by_filename.get(media.name)
         if prev_sha and media_sha != prev_sha:
-            sha_collisions.append(media.name)
+            sha_collisions.add(media.name)
         else:
             # Either this is a filename we haven't seen before, or it has the
             # same sha value so this is a nop
