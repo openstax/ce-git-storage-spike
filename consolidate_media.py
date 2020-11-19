@@ -1,4 +1,4 @@
-"""Move module media files to ./media and handle collisions"""
+"""Move module media files to ./media and handle sha conflicts"""
 
 import sys
 from pathlib import Path
@@ -41,12 +41,12 @@ def main():
 
     print(f"{len(media_files)} media files found")
 
-    # Pass 1: Find any files that have sha collisions so we know how to handle
+    # Pass 1: Find any files that have sha conflicts so we know how to handle
     # them when we move to the media directory
 
     shas_by_filename = {}  # Map of filename: sha
     shas_by_filepath = {}  # Map of filepath: sha
-    sha_collisions = set()  # Set of file names with sha collisions
+    sha_conflicts = set()  # Set of file names with sha conflicts
 
     for media in media_files:
         sha1 = hashlib.sha1()
@@ -56,18 +56,20 @@ def main():
 
         prev_sha = shas_by_filename.get(media.name)
         if prev_sha and media_sha != prev_sha:
-            sha_collisions.add(media.name)
+            # Add this filename to the conflicts set since it has a conflicting
+            # sha with at least one other module using the same filename
+            sha_conflicts.add(media.name)
         else:
             # Either this is a filename we haven't seen before, or it has the
             # same sha value so this is a nop
             shas_by_filename[media.name] = media_sha
 
-    print(f"Found {len(sha_collisions)} filenames with colliding shas")
+    print(f"Found {len(sha_conflicts)} filenames with conflicting shas")
 
     # Pass 2: Move files to media directory, adding a subset of the sha string
-    # to the name as a suffix if it has a sha collision and updating CNXML
+    # to the name as a suffix if it has a sha conflict and updating CNXML
     for media in media_files:
-        if media.name not in sha_collisions:
+        if media.name not in sha_conflicts:
             media.rename(media_dir / media.name)
         else:
             sha_suffix = shas_by_filepath[media][0:SHA_SUFFIX_LENGTH]
