@@ -138,7 +138,7 @@
   <title>Graphs of parabolas
 </title>
   <media id="eip-idm508729184" alt="This figure shows two parabolas with axis x equals h and vertex h, k. The one on the left opens up and A is greater than 0. The one on the right opens down. Here A is less than 0.">
-    <image mime-type="image/jpeg" src="7_3_2.jpg"/>
+    <image mime-type="image/jpeg" src="7_3_2-6e63.jpg"/>
   </media>
 </note><note id="eip-662" class="how-to-notitle"><title>Graphing parabolas using properties.</title><list id="eip-idm239764464" list-type="enumerated" number-style="arabic" class="stepwise"><item>Determine whether the parabola opens upward or downward.</item>
 <item>Find the axis of symmetry.</item>
@@ -217,7 +217,7 @@ x-intercepts: (3, 0) and (1, 0)
 Graph the parabola <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:math>
   </para>
 <media id="eip-idm403444176" alt="A blank coordinate plot ranging from -10 to 10">
-    <image mime-type="image/jpeg" src="blankplot.png"/>
+    <image mime-type="image/jpeg" src="blankplot-62c9.png"/>
   </media>
 </problem>
 </exercise></section></section><section id="eip-66"><title>Objective 2: Graph a circle (IA 11.1.4)</title><para id="eip-59">Any equation of the form <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mi>h</m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mi>y</m:mi><m:mo>-</m:mo><m:mi>k</m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:msup><m:mi>r</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:math> is the standard form of the equation of a circle with center, (h,k) and radius. We can then graph the circle on a rectangular coordinate system using the center and radius.

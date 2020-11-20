@@ -3454,7 +3454,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
    </para></problem>
   <solution id="fs-id1165134148447"><para id="fs-id1165134148448"> 2 or 0 positive, 2 or 0 negative</para>
    <media id="fs-id1165134148455" alt="Graph of f(x)=2x^4-5x^3-5x^2+5x+3.">
-     <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_06_208.jpg"/>
+     <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_06_208-6736.jpg"/>
     </media></solution></exercise><exercise id="fs-id1165134148467"><problem id="fs-id1165134148468"><para id="fs-id1165134148469"> <m:math>
     <m:mrow>
      <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>2</m:mn><m:msup>
@@ -3487,7 +3487,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
    </para></problem>
   <solution id="fs-id1165134243154"><para id="fs-id1165134243155"> 2 or 0 positive, 2 or 0 negative</para>
    <media id="fs-id1165134058369" alt="Graph of f(x)=10x^4-21x^2+11.">
-     <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_06_210.jpg"/>
+     <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_06_210-0178.jpg"/>
     </media></solution></exercise></section>
   <section id="fs-id1165134058383">
    <title>Numeric</title>

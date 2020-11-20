@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49453/latest/</md:content-url>
   <md:content-id>m49453</md:content-id>
   <md:title>Finding Limits: Properties of Limits</md:title>
-  <md:version>1.14</md:version>
+  <md:version>1.15</md:version>
   <md:created>2014/02/23 18:35:59 -0600</md:created>
   <md:revised>2020/02/11 14:19:59.049 US/Central</md:revised>
   <md:actors>
@@ -2447,7 +2447,7 @@
 </exercise>
 </note>
 
-<note id="fs-id1165135255403" class="precalculus media">
+<note id="fs-id1165135255403" class="precalculus media media-notitle">
 <label>Media</label>
 <para id="fs-id1165135255409">Access the following online resource for additional instruction and practice with properties of limits.</para>
 <list id="url-list" display="block">
@@ -3774,7 +3774,7 @@
 </m:math> </para></problem>
 </exercise>
 
-<exercise id="fs-id1165135449709">
+<exercise id="fs-id1165135449709" class="material-set-2">
 <problem id="fs-id1165135449711"><para id="fs-id1165135449712"> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mrow><m:mo>{</m:mo> <m:mrow>
@@ -3835,7 +3835,7 @@
 </solution>
 </exercise>
 
-<exercise id="fs-id1165135415700">
+<exercise id="fs-id1165135415700" class="material-set-2">
 <problem id="fs-id1165135415702">
 <para id="fs-id1165135415704"> <m:math>
  <m:mrow>
@@ -3888,7 +3888,7 @@
 </m:math> </para></problem>
 </exercise>
 
-<exercise id="fs-id1165135415855">
+<exercise id="fs-id1165135415855" class="material-set-2">
 <problem id="fs-id1165135415858">
 <para id="fs-id1165135415860"> <m:math>
  <m:mrow>
@@ -3941,7 +3941,7 @@
 </solution>
 </exercise>
 
-<exercise id="fs-id1165135403527">
+<exercise id="fs-id1165135403527" class="material-set-2">
 <problem id="fs-id1165135403529">
 <para id="fs-id1165135403532"> <m:math>
  <m:mrow>
@@ -3972,7 +3972,7 @@
 </para></problem>
 </exercise>
 
-<exercise id="fs-id1165135403600">
+<exercise id="fs-id1165135403600" class="material-set-2">
 <problem id="fs-id1165135403602">
 <para id="fs-id1165135403604"> <m:math>
  <m:mrow>
@@ -3988,7 +3988,7 @@
 
    </m:mrow>
   </m:munder>
-  <m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mi>〚x〛</m:mi><m:mo stretchy="false">)</m:mo>
+  <m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mo>[</m:mo><m:mi>x</m:mi><m:mo>]</m:mo><m:mo stretchy="false">)</m:mo>
  </m:mrow>
 </m:math> </para></problem>
 <solution id="fs-id1165135403667">

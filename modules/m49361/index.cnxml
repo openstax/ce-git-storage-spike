@@ -187,7 +187,7 @@ Graph exponential functions.
 </tgroup>
 </table>
 <media id="fs-id1167834017914" alt=".">
-<image mime-type="image/jpeg" src="blankplot6.4.png"/>
+<image mime-type="image/jpeg" src="blankplot6.4-01c0.png"/>
 </media></para></problem>
 </exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-956"><problem id="eip-845">
   <para id="eip-651">Graph the exponential function <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>)</m:mo></m:mrow><m:mi>x</m:mi></m:msup></m:math> by making a table.
@@ -238,7 +238,7 @@ Graph exponential functions.
 
 </tgroup>
 </table><media id="fs-id1167834017414" alt=".">
-<image mime-type="image/jpeg" src="blankplot6.4.png"/>
+<image mime-type="image/jpeg" src="blankplot6.4-01c0.png"/>
 </media><newline/>
 How does it compare with the graph of <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msup><m:mn>2</m:mn><m:mi>x</m:mi></m:msup></m:math> ?</para></problem>
 </exercise><exercise id="eip-970"><problem id="eip-893">
@@ -307,7 +307,7 @@ Intercepts<space count="15" effect="underline"/></para></problem>
 
 </tgroup>
 </table><media id="fs-id1167834013914" alt=".">
-<image mime-type="image/jpeg" src="blankplot6.4.png"/>
+<image mime-type="image/jpeg" src="blankplot6.4-01c0.png"/>
 </media><newline/>
 What is the domain of <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:math> ?<newline/>
 What is the range of <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:math> ?</para></problem>

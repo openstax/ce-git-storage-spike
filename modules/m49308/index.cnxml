@@ -1368,7 +1368,7 @@
 <m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo></m:mrow>
 </m:math> we start with the inside evaluation. See <link target-id="Figure_01_04_004"/>.</para><figure id="Figure_01_04_004">
 <media id="fs-id1165137644158" alt="Two graphs of a positive parabola (g(x)) and a negative parabola (f(x)). The following points are plotted: g(1)=3 and f(3)=6.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_04_004.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_04_004-1a4f.jpg"/>
 </media>
 </figure>
 
@@ -1404,7 +1404,7 @@
 <title>Analysis </title>
 <para id="fs-id1165137602379"><link target-id="Figure_01_04_005"/> shows how we can mark the graphs with arrows to trace the path from the input value to the output value.</para><figure id="Figure_01_04_005">
 <media id="fs-id1165135500730" alt="Two graphs of a positive and negative parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_04_005.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_04_005-1e36.jpg"/>
 </media>
 </figure>
 </commentary>

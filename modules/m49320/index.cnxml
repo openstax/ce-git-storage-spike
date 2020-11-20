@@ -1394,7 +1394,7 @@ Keep in mind that</para>
 <commentary id="fs-id1165137901280">
 <title>Analysis </title>
 <para id="fs-id1165137742302">We can see that these functions (if unrestricted) are not one-to-one by looking at their graphs, shown in <link target-id="Figure_01_07_004"/>. They both would fail the horizontal line test. However, if a function is restricted to a certain domain so that it passes the horizontal line test, then in that restricted domain, it can have an inverse.</para><figure id="Figure_01_07_004"><media id="fs-id1165137641391" alt="Graph of an absolute function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_004ab.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_004ab-eb4b.jpg"/>
 </media>
 
 <caption>(a) Absolute value (b) Reciprocal squared</caption></figure></commentary>
@@ -2487,7 +2487,7 @@ Keep in mind that</para>
 
 <figure id="Figure_01_07_010" class="small">
 <media id="fs-id1165135252252" alt="Graph of f^(-1)(x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_010.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_010-7d5a.jpg"/>
 </media>
 </figure>
 
@@ -2551,7 +2551,7 @@ Keep in mind that</para>
 
 <figure id="Figure_01_07_011" class="small">
 <media id="fs-id1165135177758" alt="Graph of f(x) and f^(-1)(x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_011.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_011-26f4.jpg"/>
 </media>
 <caption>The function and its inverse, showing reflection about the identity line</caption>
 </figure>
@@ -3176,7 +3176,7 @@ Keep in mind that</para>
 </m:math> shown in <link target-id="Figure_01_07_203"/>.</para>
 <figure id="Figure_01_07_203" class="small">
 <media id="fs-id1165137855139" alt="Graph of a line.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_203.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_203-26f2.jpg"/>
 </media>
 </figure>
 
@@ -4353,7 +4353,7 @@ decreasing <m:math>
 
 <figure id="Figure_01_07_219">
 <media id="fs-id1165137441761" alt="Graph of a cubic function." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_219.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_219-f973.jpg"/>
 </media>
 </figure>
 
@@ -5786,7 +5786,7 @@ at the given input.</para>
 <m:mi>g</m:mi></m:mrow>
 </m:math> shown in <link target-id="Figure_01_07_245"/>.</para><figure id="Figure_01_07_245" class="small">
 <media id="fs-id1165137456874" alt="Graph of a cubic function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_245.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_245-5b4d.jpg"/>
 </media>
 </figure>
 
@@ -5830,7 +5830,7 @@ at the given input.</para>
 
 <para id="fs-id1165137933195">For the following exercises, use the graph of the piecewise function shown in <link target-id="Figure_01_07_246"/>.</para><figure id="Figure_01_07_246" class="small">
 <media id="fs-id1165135529085" alt="Graph of absolute function and step function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_246.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_246-ed11.jpg"/>
 </media>
 </figure>
 

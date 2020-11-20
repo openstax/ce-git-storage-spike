@@ -793,7 +793,7 @@
    By the Factor Theorem, these zeros have factors associated with them. Let us set each factor equal to 0, and then construct the original quadratic function absent its stretching factor.</para>
 
   <para id="eip-300"><media id="eip-id1165135315549" alt="This image shows x minus two fifths equals 0 or x minus three fourths equals 0. Beside this math is the sentence, 'Set each factor equal to 0.' Next it shows that five x minus 2 equals 0 or 4 x minus 3 equals 0. Beside this math is the sentence, 'Multiply both sides of the equation to eliminate fractions.' Next it shows that f of x is equal to (5 x minus 2) times (4 x minus 3). Beside this math is the sentence, 'Create the quadratic function, multiplying the factors.' Next it shows f of x equals 20 x squared minus 23 x plus 6. Beside this math is the sentence, 'Expand the polynomial.' The last equation shows f of x equals (5 times 4) times x squared minus 23 x plus (2 times 3)." display="block">
-<image mime-type="image/png" src="CNX_Precalc_Figure_03_03_022.jpg"/>
+<image mime-type="image/png" src="CNX_Precalc_Figure_03_03_022-8ddb.jpg"/>
 </media></para><para id="fs-id1165135485170">Notice that two of the factors of the constant term, 6, are the two numerators from the original rational roots: 2 and 3. Similarly, two of the factors from the leading coefficient, 20, are the two denominators from the original rational roots: 5 and 4.</para>
   <para id="fs-id1165137761317">We can infer that the numerators of the rational roots will always be factors of the constant term and the denominators will be factors of the leading coefficient. This is the essence of the Rational Zero Theorem; it is a means to give us a pool of possible rational zeros.</para>
   <note id="fs-id1165137737069">
@@ -3959,7 +3959,7 @@
    </para></problem>
   <solution id="fs-id1165134148447"><para id="fs-id1165134148448"> 2 or 0 positive, 2 or 0 negative</para>
   <media id="fs-id1165134148455" alt="Graph of f(x)=2x^4-5x^3-5x^2+5x+3.">
-     <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_06_208.jpg"/>
+     <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_06_208-d68b.jpg"/>
     </media>
 </solution></exercise><exercise id="fs-id1165134148467" class="material-set-2"><problem id="fs-id1165134148468"><para id="fs-id1165134148469"> <m:math>
     <m:mrow>
@@ -3993,7 +3993,7 @@
    </para></problem>
   <solution id="fs-id1165134243154"><para id="fs-id1165134243155"> 2 or 0 positive, 2 or 0 negative</para>
   <media id="fs-id1165134058369" alt="Graph of f(x)=10x^4-21x^2+11.">
-     <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_06_210.jpg"/>
+     <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_06_210-6736.jpg"/>
     </media>
 </solution></exercise></section>
   <section id="fs-id1165134058383">

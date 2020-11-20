@@ -7,7 +7,7 @@
     <md:title>Algebra and Trigonometry</md:title>
     <md:version>1.29</md:version>
     <md:created>2015-01-29T09:28:53-06:00</md:created>
-    <md:revised>2020-10-30T17:07:52.665971-05:00</md:revised>
+    <md:revised>2020-11-20T13:33:07.825784-06:00</md:revised>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <!-- For information on license requirements for use or modification, see license url in the above <md:license> element.
@@ -156,7 +156,7 @@
         <col:module document="m51274" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.40">
           <md:title>Quadratic Functions</md:title>
         </col:module>
-        <col:module document="m51275" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.31">
+        <col:module document="m51275" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.32">
           <md:title>Power Functions and Polynomial Functions</md:title>
         </col:module>
         <col:module document="m51276" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.26">

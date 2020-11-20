@@ -74,7 +74,7 @@
 <item>Determine whether a function is one-to-one (IA 10.1.2).</item></list></section>
 <section id="eip-idm365605792"><title>Objective 1: Find and evaluate composite functions (IA 10.1.1).</title><para id="eip-idm365605280">A <term>composite</term> function is a two-step function and can have numerical or variable inputs.</para>
 <media id="fs-id1167836294921" alt="This figure shows x as the input to a box denoted as function g with g of x as the output of the box. Then, g of x is the input to a box denoted as function f with f of g of x as the output of the box.">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_01_001_img.jpg"/>
+<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_01_001_img-a3d4.jpg"/>
 </media><para id="eip-131"> <m:math><m:mfenced><m:mrow><m:mi>f</m:mi><m:mi>o</m:mi><m:mi>g</m:mi></m:mrow></m:mfenced><m:mfenced><m:mi>x</m:mi></m:mfenced><m:mo>=</m:mo><m:mi>f</m:mi><m:mfenced><m:mrow><m:mi>g</m:mi><m:mfenced><m:mi>x</m:mi></m:mfenced></m:mrow></m:mfenced></m:math> is read as “f of g of x”.</para><para id="eip-193">To evaluate a composite function, we always start by evaluating the inner function and then evaluate the outer function in terms of the inner function.</para><example id="eip-470"><title>Find and evaluate composite functions.</title><exercise id="eip-345"><problem id="eip-265">
   <para id="eip-869">For functions <m:math><m:mi>f</m:mi><m:mfenced><m:mi>x</m:mi></m:mfenced><m:mo>=</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>7</m:mn></m:math> , <m:math><m:mi>g</m:mi><m:mfenced><m:mi>x</m:mi></m:mfenced><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>7</m:mn></m:mrow><m:mn>2</m:mn></m:mfrac></m:math> , find:
   </para>
@@ -164,7 +164,7 @@ whether each graph is the graph of a function and, if so,
 whether it is one-to-one.
 </para>
 <media id="fs-id1167836514026" alt="This first graph shows a straight line passing through (0, 2) and (3, 0). This second shows a parabola opening up with vertex at (0, negative 1).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_01_009_img.jpg"/>
+<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_01_009_img-36c9.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1167836685332">
@@ -176,16 +176,16 @@ whether it is one-to-one.
 Determine whether each graph is the graph of a function and, if so, whether it is one-to-one.
 </para><exercise id="eip-772"><problem id="eip-199">
 <media id="fs-id1167829701994" alt="This figure shows a straight line segment decreasing from (negative 4, 6) to (2, 0), after which it increases from (2, 0) to (6, 4).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_01_207_img.jpg"/>
+<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_01_207_img-86a2.jpg"/>
 </media>
 
 </problem></exercise><exercise id="eip-846"><problem id="eip-856">
 <media id="fs-id1167823012136" alt="This figure shows a graph of a curve that starts at (negative 6 negative 2) increases to the origin and then continues increasing slowly to (6, 2).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_01_205_img.jpg"/>
+<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_01_205_img-a075.jpg"/>
 </media>
 </problem></exercise><exercise id="eip-227"><problem id="eip-521">
 <media id="fs-id1167829787690" alt="This figure shows a graph of a circle with center at the origin and radius 3.">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_01_201_img.jpg"/>
+<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_01_201_img-ace2.jpg"/>
 </media>
 </problem></exercise></section></section></section><para id="fs-id1165135358875">A reversible heat pump is a climate-control system that is an air conditioner and a heater in a single device. Operated in one direction, it pumps heat out of a house to provide cooling. Operating in reverse, it pumps heat into the building from the outside, even in cool weather, to provide heating. As a heater, a heat pump is several times more efficient than conventional electrical resistance heating.</para>
 
@@ -1559,7 +1559,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <title>Analysis </title>
   <para id="fs-id1165137742302">We can see that these functions (if unrestricted) are not one-to-one by looking at their graphs, shown in <link target-id="Figure_01_07_004"/>. They both would fail the horizontal line test. However, if a function is restricted to a certain domain so that it passes the horizontal line test, then in that restricted domain, it can have an inverse.</para><figure id="Figure_01_07_004">
   <media id="fs-id1165137641391" alt="Graph of an absolute function.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_004ab.jpg"/>
+  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_004ab-00bd.jpg"/>
   </media>
   <caption>(a) Absolute value (b) Reciprocal square</caption>
   </figure>
@@ -2692,7 +2692,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <figure id="Figure_01_07_010" class="small">
   <media id="fs-id1165135252252" alt="Graph of f^(-1)(x).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_010.jpg"/>
+  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_010-89e5.jpg"/>
   </media>
   </figure>
 
@@ -2756,7 +2756,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <figure id="Figure_01_07_011" class="small">
   <media id="fs-id1165135177758" alt="Graph of f(x) and f^(-1)(x).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_011.jpg"/>
+  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_011-f058.jpg"/>
   </media>
   <caption>The function and its inverse, showing reflection about the identity line</caption>
   </figure>
@@ -3375,7 +3375,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   </m:math> shown in <link target-id="Figure_01_07_203"/>.</para>
   <figure id="Figure_01_07_203" class="small">
   <media id="fs-id1165137855139" alt="Graph of a line.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_203.jpg"/>
+  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_203-7622.jpg"/>
   </media>
   </figure>
 
@@ -4550,7 +4550,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <figure id="Figure_01_07_219">
   <media id="fs-id1165137441761" alt="Graph of a cubic function." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_219.jpg"/>
+  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_219-89de.jpg"/>
   </media>
   </figure>
 
@@ -5900,7 +5900,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
  <m:mi>g</m:mi></m:mrow>
   </m:math> shown in <link target-id="Figure_01_07_245"/>.</para><figure id="Figure_01_07_245" class="small">
   <media id="fs-id1165137456874" alt="Graph of a cubic function.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_245.jpg"/>
+  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_245-716f.jpg"/>
   </media>
   </figure>
 
@@ -5944,7 +5944,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <para id="fs-id1165137933195">For the following exercises, use the graph of the piecewise function shown in <link target-id="Figure_01_07_246"/>.</para><figure id="Figure_01_07_246" class="small">
   <media id="fs-id1165135529085" alt="Graph of absolute function and step function.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_246.jpg"/>
+  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_246-7a44.jpg"/>
   </media>
   </figure>
 

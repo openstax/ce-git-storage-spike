@@ -4,14 +4,14 @@
        Changes to the metadata section in the source will not be saved. -->
 
   <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/col11667/1.27</md:content-url>
+  <md:content-url>https://legacy.cnx.org/content/col11667/1.32</md:content-url>
   <md:content-id>col11667</md:content-id>
   <md:title>Precalculus</md:title>
   
   
-  <md:version>1.27</md:version>
+  <md:version>1.32</md:version>
   <md:created>2014/02/20 16:43:38.427 GMT-6</md:created>
-  <md:revised>2020/11/17 12:56:00.249 US/Central</md:revised>
+  <md:revised>2020/11/19 14:23:12.763 US/Central</md:revised>
 
   <md:actors>
     
@@ -621,7 +621,7 @@
         <col:content>
           
     
-      <col:module document="m49392" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.4">
+      <col:module document="m49392" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
         <md:title>Introduction to Trigonometric Identities and Equations</md:title>
         
         
@@ -631,7 +631,7 @@
       
     
     
-      <col:module document="m49393" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.21">
+      <col:module document="m49393" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.22">
         <md:title>Solving Trigonometric Equations with Identities</md:title>
         
         
@@ -641,7 +641,7 @@
       
     
     
-      <col:module document="m49395" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.19">
+      <col:module document="m49395" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.20">
         <md:title>Sum and Difference Identities</md:title>
         
         
@@ -651,7 +651,7 @@
       
     
     
-      <col:module document="m49396" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.19">
+      <col:module document="m49396" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.20">
         <md:title>Double-Angle, Half-Angle, and Reduction Formulas</md:title>
         
         
@@ -661,7 +661,7 @@
       
     
     
-      <col:module document="m49397" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.13">
+      <col:module document="m49397" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.14">
         <md:title>Sum-to-Product and Product-to-Sum Formulas</md:title>
         
         
@@ -671,7 +671,7 @@
       
     
     
-      <col:module document="m49398" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.17">
+      <col:module document="m49398" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.19">
         <md:title>Solving Trigonometric Equations</md:title>
         
         
@@ -681,7 +681,7 @@
       
     
     
-      <col:module document="m49399" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.22">
+      <col:module document="m49399" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.24">
         <md:title>Modeling with Trigonometric Functions</md:title>
         
         
@@ -705,7 +705,7 @@
         <col:content>
           
     
-      <col:module document="m49402" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
+      <col:module document="m49402" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
         <md:title>Introduction to Further Applications of Trigonometry</md:title>
         
         
@@ -715,7 +715,7 @@
       
     
     
-      <col:module document="m49404" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.21">
+      <col:module document="m49404" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.22">
         <md:title>Non-right Triangles: Law of Sines</md:title>
         
         
@@ -725,7 +725,7 @@
       
     
     
-      <col:module document="m49405" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.18">
+      <col:module document="m49405" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.19">
         <md:title>Non-right Triangles: Law of Cosines</md:title>
         
         
@@ -735,7 +735,7 @@
       
     
     
-      <col:module document="m49406" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.20">
+      <col:module document="m49406" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.21">
         <md:title>Polar Coordinates</md:title>
         
         
@@ -745,7 +745,7 @@
       
     
     
-      <col:module document="m49407" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.20">
+      <col:module document="m49407" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.21">
         <md:title>Polar Coordinates: Graphs</md:title>
         
         
@@ -755,7 +755,7 @@
       
     
     
-      <col:module document="m49408" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.23">
+      <col:module document="m49408" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.24">
         <md:title>Polar Form of Complex Numbers</md:title>
         
         
@@ -765,7 +765,7 @@
       
     
     
-      <col:module document="m49409" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.15">
+      <col:module document="m49409" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.16">
         <md:title>Parametric Equations</md:title>
         
         
@@ -775,7 +775,7 @@
       
     
     
-      <col:module document="m49411" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.16">
+      <col:module document="m49411" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.17">
         <md:title>Parametric Equations: Graphs</md:title>
         
         
@@ -785,7 +785,7 @@
       
     
     
-      <col:module document="m49412" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.21">
+      <col:module document="m49412" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.22">
         <md:title>Vectors</md:title>
         
         
@@ -1081,7 +1081,7 @@
         <col:content>
           
     
-      <col:module document="m49451" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
+      <col:module document="m49451" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
         <md:title>Introduction to Calculus</md:title>
         
         
@@ -1091,7 +1091,7 @@
       
     
     
-      <col:module document="m49452" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.16">
+      <col:module document="m49452" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.18">
         <md:title>Finding Limits: Numerical and Graphical Approaches</md:title>
         
         
@@ -1101,7 +1101,7 @@
       
     
     
-      <col:module document="m49453" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.14">
+      <col:module document="m49453" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.15">
         <md:title>Finding Limits: Properties of Limits</md:title>
         
         
@@ -1111,7 +1111,7 @@
       
     
     
-      <col:module document="m49454" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.18">
+      <col:module document="m49454" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.19">
         <md:title>Continuity</md:title>
         
         
@@ -1121,7 +1121,7 @@
       
     
     
-      <col:module document="m49455" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.18">
+      <col:module document="m49455" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.20">
         <md:title>Derivatives</md:title>
         
         
@@ -1134,7 +1134,7 @@
       </col:subcollection>
     
     
-      <col:module document="m50414" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.12">
+      <col:module document="m50414" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.13">
         <md:title>Basic Functions and Identities</md:title>
         
         

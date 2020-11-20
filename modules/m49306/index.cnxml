@@ -531,7 +531,7 @@
 
      <figure id="Figure_01_03_001" class="small">
       <media id="fs-id1165137838377" alt="Graph of a parabola.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_001.jpg"/>
+       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_001-c447.jpg"/>
       </media>
      </figure>
 
@@ -1441,7 +1441,7 @@
  <section id="fs-id1165135440486">
   <title>Using a Graph to Determine Where a Function is Increasing, Decreasing, or Constant</title>
   <para id="fs-id1165137784644">As part of exploring how functions change, we can identify intervals over which the function is changing in specific ways. We say that a function is increasing on an interval if the function values increase as the input values increase within that interval. Similarly, a function is decreasing on an interval if the function values decrease as the input values increase over that interval. The average rate of change of an increasing function is positive, and the average rate of change of a decreasing function is negative. <link target-id="Figure_01_03_004"/> shows examples of increasing and decreasing intervals on a function.</para><figure id="Figure_01_03_004" class="small"><media id="fs-id1165135390884" alt="Graph of a polynomial that shows the increasing and decreasing intervals and local maximum and minimum.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_004.jpg"/>
+    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_004-56ee.jpg"/>
    </media>
 
   <caption>The function <m:math>
@@ -1493,7 +1493,7 @@
     <m:mi>x</m:mi><m:mo>=</m:mo><m:mn>2.</m:mn></m:mrow>
   </m:math>
   </para><figure id="Figure_01_03_015"><media id="fs-id1165137459600" alt="">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_014.jpg"/>
+    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_014-7451.jpg"/>
    </media>
   </figure><para id="fs-id1165133316450">To locate the local maxima and minima from a graph, we need to observe the graph to determine where the graph attains its highest and lowest points, respectively, within an open interval. Like the summit of a roller coaster, the graph of a function is higher at a local maximum than at nearby points on both sides. The graph will also be lower at a local minimum than at neighboring points. <link target-id="Figure_01_03_005"/> illustrates these ideas for a local maximum.</para><figure id="Figure_01_03_005" class="small">
    <media id="fs-id1165137724379" alt="Graph of a polynomial that shows the increasing and decreasing intervals and local maximum.">

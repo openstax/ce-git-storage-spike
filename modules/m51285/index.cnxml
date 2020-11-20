@@ -2533,7 +2533,7 @@ A <term>unit circle</term> has a center at <m:math>
 </m:mrow>
 </m:math> radians. As we can see from <link target-id="Figure_07_03_020"/>, for any angle in quadrants II, III, or IV, there is a reference angle in quadrant I.</para><figure id="Figure_07_03_020">
 <media id="fs-id2192503" alt="Four side-by-side graphs. First graph shows an angle of t in quadrant 1 in its normal position. Second graph shows an angle of t in quadrant 2 due to a rotation of pi minus t. Third graph shows an angle of t in quadrant 3 due to a rotation of t minus pi. Fourth graph shows an angle of t in quadrant 4 due to a rotation of two pi minus t. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_019.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_019-5d63.jpg"/>
 </media>
 </figure>
 
@@ -3054,7 +3054,7 @@ A <term>unit circle</term> has a center at <m:math>
 <m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo>
 </m:mrow>
 </m:math>  coordinates of all of the major angles in the first quadrant.</para><figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="Figure_07_03_017"><media id="fs-id2135261" alt="Graph of unit circle with angles in degrees, angles in radians, and points along the circle inscribed. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_02_017.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_02_017-f5a4.jpg"/>
 </media>
 <caption>Special angles and coordinates of corresponding points on the unit circle</caption></figure><para id="fs-id1704990">In addition to learning the values for special angles, we can use reference angles to find <m:math>
 <m:mrow>
@@ -4795,7 +4795,7 @@ A <term>unit circle</term> has a center at <m:math>
     <exercise id="fs-id2523396">
         <problem id="fs-id2523398">
             <media id="fs-id2523400" alt="Graph of circle with angle of t inscribed. Point of (0.803,-0.596 is at intersection of terminal side of angle and edge of circle.">
-                <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_02_212.jpg"/>
+                <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_02_212-3b5d.jpg"/>
             </media>
         </problem>
 

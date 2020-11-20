@@ -547,7 +547,7 @@ Use the zero factor property to solve each of the following exercises.
   <m:mo>,</m:mo><m:mn>0</m:mn><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo> </m:mrow>
 </m:math> See <link target-id="Figure_03_04_003"/>. We can see that this is an even function because it is symmetric about the <emphasis effect="italics">y</emphasis>-axis.</para><figure id="Figure_03_04_003" class="small">
           <media id="fs-id1165134380378" alt="Four graphs where the first graph is of an even-degree polynomial, the second graph is of an absolute function, the third graph is an odd-degree polynomial, and the fourth graph is a disjoint function.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_003.jpg"/>
+            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_003-4a9b.jpg"/>
           </media>
         </figure>
 </solution>
@@ -984,7 +984,7 @@ Use the zero factor property to solve each of the following exercises.
       </m:mrow>
     </m:math>
     </equation><para id="fs-id1165134103043">Notice in <link target-id="Figure_03_04_007"/> that the behavior of the function at each of the <emphasis effect="italics">x</emphasis>-intercepts is different.</para><figure id="Figure_03_04_007" class="small"><media id="fs-id1165137933143" alt="Graph of h(x)=x^3+4x^2+x-6.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_007.jpg"/>
+        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_007-29d6.jpg"/>
       </media>
     <caption>Identifying the behavior of the graph at an <emphasis effect="italics">x</emphasis>-intercept by examining the multiplicity of the zero.</caption></figure><para id="fs-id1165135407009">The <emphasis effect="italics">x</emphasis>-intercept <m:math>
       <m:mrow>
@@ -1057,7 +1057,7 @@ Use the zero factor property to solve each of the following exercises.
             </m:msup>
           <m:mo>.</m:mo>          </m:mrow>
         </m:math> We call this a triple zero, or a zero with multiplicity 3.</para><para id="fs-id1165137673357">For <term class="no-emphasis">zeros</term> with even multiplicities, the graphs <emphasis effect="italics">touch</emphasis> or are tangent to the <emphasis effect="italics">x</emphasis>-axis. For zeros with odd multiplicities, the graphs <emphasis effect="italics">cross</emphasis> or intersect the <emphasis effect="italics">x</emphasis>-axis. See <link target-id="Figure_03_04_008"/> for examples of graphs of polynomial functions with multiplicity 1, 2, and 3.</para><figure id="Figure_03_04_008"><media id="fs-id1165134589565" alt="Graph of f(x)=(x+3)(x-2)^2(x+1)^3.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_008.jpg" class="small"/>
+        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_008-cb4a.jpg" class="small"/>
       </media>
     </figure><para id="fs-id1165133078115">For higher even powers, such as 4, 6, and 8, the graph will still touch and bounce off of the horizontal axis but, for each increasing even power, the graph will appear flatter as it approaches and leaves the <emphasis effect="italics">x</emphasis>-axis.</para><para id="fs-id1165133447988">For higher odd powers, such as 5, 7, and 9, the graph will still cross through the horizontal axis, but for each increasing odd power, the graph will appear flatter as it approaches and leaves the <emphasis effect="italics">x</emphasis>-axis.</para><note id="fs-id1165135620829"><label/><title>Graphical Behavior of Polynomials at <emphasis effect="italics">x</emphasis>-Intercepts</title>
 
@@ -1139,7 +1139,7 @@ Use the zero factor property to solve each of the following exercises.
       <label>Try It</label>
       <exercise id="ti_03_04_02"><problem id="fs-id1165137932363"><para id="fs-id1165131968038">Use the graph of the function of degree 9 in <link target-id="Figure_03_04_010"/> to identify the zeros of the function and their multiplicities.</para><figure id="Figure_03_04_010" class="small">
           <media id="fs-id1165131968050" alt="Graph of an even-degree polynomial with degree 6.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_010.jpg" class="small"/>
+            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_010-d677.jpg" class="small"/>
           </media>
 </figure>
 </problem>
@@ -1231,7 +1231,7 @@ Use the zero factor property to solve each of the following exercises.
   <m:mo>+</m:mo><m:mn>4</m:mn><m:mi>x</m:mi> </m:mrow>
 </m:math> in <link target-id="Figure_03_04_015"/>. The graph has three turning points.</para><figure id="Figure_03_04_015" class="small">
       <media id="fs-id1165134155116" alt="Graph of an odd-degree polynomial with a negative leading coefficient. Note that as x goes to positive infinity, f(x) goes to negative infinity, and as x goes to negative infinity, f(x) goes to positive infinity.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_015.jpg"/>
+        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_015-f2e1.jpg"/>
       </media>
     </figure>
     <para id="fs-id1165137784439">This function <m:math>
@@ -3822,7 +3822,7 @@ local min <m:math>
 <title>Extensions</title>
 <para id="fs-id1165134402672">For the following exercises, use the graphs to write a polynomial function of least degree.</para>
 <exercise id="fs-id1165134402676"><problem id="fs-id1165134402677"><media id="fs-id1165134402683" alt="Graph of a positive odd-degree polynomial with zeros at x=--2/3, and 4/3 and y=8.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_216.jpg"/>
+<image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_216-a7ca.jpg"/>
 </media>
 </problem></exercise><exercise id="fs-id1165134402695"><problem id="fs-id1165134402696"><media id="fs-id1165134402703" alt="Graph of a positive odd-degree polynomial with zeros at x=--200, and 500 and y=50000000.">
 <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_217.jpg"/>

@@ -82,7 +82,7 @@
   <para id="eip-863">Since the absolute value of a number is its distance from 0 on the number line. Notice that both 5 and –5 are 5 units from 0 on the number line.
   </para>
 <media id="fs-id1167834120797" alt="The figure is a number line with tick marks at negative 5, 0, and 5. The distance between negative 5 and 0 is given as 5 units, so the absolute value of negative 5 is 5. The distance between 5 and 0 is 5 units, so the absolute value of 5 is 5.">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_02_07_001_img_new.jpg"/>
+<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_02_07_001_img_new-2770.jpg"/>
 </media>
 <para id="eip-idm243542992">If |x|=5<newline/>
 x=5, or x=–5
@@ -178,7 +178,7 @@ Absolute value functions have a “V” shaped graph. If scanning this function 
 </problem></exercise><exercise id="eip-529"><problem id="eip-553">
 <para id="tss"> Find the domain and range of the following absolute value function.</para>
 <media id="fs-id1167836706806" alt="The figure has an absolute value function graphed on the x y-coordinate plane. The x-axis runs from negative 6 to 6. The y-axis runs from 0 to 12. The vertex is at the point (0, 4). The line goes through the points (negative 2, 6) and (2, 6).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_03_06_211_img_new.jpg"/>
+<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_03_06_211_img_new-96ff.jpg"/>
 </media>
 </problem></exercise></section></section></section>
  <figure id="Figure_01_06_001" class="medium"><media id="fs-id1165137466427" alt="The Milky Way.">
@@ -276,7 +276,7 @@ Absolute value functions have a “V” shaped graph. If scanning this function 
 <title>Graphing an Absolute Value Function</title>
 <para id="fs-id1165135570012">The most significant feature of the absolute value graph is the corner point at which the graph changes direction. This point is shown at the <term class="no-emphasis">origin</term> in <link target-id="Figure_01_06_003"/>.</para><figure id="Figure_01_06_003" class="small">
    <media id="fs-id1165137530693" alt="Graph of an absolute function">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_003.jpg"/>
+    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_003-f97d.jpg"/>
    </media>
   </figure>
 
@@ -296,7 +296,7 @@ Absolute value functions have a “V” shaped graph. If scanning this function 
      <m:mo>)</m:mo></m:mrow></m:mrow>
   </m:math> for this transformed function.</para><figure id="Figure_01_06_004" class="small">
    <media id="fs-id1165137768813" alt="Graph of the different types of transformations for an absolute function.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_004.jpg"/>
+    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_004-eab2.jpg"/>
    </media>
   </figure>
 
@@ -307,7 +307,7 @@ Absolute value functions have a “V” shaped graph. If scanning this function 
 
      <figure id="Figure_01_06_005" class="small">
       <media id="fs-id1165137838653" alt="Graph of an absolute function.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_005.jpg"/>
+       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_005-7ac2.jpg"/>
       </media>
      </figure>
 
@@ -318,7 +318,7 @@ Absolute value functions have a “V” shaped graph. If scanning this function 
 
     <figure id="Figure_01_06_006" class="small">
      <media id="fs-id1165137901124" alt="Graph of two transformations for an absolute function at (3, -2).">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_006.jpg"/>
+      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_006-ccf0.jpg"/>
      </media>
     </figure>
 
@@ -326,7 +326,7 @@ Absolute value functions have a “V” shaped graph. If scanning this function 
 
     <figure id="Figure_01_06_007" class="small">
      <media id="fs-id1165135388376" alt="Graph of two transformations for an absolute function at (3, -2) and describes the ratios between the two different transformations.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_007.jpg"/>
+      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_007-b405.jpg"/>
      </media>
     </figure>
 
@@ -477,7 +477,7 @@ Absolute value functions have a “V” shaped graph. If scanning this function 
 
    <figure id="Figure_01_06_008">
     <media id="fs-id1165135523418" alt="Graph of the different types of transformations for an absolute function.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_008abc.jpg"/>
+     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_008abc-8a0c.jpg"/>
     </media>
     <caption>(a) The absolute value function does not intersect the horizontal axis. (b) The absolute value function intersects the horizontal axis at one point. (c) The absolute value function intersects the horizontal axis at two points.</caption>
    </figure>
@@ -887,7 +887,7 @@ Absolute value functions have a “V” shaped graph. If scanning this function 
       </para>
 
 <figure id="Figure_01_06_011" class="medium"><media id="fs-id1165137662351" alt="Graph an absolute function with x-intercepts at -2 and 1.5.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_011F.jpg"/>
+       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_011F-d7a0.jpg"/>
       </media>
      </figure></solution>
    </exercise>

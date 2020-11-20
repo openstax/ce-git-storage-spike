@@ -121,7 +121,7 @@
 <para id="eip-idm499395296"><span class="token">ⓒ</span> In what direction does it open?<newline/>
 <figure id="eip-idm604757248">
 <media id="m-2" alt="A blank 4-quadrant coordinate graph ranging from -6 to 6.">
-    <image mime-type="image/png" src="blankplot.png"/>
+    <image mime-type="image/png" src="blankplot-bf29.png"/>
   </media>
 </figure>
 </para>
@@ -162,7 +162,7 @@
 <para id="eip-idm345995696"><span class="token">ⓑ</span> Plot the points, and then connect them with a smooth curve. The result will be the graph of the function.<newline/>
 <figure id="eip-idm603457760">
 <media id="eip-idm603457504" alt="A blank 4-quadrant coordinate graph ranging from -6 to 6.">
-    <image mime-type="image/png" src="blankplot.png"/>
+    <image mime-type="image/png" src="blankplot-bf29.png"/>
   </media>
 </figure>
 </para>
@@ -207,7 +207,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 <para id="eip-idm311420304"><span class="token">ⓐ</span> Determine the direction of opening.<newline/>
 <figure id="eip-idm609078496">
 <media id="eip-idm608805904" alt="A blank 4-quadrant coordinate graph ranging from -6 to 6.">
-    <image mime-type="image/png" src="blankplot.png"/>
+    <image mime-type="image/png" src="blankplot-bf29.png"/>
   </media>
 </figure>
 </para>
@@ -280,7 +280,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 </tgroup>
 </table><figure id="eip-idm218076208">
 <media id="eip-idm218075952" alt="A blank 4-quadrant coordinate graph ranging from -6 to 6.">
-    <image mime-type="image/png" src="blankplot.png"/>
+    <image mime-type="image/png" src="blankplot-bf29.png"/>
   </media>
 </figure>
 </para>
@@ -3065,7 +3065,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 
 <figure id="Figure_03_02_016" class="small">
 <media id="fs-id1165135580349" alt="A graph is shown on a set of x and y axes. The scale is minus five to plus five for both x and y. The graph rises from below in the third quadrant, crossing the x-axis at x = -2, has a turning point at minus one, three, crosses the x-axis again at the origin, has another turning point at one, minus three, and crosses the x-axis one last time at x = 2, rising from there.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_016.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_016-4ad9.jpg"/>
 </media>
 </figure>
 <para id="eip-id1827109">Note that the graph does not represent the physical path of the ball upward and downward. Keep the quantities on each axis in mind while interpreting the graph. </para>
@@ -4077,7 +4077,7 @@ and
 </para>
 </solution></exercise><exercise id="fs-id1165134162173"><problem id="fs-id1165134162175">
 <media id="fs-id1165134196136" alt="Graph of a positive parabola with a vertex at (3, -1) and y-intercept at (0, 3.5).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_211n.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_211n-0ec8.jpg"/>
 </media>
 </problem>
 <!--<solution id="fs-id1165134196148"><para id="fs-id1165134196149"> <m:math>

@@ -5962,24 +5962,24 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 <section id="fs-id2261328"><title>Graphical</title><para id="fs-id2261333">For the following exercises, find the slope of the line graphed.</para>
 <exercise id="fs-id2261337"><problem id="fs-id2261338">
 <media id="fs-id2261344" alt="This is a graph of a decreasing linear function on an x, y coordinate plane. The x-axis runs from negative 6 to 6. The y-axis runs from negative 6 to 6. The line passes through points (0, 5) and (4, 0).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_202.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_202-2cc8.jpg"/>
 </media>
 </problem></exercise>
 <exercise id="fs-id2261358"><problem id="fs-id2261359">
 <media id="fs-id2261364" alt="This is a graph of a function on an x, y coordinate plane. The x-axis runs from negative 6 to 6. The y-axis runs from negative 6 to 6. The lines passes through points at (0, -2) and (2, -2).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_203.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_203-9e0c.jpg"/>
 </media>
 </problem>
 <solution id="fs-id2261378"><para id="fs-id2261379">0</para></solution></exercise>
 <para id="fs-id2261383">For the following exercises, write an equation for the line graphed.</para>
 <exercise id="fs-id2261386"><problem id="fs-id2261387">
 <media id="fs-id2261392" alt="Graph of an increasing linear function with points at (0,1) and (3,3)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_205.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_205-50b9.jpg"/>
 </media>
 </problem></exercise>
 <exercise id="fs-id2261404"><problem id="fs-id2261406">
 <media id="fs-id2261411" alt="Graph of a decreasing linear function with points (0,5) and (4,0)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_206.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_206-ae2b.jpg"/>
 </media>
 </problem><solution id="fs-id2261422"><para id="fs-id2261423"> <m:math>
  <m:mrow>
@@ -5996,7 +5996,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </problem></exercise>
 	<exercise id="fs-id2605036"><problem id="fs-id2605037">
 <media id="fs-id2605042" alt="Graph of an increasing linear function with points at (1,2) and (0,-2)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_208.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_208-ed56.jpg"/>
 </media>
 </problem>
 <solution id="fs-id2605055"><para id="fs-id2605056"> <m:math>
@@ -6007,12 +6007,12 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </para></solution></exercise>
 <exercise id="fs-id2605078"><problem id="fs-id2605079">
 <media id="fs-id2605084" alt="Graph of a function with points at (0, 3) and (3, 3)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_209.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_209-1a57.jpg"/>
 </media>
 </problem></exercise>
 <exercise id="fs-id2605097"><problem id="fs-id2605098">
 <media id="fs-id2605103" alt="Graph of a function with points at (0,-2.5) and (-2.5,-2.5)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_210.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_210-23b3.jpg"/>
 </media>
 </problem>
 <solution id="fs-id2605115"><para id="fs-id2202054"> <m:math>
@@ -6171,7 +6171,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </m:math> </para></problem>
 <solution id="fs-id2239776">
 <media id="fs-id2239782" alt="Graph of g(x) = -3x + 2 which goes through the points (0,2) and (1,-1) with a slope of -3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_209.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_209-60a6.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id2239796"><problem id="fs-id2239797"><para id="fs-id2239798"> <m:math>
  <m:mrow>
@@ -6243,7 +6243,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 <para id="fs-id2447566">For the following exercises, write the equation of the line shown in the graph.</para>
 <exercise id="fs-id2447569"><problem id="fs-id2447570">
 <media id="fs-id1979120" alt="The graph of a line with a slope of 0 and y-intercept at 3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_222.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_222-612a.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1979132"><para id="fs-id1979133"> <m:math>
@@ -6252,11 +6252,11 @@ Ask yourself what numbers can be input to the function. In other words, what is 
  </m:mrow>
 </m:math> </para></solution></exercise><exercise id="fs-id1979148"><problem id="fs-id1979149">
 <media id="fs-id1979154" alt="Graph of a line with a slope of 0 and y-intercept at -1.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_223.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_223-8721.jpg"/>
 </media>
 </problem></exercise><exercise id="fs-id1979167"><problem id="fs-id1979168">
 <media id="fs-id1979173" alt="Graph of a line with an undefined slope and x-intercept at -3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_224.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_224-571d.jpg"/>
 </media>
 </problem>
  <solution id="fs-id1979186"><para id="fs-id2084650"> <m:math>
