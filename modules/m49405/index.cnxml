@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49405/latest/</md:content-url>
   <md:content-id>m49405</md:content-id>
   <md:title>Non-right Triangles: Law of Cosines</md:title>
-  <md:version>1.17</md:version>
+  <md:version>1.18</md:version>
   <md:created>2014/02/21 09:41:46 -0600</md:created>
   <md:revised>2019/05/28 09:31:38.181 GMT-5</md:revised>
   <md:actors>
@@ -618,7 +618,7 @@
   </m:mtable>
  </m:mrow>
 </m:math>
-</equation></note><note xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135185939" class="precalculus howto"><label>How To</label>
+</equation></note><note xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135185939" class="how-to-notitle"><label>How To</label>
     <para id="fs-id1165137444540"><emphasis>Given two sides and the angle between them (SAS), find the measures of the remaining side and angles of a triangle.</emphasis></para>
     <list id="fs-id1165132949849" list-type="enumerated" number-style="arabic">
       <item>Sketch the triangle. Identify the measures of the known sides and angles. Use variables to represent the measures of the unknown sides and angles.</item>

@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49406/latest/</md:content-url>
   <md:content-id>m49406</md:content-id>
   <md:title>Polar Coordinates</md:title>
-  <md:version>1.19</md:version>
+  <md:version>1.20</md:version>
   <md:created>2014/02/20 15:49:52 -0600</md:created>
   <md:revised>2019/05/28 09:29:52.848 GMT-5</md:revised>
   <md:actors>
@@ -383,7 +383,7 @@
   <m:mrow><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow></m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>r</m:mi><m:mi>sin</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi>
  </m:mrow>
 </m:math>
-</equation></note><note id="fs-id1165131880216" class="precalculus howto">
+</equation></note><note id="fs-id1165131880216" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165133371754"><emphasis>Given polar coordinates, convert to rectangular coordinates.
 </emphasis></para>
@@ -1030,7 +1030,7 @@
 <title>Transforming Equations between Polar and Rectangular Forms</title>
 <para id="fs-id1165137726540">We can now convert coordinates between polar and rectangular form. Converting equations can be more difficult, but it can be beneficial to be able to convert between the two forms. Since there are a number of polar equations that cannot be expressed clearly in Cartesian form, and vice versa, we can use the same procedures we used to convert points between the coordinate systems. We can then use a graphing calculator to graph either the rectangular form or the polar form of the equation.</para>
 
-<note id="fs-id1165133356035" class="precalculus howto">
+<note id="fs-id1165133356035" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165134422164"><emphasis>Given an equation in polar form, graph it using a graphing calculator.
 </emphasis></para>

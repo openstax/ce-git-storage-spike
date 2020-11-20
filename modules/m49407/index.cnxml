@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49407/latest/</md:content-url>
   <md:content-id>m49407</md:content-id>
   <md:title>Polar Coordinates: Graphs</md:title>
-  <md:version>1.19</md:version>
+  <md:version>1.20</md:version>
   <md:created>2014/02/21 03:55:33 -0600</md:created>
   <md:revised>2020/02/11 13:53:58.817 US/Central</md:revised>
   <md:actors>
@@ -422,7 +422,7 @@ to determine the graph of a polar equation.</para><para id="fs-id1165135299187">
  <m:mrow>
   <m:mo stretchy="false">(</m:mo><m:mn>−</m:mn><m:mi>r</m:mi><m:mo>,</m:mo><m:mi>θ</m:mi><m:mo stretchy="false">)</m:mo>
  </m:mrow>
-</m:math> yields an equivalent equation.</caption></figure></note><note id="fs-id1165137410344" class="precalculus howto">
+</m:math> yields an equivalent equation.</caption></figure></note><note id="fs-id1165137410344" class="how-to-notitle">
       <label>How To</label>
       <para id="fs-id1165137662403"><emphasis>Given a polar equation, test for symmetry.</emphasis></para>
       <list id="fs-id1165135471088" list-type="enumerated" number-style="arabic"><item>Substitute the appropriate combination of components for <m:math>
@@ -1627,7 +1627,7 @@ into a <term class="no-emphasis">polar equation</term> and calculate <m:math>
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_007new.jpg"/>
 </media>
 </figure></note>
-<note id="fs-id1165135259648" class="precalculus howto">
+<note id="fs-id1165135259648" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165135694587"><emphasis>Given the polar equation of a cardioid, sketch its graph.</emphasis></para>
   <list id="fs-id1165135560637" list-type="enumerated" number-style="arabic"><item>Check equation for the three types of symmetry.</item>
@@ -1858,7 +1858,7 @@ into a <term class="no-emphasis">polar equation</term> and calculate <m:math>
 </media>
 
 <caption>Dimpled limaçons</caption></figure></note>
-<note id="fs-id1165132935120" class="precalculus howto">
+<note id="fs-id1165132935120" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165132923572"><emphasis>Given a polar equation for a one-loop limaçon, sketch the graph.</emphasis></para>
     <list id="fs-id1165134068951" list-type="enumerated" number-style="arabic"><item>Test the equation for symmetry. Remember that failing a symmetry test does not mean that the shape will not exhibit symmetry. Often the symmetry may reveal itself when the points are plotted.</item>
@@ -3514,7 +3514,7 @@ increases at a constant rate in an ever-widening, never-ending, spiraling path. 
 <figure id="Figure_08_04_020" class="medium"><media id="fs-id1165137940602" alt="Two graphs side by side of Archimedes' spiral. (A) is r= theta, [0, 2pi]. (B) is r=theta, [0, 4pi]. Both start at origin and spiral out counterclockwise. The second has two spirals out while the first has one.">
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_020new.jpg"/>
 </media>
-</figure></note><note id="fs-id1165137582354" class="precalculus howto">
+</figure></note><note id="fs-id1165137582354" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165135377101"><emphasis>Given an Archimedes’ spiral over <m:math>
  <m:mrow>

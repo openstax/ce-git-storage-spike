@@ -9,7 +9,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49314/latest/</md:content-url>
   <md:content-id>m49314</md:content-id>
   <md:title>Absolute Value Functions</md:title>
-  <md:version>1.18</md:version>
+  <md:version>1.20</md:version>
   <md:created>2014/02/19 23:14:09 -0600</md:created>
   <md:revised>2020/02/10 11:54:55.429 US/Central</md:revised>
   <md:actors>
@@ -584,7 +584,7 @@
    </m:math> has no solution.</para>
   </note>
 
-  <note id="fs-id1165135160087" class="precalculus howto">
+  <note id="fs-id1165135160087" class="how-to-notitle">
    <label>How To</label>
    <para id="fs-id1165135593248"><emphasis>Given the formula for an absolute value function, find the horizontal intercepts of its graph</emphasis>.</para>
    <list id="fs-id1165131968095" list-type="enumerated" number-style="arabic"><item>Isolate the absolute value term.</item>
@@ -836,7 +836,7 @@
 
    </para></note>
 
-  <note id="fs-id1165137911662" class="precalculus howto">
+  <note id="fs-id1165137911662" class="how-to-notitle">
    <label>How To</label>
    <para id="fs-id1165137647413"><emphasis>Given an absolute value equation, solve it.</emphasis></para>
    <list id="fs-id1165137589466" list-type="enumerated" number-style="arabic"><item>Isolate the absolute value term.</item>
@@ -1040,7 +1040,7 @@ such that the distance between <m:math>
 </m:math>
 </equation><para id="fs-id1165137804310">This means our returns would be between $400 and $800.</para>
   <para id="fs-id1165137507358">Sometimes an absolute value inequality problem will be presented to us in terms of a shifted and/or stretched or compressed absolute value function, where we must determine for which values of the input the function’s output will be negative or positive.</para>
-<note id="fs-id1165137667916" class="precalculus howto">
+<note id="fs-id1165137667916" class="how-to-notitle">
    <label>How To</label>
    <para id="fs-id1165137502428"><emphasis>Given an absolute value inequality of the form <m:math>
  <m:mrow>
@@ -1454,7 +1454,7 @@ such that the distance between <m:math>
     </note>
 
 
-  <note id="fs-id1165137530158" class="precalculus howto">
+  <note id="fs-id1165137530158" class="how-to-notitle">
    <label>How To</label>
    <para id="fs-id1165135445865"><emphasis>Given an absolute value function, solve for the set of inputs where the output is positive (or negative).
    </emphasis></para>
@@ -1713,7 +1713,7 @@ such that the distance between <m:math>
    </exercise>
   </note>
 
-  <note id="fs-id1165134257615" class="precalculus media">
+  <note id="fs-id1165134257615" class="precalculus media media-notitle">
    <label>Media</label>
    <para id="fs-id1165134332731">Access these online resources for additional instruction and practice with absolute value.</para>
   <list id="fs-id1165137508064" list-type="bulleted"><item><link url="http://openstax.org/l/graphabsvalue">Graphing Absolute Value Functions</link></item>

@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49346/latest/</md:content-url>
   <md:content-id>m49346</md:content-id>
   <md:title>Power Functions and Polynomial Functions</md:title>
-  <md:version>1.23</md:version>
+  <md:version>1.25</md:version>
   <md:created>2014/02/21 04:42:24 -0600</md:created>
   <md:revised>2020/02/10 13:07:27.101 US/Central</md:revised>
   <md:actors>
@@ -746,7 +746,7 @@ increases without bound. In symbolic form we write</para>
 <figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="Figure_03_03_004abcd"><media id="eip-id1165133101746" alt="Graph of an even-powered function with a positive constant. As x goes to negative infinity, the function goes to positive infinity; as x goes to positive infinity, the function goes to positive infinity. Graph of an odd-powered function with a positive constant. As x goes to negative infinity, the function goes to positive infinity; as x goes to positive infinity, the function goes to negative infinity. Graph of an even-powered function with a negative constant. As x goes to negative infinity, the function goes to negative infinity; as x goes to positive infinity, the function goes to negative infinity. Graph of an odd-powered function with a negative constant. As x goes to negative infinity, the function goes to negative infinity; as x goes to positive infinity, the function goes to negative infinity.">
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_004abcd.jpg"/>
 </media>
-</figure><note id="fs-id1165135161436" class="precalculus howto"><label>How To</label>
+</figure><note id="fs-id1165135161436" class="how-to-notitle"><label>How To</label>
 <para id="fs-id1165137415258"><emphasis>Given a power function <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>k</m:mi><m:msup>
@@ -864,7 +864,7 @@ increases without bound. In symbolic form we write</para>
 
 <figure id="Figure_03_03_009">
 <media id="fs-id1165137637423" alt="Graph of f(x)=-x^9.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_009.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_009.png"/>
 </media>
 </figure>
 </solution>
@@ -952,8 +952,7 @@ increases without bound. In symbolic form we write</para>
  </m:mrow>
 </m:math> decreases without bound: as <m:math>
  <m:mrow>
-  <m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>±</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi>
- </m:mrow>
+  <m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>±</m:mo><m:mi>∞</m:mi></m:mrow></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi>
 </m:math> because of the negative coefficient.</para></solution>
 </exercise>
 </note>
@@ -1290,7 +1289,7 @@ cannot be written in this form and is therefore not a polynomial function.</item
 </media>
 
 <para id="fs-id1165137482568">When a polynomial is written in this way, we say that it is in general form.</para>
-</note><note id="fs-id1165134031372" class="precalculus howto">
+</note><note id="fs-id1165134031372" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165137803898"><emphasis>Given a polynomial function, identify the degree and leading coefficient.</emphasis></para>
 <list id="fs-id1165135587816" list-type="enumerated" number-style="arabic">
@@ -1921,7 +1920,7 @@ therefore, the degree of the polynomial is 4. The degree is even (4) and the lea
 </m:math> intercepts are the points at which the output value is zero.</para>
  </note>
 
-<note id="fs-id1165137766902" class="precalculus howto">
+<note id="fs-id1165137766902" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165137645233"><emphasis>Given a polynomial function, determine the intercepts.</emphasis></para>
 <list id="fs-id1165137571388" list-type="enumerated" number-style="arabic"><item>Determine the <emphasis effect="italics">y-</emphasis>intercept by setting <m:math>
@@ -2780,7 +2779,7 @@ determine the local behavior.</para>
 </exercise>
 </note>
 
-<note id="fs-id1165137653058" class="precalculus media">
+<note id="fs-id1165137653058" class="precalculus media media-notitle">
 <label>Media</label>
 <para id="fs-id1165135456729">Access these online resources for additional instruction and practice with power and polynomial functions.</para><list id="fs-id1165137410802" list-type="bulleted">
 <item><link url="http://openstax.org/l/keyinfopoly">Find Key Information about a Given Polynomial Function</link></item>
@@ -3127,10 +3126,9 @@ and as <m:math>
  </m:mrow>
 </m:math>
 </para></problem>
-<solution id="fs-id1165137445856"><para id="fs-id1165137445857"> <m:math>
+<solution id="fs-id1165137445856"><para id="fs-id1165137445857">As <m:math>
  <m:mrow>
-  <m:mtext>As</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi>
- </m:mrow>
+  <m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:mrow></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, as <m:math><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi>
 </m:math>
 </para></solution></exercise>
 <exercise id="fs-id1165137423948"><problem id="fs-id1165137423949"><para id="fs-id1165137423950"> <m:math>
@@ -3157,10 +3155,9 @@ and as <m:math>
  </m:mrow>
 </m:math>
 </para></problem>
-<solution id="fs-id1165137643430"><para id="fs-id1165137643431"> <m:math>
+<solution id="fs-id1165137643430"><para id="fs-id1165137643431">As <m:math>
  <m:mrow>
-  <m:mtext>As</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi>
- </m:mrow>
+  <m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:mrow></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:math>, as <m:math><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi>
 </m:math>
 </para></solution></exercise>
 <exercise id="fs-id1165135557775"><problem id="fs-id1165135457738"><para id="fs-id1165135457739"> <m:math>
@@ -3189,10 +3186,9 @@ and as <m:math>
  </m:mrow>
 </m:math>
 </para></problem>
-<solution id="fs-id1165137656888"><para id="fs-id1165137656889"> <m:math>
+<solution id="fs-id1165137656888"><para id="fs-id1165137656889">As <m:math>
  <m:mrow>
-  <m:mtext>As</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi>
- </m:mrow>
+<m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:mrow></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:math>,as <m:math><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi>
 </m:math>
 </para></solution></exercise>
 <exercise id="fs-id1165135696746"><problem id="fs-id1165135696747"><para id="fs-id1165135696748"> <m:math>
@@ -3219,10 +3215,8 @@ and as <m:math>
  </m:mrow>
 </m:math>
 </para></problem>
-<solution id="fs-id1165137794123"><para id="fs-id1165135333271"> <m:math>
- <m:mrow>
-  <m:mtext>As</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi>
- </m:mrow>
+<solution id="fs-id1165137794123"><para id="fs-id1165135333271">As <m:math>
+  <m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, as <m:math><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:math>,<m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi>
 </m:math>
 </para></solution></exercise>
 <exercise id="fs-id1165137761673"><problem id="fs-id1165137761674"><para id="fs-id1165137761675"> <m:math>
@@ -3501,10 +3495,9 @@ and as <m:math>
 </tbody>
 </tgroup>
 </table>
-<para id="fs-id1165137654654"> <m:math>
+<para id="fs-id1165137654654"> as <m:math>
  <m:mrow>
-  <m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi>
- </m:mrow>
+  <m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:mrow></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, as <m:math><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi>
 </m:math>
 </para></solution></exercise><exercise id="fs-id1165133045350"><problem id="fs-id1165133045351"><para id="fs-id1165133045352"> <m:math>
  <m:mrow>
@@ -3573,10 +3566,9 @@ and as <m:math>
 </tbody>
 </tgroup>
 </table>
-<para id="fs-id1165134122929"> <m:math>
+<para id="fs-id1165134122929">as <m:math>
  <m:mrow>
-  <m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi>
- </m:mrow>
+  <m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:mrow></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, as <m:math><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi>
 </m:math>
 </para></solution></exercise><exercise id="fs-id1165134122886"><problem id="fs-id1165134122887"><para id="fs-id1165134122888"> <m:math>
  <m:mrow>
@@ -3649,11 +3641,10 @@ The <m:math>
    </m:mrow>
   <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo>
  </m:mrow>
-</m:math>
+</m:math>As
  <m:math>
  <m:mrow>
-  <m:mtext>As</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi>
- </m:mrow>
+  <m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:mrow></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, as <m:math><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi>
 </m:math>
 </para></solution></exercise><exercise id="fs-id1165135388458"><problem id="fs-id1165135388459"><para id="fs-id1165135388460"> <m:math>
  <m:mrow>
@@ -3706,10 +3697,10 @@ The <m:math>
   <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo>
  </m:mrow>
 </m:math>
+As
  <m:math>
  <m:mrow>
-  <m:mtext>As</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi>
- </m:mrow>
+  <m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:mrow></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, as <m:math><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi>
 </m:math>
 </para></solution></exercise><exercise id="fs-id1165133448049"><problem id="fs-id1165133448050"><para id="fs-id1165133448052"> <m:math>
  <m:mrow>
@@ -3771,10 +3762,10 @@ The <m:math>
   <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo>
  </m:mrow>
 </m:math>
+As
  <m:math>
  <m:mrow>
-  <m:mi>A</m:mi><m:mi>s</m:mi><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi>
- </m:mrow>
+  <m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:mrow></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, as <m:math><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi>
 </m:math>
 </para></solution></exercise><exercise id="fs-id1165137837875"><problem id="fs-id1165137837876"><para id="fs-id1165137837878"> <m:math>
  <m:mrow>
@@ -3833,10 +3824,10 @@ The <m:math>
   <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo>
  </m:mrow>
 </m:math>
+As
  <m:math>
  <m:mrow>
-  <m:mtext>As</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi>
- </m:mrow>
+  <m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:mrow></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, as <m:math><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi>
 </m:math>
 </para></solution></exercise><exercise id="fs-id1165135484565"><problem id="fs-id1165135484566"><para id="fs-id1165135484567"> <m:math>
  <m:mrow>
@@ -3905,10 +3896,10 @@ The <m:math>
   <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo>
  </m:mrow>
 </m:math>
+As
  <m:math>
  <m:mrow>
-  <m:mtext>As</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi>
- </m:mrow>
+  <m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:mrow></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, as <m:math><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>, <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi>
 </m:math>
 </para></solution></exercise><exercise id="fs-id1165134378662"><problem id="fs-id1165134378663"><para id="fs-id1165134378664"> <m:math>
  <m:mrow>
@@ -3926,7 +3917,7 @@ The <m:math>
 <title>Extensions</title>
 <para id="fs-id1165133111641">For the following exercises, use the information about the graph of a polynomial function to determine the function. Assume the leading coefficient is 1 or –1. There may be more than one correct answer.</para>
 
-<exercise id="fs-id1165133448009"><problem id="fs-id1165133448010"><para id="fs-id1165133448012">The <m:math>
+<exercise id="fs-id1165133448009" class="material-set-2"><problem id="fs-id1165133448010"><para id="fs-id1165133448012">The <m:math>
  <m:mrow>
   <m:mi>y</m:mi><m:mi>-</m:mi>
  </m:mrow>
@@ -3943,8 +3934,8 @@ The <m:math>
   <m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo><m:mspace width="0.8em"/></m:mrow>
 </m:math> Degree is 2.</para><para id="eip-id1165134540124">End behavior: <m:math>
  <m:mrow>
-  <m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>.</m:mo>
- </m:mrow>
+  <m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:mrow></m:math>,<m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>,<m:math><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>.</m:mo>
+
 </m:math>
 </para></problem>
 <solution id="fs-id1165135160156"><para id="fs-id1165135160157"> <m:math>
@@ -3956,7 +3947,7 @@ The <m:math>
   <m:mo>−</m:mo><m:mn>4</m:mn>
  </m:mrow>
 </m:math>
-</para></solution></exercise><exercise id="fs-id1165137894256"><problem id="fs-id1165137894257"><para id="fs-id1165137894258">The <m:math>
+</para></solution></exercise><exercise id="fs-id1165137894256" class="material-set-2"><problem id="fs-id1165137894257"><para id="fs-id1165137894258">The <m:math>
  <m:mrow>
   <m:mi>y</m:mi><m:mi>-</m:mi>
  </m:mrow>
@@ -3973,8 +3964,7 @@ The <m:math>
   <m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo><m:mspace width="0.8em"/></m:mrow>
 </m:math> Degree is 2.</para><para id="eip-id1165134566570">End behavior: <m:math>
  <m:mrow>
-  <m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>.</m:mo>
- </m:mrow>
+  <m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:mrow></m:math>,<m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:math>,<m:math><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>,<m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>.</m:mo>
 </m:math>
 </para></problem></exercise><exercise id="fs-id1165137897907"><problem id="fs-id1165137897908"><para id="fs-id1165137897909">The <m:math>
  <m:mrow>
@@ -3993,8 +3983,7 @@ The <m:math>
   <m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo><m:mspace width="0.8em"/></m:mrow>
 </m:math> Degree is 3.</para><para id="eip-id1165137749966">End behavior: <m:math>
  <m:mrow>
-  <m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>.</m:mo>
- </m:mrow>
+  <m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:mrow></m:math>,<m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:math>,<m:math><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>,<m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>.</m:mo>
 </m:math>
 </para></problem>
 <solution id="fs-id1165134389974"><para id="fs-id1165134389976"> <m:math>
@@ -4028,8 +4017,7 @@ The <m:math>
  </m:mrow>
 </m:math> Degree is 3.</para><para id="eip-id1165137895228">End behavior: <m:math>
  <m:mrow>
-  <m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>.</m:mo>
- </m:mrow>
+  <m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:mrow></m:math>,<m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>,<m:math><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>,<m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>.</m:mo>
 </m:math>
 </para></problem></exercise><exercise id="fs-id1165135536216"><problem id="fs-id1165135536217"><para id="fs-id1165135536218">The <m:math>
  <m:mrow>
@@ -4045,8 +4033,7 @@ The <m:math>
  </m:mrow>
 </m:math> intercept. Degree is 4.</para><para id="eip-id1165135434911">End behavior: <m:math>
  <m:mrow>
-  <m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>.</m:mo>
- </m:mrow>
+  <m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mo>−</m:mo><m:mi>∞</m:mi></m:mrow></m:math>,<m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>,<m:math><m:mtext>as</m:mtext><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi></m:math>,<m:math><m:mspace width="0.8em"/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>.</m:mo>
 </m:math>
 </para></problem>
 <solution id="fs-id1165137922537"><para id="fs-id1165135386380"> <m:math>

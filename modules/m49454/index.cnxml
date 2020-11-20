@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49454/latest/</md:content-url>
   <md:content-id>m49454</md:content-id>
   <md:title>Continuity</md:title>
-  <md:version>1.17</md:version>
+  <md:version>1.18</md:version>
   <md:created>2014/02/23 18:45:25 +0000</md:created>
   <md:revised>2020/02/11 14:21:46.128 US/Central</md:revised>
   <md:actors>
@@ -1001,7 +1001,7 @@
 
 
 </tgroup>
-</table></note><note id="fs-id1165135465298" class="precalculus howto">
+</table></note><note id="fs-id1165135465298" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165135543119"><emphasis>Given a function <m:math>
  <m:mrow>
@@ -1941,7 +1941,7 @@
 <title>Determining the Input Values for Which a Function Is Discontinuous</title>
 <para id="fs-id1165135523367">Now that we can identify continuous functions, jump discontinuities, and removable discontinuities, we will look at more complex functions to find discontinuities. Here, we will analyze a piecewise function to determine if any real numbers exist where the function is not continuous. A <term>piecewise function</term> may have discontinuities at the boundary points of the function as well as within the functions that make it up.</para><para id="fs-id1165135523374">To determine the real numbers for which a piecewise function composed of polynomial functions is not continuous, recall that <term class="no-emphasis">polynomial</term> functions themselves are continuous on the set of real numbers. Any discontinuity would be at the boundary points. So we need to explore the three conditions of continuity at the boundary points of the piecewise function.</para>
 
-<note id="fs-id1165135523385" class="precalculus howto">
+<note id="fs-id1165135523385" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165135523390"><emphasis>Given a piecewise function, determine whether it is continuous at the boundary points.</emphasis>
 <list id="fs-id1165135523396" list-type="enumerated" number-style="arabic">
@@ -2547,7 +2547,7 @@
 
 <section id="fs-id1165135682264">
 <title>Determining Whether a Function Is Continuous</title>
-<para id="fs-id1165135682269">To determine whether a <term class="no-emphasis">piecewise function</term> is continuous or discontinuous, in addition to checking the boundary points, we must also check whether each of the functions that make up the piecewise function is continuous.</para><note id="fs-id1165135682274" class="precalculus howto">
+<para id="fs-id1165135682269">To determine whether a <term class="no-emphasis">piecewise function</term> is continuous or discontinuous, in addition to checking the boundary points, we must also check whether each of the functions that make up the piecewise function is continuous.</para><note id="fs-id1165135682274" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165135682280"><emphasis>Given a piecewise function, determine whether it is continuous.</emphasis></para><list id="fs-id1165135682285" list-type="enumerated" number-style="arabic">
 <item>Determine whether each component function of the piecewise function is continuous. If there are discontinuities, do they occur within the domain where that component function is applied?</item>

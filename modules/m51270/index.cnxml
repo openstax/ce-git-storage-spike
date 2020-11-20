@@ -8,9 +8,9 @@
   <md:content-url>https://legacy.cnx.org/content/m51270/latest/</md:content-url>
   <md:content-id>m51270</md:content-id>
   <md:title>Linear Functions</md:title>
-  <md:version>1.31</md:version>
+  <md:version>1.32</md:version>
   <md:created>2014/10/02 13:06:04 -0500</md:created>
-  <md:revised>2020/08/21 17:00:06.963 GMT-5</md:revised>
+  <md:revised>2020/10/28 11:33:23.200 GMT-5</md:revised>
   <md:actors>
     <md:person userid="cnxcollalg">
       <md:firstname>OpenStax</md:firstname>
@@ -44,7 +44,7 @@
   </md:actors>
   <md:roles>
     <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">cnxcollalg OpenStaxCollege cnxcat cnxprecal</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxcollalg cnxcat cnxprecal</md:role>
     <md:role type="licensor">OSCRiceUniversity</md:role>
   </md:roles>
   <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
@@ -3209,103 +3209,16 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </list>
 </note>
 <example id="Example_04_01_014">
-<exercise id="fs-id2447882">
-<problem id="fs-id2447884">
+<exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id2447882"><problem id="fs-id2447884">
 <title>Matching Linear Functions to Their Graphs</title>
 <para id="fs-id2447889">Match each equation of the linear functions with one of the lines in <link target-id="CNX_Precalc_Figure_02_04_011"/>.</para>
- <equation id="fs-id1800016" class="unnumbered"><label/> <m:math>
-  <m:mrow>
-   <m:mtable>
-    <m:mtr>
-     <m:mtd columnalign="left">
-      <m:mrow>
-       <m:mi>a</m:mi><m:mtext>.</m:mtext>
-      </m:mrow>
-     </m:mtd>
-     <m:mtd columnalign="right">
-      <m:mrow>
-       <m:mspace width="0.8em"/><m:mtext/><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo>
-      </m:mrow>
-     </m:mtd>
-     <m:mtd>
-      <m:mo>=</m:mo>
-     </m:mtd>
-     <m:mtd columnalign="left">
-      <m:mrow>
-       <m:mn>2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn>
-      </m:mrow>
-     </m:mtd>
-    </m:mtr>
-    <m:mtr>
-     <m:mtd columnalign="left">
-      <m:mrow>
-       <m:mi>b</m:mi><m:mtext>.</m:mtext>
-      </m:mrow>
-     </m:mtd>
-     <m:mtd columnalign="right">
-      <m:mrow>
-       <m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo>
-      </m:mrow>
-     </m:mtd>
-     <m:mtd>
-      <m:mo>=</m:mo>
-     </m:mtd>
-     <m:mtd columnalign="left">
-      <m:mrow>
-       <m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>3</m:mn>
-      </m:mrow>
-     </m:mtd>
-    </m:mtr>
-    <m:mtr>
-     <m:mtd columnalign="left">
-      <m:mrow>
-       <m:mi>c</m:mi><m:mtext>.</m:mtext>
-      </m:mrow>
-     </m:mtd>
-     <m:mtd columnalign="right">
-      <m:mrow>
-       <m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo>
-      </m:mrow>
-     </m:mtd>
-     <m:mtd>
-      <m:mo>=</m:mo>
-     </m:mtd>
-     <m:mtd columnalign="left">
-      <m:mrow>
-       <m:mn>−2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn>
-      </m:mrow>
-     </m:mtd>
-    </m:mtr>
-    <m:mtr>
-     <m:mtd columnalign="left">
-      <m:mrow>
-       <m:mi>d</m:mi><m:mtext>. </m:mtext>
-      </m:mrow>
-     </m:mtd>
-     <m:mtd columnalign="right">
-      <m:mrow>
-       <m:mi>j</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo>
-      </m:mrow>
-     </m:mtd>
-     <m:mtd>
-      <m:mo>=</m:mo>
-     </m:mtd>
-     <m:mtd columnalign="left">
-      <m:mrow>
-       <m:mfrac>
-        <m:mn>1</m:mn>
-        <m:mn>2</m:mn>
-       </m:mfrac>
-       <m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn>
-      </m:mrow>
-     </m:mtd>
-    </m:mtr>
-
-   </m:mtable>
-  </m:mrow>
- </m:math>
-
-</equation><figure id="CNX_Precalc_Figure_02_04_011" class="small"><media id="fs-id2248106" alt="Graph of four functions where the orange line has a y-intercept at 3 and slope of 2, the baby blue line has a y-intercept at 3 and slope of 1/2, the blue line has a y-intercept at 3 and slope of -2, and the green line has a y-intercept at -3 and slope of 2.">
+<list id="eip-idm419208272" list-type="enumerated" number-style="lower-alpha" class="circled">
+<item><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:math> </item>
+<item><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>g</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:math> </item>
+<item><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>h</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:math> </item>
+<item><span class="token">ⓓ</span> <m:math><m:mrow><m:mi>j</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:math> </item>
+</list>
+ <figure id="CNX_Precalc_Figure_02_04_011" class="small"><media id="fs-id2248106" alt="Graph of four functions where the orange line has a y-intercept at 3 and slope of 2, the baby blue line has a y-intercept at 3 and slope of 1/2, the blue line has a y-intercept at 3 and slope of -2, and the green line has a y-intercept at -3 and slope of 2.">
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_011.jpg"/>
 </media>
 </figure></problem>
@@ -3370,8 +3283,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </media>
 </figure></solution>
 
-</exercise>
-</example>
+</exercise></example>
 <section id="fs-id2256536">
 <title>Finding the <emphasis effect="italics">x</emphasis>-intercept of a Line</title>
 <para id="fs-id2256546">So far we have been finding the <emphasis effect="italics">y-</emphasis>intercepts of a function: the point at which the graph of the function crosses the <emphasis effect="italics">y</emphasis>-axis. Recall that a function may also have an <term class="no-emphasis"><emphasis effect="italics">x</emphasis>-intercept</term>, which is the <emphasis effect="italics">x</emphasis>-coordinate of the point where the graph of the function crosses the <emphasis effect="italics">x</emphasis>-axis. In other words, it is the input value when the output value is zero.</para>

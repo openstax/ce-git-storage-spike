@@ -8,9 +8,9 @@
   <md:content-url>https://legacy.cnx.org/content/m49393/latest/</md:content-url>
   <md:content-id>m49393</md:content-id>
   <md:title>Solving Trigonometric Equations with Identities</md:title>
-  <md:version>1.18</md:version>
-  <md:created>2014/02/21 02:47:30 +0000</md:created>
-  <md:revised>2020/02/10 14:28:05.227 US/Central</md:revised>
+  <md:version>1.21</md:version>
+  <md:created>2014/02/20 20:47:30 -0600</md:created>
+  <md:revised>2020/10/29 08:47:33.763 GMT-5</md:revised>
   <md:actors>
     <md:organization userid="OpenStaxCollege">
       <md:shortname>OpenStax</md:shortname>
@@ -21,7 +21,7 @@
       <md:firstname>Rice</md:firstname>
       <md:surname>University</md:surname>
       <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
+      <md:email>info@openstax.org</md:email>
     </md:person>
     <md:person userid="cnxprecal">
       <md:firstname>OpenStax College</md:firstname>
@@ -58,8 +58,7 @@
   <md:subjectlist>
     <md:subject>Mathematics and Statistics</md:subject>
   </md:subjectlist>
-  <md:abstract><para>In this section, you will:</para>
-<list>
+  <md:abstract><para>In this section, you will:</para><list>
 <item>Verify the fundamental trigonometric identities.</item>
 <item>Simplify trigonometric expressions using algebra and the identities.</item>
 </list></md:abstract>
@@ -1515,7 +1514,7 @@ For example, consider corresponding inputs <m:math>
 <para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id3063508">We see only one graph because both expressions generate the same image. One is on top of the other. This is a good way to confirm an identity verified with analytical means. If both expressions give the same graph, then they are most likely identities.</para></commentary>
 </exercise></example>
 
-<note id="fs-id2467864" class="precalculus howto">
+<note id="fs-id2467864" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id693742"><emphasis>Given a trigonometric identity, verify that it is true.
 </emphasis></para>

@@ -8,9 +8,9 @@
   <md:content-url>https://legacy.cnx.org/content/m51276/latest/</md:content-url>
   <md:content-id>m51276</md:content-id>
   <md:title>Graphs of Polynomial Functions</md:title>
-  <md:version>1.25</md:version>
+  <md:version>1.26</md:version>
   <md:created>2014/10/02 08:28:23 -0500</md:created>
-  <md:revised>2020/09/02 13:42:44.582 GMT-5</md:revised>
+  <md:revised>2020/10/30 11:03:01.620 GMT-5</md:revised>
   <md:actors>
     <md:person userid="cnxcollalg">
       <md:firstname>OpenStax</md:firstname>
@@ -389,9 +389,8 @@ Use the zero factor property to solve each of the following exercises.
         </m:math>
         </item>
         <item>If the polynomial function is not given in factored form:
-        <list id="fs-id1165137646354" list-type="enumerated" number-style="arabic" class="circled">
-        <item><span class="token">ⓐ</span>Factor out any common monomial factors.</item>
-        <item><span class="token">ⓑ</span>Factor any factorable binomials or trinomials.</item>
+        <list xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165137646354" list-type="enumerated" number-style="lower-alpha" class="circled"><item>Factor out any common monomial factors.</item>
+        <item>Factor any factorable binomials or trinomials.</item>
           </list></item>
         <item>Set each factor equal to zero and solve to find the <m:math>
  <m:mrow><m:mi>x</m:mi><m:mtext>-</m:mtext>
@@ -2105,8 +2104,8 @@ the graph passes through the axis linearly, suggesting the corresponding factors
 </m:math> for all <m:math>
  <m:mrow><m:mi>x</m:mi><m:mo>.</m:mo>
  </m:mrow>
-</m:math> </para><para id="fs-id1165135347645">We can see the difference between local and global extrema in <link target-id="Figure_03_04_026"/>.</para><figure id="Figure_03_04_026" class="small"><media id="fs-id1165135347656" alt="Graph of an even-degree polynomial that denotes the local maximum and minimum and the global maximum.">
-<image mime-type="image/png" src="CNX_Precalc_Figure_03_04_026n.jpg"/>
+</m:math> </para><para id="fs-id1165135347645">We can see the difference between local and global extrema in <link target-id="Figure_03_04_026"/>.</para><figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="Figure_03_04_026" class="small"><media id="fs-id1165135347656" alt="Graph of an even-degree polynomial that denotes the local maximum and minimum and the global maximum.">
+<image mime-type="image/png" src="CNX_Precalc_Figure_03_04_026n.png"/>
 </media>
 </figure></note>
 

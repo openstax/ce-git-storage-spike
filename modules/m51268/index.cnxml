@@ -8,9 +8,9 @@
   <md:content-url>https://legacy.cnx.org/content/m51268/latest/</md:content-url>
   <md:content-id>m51268</md:content-id>
   <md:title>Inverse Functions</md:title>
-  <md:version>1.29</md:version>
+  <md:version>1.30</md:version>
   <md:created>2014/10/02 12:59:54 -0500</md:created>
-  <md:revised>2020/08/21 16:50:44.298 GMT-5</md:revised>
+  <md:revised>2020/10/23 10:20:51.851 GMT-5</md:revised>
   <md:actors>
     <md:person userid="cnxcollalg">
       <md:firstname>OpenStax</md:firstname>
@@ -38,7 +38,7 @@
   </md:actors>
   <md:roles>
     <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">cnxcollalg OpenStaxCollege cnxcat</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxcollalg cnxcat</md:role>
     <md:role type="licensor">OSCRiceUniversity</md:role>
   </md:roles>
   <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
@@ -55,7 +55,6 @@
     <md:keyword>range</md:keyword>
   </md:keywordlist>
   <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
     <md:subject>Mathematics and Statistics</md:subject>
   </md:subjectlist>
   <md:abstract><para>In this section, you will:</para><list>
@@ -3604,7 +3603,8 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   </para>
   </problem>
   </exercise>
-  <para id="fs-id1165135195398">For the following exercises, use the values listed in <link target-id="Table_01_07_06"/> to evaluate or solve.</para><table xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-151" summary="Eleven columns and two rows. The first row is labeled, “x”, and the second is labeled, “f(x)”. The values of x are 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9. So for f(0)=8, f(1)=0, f(2)=7, f(3)=4, f(4)=2, f(5)=6, f(6)=5, f(7)=8, f(8)=9, and f(9)=1.">
+  <para id="fs-id1165135195398">For the following exercises, use the values listed in <link target-id="eip-151"/> to evaluate or solve.</para>
+<table xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-151" summary="Eleven columns and two rows. The first row is labeled, “x”, and the second is labeled, “f(x)”. The values of x are 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9. So for f(0)=8, f(1)=0, f(2)=7, f(3)=4, f(4)=2, f(5)=6, f(6)=5, f(7)=8, f(8)=9, and f(9)=1.">
 <tgroup cols="11"><tbody>
   <row>
     <entry><emphasis> <m:math>
@@ -3715,7 +3715,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <exercise id="fs-id1165135341429">
   <problem id="fs-id1165135209686">
-  <para id="fs-id1165135209688">Use the tabular representation of <m:math>
+  <para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135209688">Use the tabular representation of <m:math>
   <m:mrow>
  <m:mi>f</m:mi></m:mrow>
   </m:math> in <link target-id="Table_01_07_08"/> to create a table for <m:math>
@@ -3729,9 +3729,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <m:mi>x</m:mi>
   <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow>
   </m:math>
-  </para>
-
-  <table id="Table_01_07_08" summary="Two rows and six columns. The first row is labeled, “x”, and the second is labeled, “f(x)”. The values of x are 3, 6, 9, 13, and 14. So for f(3)=1, f(6)=4, f(9)=7, f(13)=12, and f(14)=16.">
+  </para><table id="Table_01_07_08" summary="Two rows and six columns. The first row is labeled, “x”, and the second is labeled, “f(x)”. The values of x are 3, 6, 9, 13, and 14. So for f(3)=1, f(6)=4, f(9)=7, f(13)=12, and f(14)=16.">
   <tgroup cols="6"><colspec colnum="1" colname="c1"/>
   <colspec colnum="2" colname="c2"/>
   <colspec colnum="3" colname="c3"/>
@@ -6005,7 +6003,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   </solution>
   </exercise>
 
-  <para id="fs-id1165137696459">For the following exercises, use the values listed in <link target-id="Table_01_07_07"/>.</para>
+  <para id="fs-id1165137696459">For the following exercises, use the values listed in <link target-id="eip-557"/>.</para>
 
   <table xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-557" summary=".">
 <tgroup cols="10"><tbody>

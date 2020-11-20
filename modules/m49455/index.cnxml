@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49455/latest/</md:content-url>
   <md:content-id>m49455</md:content-id>
   <md:title>Derivatives</md:title>
-  <md:version>1.16</md:version>
+  <md:version>1.18</md:version>
   <md:created>2014/02/23 18:51:41 -0600</md:created>
   <md:revised>2019/06/13 16:13:54.397 GMT-5</md:revised>
   <md:actors>
@@ -841,7 +841,7 @@
 </m:math> </para>
 </note>
 
-<note id="fs-id1165135526118" class="precalculus howto">
+<note id="fs-id1165135526118" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165137400519"><emphasis>Given a function <m:math>
  <m:mrow>
@@ -2650,7 +2650,7 @@
  </m:mrow>
 </m:math> and finding its slope.</para>
 
-<note id="fs-id1165135596394" class="precalculus howto">
+<note id="fs-id1165135596394" class="how-to-notitle">
 <label>How To</label>
 <para id="eip-id1165134254392"><emphasis>Given a graph of a function <m:math>  <m:mrow>   <m:mi>f</m:mi><m:mrow><m:mo>(</m:mo>    <m:mi>x</m:mi>   <m:mo>)</m:mo></m:mrow><m:mo>,</m:mo>  </m:mrow></m:math> find the instantaneous rate of change of the function at <m:math>  <m:mrow>   <m:mi>x</m:mi><m:mo>=</m:mo><m:mi>a</m:mi><m:mo>.</m:mo>  </m:mrow> </m:math> </emphasis></para>
 <list id="fs-id1165135526013" list-type="enumerated" number-style="arabic"><item>Locate <m:math>
@@ -4031,7 +4031,7 @@
  </m:mrow>
 </m:math> </equation></note>
 
-<note id="fs-id1165134075234" class="precalculus howto">
+<note id="fs-id1165134075234" class="how-to-notitle">
 <label>How To</label>
 <para id="eip-id1165135538654"><emphasis>Given a function <m:math>  <m:mrow>   <m:mi>f</m:mi><m:mo>,</m:mo>  </m:mrow></m:math> find the equation of a line tangent to the function at <m:math>  <m:mrow>   <m:mi>x</m:mi><m:mo>=</m:mo><m:mi>a</m:mi><m:mo>.</m:mo>  </m:mrow> </m:math> </emphasis></para>
 <list id="fs-id1165134066646" list-type="enumerated" number-style="arabic">

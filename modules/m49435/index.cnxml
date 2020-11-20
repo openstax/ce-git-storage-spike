@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49435/latest/</md:content-url>
   <md:content-id>m49435</md:content-id>
   <md:title>Solving Systems with Inverses</md:title>
-  <md:version>1.23</md:version>
+  <md:version>1.24</md:version>
   <md:created>2014/02/23 15:22:45 -0600</md:created>
   <md:revised>2020/08/28 13:23:28.101 GMT-5</md:revised>
   <md:actors>
@@ -914,7 +914,7 @@ matrix such that <m:math>
 </m:math>
 </equation><equation id="fs-id1165137533136" class="unnumbered"><label/> <m:math display="block">
  <m:mrow>
-  <m:mi>A</m:mi><m:mi>I</m:mi><m:mo>=</m:mo><m:mrow><m:mo>[</m:mo> <m:mrow>
+  <m:mi>I</m:mi><m:mi>A</m:mi><m:mo>=</m:mo><m:mrow><m:mo>[</m:mo> <m:mrow>
    <m:mtable columnalign="right">
     <m:mtr columnalign="right">
      <m:mtd columnalign="right">
@@ -3374,7 +3374,7 @@ matrix such that <m:math>
                       <m:mn>1</m:mn>
                     </m:mtd>
                     <m:mtd>
-                      <m:mn>3</m:mn>
+                      <m:mn>2</m:mn>
                     </m:mtd>
                   </m:mtr>
 
@@ -3421,7 +3421,7 @@ matrix such that <m:math>
                       </m:mtd>
                       <m:mtd>
                         <m:mrow>
-                          <m:mn>6</m:mn>
+                          <m:mn>2</m:mn>
                         </m:mrow>
                       </m:mtd>
                     </m:mtr>

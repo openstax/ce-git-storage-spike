@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49452/latest/</md:content-url>
   <md:content-id>m49452</md:content-id>
   <md:title>Finding Limits: Numerical and Graphical Approaches</md:title>
-  <md:version>1.15</md:version>
+  <md:version>1.16</md:version>
   <md:created>2014/02/24 00:29:13 -0600</md:created>
   <md:revised>2020/02/11 14:16:36.586 US/Central</md:revised>
   <md:actors>
@@ -973,7 +973,7 @@
  </m:mrow>
 </m:math> does not exist.</para>
 
-<note id="fs-id1165137595258" class="precalculus howto">
+<note id="fs-id1165137595258" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165137589907"><emphasis>Given a function <m:math>
  <m:mrow>
@@ -1527,7 +1527,7 @@
  </m:mrow>
 </m:math> does not exist.</para>
 
-<note id="fs-id1165137422676" class="precalculus howto">
+<note id="fs-id1165137422676" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165137749697"><emphasis>Given a function</emphasis> <m:math>
  <m:mrow>

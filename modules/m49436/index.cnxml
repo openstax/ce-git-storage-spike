@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49436/latest/</md:content-url>
   <md:content-id>m49436</md:content-id>
   <md:title>Solving Systems with Cramer's Rule</md:title>
-  <md:version>1.25</md:version>
+  <md:version>1.26</md:version>
   <md:created>2014/02/23 09:39:37 -0600</md:created>
   <md:revised>2020/08/28 13:36:55.851 GMT-5</md:revised>
   <md:actors>
@@ -794,7 +794,7 @@ Use Cramer’s Rule to solve the system of three equations.
       </m:mfrac>
       <m:mo>=</m:mo><m:mfrac>
        <m:mrow>
-        <m:mrow><m:mo>[</m:mo> <m:mrow>
+        <m:mrow><m:mo>|</m:mo> <m:mrow>
          <m:mtable>
           <m:mtr>
            <m:mtd>
@@ -838,10 +838,10 @@ Use Cramer’s Rule to solve the system of three equations.
           </m:mtr>
 
          </m:mtable>
-        </m:mrow> <m:mo>]</m:mo></m:mrow>
+       </m:mrow> <m:mo>|</m:mo></m:mrow>
        </m:mrow>
        <m:mrow>
-        <m:mrow><m:mo>[</m:mo> <m:mrow>
+        <m:mrow><m:mo>|</m:mo> <m:mrow>
          <m:mtable>
           <m:mtr>
            <m:mtd>
@@ -885,7 +885,7 @@ Use Cramer’s Rule to solve the system of three equations.
           </m:mtr>
 
          </m:mtable>
-        </m:mrow> <m:mo>]</m:mo></m:mrow>
+       </m:mrow> <m:mo>|</m:mo></m:mrow>
        </m:mrow>
       </m:mfrac>
 

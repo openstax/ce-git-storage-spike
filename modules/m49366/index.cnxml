@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49366/latest/</md:content-url>
   <md:content-id>m49366</md:content-id>
   <md:title>Exponential and Logarithmic Equations</md:title>
-  <md:version>1.24</md:version>
+  <md:version>1.25</md:version>
   <md:created>2014/02/21 07:21:32 -0600</md:created>
   <md:revised>2020/08/28 11:19:59.599 GMT-5</md:revised>
   <md:actors>
@@ -3418,7 +3418,7 @@ Don’t forget to check your solutions.
 </m:math> is the time period over which the substance is studied</item>
 <item> <m:math>
 <m:mrow>
-<m:mi>y</m:mi></m:mrow>
+<m:mi>A</m:mi><m:mo>(</m:mo><m:mi>t</m:mi><m:mo>)</m:mo></m:mrow>
 </m:math> is the amount of the substance present after time <m:math>
 <m:mrow>
 <m:mi>t</m:mi>
