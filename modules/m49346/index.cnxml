@@ -646,7 +646,7 @@ The other functions are not power functions.</para></solution>
 </m:math> which are all power functions with odd, whole-number powers. Notice that these graphs look similar to the cubic function in the toolkit. Again, as the power increases, the graphs flatten near the origin and become steeper away from the origin.</para>
 
 <figure id="Figure_03_03_003" class="small"><media id="fs-id1165137824550" alt="Graph of three functions, f(x)=x^3 in green, g(x)=x^5 in orange, and h(x)=x^7 in blue.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_003.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_003-07aa.jpg"/>
 </media>
 <caption>Odd-power function</caption></figure><para id="fs-id1165137730237">These examples illustrate that functions of the form <m:math>
  <m:mrow>
@@ -2564,7 +2564,7 @@ therefore, the degree of the polynomial is 4. The degree is even (4) and the lea
 <problem id="fs-id1165137834183"><para id="fs-id1165137454180">What can we conclude about the polynomial represented by the graph shown in <link target-id="Figure_03_03_022"/> based on its intercepts and turning points?</para>
 <figure id="Figure_03_03_022">
 <media id="fs-id1165137405825" alt="Graph of an odd-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_022.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_022-9b31.jpg"/>
 </media>
 </figure>
 </problem>

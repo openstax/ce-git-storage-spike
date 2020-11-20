@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49412/latest/</md:content-url>
   <md:content-id>m49412</md:content-id>
   <md:title>Vectors</md:title>
-  <md:version>1.21</md:version>
+  <md:version>1.22</md:version>
   <md:created>2014/02/21 10:28:13 -0600</md:created>
   <md:revised>2020/08/25 08:26:39.587 GMT-5</md:revised>
   <md:actors>
@@ -442,7 +442,7 @@
     </m:mrow>
   <m:mo>)</m:mo></m:mrow><m:mo>,</m:mo></m:mrow>
 </m:math> as illustrated in <link target-id="Figure_08_08_017"/>.</para><figure id="Figure_08_08_017" class="small"><media id="fs-id1165135152266" alt="Standard plot of a position vector (a,b) with magnitude |v| extending into Q1 at theta degrees. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_08_017new.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_08_017new.png"/>
 </media>
 </figure><para id="fs-id1165137730380">Two vectors <emphasis><emphasis effect="italics">v</emphasis></emphasis> and <emphasis><emphasis effect="italics">u</emphasis></emphasis> are considered equal if they have the same magnitude and the same direction. Additionally, if both vectors have the same position vector, they are equal.</para></note>
 
@@ -1312,15 +1312,6 @@
 </m:math>
 </equation><para id="fs-id1165137400265">Using the Pythagorean Theorem, the magnitude of <emphasis><emphasis effect="italics">v</emphasis></emphasis><sub>1</sub> is 2, and the magnitude of <emphasis><emphasis effect="italics">v</emphasis></emphasis><sub>2</sub> is 3. To find the magnitude of <emphasis><emphasis effect="italics">v</emphasis></emphasis>, use the formula with the position vector.</para><equation id="fs-id1165137849225" class="unnumbered"><label/> <m:math display="block">
  <m:mrow>
-  <m:mtable columnalign="left">
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
       <m:mtable columnalign="left">
        <m:mtr columnalign="left">
         <m:mtd columnalign="left">
@@ -1394,11 +1385,6 @@
 
       </m:mtable>
      </m:mrow>
-    </m:mtd>
-   </m:mtr>
-
-  </m:mtable>
- </m:mrow>
 </m:math>
 </equation><para id="fs-id1165137387521">The magnitude of <emphasis><emphasis effect="italics">v</emphasis></emphasis> is <m:math>
  <m:mrow>
@@ -1980,7 +1966,7 @@
  </m:mrow>
 </m:math> See <link target-id="Figure_08_08_010"/>.
 </para><figure id="Figure_08_08_010" class="small"><media id="fs-id1165134328867" alt="Plot showing vectors in rectangular coordinates in terms of i and j. The position vector v (in orange) extends from the origin to some point (a,b) in Q1. The horizontal (ai) and vertical (bj) components are shown.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_08_010new.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_08_010new.png"/>
 </media>
 </figure></note><example id="Example_08_08_10"><exercise id="fs-id1165137640998"><problem id="fs-id1165137398636">
 <title>Writing a Vector in Terms of <emphasis effect="italics">i</emphasis> and <emphasis effect="italics">j</emphasis>
@@ -3262,7 +3248,7 @@
 </equation><para id="fs-id1165134158931">Therefore, the plane has a SE bearing of 140°+2.8°=142.8°. The ground speed is 212.7 miles per hour.</para></solution>
 </exercise></example>
 
-<note id="fs-id1165135442438" class="precalculus media">
+<note id="fs-id1165135442438" class="precalculus media media-notitle">
 <label>media feature label</label>
 <para id="fs-id1165135442444">Access these online resources for additional instruction and practice with vectors.</para>
 <list id="fs-id1165135442447">
@@ -3520,7 +3506,7 @@
    <m:mn>4</m:mn>
   </m:msub>
   </m:mrow>
-</m:math>.</para><exercise id="fs-id1165133354243"><problem id="fs-id1165133354244"><para id="fs-id1165133354245"> <m:math>
+</m:math>.</para><exercise id="fs-id1165133354243" class="material-set-2"><problem id="fs-id1165133354244"><para id="fs-id1165133354245"> <m:math>
  <m:mrow>
   <m:msub>
    <m:mi>P</m:mi>
@@ -3559,7 +3545,7 @@
 <solution id="fs-id1165133022986">
 <para id="fs-id1165133022988">not equal</para>
 </solution></exercise>
-<exercise id="fs-id1165133022992"><problem id="fs-id1165133022994"><para id="fs-id1165135534902"> <m:math>
+<exercise id="fs-id1165133022992" class="material-set-2"><problem id="fs-id1165133022994"><para id="fs-id1165135534902"> <m:math>
  <m:mrow>
   <m:msub>
    <m:mi>P</m:mi>
@@ -3595,7 +3581,7 @@
   <m:mo>)</m:mo></m:mrow></m:mrow>
 </m:math>
 </para></problem></exercise>
-<exercise id="fs-id1165134032413"><problem id="fs-id1165134032414"><para id="fs-id1165134573200"> <m:math>
+<exercise id="fs-id1165134032413" class="material-set-2"><problem id="fs-id1165134032414"><para id="fs-id1165134573200"> <m:math>
  <m:mrow>
   <m:msub>
    <m:mi>P</m:mi>
@@ -3634,7 +3620,7 @@
 <solution id="fs-id1165137832972">
 <para id="fs-id1165137832974">equal</para>
 </solution></exercise>
-<exercise id="fs-id1165137832978"><problem id="fs-id1165137832980"><para id="fs-id1165137832981"> <m:math>
+<exercise id="fs-id1165137832978" class="material-set-2"><problem id="fs-id1165137832980"><para id="fs-id1165137832981"> <m:math>
  <m:mrow>
   <m:msub>
    <m:mi>P</m:mi>
@@ -3670,7 +3656,7 @@
   <m:mo>)</m:mo></m:mrow></m:mrow>
 </m:math>
 </para></problem></exercise>
-<exercise id="fs-id1165133355961"><problem id="fs-id1165133355962"><para id="fs-id1165133355963"> <m:math>
+<exercise id="fs-id1165133355961" class="material-set-2"><problem id="fs-id1165133355962"><para id="fs-id1165133355963"> <m:math>
  <m:mrow>
   <m:msub>
    <m:mi>P</m:mi>
@@ -3709,7 +3695,7 @@
 <solution id="fs-id1165133341007">
 <para id="fs-id1165133341010">equal</para>
 </solution></exercise>
-<exercise id="fs-id1165133341014">
+<exercise id="fs-id1165133341014" class="material-set-2">
 <problem id="fs-id1165133341015">
 <para id="fs-id1165133341016">Given initial point <m:math>
  <m:mrow>
@@ -3744,7 +3730,7 @@
 </m:math> </emphasis>
 
 </para></problem></exercise>
-<exercise id="fs-id1165135464840"><problem id="fs-id1165135464841">
+<exercise id="fs-id1165135464840" class="material-set-2"><problem id="fs-id1165135464841">
 <para id="fs-id1165135464842">Given initial point <m:math>
  <m:mrow>
   <m:msub>
@@ -4330,16 +4316,16 @@
 </m:math>
 </para></problem></exercise>
 <exercise id="fs-id1165137661647"><problem id="fs-id1165137661648"><para id="fs-id1165137661649">A 60-pound box is resting on a ramp that is inclined 12°. Rounding to the nearest tenth,</para>
-<list id="fs-id1165135397073" number-style="lower-alpha" list-type="enumerated">
-<item>Find the magnitude of the normal (perpendicular) component of the force.</item>
-<item>Find the magnitude of the component of the force that is parallel to the ramp.</item></list>
+<list id="fs-id1165135397073" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span> Find the magnitude of the normal (perpendicular) component of the force.</item>
+<item><span class="token">ⓑ</span> Find the magnitude of the component of the force that is parallel to the ramp.</item></list>
 </problem>
 <solution id="fs-id1165135397085">
-<para id="fs-id1165135397087">a. 58.7; b. 12.5</para></solution></exercise>
+<list id="fs-id111266788675543" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> 58.7</item> <item><span class="token">ⓑ</span> 12.5</item></list></solution></exercise>
 <exercise id="fs-id1165135397090"><problem id="fs-id1165135397092"><para id="fs-id1165135361159">A 25-pound box is resting on a ramp that is inclined 8°. Rounding to the nearest tenth,</para>
-<list id="fs-id1165135361164" number-style="lower-alpha" list-type="enumerated">
-<item>Find the magnitude of the normal (perpendicular) component of the force.</item>
-<item>Find the magnitude of the component of the force that is parallel to the ramp.</item>
+<list id="fs-id1165135361164" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span> Find the magnitude of the normal (perpendicular) component of the force.</item>
+<item><span class="token">ⓑ</span> Find the magnitude of the component of the force that is parallel to the ramp.</item>
 </list>
 </problem>
 </exercise>
@@ -5431,10 +5417,10 @@ to polar coordinates.</para></problem>
  </m:mrow>
 </m:math>
 </para></problem></exercise>
-<exercise id="fs-id1165131962228"><problem id="fs-id1165131962229"><para id="fs-id1165131962230">A ball is launched with an initial velocity of 80 feet per second at an angle of 40° to the horizontal. The ball is released at a height of 4 feet above the ground. </para><list id="fs-id1165131962236" list-type="enumerated" number-style="lower-alpha">
-<item>Find the parametric equations to model the path of the ball.</item>
-<item>Where is the ball after 3 seconds?</item>
-<item>How long is the ball in the air?</item>
+<exercise id="fs-id1165131962228" class="material-set-2"><problem id="fs-id1165131962229"><para id="fs-id1165131962230">A ball is launched with an initial velocity of 80 feet per second at an angle of 40° to the horizontal. The ball is released at a height of 4 feet above the ground. </para><list id="fs-id1165131962236" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span> Find the parametric equations to model the path of the ball.</item>
+<item><span class="token">ⓑ</span> Where is the ball after 3 seconds?</item>
+<item><span class="token">ⓒ</span> How long is the ball in the air?</item>
 </list>
 </problem>
 <solution id="fs-id1165135472893">
@@ -5521,7 +5507,7 @@ to polar coordinates.</para></problem>
   </m:msub>
   <m:mo>.</m:mo></m:mrow>
 </m:math>
-</para><exercise id="fs-id1165134534167"><problem id="fs-id1165134534168"><para id="fs-id1165134534170"> <m:math>
+</para><exercise id="fs-id1165134534167" class="material-set-2"><problem id="fs-id1165134534168"><para id="fs-id1165134534170"> <m:math>
  <m:mrow>
   <m:msub>
    <m:mi>P</m:mi>
@@ -5557,7 +5543,7 @@ to polar coordinates.</para></problem>
   <m:mo>)</m:mo></m:mrow></m:mrow>
 </m:math>
 </para></problem></exercise>
-<exercise id="fs-id1165137580687"><problem id="fs-id1165137580688"><para id="fs-id1165137580690"> <m:math>
+<exercise id="fs-id1165137580687" class="material-set-2"><problem id="fs-id1165137580688"><para id="fs-id1165137580690"> <m:math>
  <m:mrow>
   <m:msub>
    <m:mi>P</m:mi>
@@ -6232,9 +6218,9 @@ to polar coordinates, and then plot the point.</para></problem></exercise>
 </media>
 </para></solution>
 </exercise><exercise id="fs-id1165134053928"><problem id="fs-id1165137921477">
-<para id="fs-id1165137921480">A ball is launched with an initial velocity of 95 feet per second at an angle of 52° to the horizontal. The ball is released at a height of 3.5 feet above the ground.</para><list id="fs-id1165137921485" list-type="enumerated" number-style="lower-alpha"><item>Find the parametric equations to model the path of the ball.</item>
-<item>Where is the ball after 2 seconds?</item>
-<item>How long is the ball in the air?</item>
+<para id="fs-id1165137921480">A ball is launched with an initial velocity of 95 feet per second at an angle of 52° to the horizontal. The ball is released at a height of 3.5 feet above the ground.</para><list id="fs-id1165137921485" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span>Find the parametric equations to model the path of the ball.</item>
+<item><span class="token">ⓑ</span>Where is the ball after 2 seconds?</item>
+<item><span class="token">ⓒ</span>How long is the ball in the air?</item>
 </list></problem>
 </exercise><para id="fs-id1165137921500">For the following exercises, use the vectors <emphasis><emphasis effect="italics">u</emphasis></emphasis> = <emphasis><emphasis effect="italics">i</emphasis></emphasis> − 3<emphasis><emphasis effect="italics">j</emphasis></emphasis> and <emphasis><emphasis effect="italics">v</emphasis></emphasis> = 2<emphasis><emphasis effect="italics">i</emphasis></emphasis> + 3<emphasis><emphasis effect="italics">j</emphasis></emphasis>.</para>
 

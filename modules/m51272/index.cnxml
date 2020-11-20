@@ -1181,7 +1181,7 @@
   </media>
   </problem></exercise><exercise id="fs-id2366654" class="material-set-2"><problem id="fs-id2366655">
   <media id="fs-id2157593" alt="Scatter plot with a domain of 0 to 10 and a range of -1 to 4.  The points are at (0,1.5); (1.5, -0.1); (2.1,1.9); (3.4, 1.5); (4.5,2.5); (5.8,2.2); (6.8,3.8); (7.8,3.6); (8.8,2); and (10,2.4).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_204.jpg"/>
+  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_204-b8a4.jpg"/>
   </media>
   </problem>
   <solution id="fs-id1729040">
@@ -1190,11 +1190,11 @@
   </media>
   </solution></exercise><exercise id="fs-id1703008" class="material-set-2"><problem id="fs-id1703009">
   <media id="fs-id1630678" alt="Scatter plot with a domain of 0 to 10 and range of 0 to 7 with the points: (0,7.3); (1,7); (2.2,6); (3.6,7); (4.8,6.2); (5.8,4); (6.6,3.8); (7.9,2.4); (8.8,2); and (10,0.1).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_206.jpg"/>
+  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_206-a048.jpg"/>
   </media>
   </problem></exercise><exercise id="fs-id1581440" class="material-set-2"><problem id="fs-id1581441">
   <media id="fs-id1451072" alt="Scatter plot with a domain of 0 to 10 and a range of 2 to 6 with the points: (0,2.1); (1,3.9); (2.1,3.6); (3.6,3.9); (4.4,4); (5.6,4.2); (6.8,5); (7.8,5); (9,5.6); and (10,6).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_208.jpg"/>
+  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_208-1265.jpg"/>
   </media>
   </problem>
   <solution id="fs-id1702047">
@@ -1823,16 +1823,16 @@
   <problem id="fs-id2748160">
   <para id="fs-id2748161">Find the slope of the line shown in the graph.<newline/></para>
   <media id="fs-id2593769" alt="This is a graph of an increasing line with a y-intercept of -3 and x-intercept of 1 on an x, y coordinate plane.  The x and y-axis range from -6 to 6.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_211.jpg"/>
+  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_211-603f.jpg"/>
   </media>
   </problem>
   <solution id="fs-id1799100"><para id="fs-id2555716">3</para></solution></exercise><exercise id="fs-id2555719" class="material-set-2"><problem id="fs-id2571097"><para id="fs-id2571098">Find the slope of the line graphed.<newline/></para>
   <media id="fs-id2267005" alt="This is a graph of a line with a y-intercept of -2 and no x-intercepts on an x, y coordinate plane.  The x- and y-axis range from -6 to 6">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_212.jpg"/>
+  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_212-3b7e.jpg"/>
   </media>
   </problem></exercise><exercise id="fs-id2799886" class="material-set-2"><problem id="fs-id2799888"><para id="fs-id1433211">Write an equation in slope-intercept form for the line shown.<newline/></para>
   <media id="fs-id2755625" alt="This is a graph of a line with a y-intercept of -2 and x-intercept of 1 on an x, y coordinate plane.  The x- and y-axis both range from -6 to 6.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_213.jpg"/>
+  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_213-5863.jpg"/>
   </media>
   </problem>
   <solution id="fs-id2134829"><para id="fs-id2134830"> <m:math>
@@ -2456,7 +2456,7 @@
   </solution></exercise><exercise id="fs-id2489441"><problem id="fs-id2489442"><para id="fs-id2757895">Find the slope of the line in <link target-id="Image_04_03_220"/>.</para>
   <figure id="Image_04_03_220" class="small">
   <media id="fs-id2757905" alt="This image is a graph of a decreasing linear function on an x, y coordinate plane. The x and y-axis range from -6 to 6. The line passes through the points (0,2) and (1,0). ">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_218.jpg"/>
+  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_218-250a.jpg"/>
   </media>
   </figure>
   </problem>
@@ -2468,7 +2468,7 @@
   <exercise id="fs-id2429836" class="material-set-2"><problem id="fs-id2429838"><para id="fs-id2429839">Write an equation for line in <link target-id="Image_04_03_221"/>.</para>
   <figure id="Image_04_03_221" class="small">
   <media id="fs-id2674489" alt="This image is a graph showing a decreasing linear function on an x, y coordinate plane. The x and y axis range from -6 to 6. The line passes through the points (0,-1) and (-.5,0).  ">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_219.jpg"/>
+  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_219-415a.jpg"/>
   </media>
   </figure>
   </problem>

@@ -100,7 +100,7 @@
 </para><para id="eip-428">We call the resulting matrix the <emphasis>augmented</emphasis> matrix for the system of equations.
 </para>
   <media id="eip-idm1087280128" alt="The equations are 3x plus y equals minus 3 and 2x plus 3y equals 6. A 2 by 3 matrix is shown. The first row is 3, 1, minus 3. The second row is 2, 3, 6. The first column is labeled coefficients of x. The second column is labeled coefficients of y and the third is labeled constants.">
-    <image mime-type="image/jpeg" src="7_5_2.jpg"/>
+    <image mime-type="image/jpeg" src="7_5_2-1424.jpg"/>
   </media><example xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-475"><para id="eip-905">
 Write each system of linear equations as an augmented matrix
 </para><exercise id="eip-278"><problem id="eip-249">

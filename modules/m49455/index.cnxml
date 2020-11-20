@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49455/latest/</md:content-url>
   <md:content-id>m49455</md:content-id>
   <md:title>Derivatives</md:title>
-  <md:version>1.18</md:version>
+  <md:version>1.20</md:version>
   <md:created>2014/02/23 18:51:41 -0600</md:created>
   <md:revised>2019/06/13 16:13:54.397 GMT-5</md:revised>
   <md:actors>
@@ -2695,23 +2695,23 @@
   <m:mo>)</m:mo></m:mrow>
  </m:mrow>
 </m:math> presented in <link target-id="CNX_Precalc_Figure_12_04_005"/>, estimate each of the following:</para>
-<para id="fs-id1165137812184"><list id="fs-id1165135435739" display="inline" list-type="enumerated" number-style="lower-alpha">
-<item> <m:math>
+<para id="fs-id1165137812184"><list id="fs-id1165135435739" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mo stretchy="false">)</m:mo>
  </m:mrow>
 </m:math> </item>
-<item> <m:math>
+<item><span class="token">ⓑ</span> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo>
  </m:mrow>
 </m:math> </item>
-<item> <m:math>
+<item><span class="token">ⓒ</span> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo>'</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mo stretchy="false">)</m:mo>
  </m:mrow>
 </m:math> </item>
-<item> <m:math>
+<item><span class="token">ⓓ</span> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo>'</m:mo><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo>
  </m:mrow>
@@ -2759,7 +2759,7 @@
 </media>
 </figure>
 
-<list id="fs-id1165137871763" list-type="enumerated" number-style="lower-alpha"><item> <m:math>
+<list id="fs-id1165137871763" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mo stretchy="false">)</m:mo>
  </m:mrow>
@@ -2780,7 +2780,7 @@
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>1.</m:mn>
  </m:mrow>
 </m:math> </item>
-<item> <m:math>
+<item><span class="token">ⓑ</span> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo>
  </m:mrow>
@@ -2801,7 +2801,7 @@
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>1.</m:mn>
  </m:mrow>
 </m:math> </item>
-<item> <m:math>
+<item><span class="token">ⓒ</span> <m:math>
  <m:mrow>
   <m:msup>
    <m:mi>f</m:mi>
@@ -2826,7 +2826,7 @@
   <m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>0.</m:mn>
  </m:mrow>
 </m:math> </item>
-<item> <m:math>
+<item><span class="token">ⓓ</span> <m:math>
  <m:mrow>
   <m:msup>
    <m:mi>f</m:mi>
@@ -3267,13 +3267,13 @@
  </m:mrow>
 </m:math> where <m:math>
  <m:mi>t</m:mi>
-</m:math> represents hours. Explain the following notations:</para><para id="fs-id1165137443547"><list id="fs-id1165134059789" display="inline" list-type="enumerated" number-style="lower-alpha">
-<item> <m:math>
+</m:math> represents hours. Explain the following notations:</para><para id="fs-id1165137443547"><list id="fs-id1165134059789" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>0</m:mn>
  </m:mrow>
 </m:math> </item>
-<item> <m:math>
+<item><span class="token">ⓑ</span> <m:math>
  <m:mrow>
   <m:msup>
    <m:mi>f</m:mi>
@@ -3282,12 +3282,12 @@
   <m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>60</m:mn>
  </m:mrow>
 </m:math> </item>
-<item> <m:math>
+<item><span class="token">ⓒ</span> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>70</m:mn>
  </m:mrow>
 </m:math> </item>
-<item> <m:math>
+<item><span class="token">ⓓ</span> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>2.5</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>150</m:mn>
  </m:mrow>
@@ -3323,13 +3323,13 @@
  </m:mrow>
 </m:math> we are finding the speed of the car after <m:math>
  <m:mi>t</m:mi>
-</m:math> hours.</para><list id="fs-id1165135685906" list-type="enumerated" number-style="lower-alpha">
-<item> <m:math>
+</m:math> hours.</para><list id="fs-id1165135685906" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>0</m:mn>
  </m:mrow>
 </m:math> means that in zero hours, the car has traveled zero miles.</item>
-<item> <m:math>
+<item><span class="token">ⓑ</span> <m:math>
  <m:mrow>
   <m:msup>
    <m:mi>f</m:mi>
@@ -3338,12 +3338,12 @@
   <m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>60</m:mn>
  </m:mrow>
 </m:math> means that one hour into the trip, the car is traveling 60 miles per hour.</item>
-<item> <m:math>
+<item><span class="token">ⓒ</span> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>70</m:mn>
  </m:mrow>
 </m:math> means that one hour into the trip, the car has traveled 70 miles. At some point during the first hour, then, the car must have been traveling faster than it was at the 1-hour mark.</item>
-<item> <m:math>
+<item><span class="token">ⓓ</span> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>2.5</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>150</m:mn>
  </m:mrow>
@@ -3367,15 +3367,15 @@
  <m:mi>t</m:mi>
 </m:math>
  seconds. Interpret each of the following as it relates to the runner.</para>
-<para id="fs-id1165137535766"><list id="fs-id1165134137625" list-type="enumerated" number-style="lower-alpha" display="inline">
-<item> <m:math>
+<para id="fs-id1165137535766"><list id="fs-id1165134137625" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mrow><m:mo>(</m:mo>
    <m:mn>0</m:mn>
   <m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>0</m:mn>
  </m:mrow>
 </m:math> </item>
-<item> <m:math>
+<item><span class="token">ⓑ</span> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mrow><m:mo>(</m:mo>
    <m:mrow>
@@ -3384,7 +3384,7 @@
   <m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>150</m:mn>
  </m:mrow>
 </m:math> </item>
-<item> <m:math>
+<item><span class="token">ⓒ</span> <m:math>
  <m:mrow>
   <m:msup>
    <m:mi>f</m:mi>
@@ -3397,7 +3397,7 @@
   <m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>15</m:mn>
  </m:mrow>
 </m:math> </item>
-<item> <m:math>
+<item><span class="token">ⓓ</span> <m:math>
  <m:mrow>
   <m:msup>
    <m:mi>f</m:mi>
@@ -3410,7 +3410,7 @@
   <m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mo>−</m:mo><m:mn>10</m:mn>
  </m:mrow>
 </m:math> </item>
-<item> <m:math>
+<item><span class="token">ⓔ</span> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mrow><m:mo>(</m:mo>
    <m:mrow>
@@ -3421,12 +3421,12 @@
 </m:math> </item>
 </list></para></problem>
 <solution id="fs-id1165135159958">
-<list id="fs-id1165135159961" list-type="enumerated" number-style="lower-alpha">
-<item>After zero seconds, she has traveled 0 feet.</item>
-<item>After 10 seconds, she has traveled 150 feet east.</item>
-<item>After 10 seconds, she is moving eastward at a rate of 15 ft/sec.</item>
-<item>After 20 seconds, she is moving westward at a rate of 10 ft/sec.</item>
-<item>After 40 seconds, she is 100 feet westward of her starting point.</item>
+<list id="fs-id1165135159961" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span> After zero seconds, she has traveled 0 feet.</item>
+<item><span class="token">ⓑ</span> After 10 seconds, she has traveled 150 feet east.</item>
+<item><span class="token">ⓒ</span> After 10 seconds, she is moving eastward at a rate of 15 ft/sec.</item>
+<item><span class="token">ⓓ</span> After 20 seconds, she is moving westward at a rate of 10 ft/sec.</item>
+<item><span class="token">ⓔ</span>After 40 seconds, she is 100 feet westward of her starting point.</item>
 </list>
 </solution>
 </exercise>
@@ -4951,14 +4951,15 @@
 </exercise>
 </note>
 
-<note id="fs-id1165135613891" class="precalculus media">
+<note id="fs-id1165135613891" class="precalculus media media-notitle">
 <label>Media</label>
 <para id="fs-id1165135613897">Access these online resources for additional instruction and practice with derivatives.</para>
 <list id="fs-id1165135613900" list-type="bulleted">
 <item><link url="http://openstax.org/l/estimatederiv">Estimate the Derivative</link></item>
 <item><link url="http://openstax.org/l/estimatederiv4">Estimate the Derivative Ex. 4</link></item>
+<item><link url="http://openstax.org/l/PreCalcLPC12">Additional practice questions from Learningpod</link></item>
 </list>
-</note><para id="eip-659">Visit <link url="http://openstax.org/l/PreCalcLPC12">this website</link> for additional practice questions from Learningpod.</para>
+</note>
 </section>
 
 <section id="fs-id1165135613920" class="key-equations"><title>Key Equations</title><table id="fs-id1165135613928" summary="" class="unnumbered unstyled"><label/>
@@ -5771,7 +5772,7 @@
 <title>Graphical</title>
 <para id="fs-id1165135513638">For the following exercises, consider the graph of the function <m:math>
  <m:mi>f</m:mi>
-</m:math> and determine where the function is continuous/discontinuous and differentiable/not differentiable.</para><exercise id="fs-id1165135513649"><problem id="fs-id1165135513651">
+</m:math> and determine where the function is continuous/discontinuous and differentiable/not differentiable.</para><exercise id="fs-id1165135513649" class="material-set-2"><problem id="fs-id1165135513651">
 <para id="eip-id1275704">
 <newline/>
 <media id="fs-id1165135513657" alt="Graph of a piecewise function with three segments. The first segment goes from negative infinity to (-3, -2), an open point; the second segment goes from (-3, 1) to (2, 3), which are both open points; the final segment goes from (2, 2), an open point, to positive infinity." display="block">
@@ -5779,7 +5780,7 @@
 </media>
 </para>
 </problem>
-</exercise><exercise id="fs-id1165135513674"><problem id="fs-id1165135513676">
+</exercise><exercise id="fs-id1165135513674" class="material-set-2"><problem id="fs-id1165135513676">
 <para id="eip-id1275594">
 <newline/>
 <media id="fs-id1165135698643" alt="Graph of a piecewise function with three segments. The first segment goes from negative infinity to (-2, -1), an open point; the second segment goes from (-2, -4), an open point, to (0, 0), a closed point; the final segment goes from (0, 1), an open point, to positive infinity." display="block">
@@ -5796,7 +5797,7 @@
   <m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0.</m:mn>
  </m:mrow>
 </m:math> Not differentiable at –2, 0, 2.</para></solution>
-</exercise><exercise id="fs-id1165135698693">
+</exercise><exercise id="fs-id1165135698693" class="material-set-2">
 <problem id="fs-id1165135698695">
 
 <media id="fs-id1165135698701" alt="Graph of a piecewise function with two segments and an asymptote at x = 3. The first segment, which has a removable discontinuity at x = -2, goes from negative infinity to the asymptote, and the final segment goes from the asymptote to positive infinity.">
@@ -5806,7 +5807,7 @@
 </problem>
 </exercise>
 
-<exercise id="fs-id1165135698718">
+<exercise id="fs-id1165135698718" class="material-set-2">
 <problem id="fs-id1165135698720">
 
 <media id="fs-id1165135698726" alt="Graph of a piecewise function with two segments. The first segment goes from (-4, 0), an open point to (5, -2), and the final segment goes from (5, 3), an open point, to positive infinity.">
@@ -6059,7 +6060,7 @@
 
 <section id="fs-id1165135696024">
 <title>Technology</title>
-<exercise id="fs-id1165135696029">
+<exercise id="fs-id1165135696029" class="material-set-2">
 <problem id="fs-id1165135696031"><para id="fs-id1165135696032">Numerically evaluate the derivative. Explore the behavior of the graph of <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msup>
@@ -6621,11 +6622,7 @@
 </m:math>
  is the function discontinuous? What condition of continuity is violated?</para></problem>
 <solution id="fs-id1165134091413">
-<para id="fs-id1165134091415"> <m:math>
- <m:mtable columnalign="left">
-  <m:mtr>
-   <m:mtd>
-    <m:mtext>Discontinuous at </m:mtext><m:mi>x</m:mi><m:mo>=</m:mo><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">(</m:mo><m:munder>
+<para id="fs-id1165134091415"> Discontinuous at <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">(</m:mo><m:munder>
      <m:mrow>
       <m:mi>lim</m:mi>
      </m:mrow>
@@ -6633,12 +6630,7 @@
       <m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
      </m:mrow>
     </m:munder>
-    <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mtext> does not exist</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mspace width="0.8em"/><m:mo stretchy="false">(</m:mo><m:mtext>jump discontinuity</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo>
-   </m:mtd>
-  </m:mtr>
-  <m:mtr>
-   <m:mtd>
-    <m:mtext>and </m:mtext><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>7</m:mn><m:mspace width="0.8em"/><m:mo stretchy="false">(</m:mo><m:munder>
+    <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:math> does not exist <m:math><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mspace width="0.8em"/><m:mo stretchy="false">(</m:mo></m:math>jump discontinuity<m:math><m:mo stretchy="false">)</m:mo></m:math>, and<m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>7</m:mn><m:mspace width="0.8em"/><m:mo stretchy="false">(</m:mo><m:munder>
      <m:mrow>
       <m:mi>lim</m:mi>
      </m:mrow>
@@ -6646,10 +6638,7 @@
       <m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
      </m:mrow>
     </m:munder>
-    <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mtext> does not exist</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo>
-   </m:mtd>
-  </m:mtr>
- </m:mtable>
+    <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:math> does not exist<m:math><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo>
 
 </m:math> </para>
 </solution>
@@ -6708,7 +6697,7 @@
  <m:mrow>
   <m:mi>a</m:mi><m:mo>,</m:mo><m:mo/>
  </m:mrow>
-</m:math> state it.  If not, discuss why there is no limit.</para><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165134038234"><problem id="fs-id1165134038236">
+</m:math> state it.  If not, discuss why there is no limit.</para><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165134038234" class="material-set-2"><problem id="fs-id1165134038236">
 <para id="fs-id1165134038238"> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mrow><m:mo>{</m:mo> <m:mrow>
@@ -6783,7 +6772,7 @@
 
   </m:mtable>
  </m:mrow>
-</m:math> </para></solution></exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165134038401"><problem id="fs-id1165134038403">
+</m:math> </para></solution></exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165134038401" class="material-set-2"><problem id="fs-id1165134038403">
 <para id="fs-id1165134038405"> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mrow><m:mo>{</m:mo> <m:mrow>
@@ -6869,7 +6858,7 @@
  </m:mrow>
 </m:math> </para>
 </solution>-->
-</exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165134038672"><problem id="fs-id1165134038674">
+</exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165134038672" class="material-set-2"><problem id="fs-id1165134038674">
 <para id="fs-id1165134038676"> <m:math>
     <m:mrow>
         <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mrow><m:mo>{</m:mo> <m:mrow>
@@ -7023,7 +7012,7 @@
 <m:mn>&#8722;15</m:mn>
  </m:mrow>
 </m:math> </para></solution>-->
-</exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135694394"><problem id="fs-id1165135694396">
+</exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135694394"><problem id="fs-id1165135694396" class="material-set-2">
 <para id="fs-id1165135694398"> <m:math>
  <m:mrow>
   <m:munder>
@@ -7080,7 +7069,7 @@
  </m:mrow>
 </m:math> </para>
 </problem>
-<solution id="eip-idm1158572112"><para id="eip-idm1158571984"> <m:math><m:mn>1</m:mn></m:math> </para></solution></exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135694566"><problem id="fs-id1165135694568">
+<solution id="eip-idm1158572112"><para id="eip-idm1158571984"> <m:math><m:mn>1</m:mn></m:math> </para></solution></exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135694566" class="material-set-2"><problem id="fs-id1165135694568">
 <para id="fs-id1165135694571"> <m:math>
  <m:mrow>
   <m:munder>
@@ -7140,7 +7129,7 @@
 <!--<solution id="fs-id1165134056499">
 <para id="fs-id1165134056501">3</para>
 </solution>-->
-</exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165134056506"><problem id="fs-id1165134056508">
+</exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165134056506" class="material-set-2"><problem id="fs-id1165134056508">
 <para id="fs-id1165134056510"> <m:math>
  <m:mrow>
   <m:munder>
@@ -7844,7 +7833,7 @@
  </m:mrow>
 </m:math> </para>
 </solution>-->
-</exercise><para id="fs-id1165134060407">For the following exercises, with the aid of a graphing utility, explain why the function is not differentiable everywhere on its domain. Specify the points where the function is not differentiable.</para><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165134060412"><problem id="fs-id1165134060414">
+</exercise><para id="fs-id1165134060407">For the following exercises, with the aid of a graphing utility, explain why the function is not differentiable everywhere on its domain. Specify the points where the function is not differentiable.</para><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165134060412" class="material-set-2"><problem id="fs-id1165134060414">
 <para id="fs-id1165134060416"> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
@@ -7857,7 +7846,7 @@
  </m:mrow>
 </m:math> </para>
 </problem>
-<solution id="eip-idm468189376"><para id="eip-idm468189248">The function would not be differentiable at however, 0 is not in its domain. So it is differentiable everywhere in its domain.</para></solution></exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165134060461"><problem id="fs-id1165134060463">
+<solution id="eip-idm468189376"><para id="eip-idm468189248">The function would not be differentiable at however, 0 is not in its domain. So it is differentiable everywhere in its domain.</para></solution></exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165134060461" class="material-set-2"><problem id="fs-id1165134060463">
 <para id="fs-id1165134060465">Given that the volume of a right circular cone is <m:math>
  <m:mrow>
   <m:mi>V</m:mi><m:mo>=</m:mo><m:mfrac>
@@ -8453,7 +8442,7 @@ Removable discontinuity at
 </m:mfrac>
 </m:math>
 </para>
-</solution></exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135680835"><problem id="fs-id1165135680837">
+</solution></exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135680835" class="material-set-2"><problem id="fs-id1165135680837">
 <para id="fs-id1165135680839">For the graph in <link target-id="CNX_Precalc_Figure_12_04_209"/>, determine where the function is continuous/discontinuous and differentiable/not differentiable.</para>
 
 <figure id="CNX_Precalc_Figure_12_04_209" class="small">
@@ -8708,7 +8697,7 @@ The average velocity from
 <!--<solution id="fs-id1165135681548">
 <para id="fs-id1165135681550">0</para>
 </solution>
---></exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135681721"><problem id="fs-id1165135681723">
+--></exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135681721" class="material-set-2"><problem id="fs-id1165135681723">
 <para id="eip-id1165132928545">Evaluate the limit by hand.</para>
 
 <para id="eip-id1165134105920"> <m:math>
@@ -8896,7 +8885,7 @@ The average velocity from
   </m:msup>
 
  </m:mrow>
-</m:math>.</para><exercise id="fs-id1165134064323">
+</m:math>.</para><exercise id="fs-id1165134064323" class="material-set-2">
 <problem id="fs-id1165134064325">
 <para id="fs-id1165134064327">Graph the function <m:math>
  <m:mrow>
@@ -8981,7 +8970,7 @@ The average velocity from
 </m:math>.</para></problem>
 </exercise>
 
-<exercise id="fs-id1165134064561">
+<exercise id="fs-id1165134064561" class="material-set-2">
 <problem id="fs-id1165134064563">
 <para id="fs-id1165134064565">Explore the behavior of the graph of <m:math>
  <m:mrow>

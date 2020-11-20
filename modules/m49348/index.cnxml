@@ -816,7 +816,7 @@ Add each column, multiply the result by –2, and repeat until the last column i
 
 
        <media id="fs-id1165134176031" alt="Synthetic division of 4x^3+10x^2-6x-20 divided by x+2.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_05_008.jpg"/>
+        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_05_008-94c7.jpg"/>
        </media>
       <para id="fs-id1165134433356">The result is <m:math>
  <m:mrow>
@@ -2564,7 +2564,7 @@ is divided by a binomial of degree 1, what is the degree of the quotient?</para>
 </m:math>
 </para>
 <media id="fs-id1165137888963" alt="Graph of a polynomial that has a x-intercept at -3.">
-      <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_05_205.jpg"/>
+      <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_05_205-1141.jpg"/>
      </media>
 </problem></exercise><para id="fs-id1165137888975">For the following exercises, use synthetic division to find the quotient and remainder.</para>
     <exercise id="fs-id1165137888978"><problem id="fs-id1165137888979"><para id="fs-id1165137888980"> <m:math>

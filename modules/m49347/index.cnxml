@@ -663,7 +663,7 @@
 
         <figure id="Figure_03_04_003" class="small">
           <media id="fs-id1165134380378" alt="Four graphs where the first graph is of an even-degree polynomial, the second graph is of an absolute function, the third graph is an odd-degree polynomial, and the fourth graph is a disjoint function.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_003.jpg"/>
+            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_003-acfc.jpg"/>
           </media>
         </figure>
 </solution>
@@ -1296,7 +1296,7 @@
   <m:mspace width="0.8em"/><m:mi>x</m:mi><m:mtext>-</m:mtext>
  </m:mrow>
 </m:math> intercepts is different.</para><figure id="Figure_03_04_007" class="small"><media id="fs-id1165137933143" alt="Graph of h(x)=x^3+4x^2+x-6.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_007.jpg"/>
+        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_007-ce92.jpg"/>
       </media>
     <caption>Identifying the behavior of the graph at an <emphasis effect="italics">x</emphasis>-intercept by examining the multiplicity of the zero.</caption></figure><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135407009">The <m:math>
  <m:mrow>
@@ -1526,7 +1526,7 @@
       <label>Try It</label>
       <exercise id="ti_03_04_02"><problem id="fs-id1165137932363"><para id="fs-id1165131968038">Use the graph of the function of degree 7 in <link target-id="Figure_03_04_010"/> to identify the zeros of the function and their multiplicities.</para><figure id="Figure_03_04_010" class="small">
           <media id="fs-id1165131968050" alt="Graph of an even-degree polynomial with degree 6.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_010.jpg" class="small"/>
+            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_010-2698.jpg" class="small"/>
           </media>
 </figure>
 </problem>
@@ -1636,7 +1636,7 @@
  </m:mrow>
 </m:math> in <link target-id="Figure_03_04_015"/>. The graph has three turning points.</para><figure id="Figure_03_04_015" class="small">
       <media id="fs-id1165134155116" alt="Graph of an odd-degree polynomial with a negative leading coefficient. Note that as x goes to positive infinity, f(x) goes to negative infinity, and as x goes to negative infinity, f(x) goes to positive infinity.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_015.jpg"/>
+        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_015-432f.jpg"/>
       </media>
     </figure>
     <para id="fs-id1165137784439">This function <m:math>
@@ -4681,7 +4681,7 @@ local min <m:math>
 <title>Extensions</title>
 <para id="fs-id1165134402672">For the following exercises, use the graphs to write a polynomial function of least degree.</para>
 <exercise id="fs-id1165134402676"><problem id="fs-id1165134402677"><media id="fs-id1165134402683" alt="Graph of a positive odd-degree polynomial with zeros at x = negative 2/3, 1/2, and 4/3 and y = 8.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_216.jpg"/>
+<image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_216-111d.jpg"/>
 </media>
 </problem></exercise><exercise id="fs-id1165134402695"><problem id="fs-id1165134402696"><media id="fs-id1165134402703" alt="Graph of a positive odd-degree polynomial with zeros at x=--200, and 500 and y=50000000.">
 <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_217.jpg"/>

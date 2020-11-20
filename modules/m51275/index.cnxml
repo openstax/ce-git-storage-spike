@@ -8,9 +8,9 @@
   <md:content-url>https://legacy.cnx.org/content/m51275/latest/</md:content-url>
   <md:content-id>m51275</md:content-id>
   <md:title>Power Functions and Polynomial Functions</md:title>
-  <md:version>1.31</md:version>
+  <md:version>1.32</md:version>
   <md:created>2014/10/01 17:24:14 -0500</md:created>
-  <md:revised>2020/09/18 10:51:32.401 GMT-5</md:revised>
+  <md:revised>2020/11/20 13:33:11.499 US/Central</md:revised>
   <md:actors>
     <md:person userid="cnxcollalg">
       <md:firstname>OpenStax</md:firstname>
@@ -379,15 +379,12 @@ Determine whether the following functions are power functions. If they are not, 
 </thead>
 <tbody>
   <row>
-    <entry><figure id="eip-idm215361568"><media id="fig52" alt="Graph of three functions, h(x)=x^2 in green, g(x)=x^4 in orange, and f(x)=x^6 in blue."><image mime-type="image/jpeg" src="even_power_functions.jpg"/></media>
+    <entry><media id="fig52" alt="Graph of three functions, h(x)=x^2 in green, g(x)=x^4 in orange, and f(x)=x^6 in blue."><image mime-type="image/jpeg" src="even_power_functions.jpg"/></media>
 
-</figure>
 <para id="eip-idm494710016">Graphs of <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>,</m:mo><m:mo> </m:mo><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>4</m:mn></m:msup><m:mo>,</m:mo><m:mo> </m:mo><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>6</m:mn></m:msup></m:math>
 </para>
 </entry>
-<entry><figure id="eip-idm215361569"><media id="fig53" alt="Graph of three functions, f(x)=x^3 in green, g(x)=x^5 in orange, and h(x)=x^7 in blue."><image mime-type="image/jpeg" src="odd_power_functions.jpg"/></media>
-
-</figure>
+<entry><media id="fig53" alt="Graph of three functions, f(x)=x^3 in green, g(x)=x^5 in orange, and h(x)=x^7 in blue."><image mime-type="image/jpeg" src="odd_power_functions.jpg"/></media>
 <para id="eip-idm451866352">
 Graphs of <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mo>,</m:mo><m:mo> </m:mo><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>5</m:mn></m:msup><m:mo>,</m:mo><m:mo> </m:mo><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>7</m:mn></m:msup></m:math>
 </para>
@@ -881,7 +878,7 @@ The other functions are not power functions.</para></solution>
   <m:mo>,</m:mo>
  </m:mrow>
 </m:math> which are all power functions with odd, whole-number powers. Notice that these graphs look similar to the cubic function in the toolkit. Again, as the power increases, the graphs flatten near the origin and become steeper away from the origin.</para><figure id="Figure_03_03_003" class="small"><media id="fs-id1165137824550" alt="Graph of three functions, f(x)=x^3 in green, g(x)=x^5 in orange, and h(x)=x^7 in blue.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_003.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_003-490c.jpg"/>
 </media>
 <caption>Odd-power functions</caption></figure><para id="fs-id1165137730237">These examples illustrate that functions of the form <m:math>
  <m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo>
@@ -2548,7 +2545,7 @@ therefore, the degree of the polynomial is 4. The degree is even (4) and the lea
 <problem id="fs-id1165137834183"><para id="fs-id1165137454180">What can we conclude about the polynomial represented by the graph shown in <link target-id="Figure_03_03_022"/> based on its intercepts and turning points?</para>
 <figure id="Figure_03_03_022">
 <media id="fs-id1165137405825" alt="Graph of an odd-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_022.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_022-9b31.jpg"/>
 </media>
 </figure>
 </problem>

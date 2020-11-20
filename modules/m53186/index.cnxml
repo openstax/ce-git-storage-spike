@@ -4796,7 +4796,7 @@
 </figure></section>
 <section id="fs-id1929552"><title>Trigonometric Functions</title>
 <para id="fs-id1929557"><emphasis>Unit Circle</emphasis></para><figure id="CNX_CAT_Figure_APP_010"><media id="fs-id1929563" alt="Graph of unit circle with angles in degrees, angles in radians, and points along the circle inscribed.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_02_017.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_02_017-be31.jpg"/>
 </media>
 </figure><table id="Table_07_04_01" summary="This table shows seven rows and six columns. First row shows angles of 0 degrees, 30 degrees or π/6, 45 degrees or π/4, 60 degrees or π/3, and 90 degrees or π/2. Second row is the cosine value for the degrees/radians in first row which are, in order: 1, √3/2, √2/2, ½, and 0. Third row is sine values for degrees/radians in first row which are, in order: 0, 1/2, √2/2, √3/2, and 1. Fourth row is tangent values for degrees/radians in first row which are, in order: 0, √3/3, 1,√3, and undefined. Fifth row is secant values for degrees/radians in first row which are, in order: 1, 2√3/3, √2, 2 and undefined. Sixth row is cosecant values for degrees/radians in first row which are, in order: undefined, 2, √2, 2√3/3, and 1. Seventh row is cotangent values for degrees/radians in first row which are, in order: undefined, √3, 1, √3/3, and 0.">
 <tgroup cols="6"><colspec colnum="1" colname="c1"/>

@@ -8,7 +8,7 @@
   <md:content-url>https://legacy.cnx.org/content/m49406/latest/</md:content-url>
   <md:content-id>m49406</md:content-id>
   <md:title>Polar Coordinates</md:title>
-  <md:version>1.20</md:version>
+  <md:version>1.21</md:version>
   <md:created>2014/02/20 15:49:52 -0600</md:created>
   <md:revised>2019/05/28 09:29:52.848 GMT-5</md:revised>
   <md:actors>
@@ -443,25 +443,12 @@
 <para id="fs-id1165137386819">Use the equivalent relationships.</para>
 
 <equation id="fs-id1165137894480" class="unnumbered"><label/> <m:math display="block">
- <m:mrow>
-  <m:mtable columnalign="left">
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
      <m:mtable columnalign="left">
-      <m:mtr>
-       <m:mtd>
-        <m:mrow/>
-       </m:mtd>
-      </m:mtr>
       <m:mtr>
        <m:mtd>
         <m:mi>x</m:mi><m:mo>=</m:mo><m:mi>r</m:mi><m:mi>cos</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi>
        </m:mtd>
       </m:mtr>
-     </m:mtable>
-
-    </m:mtd>
-   </m:mtr>
    <m:mtr columnalign="left">
     <m:mtd columnalign="left">
      <m:mrow>
@@ -493,7 +480,6 @@
    </m:mtr>
 
   </m:mtable>
- </m:mrow>
 </m:math>
 </equation><para id="fs-id1165132921461">The rectangular coordinates are <m:math>
  <m:mrow>
@@ -677,7 +663,7 @@
  </m:mrow>
 </m:math>
 </equation><figure id="Figure_08_03_010" class="small"><media id="fs-id1165137850200" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_010new.jpg"/>
+<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_010new.png"/>
 </media>
 </figure></note><example id="Example_08_03_05">
 <exercise id="fs-id1165134303364">
@@ -797,14 +783,6 @@
 <equation id="fs-id1165135689471" class="unnumbered"><label/> <m:math display="block">
  <m:mrow>
   <m:mtable columnalign="left">
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mtable columnalign="left">
-      <m:mtr>
-       <m:mtd>
-        <m:mrow/>
-       </m:mtd>
-      </m:mtr>
       <m:mtr>
        <m:mtd>
         <m:mi>r</m:mi><m:mo>=</m:mo><m:msqrt>
@@ -823,10 +801,6 @@
 
        </m:mtd>
       </m:mtr>
-     </m:mtable>
-
-    </m:mtd>
-   </m:mtr>
    <m:mtr columnalign="left">
     <m:mtd columnalign="left">
      <m:mrow>
@@ -1459,7 +1433,7 @@
    <m:mtr columnalign="left">
     <m:mtd columnalign="left">
      <m:mrow>
-      <m:mtext>       </m:mtext><m:msup>
+    <m:msup>
        <m:mi>r</m:mi>
        <m:mn>2</m:mn>
       </m:msup>
@@ -1474,8 +1448,7 @@
    </m:mtr>
    <m:mtr columnalign="left">
     <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>      </m:mtext><m:mi>r</m:mi><m:mo stretchy="false">(</m:mo><m:mi>r</m:mi><m:mo>−</m:mo><m:mn>6</m:mn><m:mi>sin</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>0</m:mn>
+     <m:mrow><m:mi>r</m:mi><m:mo stretchy="false">(</m:mo><m:mi>r</m:mi><m:mo>−</m:mo><m:mn>6</m:mn><m:mi>sin</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>0</m:mn>
      </m:mrow>
     </m:mtd>
     <m:mtd columnalign="left">
@@ -1706,40 +1679,7 @@
 
 <equation id="fs-id1165137697050" class="unnumbered"><label/> <m:math display="block">
  <m:mrow>
-  <m:mtable columnalign="left">
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow><m:mi>r</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mi>sec</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow><m:mi>r</m:mi><m:mo>=</m:mo><m:mfrac>
-       <m:mn>2</m:mn>
-       <m:mrow>
-        <m:mi>cos</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi>
-       </m:mrow>
-      </m:mfrac>
-
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mi>r</m:mi><m:mi>cos</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi><m:mo>=</m:mo><m:mn>2</m:mn>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>2</m:mn>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-
-  </m:mtable>
+<m:mtable><m:mtr><m:mtd><m:mi>r</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>2</m:mn><m:mi>sec</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>r</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mn>2</m:mn><m:mrow><m:mi>cos</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>r</m:mi><m:mspace width="0.3em"/><m:mi>cos</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>2</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>x</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>2</m:mn></m:mtd></m:mtr></m:mtable>
  </m:mrow>
 </m:math>
 </equation><para id="fs-id1165137423948">Notice that the equation <m:math>
@@ -1830,185 +1770,7 @@
 </m:math>
 </para><equation id="fs-id1165132946700" class="unnumbered"><label/> <m:math display="block">
  <m:mrow>
-  <m:mtable columnalign="left">
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>                   </m:mtext><m:mi>r</m:mi><m:mo>=</m:mo><m:mfrac>
-       <m:mn>3</m:mn>
-       <m:mrow>
-        <m:mn>1</m:mn><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>cos</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi>
-       </m:mrow>
-      </m:mfrac>
-
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mi>r</m:mi><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>cos</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>3</m:mn>
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow><m:mi>r</m:mi><m:mrow><m:mo>(</m:mo>
-       <m:mrow>
-        <m:mn>1</m:mn><m:mo>−</m:mo><m:mn>2</m:mn><m:mrow><m:mo>(</m:mo>
-         <m:mrow>
-          <m:mfrac>
-           <m:mi>x</m:mi>
-           <m:mi>r</m:mi>
-          </m:mfrac>
-
-         </m:mrow>
-        <m:mo>)</m:mo></m:mrow>
-       </m:mrow>
-      <m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>3</m:mn>
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>Use </m:mtext><m:mi>cos</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac>
-       <m:mi>x</m:mi>
-       <m:mi>r</m:mi>
-      </m:mfrac>
-      <m:mtext> to eliminate </m:mtext><m:mi>θ</m:mi><m:mo>.</m:mo>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow><m:mi>r</m:mi><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>3</m:mn>
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>                   </m:mtext><m:mi>r</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>x</m:mi>
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>Isolate </m:mtext><m:mi>r</m:mi><m:mo>.</m:mo>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>                 </m:mtext><m:msup>
-       <m:mi>r</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>=</m:mo><m:msup>
-       <m:mrow>
-        <m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo>
-       </m:mrow>
-       <m:mn>2</m:mn>
-      </m:msup>
-
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>Square both sides</m:mtext><m:mo>.</m:mo>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>        </m:mtext><m:mspace width="0.3em"/><m:msup>
-       <m:mi>x</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>+</m:mo><m:msup>
-       <m:mi>y</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>=</m:mo><m:msup>
-       <m:mrow>
-        <m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo>
-       </m:mrow>
-       <m:mn>2</m:mn>
-      </m:msup>
-
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>Use </m:mtext><m:msup>
-       <m:mi>x</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>+</m:mo><m:msup>
-       <m:mi>y</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>=</m:mo><m:msup>
-       <m:mi>r</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>.</m:mo>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-
-  </m:mtable>
+<m:mtable><m:mtr><m:mtd><m:mi>r</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>1</m:mn><m:mo>-</m:mo><m:mn>2</m:mn><m:mspace width="0.3em"/><m:mi>cos</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi></m:mrow></m:mfrac></m:mtd><m:mtd/></m:mtr><m:mtr><m:mtd><m:mi>r</m:mi><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:mn>2</m:mn><m:mo>(</m:mo><m:mfrac><m:mi>x</m:mi><m:mi>r</m:mi></m:mfrac><m:mo>)</m:mo><m:mo>)</m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>3</m:mn></m:mtd><m:mtd/></m:mtr><m:mtr><m:mtd><m:mi>r</m:mi><m:mo>-</m:mo><m:mn>2</m:mn><m:mi>x</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>3</m:mn></m:mtd><m:mtd><m:mtext>Use</m:mtext><m:mspace width="0.3em"/><m:mi>cos</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>x</m:mi><m:mi>r</m:mi></m:mfrac><m:mspace width="0.3em"/><m:mi>t</m:mi><m:mi>o</m:mi><m:mspace width="0.3em"/><m:mtext>eliminate</m:mtext><m:mspace width="0.3em"/><m:mi>θ</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>r</m:mi><m:mo>-</m:mo><m:mn>2</m:mn><m:mi>x</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>3</m:mn></m:mtd><m:mtd/></m:mtr><m:mtr><m:mtd><m:mi>r</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>x</m:mi></m:mtd><m:mtd><m:mtext>Isolate</m:mtext><m:mspace width="0.3em"/><m:mi>r</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:msup><m:mrow><m:mo>(</m:mo><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mtd><m:mtd><m:mtext>Square</m:mtext><m:mspace width="0.3em"/><m:mtext>both</m:mtext><m:mspace width="0.3em"/><m:mtext>sides</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:msup><m:mrow><m:mo>(</m:mo><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mtd><m:mtd><m:mtext>Use</m:mtext><m:mspace width="0.3em"/><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup></m:mtd></m:mtr></m:mtable>
  </m:mrow>
 </m:math>
 </equation><para id="fs-id1165134368154">The Cartesian equation is <m:math>
@@ -2130,215 +1892,7 @@
 <title>Analysis </title>
 <para id="fs-id1165134116781">In this example, the right side of the equation can be expanded and the equation simplified further, as shown above. However, the equation cannot be written as a single function in Cartesian form. We may wish to write the rectangular equation in the hyperbola’s standard form. To do this, we can start with the initial equation.</para><equation id="fs-id1165135453309" class="unnumbered"><label/> <m:math display="block">
  <m:mrow>
-  <m:mtable columnalign="left">
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow><m:msup>
-       <m:mi>x</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>+</m:mo><m:msup>
-       <m:mi>y</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>=</m:mo><m:msup>
-       <m:mrow>
-        <m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo>
-       </m:mrow>
-       <m:mn>2</m:mn>
-      </m:msup>
-
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow><m:msup>
-       <m:mi>x</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>+</m:mo><m:msup>
-       <m:mi>y</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>−</m:mo><m:msup>
-       <m:mrow>
-        <m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo>
-       </m:mrow>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>=</m:mo><m:mn>0</m:mn>
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:msup>
-       <m:mi>x</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>+</m:mo><m:msup>
-       <m:mi>y</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:mn>9</m:mn><m:mo>+</m:mo><m:mn>12</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn><m:msup>
-       <m:mi>x</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>0</m:mn>
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow><m:msup>
-       <m:mi>x</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>+</m:mo><m:msup>
-       <m:mi>y</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>−</m:mo><m:mn>9</m:mn><m:mo>−</m:mo><m:mn>12</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn><m:msup>
-       <m:mi>x</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>=</m:mo><m:mn>0</m:mn>
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn><m:msup>
-       <m:mi>x</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>−</m:mo><m:mn>12</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:msup>
-       <m:mi>y</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>=</m:mo><m:mn>9</m:mn>
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>Multiply through by </m:mtext><m:mn>−1.</m:mn>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow><m:mn>3</m:mn><m:msup>
-       <m:mi>x</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>+</m:mo><m:mn>12</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:msup>
-       <m:mi>y</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>=</m:mo><m:mo>−</m:mo><m:mn>9</m:mn>
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:msup>
-       <m:mi>x</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>+</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mspace width="0.5em"/><m:mo stretchy="false">)</m:mo><m:mo>−</m:mo><m:msup>
-       <m:mi>y</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>=</m:mo><m:mo>−</m:mo><m:mn>9</m:mn>
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>Organize terms to complete the square for</m:mtext><m:mspace width="0.3em"/><m:mi>x</m:mi><m:mo>.</m:mo>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:msup>
-       <m:mi>x</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>+</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo><m:mo>−</m:mo><m:msup>
-       <m:mi>y</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>=</m:mo><m:mo>−</m:mo><m:mn>9</m:mn><m:mo>+</m:mo><m:mn>12</m:mn>
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>                  </m:mtext><m:mn>3</m:mn><m:msup>
-       <m:mrow>
-        <m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo>
-       </m:mrow>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>−</m:mo><m:msup>
-       <m:mi>y</m:mi>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>=</m:mo><m:mn>3</m:mn>
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow><m:msup>
-       <m:mrow>
-        <m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo>
-       </m:mrow>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>−</m:mo><m:mfrac>
-       <m:mrow>
-        <m:msup>
-         <m:mi>y</m:mi>
-         <m:mn>2</m:mn>
-        </m:msup>
-
-       </m:mrow>
-       <m:mn>3</m:mn>
-      </m:mfrac>
-      <m:mo>=</m:mo><m:mn>1</m:mn>
-     </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow/>
-    </m:mtd>
-   </m:mtr>
-
-  </m:mtable>
+<m:mtable><m:mtr><m:mtd><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:msup><m:mrow><m:mo>(</m:mo><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mtd><m:mtd/></m:mtr><m:mtr><m:mtd><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>0</m:mn></m:mtd><m:mtd/></m:mtr><m:mtr><m:mtd><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mo>(</m:mo><m:mn>9</m:mn><m:mo>+</m:mo><m:mn>12</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>)</m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>0</m:mn></m:mtd><m:mtd/></m:mtr><m:mtr><m:mtd><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>9</m:mn><m:mo>-</m:mo><m:mn>12</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>4</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>0</m:mn></m:mtd><m:mtd/></m:mtr><m:mtr><m:mtd><m:mo>-</m:mo><m:mn>3</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>12</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>9</m:mn></m:mtd><m:mtd><m:mtext>Multiply</m:mtext><m:mspace width="0.3em"/><m:mtext>through</m:mtext><m:mspace width="0.3em"/><m:mtext>by</m:mtext><m:mspace width="0.3em"/><m:mo>-</m:mo><m:mn>1</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>3</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>12</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo>-</m:mo><m:mn>9</m:mn></m:mtd><m:mtd/></m:mtr><m:mtr><m:mtd><m:mn>3</m:mn><m:mo>(</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mo>)</m:mo><m:mo>-</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo>-</m:mo><m:mn>9</m:mn></m:mtd><m:mtd/></m:mtr><m:mtr><m:mtd><m:mn>3</m:mn><m:mo>(</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn><m:mo>)</m:mo><m:mo>-</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo>-</m:mo><m:mn>9</m:mn><m:mo>+</m:mo><m:mn>12</m:mn></m:mtd><m:mtd><m:mi>O</m:mi><m:mi>r</m:mi><m:mi>g</m:mi><m:mi>a</m:mi><m:mi>n</m:mi><m:mi>i</m:mi><m:mi>z</m:mi><m:mi>e</m:mi><m:mspace width="0.3em"/><m:mtext>terms</m:mtext><m:mspace width="0.3em"/><m:mtext>to</m:mtext><m:mspace width="0.3em"/><m:mtext>complete</m:mtext><m:mspace width="0.3em"/><m:mtext>the</m:mtext><m:mspace width="0.3em"/><m:mtext>square</m:mtext><m:mspace width="0.3em"/><m:mtext>for</m:mtext><m:mspace width="0.3em"/><m:mi>x</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>3</m:mn><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:msup><m:mi>y</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>3</m:mn></m:mtd><m:mtd/></m:mtr><m:mtr><m:mtd><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mfrac><m:mrow><m:mi>y</m:mi><m:msup><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>3</m:mn></m:mrow></m:mfrac></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>1</m:mn></m:mtd><m:mtd/></m:mtr></m:mtable>
  </m:mrow>
 </m:math>
 </equation></commentary>
@@ -2638,7 +2192,7 @@
 </exercise>
 </example>
 
-<note id="fs-id1165135664937" class="precalculus media">
+<note id="fs-id1165135664937" class="precalculus media media-notitle">
 <label>Media</label>
 <para id="fs-id1165133361920">Access these online resources for additional instruction and practice with polar coordinates.</para>
 <list id="fs-id1165133361923" list-type="bulleted">

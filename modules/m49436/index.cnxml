@@ -185,7 +185,7 @@ Use Cramer’s Rule to solve the system of equations.
 </row>
 <row valign="top">
 <entry valign="top" align="left">Simplify.</entry>
-<entry valign="top" align="left"><media id="fs-id1167834517442" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018n_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167834517442" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018n_img-76ec.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Evaluate the determinant <m:math><m:mrow><m:msub><m:mi>D</m:mi><m:mi>y</m:mi></m:msub><m:mo>.</m:mo></m:mrow></m:math> Use the<newline/>constants to replace the coefficients of <emphasis effect="italics">y</emphasis>.</entry>

@@ -129,7 +129,7 @@
        <m:mi>x</m:mi></m:mrow>
      </m:math> and 5 to be less than or equal to 4. We can draw a number line, such as the one in <link target-id="Figure_01_06_002"/>, to represent the condition to be satisfied.</para><figure id="Figure_01_06_002" class="small">
      <media id="fs-id1165137761581" alt="Number line describing the difference of the distance of 4 away from 5.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_002.jpg"/>
+      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_002-2c3f.jpg"/>
      </media>
     </figure>
      <para id="fs-id1165137772130">The distance from <m:math>
@@ -292,7 +292,7 @@
 <title>Graphing an Absolute Value Function</title>
 <para id="fs-id1165135570012">The most significant feature of the absolute value graph is the corner point at which the graph changes direction. This point is shown at the <term class="no-emphasis">origin</term> in <link target-id="Figure_01_06_003"/>.</para><figure id="Figure_01_06_003" class="small">
    <media id="fs-id1165137530693" alt="Graph of an absolute function">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_003.jpg"/>
+    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_003-f97d.jpg"/>
    </media>
   </figure>
 
@@ -312,7 +312,7 @@
      <m:mo>)</m:mo></m:mrow></m:mrow>
   </m:math> for this transformed function.</para><figure id="Figure_01_06_004" class="small">
    <media id="fs-id1165137768813" alt="Graph of the different types of transformations for an absolute function.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_004.jpg"/>
+    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_004-eab2.jpg"/>
    </media>
   </figure>
 
@@ -324,7 +324,7 @@
 
      <figure id="Figure_01_06_005" class="small">
       <media id="fs-id1165137838653" alt="Graph of an absolute function.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_005.jpg"/>
+       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_005-7ac2.jpg"/>
       </media>
      </figure>
 
@@ -335,7 +335,7 @@
 
     <figure id="Figure_01_06_006" class="small">
      <media id="fs-id1165137901124" alt="Graph of two transformations for an absolute function at (3, -2).">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_006.jpg"/>
+      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_006-ccf0.jpg"/>
      </media>
     </figure>
 
@@ -343,7 +343,7 @@
 
     <figure id="Figure_01_06_007" class="small">
      <media id="fs-id1165135388376" alt="Graph of two transformations for an absolute function at (3, -2) and describes the ratios between the two different transformations.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_007.jpg"/>
+      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_007-b405.jpg"/>
      </media>
     </figure>
 
@@ -463,7 +463,7 @@
 
    <figure id="Figure_01_06_008">
     <media id="fs-id1165135523418" alt="Graph of the different types of transformations for an absolute function.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_008abc.jpg"/>
+     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_008abc-8a0c.jpg"/>
     </media>
     <caption>(a) The absolute value function does not intersect the horizontal axis. (b) The absolute value function intersects the horizontal axis at one point. (c) The absolute value function intersects the horizontal axis at two points.</caption>
    </figure>
@@ -788,7 +788,7 @@
         <m:mi>x</m:mi><m:mo>=</m:mo><m:mo>−</m:mo><m:mn>2.</m:mn></m:mrow>
       </m:math> See <link target-id="Figure_01_06_011"/>.
       </para><figure id="Figure_01_06_011" class="medium"><media id="fs-id1165137662351" alt="Graph an absolute function with x-intercepts at -2 and 1.5.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_011F.jpg"/>
+       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_011F-d7a0.jpg"/>
       </media>
      </figure></solution>
    </exercise></example><note id="fs-id1165137599670" class="precalculus try">
