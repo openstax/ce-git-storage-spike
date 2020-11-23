@@ -2,6 +2,7 @@
 
 import hashlib
 import consolidate_media
+import update_metadata
 
 
 def test_consolidate_media(tmp_path, mocker):
@@ -142,5 +143,84 @@ def test_consolidate_media(tmp_path, mocker):
                 <image src="{image3_2_name}"/>
                 <image src="{module3_name}.jpg"/>
             </content>
+        </document>
+    """.strip()
+
+
+def test_update_metadata(tmp_path, mocker):
+    """Test update-metadata script"""
+
+    modules_dir = tmp_path / "modules"
+    module_name = "m00001"
+    module_dir = modules_dir / module_name
+    module_dir.mkdir(parents=True)
+    module_cnxml = module_dir / "index.cnxml"
+    module_cnxml_content = """
+        <document xmlns="http://cnx.rice.edu/cnxml">
+            <title>Test module</title>
+            <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+                <!-- Some comment -->
+                <md:repository>http://legacy.cnx.org/content</md:repository>
+                <md:content-url>http://legacy.cnx.org/content/m00001</md:content-url>
+                <md:content-id>m00001</md:content-id>
+                <md:title>Test module</md:title>
+                <md:version>4.2</md:version>
+                <md:created>2014/02/20 16:26:27 -0600</md:created>
+                <md:revised>2018/03/29 14:26:13 -0500</md:revised>
+                <md:actors>
+                    <md:organization userid="OpenStaxCollege">
+                    <md:shortname>OpenStax</md:shortname>
+                    <md:fullname>OpenStax</md:fullname>
+                    <md:email>info@openstax.org</md:email>
+                    </md:organization>
+                    <md:person userid="OSCRiceUniversity">
+                    <md:firstname>Rice</md:firstname>
+                    <md:surname>University</md:surname>
+                    <md:fullname>Rice University</md:fullname>
+                    <md:email>info@openstaxcollege.org</md:email>
+                    </md:person>
+                    <md:person userid="testmod">
+                    <md:firstname>OpenStax College</md:firstname>
+                    <md:surname>Test</md:surname>
+                    <md:fullname>OpenStax Test</md:fullname>
+                    <md:email>info@openstax.org</md:email>
+                    </md:person>
+                </md:actors>
+                <md:roles>
+                    <md:role type="author">OpenStaxCollege</md:role>
+                    <md:role type="maintainer">OpenStaxCollege</md:role>
+                    <md:role type="licensor">OSCRiceUniversity</md:role>
+                </md:roles>
+                <md:license url="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution License 4.0
+                </md:license>
+                <md:keywordlist>
+                    <md:keyword>keyword1</md:keyword>
+                    <md:keyword>keword2</md:keyword>
+                </md:keywordlist>
+                <md:subjectlist>
+                    <md:subject>Subject1</md:subject>
+                </md:subjectlist>
+                <md:language>en</md:language>
+                <md:abstract/>
+            </metadata>
+        </document>
+    """
+    module_cnxml.write_text(module_cnxml_content)
+
+    mocker.patch(
+        "sys.argv",
+        ["", modules_dir]
+    )
+    update_metadata.main()
+
+    assert module_cnxml.read_text() == """
+        <document xmlns="http://cnx.rice.edu/cnxml">
+            <title>Test module</title>
+            <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+                <md:content-id>m00001</md:content-id>
+                <md:title>Test module</md:title>
+                <md:abstract/>
+            </metadata>
         </document>
     """.strip()
