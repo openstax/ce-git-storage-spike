@@ -2,92 +2,10 @@
 
 <title>Introduction to Exponential and Logarithmic Functions</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m49356/latest/</md:content-url>
   <md:content-id>m49356</md:content-id>
   <md:title>Introduction to Exponential and Logarithmic Functions</md:title>
-  <md:version>1.13</md:version>
-  <md:created>2014/02/21 11:36:17 -0600</md:created>
-  <md:revised>2020/11/06 08:29:07.567 US/Central</md:revised>
-  <md:actors>
-    <md:person userid="cnxcollalg">
-      <md:firstname>OpenStax</md:firstname>
-      <md:surname>College Algebra</md:surname>
-      <md:fullname>OpenStax College Algebra</md:fullname>
-      <md:email>saf3@rice.edu</md:email>
-    </md:person>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:person>
-    <md:person userid="cnxcat">
-      <md:firstname>OpenStax</md:firstname>
-      <md:surname>CAT</md:surname>
-      <md:fullname>OpenStax Algebra and Trigonometry</md:fullname>
-      <md:email>alinams@rice.edu</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxcollalg cnxcat cnxprecal</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>annual percentage rate</md:keyword>
-    <md:keyword>carrying capacity</md:keyword>
-    <md:keyword>change-of-base formula</md:keyword>
-    <md:keyword>common logarithm</md:keyword>
-    <md:keyword>compound interest</md:keyword>
-    <md:keyword>doubling time</md:keyword>
-    <md:keyword>exponential function</md:keyword>
-    <md:keyword>exponential growth</md:keyword>
-    <md:keyword>exponential model</md:keyword>
-    <md:keyword>extraneous solution</md:keyword>
-    <md:keyword>half-life</md:keyword>
-    <md:keyword>logarithm</md:keyword>
-    <md:keyword>logarithmic function</md:keyword>
-    <md:keyword>logarithmic model</md:keyword>
-    <md:keyword>logistic growth model</md:keyword>
-    <md:keyword>logistic model</md:keyword>
-    <md:keyword>natural logarithm</md:keyword>
-    <md:keyword>Newton’s Law of Cooling</md:keyword>
-    <md:keyword>nominal rate</md:keyword>
-    <md:keyword>order of magnitude</md:keyword>
-    <md:keyword>power rule for logarithms</md:keyword>
-    <md:keyword>product rule for logarithms</md:keyword>
-    <md:keyword>quotient rule for logarithms</md:keyword>
-    <md:keyword>regression analysis</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract/>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
 <?cnx.eoc class="key-equations" title="Key Equations"?>

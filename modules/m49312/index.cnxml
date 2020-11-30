@@ -2,61 +2,8 @@
 
 <title>Transformation of Functions</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m49312/latest/</md:content-url>
   <md:content-id>m49312</md:content-id>
   <md:title>Transformation of Functions</md:title>
-  <md:version>1.26</md:version>
-  <md:created>2014/02/19 23:07:12 -0600</md:created>
-  <md:revised>2020/08/25 09:11:15.297 GMT-5</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>even function</md:keyword>
-    <md:keyword>horizontal compression</md:keyword>
-    <md:keyword>horizontal reflection</md:keyword>
-    <md:keyword>horizontal shift</md:keyword>
-    <md:keyword>horizontal stretch</md:keyword>
-    <md:keyword>odd function</md:keyword>
-    <md:keyword>vertical compression</md:keyword>
-    <md:keyword>vertical reflection</md:keyword>
-    <md:keyword>vertical shift</md:keyword>
-    <md:keyword>vertical stretch</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract><para>In this section, you will:</para><list>
 <item>Graph functions using vertical and horizontal shifts.</item>
 <item>Graph functions using reflections about the <m:math>
@@ -72,10 +19,7 @@
 <item>Graph functions using compressions and stretches.</item>
 <item>Combine transformations.</item>
 </list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
 <figure id="Figure_01_05_001" class="medium"><media id="fs-id1165137760000" alt="Figure_01_05_038">

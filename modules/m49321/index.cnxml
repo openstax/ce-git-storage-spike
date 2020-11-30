@@ -2,70 +2,10 @@
 
 <title>Introduction to Linear Functions</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>http://legacy.cnx.org/content</md:repository>
-  <md:content-url>http://legacy.cnx.org/content/m49321/latest</md:content-url>
   <md:content-id>m49321</md:content-id>
   <md:title>Introduction to Linear Functions</md:title>
-  <md:version>1.7</md:version>
-  <md:created>2014/02/20 17:38:03 -0600</md:created>
-  <md:revised>2014/11/23 12:34:34 -0600</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="licensor">cnxprecal OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>correlation coefficient</md:keyword>
-    <md:keyword>decreasing function</md:keyword>
-    <md:keyword>extrapolation</md:keyword>
-    <md:keyword>increasing function</md:keyword>
-    <md:keyword>interpolation</md:keyword>
-    <md:keyword>least squares regression</md:keyword>
-    <md:keyword>linear function</md:keyword>
-    <md:keyword>model breakdown</md:keyword>
-    <md:keyword>parallel lines</md:keyword>
-    <md:keyword>perpendicular lines</md:keyword>
-    <md:keyword>point-slope form</md:keyword>
-    <md:keyword>slope</md:keyword>
-    <md:keyword>slope-intercept form</md:keyword>
-    <md:keyword>vertical line</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract/>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
 <?cnx.eoc class="key-equations" title="Key Equations"?>

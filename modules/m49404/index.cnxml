@@ -2,65 +2,15 @@
 
 <title>Non-right Triangles: Law of Sines</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m49404/latest/</md:content-url>
   <md:content-id>m49404</md:content-id>
   <md:title>Non-right Triangles: Law of Sines</md:title>
-  <md:version>1.22</md:version>
-  <md:created>2014/02/21 03:36:26 -0600</md:created>
-  <md:revised>2019/06/17 09:19:53.920 GMT-5</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>altitude</md:keyword>
-    <md:keyword>ambiguous case</md:keyword>
-    <md:keyword>angle of elevation</md:keyword>
-    <md:keyword>Law of Sines</md:keyword>
-    <md:keyword>non-right triangles</md:keyword>
-    <md:keyword>oblique triangle</md:keyword>
-    <md:keyword>solving triangles</md:keyword>
-  </md:keywordlist>
   <md:abstract><para>In this section, you will:</para>
 <list>
 <item>Use the Law of Sines to solve oblique triangles.</item>
 <item>Find the area of an oblique triangle using the sine function.</item>
 <item>Solve applied problems using the Law of Sines.</item>
 </list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
 

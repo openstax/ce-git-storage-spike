@@ -2,66 +2,8 @@
 
 <title>Vectors</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m49412/latest/</md:content-url>
   <md:content-id>m49412</md:content-id>
   <md:title>Vectors</md:title>
-  <md:version>1.22</md:version>
-  <md:created>2014/02/21 10:28:13 -0600</md:created>
-  <md:revised>2020/08/25 08:26:39.587 GMT-5</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>component form</md:keyword>
-    <md:keyword>direction</md:keyword>
-    <md:keyword>dot product</md:keyword>
-    <md:keyword>initial point</md:keyword>
-    <md:keyword>magnitude</md:keyword>
-    <md:keyword>position vector</md:keyword>
-    <md:keyword>resultant</md:keyword>
-    <md:keyword>scalar</md:keyword>
-    <md:keyword>scalar multiplication</md:keyword>
-    <md:keyword>speed</md:keyword>
-    <md:keyword>standard position</md:keyword>
-    <md:keyword>terminal point</md:keyword>
-    <md:keyword>unit vector</md:keyword>
-    <md:keyword>vector</md:keyword>
-    <md:keyword>vector addition</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract><para>In this section you will:</para><list>
 <item>    View vectors geometrically.</item>
 <item>    Find magnitude and direction.</item>
@@ -70,10 +12,7 @@
 <item>    Find the unit vector in the direction of  <m:math><m:mrow><m:mi>v</m:mi></m:mrow></m:math>.</item>
 <item>    Perform operations with vectors in terms of  <m:math><m:mrow><m:mi>i</m:mi></m:mrow></m:math>  and  <m:math><m:mrow><m:mi>j</m:mi></m:mrow></m:math>.</item>
 <item>    Find the dot product of two vectors.</item></list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
 

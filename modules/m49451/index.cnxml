@@ -2,80 +2,10 @@
 
 <title>Introduction to Calculus</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>http://legacy.cnx.org/content</md:repository>
-  <md:content-url>http://legacy.cnx.org/content/m49451/latest</md:content-url>
   <md:content-id>m49451</md:content-id>
   <md:title>Introduction to Calculus</md:title>
-  <md:version>1.8</md:version>
-  <md:created>2014/02/23 18:17:38 -0600</md:created>
-  <md:revised>2014/11/24 09:53:10 -0600</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>average rate of change</md:keyword>
-    <md:keyword>continuous function</md:keyword>
-    <md:keyword>derivative</md:keyword>
-    <md:keyword>differentiable</md:keyword>
-    <md:keyword>discontinuous function</md:keyword>
-    <md:keyword>instantaneous rate of change</md:keyword>
-    <md:keyword>instantaneous velocity</md:keyword>
-    <md:keyword>jump discontinuity</md:keyword>
-    <md:keyword>left-hand limit</md:keyword>
-    <md:keyword>limit</md:keyword>
-    <md:keyword>limit notation</md:keyword>
-    <md:keyword>limit of a difference</md:keyword>
-    <md:keyword>limit of a power</md:keyword>
-    <md:keyword>limit of a product</md:keyword>
-    <md:keyword>limit of a root</md:keyword>
-    <md:keyword>limit of a sum</md:keyword>
-    <md:keyword>limits</md:keyword>
-    <md:keyword>properties of limits</md:keyword>
-    <md:keyword>removable discontinuity</md:keyword>
-    <md:keyword>right-hand limit</md:keyword>
-    <md:keyword>secant line</md:keyword>
-    <md:keyword>slope of a curve</md:keyword>
-    <md:keyword>tangent line</md:keyword>
-    <md:keyword>two-sided limit</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract/>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
 <?cnx.eoc class="key-equations" title="Key Equations"?>

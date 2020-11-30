@@ -2,59 +2,8 @@
 
 <title>Modeling with Trigonometric Equations</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m49399/latest/</md:content-url>
   <md:content-id>m49399</md:content-id>
   <md:title>Modeling with Trigonometric Functions</md:title>
-  <md:version>1.24</md:version>
-  <md:created>2014/02/21 09:16:43 -0600</md:created>
-  <md:revised>2020/02/11 13:45:59.484 US/Central</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>amplitude</md:keyword>
-    <md:keyword>damped harmonic motion</md:keyword>
-    <md:keyword>harmonic motion</md:keyword>
-    <md:keyword>midline</md:keyword>
-    <md:keyword>period</md:keyword>
-    <md:keyword>periodic motion</md:keyword>
-    <md:keyword>simple harmonic motion</md:keyword>
-    <md:keyword>sinusoidal function</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract><para>In this section, you will:</para>
 <list>
 <item>Determine the amplitude and period of sinusoidal functions.</item>
@@ -62,10 +11,7 @@
 <item>Model periodic behavior.</item>
 <item>Model harmonic motion functions.</item>
 </list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
 <figure id="Figure_07_06_001" class="small"><media id="fs-id1478255" alt="Photo of the top part of a clock.">

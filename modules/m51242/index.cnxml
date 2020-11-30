@@ -2,58 +2,8 @@
 
 <title>Radicals and Rational Exponents</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m51242/latest/</md:content-url>
   <md:content-id>m51242</md:content-id>
   <md:title>Radicals and Rational Exponents</md:title>
-  <md:version>1.23</md:version>
-  <md:created>2014/10/02 06:30:34 -0500</md:created>
-  <md:revised>2020/08/21 15:28:50.241 GMT-5</md:revised>
-  <md:actors>
-    <md:person userid="cnxcollalg">
-      <md:firstname>OpenStax</md:firstname>
-      <md:surname>College Algebra</md:surname>
-      <md:fullname>OpenStax College Algebra</md:fullname>
-      <md:email>saf3@rice.edu</md:email>
-    </md:person>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">cnxcollalg OpenStaxCollege</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>index</md:keyword>
-    <md:keyword>principal nth root</md:keyword>
-    <md:keyword>principal square root</md:keyword>
-    <md:keyword>radical</md:keyword>
-    <md:keyword>radical expression</md:keyword>
-    <md:keyword>radicand</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract><para>In this section students will:</para><list>
 <item>Evaluate square roots.</item>
 <item>Use the product rule to simplify square roots.</item>
@@ -62,10 +12,7 @@
 <item>Rationalize denominators.</item>
 <item>Use rational roots.</item>
 </list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
 

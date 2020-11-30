@@ -2,93 +2,10 @@
 
 <title>Introduction to Analytic Geometry</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m49437/latest/</md:content-url>
   <md:content-id>m49437</md:content-id>
   <md:title>Introduction to Analytic Geometry</md:title>
-  <md:version>1.11</md:version>
-  <md:created>2014/02/23 21:52:30 -0600</md:created>
-  <md:revised>2020/08/22 00:29:21.770 GMT-5</md:revised>
-  <md:actors>
-    <md:person userid="cnxcollalg">
-      <md:firstname>OpenStax</md:firstname>
-      <md:surname>College Algebra</md:surname>
-      <md:fullname>OpenStax College Algebra</md:fullname>
-      <md:email>saf3@rice.edu</md:email>
-    </md:person>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:person>
-    <md:person userid="cnxcat">
-      <md:firstname>OpenStax</md:firstname>
-      <md:surname>CAT</md:surname>
-      <md:fullname>OpenStax Algebra and Trigonometry</md:fullname>
-      <md:email>alinams@rice.edu</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">cnxcollalg OpenStaxCollege cnxcat cnxprecal</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>angle of rotation</md:keyword>
-    <md:keyword>axis of symmetry</md:keyword>
-    <md:keyword>center of a hyperbola</md:keyword>
-    <md:keyword>center of an ellipse</md:keyword>
-    <md:keyword>co-vertices</md:keyword>
-    <md:keyword>conic</md:keyword>
-    <md:keyword>conjugate axis</md:keyword>
-    <md:keyword>directrix</md:keyword>
-    <md:keyword>eccentricity</md:keyword>
-    <md:keyword>ellipse</md:keyword>
-    <md:keyword>foci</md:keyword>
-    <md:keyword>focus</md:keyword>
-    <md:keyword>hyperbola</md:keyword>
-    <md:keyword>latus rectum</md:keyword>
-    <md:keyword>major axis</md:keyword>
-    <md:keyword>minor axis</md:keyword>
-    <md:keyword>nondegenerate conic section</md:keyword>
-    <md:keyword>parabola</md:keyword>
-    <md:keyword>polar equation</md:keyword>
-    <md:keyword>rotated conics</md:keyword>
-    <md:keyword>rotation of axes</md:keyword>
-    <md:keyword>transverse axis</md:keyword>
-    <md:keyword>vertex</md:keyword>
-    <md:keyword>vertices</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Science and Technology</md:subject>
-    <md:subject>Science and Technology</md:subject>
-  </md:subjectlist>
   <md:abstract/>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
 

@@ -2,67 +2,12 @@
 
 <title>Graphs of the Sine and Cosine Functions</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m49387/latest/</md:content-url>
   <md:content-id>m49387</md:content-id>
   <md:title>Graphs of the Sine and Cosine Functions</md:title>
-  <md:version>1.28</md:version>
-  <md:created>2014/02/21 02:24:14 -0600</md:created>
-  <md:revised>2019/06/21 08:59:12.300 GMT-5</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>amplitude</md:keyword>
-    <md:keyword>circular motion</md:keyword>
-    <md:keyword>horizontal shift</md:keyword>
-    <md:keyword>midline</md:keyword>
-    <md:keyword>period</md:keyword>
-    <md:keyword>periodic function</md:keyword>
-    <md:keyword>phase shift</md:keyword>
-    <md:keyword>sinusoidal</md:keyword>
-    <md:keyword>vertical shift</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract><para>In this section, you will:</para>
     <list><item>Graph variations of   <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mtext>sin</m:mtext><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:math>  and <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mtext>cos</m:mtext><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:math>  .</item>
     <item>Use phase shifts of sine and cosine curves.</item></list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
 <figure id="Figure_06_01_001" class="small"><media id="fs-id1165135160648" alt="A photo of a rainbow colored beam of light stretching across the floor.">

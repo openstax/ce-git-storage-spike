@@ -2,79 +2,14 @@
 
 <title>Conic Sections in Polar Coordinates</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m49442/latest/</md:content-url>
   <md:content-id>m49442</md:content-id>
   <md:title>Conic Sections in Polar Coordinates</md:title>
-  <md:version>1.24</md:version>
-  <md:created>2014/02/23 04:47:20 -0600</md:created>
-  <md:revised>2020/09/08 10:24:52.421 GMT-5</md:revised>
-  <md:actors>
-    <md:person userid="cnxcollalg">
-      <md:firstname>OpenStax</md:firstname>
-      <md:surname>College Algebra</md:surname>
-      <md:fullname>OpenStax College Algebra</md:fullname>
-      <md:email>saf3@rice.edu</md:email>
-    </md:person>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:person>
-    <md:person userid="cnxcat">
-      <md:firstname>OpenStax</md:firstname>
-      <md:surname>CAT</md:surname>
-      <md:fullname>OpenStax Algebra and Trigonometry</md:fullname>
-      <md:email>alinams@rice.edu</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxcollalg cnxcat cnxprecal</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>directrix</md:keyword>
-    <md:keyword>eccentricity</md:keyword>
-    <md:keyword>ellipse</md:keyword>
-    <md:keyword>focus</md:keyword>
-    <md:keyword>hyperbola</md:keyword>
-    <md:keyword>parabola</md:keyword>
-    <md:keyword>polar equation</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract><para>In this section, you will:</para><list>
 <item>Identify a conic in polar form.</item>
 <item>Graph the polar equations of conics.</item>
 <item>Deﬁne conics in terms of a focus and a directrix.</item>
 </list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
   <figure id="Figure_10_05_008"><media id="fs-id1233290" alt="">

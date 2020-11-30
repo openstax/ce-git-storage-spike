@@ -2,102 +2,10 @@
 
 <title>Introduction to Prerequisites</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m51240/latest/</md:content-url>
   <md:content-id>m51240</md:content-id>
   <md:title>Introduction to Prerequisites</md:title>
-  <md:version>1.11</md:version>
-  <md:created>2014/10/02 11:00:51 -0500</md:created>
-  <md:revised>2020/08/21 15:23:17.091 GMT-5</md:revised>
-  <md:actors>
-    <md:person userid="cnxcollalg">
-      <md:firstname>OpenStax</md:firstname>
-      <md:surname>College Algebra</md:surname>
-      <md:fullname>OpenStax College Algebra</md:fullname>
-      <md:email>saf3@rice.edu</md:email>
-    </md:person>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">cnxcollalg OpenStaxCollege</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>algebraic expression</md:keyword>
-    <md:keyword>associative property of addition</md:keyword>
-    <md:keyword>associative property of multiplication</md:keyword>
-    <md:keyword>binomial</md:keyword>
-    <md:keyword>coefficient</md:keyword>
-    <md:keyword>commutative property of addition</md:keyword>
-    <md:keyword>commutative property of multiplication</md:keyword>
-    <md:keyword>constant</md:keyword>
-    <md:keyword>degree</md:keyword>
-    <md:keyword>difference of squares</md:keyword>
-    <md:keyword>distributive property</md:keyword>
-    <md:keyword>equation</md:keyword>
-    <md:keyword>exponential notation</md:keyword>
-    <md:keyword>factor by grouping</md:keyword>
-    <md:keyword>formula</md:keyword>
-    <md:keyword>greatest common factor</md:keyword>
-    <md:keyword>identity property of addition</md:keyword>
-    <md:keyword>identity property of multiplication</md:keyword>
-    <md:keyword>index</md:keyword>
-    <md:keyword>integers</md:keyword>
-    <md:keyword>inverse property of addition</md:keyword>
-    <md:keyword>inverse property of multiplication</md:keyword>
-    <md:keyword>irrational numbers</md:keyword>
-    <md:keyword>leading coefficient</md:keyword>
-    <md:keyword>leading term</md:keyword>
-    <md:keyword>least common denominator</md:keyword>
-    <md:keyword>monomial</md:keyword>
-    <md:keyword>natural numbers</md:keyword>
-    <md:keyword>order of operations</md:keyword>
-    <md:keyword>perfect square trinomial</md:keyword>
-    <md:keyword>polynomial</md:keyword>
-    <md:keyword>principal nth root</md:keyword>
-    <md:keyword>principal square root</md:keyword>
-    <md:keyword>radical</md:keyword>
-    <md:keyword>radical expression</md:keyword>
-    <md:keyword>radicand</md:keyword>
-    <md:keyword>rational expression</md:keyword>
-    <md:keyword>rational numbers</md:keyword>
-    <md:keyword>real number line</md:keyword>
-    <md:keyword>real numbers</md:keyword>
-    <md:keyword>scientific notation</md:keyword>
-    <md:keyword>term of a polynomial</md:keyword>
-    <md:keyword>trinomial</md:keyword>
-    <md:keyword>variable</md:keyword>
-    <md:keyword>whole numbers</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract/>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
   <?cnx.eoc class="key-equations" title="Key Equations"?>

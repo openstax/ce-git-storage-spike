@@ -2,59 +2,8 @@
 
 <title>Sum and Difference Identities</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m51289/latest/</md:content-url>
   <md:content-id>m51289</md:content-id>
   <md:title>Sum and Difference Identities</md:title>
-  <md:version>1.13</md:version>
-  <md:created>2014/10/03 00:35:07 -0500</md:created>
-  <md:revised>2020/02/19 11:00:11.869 US/Central</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
-    </md:person>
-    <md:person userid="cnxcat">
-      <md:firstname>OpenStax</md:firstname>
-      <md:surname>CAT</md:surname>
-      <md:fullname>OpenStax Algebra and Trigonometry</md:fullname>
-      <md:email>alinams@rice.edu</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxcat</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>cofunction</md:keyword>
-    <md:keyword>cofunction identities</md:keyword>
-    <md:keyword>distance formula</md:keyword>
-    <md:keyword>Pythagorean identity</md:keyword>
-    <md:keyword>special angles</md:keyword>
-    <md:keyword>sum and difference formulas for cosine</md:keyword>
-    <md:keyword>sum and difference formulas for sine</md:keyword>
-    <md:keyword>sum and difference formulas for tangent</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract>In this section, you will:
 <list>
 <item>Use sum and difference formulas for cosine.</item>
@@ -63,10 +12,7 @@
 <item>Use sum and difference formulas for cofunctions.</item>
 <item>Use sum and difference formulas to verify identities.</item>
 </list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
   <figure id="Figure_07_02_001" class="small"><media id="fs-id3063401" alt="Photo of Mt. McKinley.">

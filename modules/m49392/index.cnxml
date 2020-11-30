@@ -2,96 +2,10 @@
 
 <title>Introduction to Trigonometric Identities and Equations</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>http://legacy.cnx.org/content</md:repository>
-  <md:content-url>http://legacy.cnx.org/content/m49392/latest</md:content-url>
   <md:content-id>m49392</md:content-id>
   <md:title>Introduction to Trigonometric Identities and Equations</md:title>
-  <md:version>1.5</md:version>
-  <md:created>2014/02/21 14:36:34 -0600</md:created>
-  <md:revised>2014/11/24 10:49:53 -0600</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">cnxprecal OpenStaxCollege</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>amplitude</md:keyword>
-    <md:keyword>cofunction</md:keyword>
-    <md:keyword>cofunction identities</md:keyword>
-    <md:keyword>cosecant function</md:keyword>
-    <md:keyword>cosine</md:keyword>
-    <md:keyword>cosine function</md:keyword>
-    <md:keyword>cotangent function</md:keyword>
-    <md:keyword>damped harmonic motion</md:keyword>
-    <md:keyword>distance formula</md:keyword>
-    <md:keyword>double-angle formula</md:keyword>
-    <md:keyword>double-angle formulas</md:keyword>
-    <md:keyword>even function</md:keyword>
-    <md:keyword>even-odd identities</md:keyword>
-    <md:keyword>half-angle formulas</md:keyword>
-    <md:keyword>harmonic motion</md:keyword>
-    <md:keyword>horizontal compression</md:keyword>
-    <md:keyword>midline</md:keyword>
-    <md:keyword>odd function</md:keyword>
-    <md:keyword>period</md:keyword>
-    <md:keyword>periodic motion</md:keyword>
-    <md:keyword>product-to-sum formulas</md:keyword>
-    <md:keyword>Pythagorean identities</md:keyword>
-    <md:keyword>Pythagorean identity</md:keyword>
-    <md:keyword>Pythagorean Theorem</md:keyword>
-    <md:keyword>quadratic equation</md:keyword>
-    <md:keyword>quadratic formula</md:keyword>
-    <md:keyword>quotient identities</md:keyword>
-    <md:keyword>reciprocal identities</md:keyword>
-    <md:keyword>reduction formulas</md:keyword>
-    <md:keyword>simple harmonic motion</md:keyword>
-    <md:keyword>sine</md:keyword>
-    <md:keyword>sine function</md:keyword>
-    <md:keyword>sinusoidal function</md:keyword>
-    <md:keyword>special angles</md:keyword>
-    <md:keyword>sum and difference formulas for cosine</md:keyword>
-    <md:keyword>sum and difference formulas for sine</md:keyword>
-    <md:keyword>sum and difference formulas for tangent</md:keyword>
-    <md:keyword>sum-to-product formulas</md:keyword>
-    <md:keyword>tangent function</md:keyword>
-    <md:keyword>unit circle</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract/>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
   <?cnx.eoc class="key-equations" title="Key Equations"?>

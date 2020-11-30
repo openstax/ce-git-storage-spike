@@ -2,59 +2,8 @@
 
 <title>Right Triangle Trigonometry</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m51284/latest/</md:content-url>
   <md:content-id>m51284</md:content-id>
   <md:title>Right Triangle Trigonometry</md:title>
-  <md:version>1.19</md:version>
-  <md:created>2014/10/03 04:56:31 -0500</md:created>
-  <md:revised>2020/09/25 09:20:37.038 GMT-5</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:person>
-    <md:person userid="cnxcat">
-      <md:firstname>OpenStax</md:firstname>
-      <md:surname>CAT</md:surname>
-      <md:fullname>OpenStax Algebra and Trigonometry</md:fullname>
-      <md:email>alinams@rice.edu</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxcat</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>adjacent side</md:keyword>
-    <md:keyword>cofunction identities</md:keyword>
-    <md:keyword>cofunction identity</md:keyword>
-    <md:keyword>complementary angles</md:keyword>
-    <md:keyword>hypotenuse</md:keyword>
-    <md:keyword>opposite side</md:keyword>
-    <md:keyword>right triangle trigonometry</md:keyword>
-    <md:keyword>trigonometric functions of any angle</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract><para>In this section you will:</para><list>
 <item>Use right triangles to evaluate trigonometric functions.</item>
 <item>Find function values for <m:math>
@@ -92,10 +41,7 @@
 <item>Use the deﬁnitions of trigonometric functions of any angle.</item>
 <item>Use right-triangle trigonometry to solve applied problems.</item>
 </list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
 <para id="fs-id1504394">

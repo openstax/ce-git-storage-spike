@@ -2,89 +2,10 @@
 
 <title>Introduction to Trigonometric Functions</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>http://legacy.cnx.org/content</md:repository>
-  <md:content-url>http://legacy.cnx.org/content/m49369/latest</md:content-url>
   <md:content-id>m49369</md:content-id>
   <md:title>Introduction to Trigonometric Functions</md:title>
-  <md:version>1.5</md:version>
-  <md:created>2014/02/21 13:34:42 -0600</md:created>
-  <md:revised>2014/11/24 09:35:57 -0600</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">cnxprecal OpenStaxCollege</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>adjacent side</md:keyword>
-    <md:keyword>angle</md:keyword>
-    <md:keyword>angular speed</md:keyword>
-    <md:keyword>arc length</md:keyword>
-    <md:keyword>area of a sector</md:keyword>
-    <md:keyword>cofunction identity</md:keyword>
-    <md:keyword>cosecant</md:keyword>
-    <md:keyword>cosine function</md:keyword>
-    <md:keyword>cotangent</md:keyword>
-    <md:keyword>coterminal angles</md:keyword>
-    <md:keyword>degree</md:keyword>
-    <md:keyword>hypotenuse</md:keyword>
-    <md:keyword>identities</md:keyword>
-    <md:keyword>initial side</md:keyword>
-    <md:keyword>linear speed</md:keyword>
-    <md:keyword>measure of an angle</md:keyword>
-    <md:keyword>negative angle</md:keyword>
-    <md:keyword>opposite side</md:keyword>
-    <md:keyword>period</md:keyword>
-    <md:keyword>positive angle</md:keyword>
-    <md:keyword>Pythagorean Identity</md:keyword>
-    <md:keyword>quadrantal angle</md:keyword>
-    <md:keyword>radian</md:keyword>
-    <md:keyword>radian measure</md:keyword>
-    <md:keyword>ray</md:keyword>
-    <md:keyword>reference angle</md:keyword>
-    <md:keyword>secant</md:keyword>
-    <md:keyword>sine function</md:keyword>
-    <md:keyword>standard position</md:keyword>
-    <md:keyword>tangent</md:keyword>
-    <md:keyword>terminal side</md:keyword>
-    <md:keyword>unit circle</md:keyword>
-    <md:keyword>vertex</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract/>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
     <?cnx.eoc class="key-equations" title="Key Equations"?>

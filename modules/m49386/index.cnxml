@@ -2,83 +2,10 @@
 
 <title>Introduction to Periodic Functions</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>http://legacy.cnx.org/content</md:repository>
-  <md:content-url>http://legacy.cnx.org/content/m49386/latest</md:content-url>
   <md:content-id>m49386</md:content-id>
   <md:title>Introduction to Periodic Functions</md:title>
-  <md:version>1.9</md:version>
-  <md:created>2014/02/21 08:18:11 -0600</md:created>
-  <md:revised>2014/11/24 10:33:29 -0600</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="licensor">cnxprecal OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>amplitude</md:keyword>
-    <md:keyword>arccosine</md:keyword>
-    <md:keyword>arcsine</md:keyword>
-    <md:keyword>arctangent</md:keyword>
-    <md:keyword>circular motion</md:keyword>
-    <md:keyword>composite functions with inverse trigonometric functions</md:keyword>
-    <md:keyword>compressing factor</md:keyword>
-    <md:keyword>cosecant function</md:keyword>
-    <md:keyword>cotangent function</md:keyword>
-    <md:keyword>horizontal shift</md:keyword>
-    <md:keyword>inverse cosine function</md:keyword>
-    <md:keyword>inverse sine function</md:keyword>
-    <md:keyword>inverse tangent function</md:keyword>
-    <md:keyword>inverse trigonometric functions</md:keyword>
-    <md:keyword>local maximum</md:keyword>
-    <md:keyword>local minimum</md:keyword>
-    <md:keyword>midline</md:keyword>
-    <md:keyword>other trigonometric functions</md:keyword>
-    <md:keyword>period</md:keyword>
-    <md:keyword>periodic function</md:keyword>
-    <md:keyword>phase shift</md:keyword>
-    <md:keyword>right triangle</md:keyword>
-    <md:keyword>secant function</md:keyword>
-    <md:keyword>sinusoidal</md:keyword>
-    <md:keyword>stretching factor</md:keyword>
-    <md:keyword>tangent function</md:keyword>
-    <md:keyword>vertical shift</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract/>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
   <?cnx.eoc class="key-equations" title="Key Equations"?>
