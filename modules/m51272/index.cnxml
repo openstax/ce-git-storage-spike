@@ -10,7 +10,9 @@
 <item>Distinguish between linear and nonlinear relations.</item>
 <item>Fit a regression line to a set of data and use the linear model to make predictions.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>e9d5f844-6760-4f85-8f79-67292a6703dc</md:uuid>
+<md:canonical-book-uuid>13ac107a-f15f-49d2-97e8-60ab2e3b519c</md:canonical-book-uuid>
+</metadata>
 
 <content>
   <section id="eip-334" class="coreq-skills"><section id="eip-762" class="learning-objectives"><title>Learning Objectives</title>

@@ -46,7 +46,9 @@
 <item>Use the deﬁnitions of trigonometric functions of any angle.</item>
 <item>Use right triangle trigonometry to solve applied problems.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>2d2ba0f3-4818-4665-9f37-7ec8c6d36e52</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <para id="fs-id1165137387312">We have previously defined the sine and cosine of an angle in terms of the coordinates of a point on the unit circle intersected by the terminal side of the angle:</para>

@@ -8,7 +8,9 @@
 <item>Find the inverse of a matrix.</item>
 <item>Solve a system of linear equations using an inverse matrix.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>634d2387-7429-480f-a04e-867c2f9699fb</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
   <section id="eip-942" class="coreq-skills"><section id="eip-534" class="learning-objectives"><title>Learning Objectives</title><list id="eip-idm358479072">

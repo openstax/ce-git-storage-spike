@@ -5,7 +5,9 @@
   <md:content-id>m49451</md:content-id>
   <md:title>Introduction to Calculus</md:title>
   <md:abstract/>
-  </metadata>
+  <md:uuid>2dc74371-c78f-45de-a7aa-43088faa17db</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <?cnx.eoc class="key-equations" title="Key Equations"?>

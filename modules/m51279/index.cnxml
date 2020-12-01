@@ -12,7 +12,9 @@
 <item>Identify horizontal asymptotes.</item>
 <item>Graph rational functions.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>28d4cfda-bec3-48cf-9695-2cc71939e22a</md:uuid>
+<md:canonical-book-uuid>13ac107a-f15f-49d2-97e8-60ab2e3b519c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <section id="eip-189" class="coreq-skills"><section id="eip-617" class="learning-objectives"><title>Learning objectives</title><list id="eip-601" list-type="bulleted" bullet-style="bullet"><item>Determine the values for which a rational expression is undefined (IA 7.1.1)</item>

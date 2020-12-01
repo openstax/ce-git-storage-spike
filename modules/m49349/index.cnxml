@@ -14,7 +14,9 @@
 <item>Use Descartes’ Rule of Signs.</item>
 <item>Solve real-world applications of polynomial equations.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>0491a281-4562-40ba-be36-309ed9bf554a</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
  <para id="fs-id1165137758829">A new bakery offers decorated sheet cakes for children’s birthday parties and other special occasions. The bakery wants the volume of a small cake to be 351 cubic inches. The cake is in the shape of a rectangular solid. They want the length of the cake to be four inches longer than the width of the cake and the height of the cake to be one-third of the width. What should the dimensions of the cake pan be?</para><para id="eip-151">This problem can be solved by writing a cubic function and solving a cubic equation for the volume of the cake. In this section, we will discuss a variety of tools for writing polynomial functions and solving polynomial equations.</para><section id="fs-id1165135533136">

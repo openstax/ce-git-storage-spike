@@ -154,6 +154,17 @@ def test_update_metadata(tmp_path, mocker):
     module_name = "m00001"
     module_dir = modules_dir / module_name
     module_dir.mkdir(parents=True)
+
+    module_json = module_dir / "metadata.json"
+    module_json_content = """
+        {
+            "id": "00000000-0000-0000-0000-000000000001",
+            "canonical": "00000000-0000-0000-0000-000000000000",
+            "title": "Test module"
+        }
+    """
+    module_json.write_text(module_json_content)
+
     module_cnxml = module_dir / "index.cnxml"
     module_cnxml_content = """
         <document xmlns="http://cnx.rice.edu/cnxml">
@@ -221,6 +232,8 @@ def test_update_metadata(tmp_path, mocker):
                 <md:content-id>m00001</md:content-id>
                 <md:title>Test module</md:title>
                 <md:abstract/>
-            </metadata>
+            <md:uuid>00000000-0000-0000-0000-000000000001</md:uuid>
+<md:canonical-book-uuid>00000000-0000-0000-0000-000000000000</md:canonical-book-uuid>
+</metadata>
         </document>
     """.strip()

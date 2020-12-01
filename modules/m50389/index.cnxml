@@ -11,7 +11,9 @@
 <item>Write the equation of a line parallel or perpendicular to a given line.</item>
 <item>Solve a system of linear equations.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>6d5cfe35-821d-44f2-a6f0-a18718bf1171</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <para id="fs-id1165135609321">Two competing telephone companies offer different payment plans. The two plans charge the same rate per long distance minute, but charge a different monthly flat fee. A consumer wants to determine whether the two plans will ever cost the same amount for a given number of long distance minutes used. The total cost of each payment plan can be represented by a linear function. To solve the problem, we will need to compare the functions. In this section, we will consider methods of comparing functions using graphs.</para>

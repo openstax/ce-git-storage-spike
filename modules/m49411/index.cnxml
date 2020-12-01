@@ -9,7 +9,9 @@
 <item>Graph plane curves described by parametric equations by plotting points.</item>
 <item>Graph parametric equations.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>38d919ed-1bee-4ae6-aed0-48285d870dab</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
     <para id="fs-id1165137758339">It is the bottom of the ninth inning, with two outs and two men on base. The home team is losing by two runs. The batter swings and hits the baseball at 140 feet per second and at an angle of approximately <m:math>

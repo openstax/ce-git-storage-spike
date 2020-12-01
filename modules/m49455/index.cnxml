@@ -11,7 +11,9 @@
 <item>Find an equation of the tangent line to the graph of a function at a point.</item>
 <item>Find the instantaneous velocity of a particle.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>8b6c0c03-c1ae-46d5-a729-685963fcf1da</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
   <para id="fs-id1165137832373">The average teen in the United States opens a refrigerator door an estimated 25 times per day. Supposedly, this average is up from 10 years ago when the average teenager opened a refrigerator door 20 times per day <footnote id="fs-id1165137431100">http://www.csun.edu/science/health/docs/tv&amp;health.html Source provided.</footnote>.</para>

@@ -10,7 +10,9 @@
 <item>Use a recursive formula for an arithmetic sequence.</item>
 <item>Use an explicit formula for an arithmetic sequence.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>35388d0f-fefc-42fc-857a-1c0c8e20d85f</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <section id="eip-756" class="coreq-skills"><section id="eip-823" class="learning-objectives"><title>Learning Objectives</title><list id="eip-621"><item>Determine if a sequence is arithmetic (IA 12.2.1) </item>

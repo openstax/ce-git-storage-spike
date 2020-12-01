@@ -13,7 +13,9 @@
 <item>Use Descartes’ Rule of Signs.</item>
 <item>Solve real-world applications of polynomial equations</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>1bb57d2c-789f-4252-bfe4-edc0873f1e29</md:uuid>
+<md:canonical-book-uuid>13ac107a-f15f-49d2-97e8-60ab2e3b519c</md:canonical-book-uuid>
+</metadata>
 
 <content>
  <section id="eip-107" class="coreq-skills"><section id="eip-672" class="learning-objectives"><title>Learning Objectives</title><list id="eip-96"><item>Solve quadratic and higher order equations by factoring (IA 6.5.2)</item>

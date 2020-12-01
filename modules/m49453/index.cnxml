@@ -11,7 +11,9 @@
 <item>Find the limit of a power or a root.</item>
 <item>Find the limit of a quotient.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>72a4d1bc-d706-47e8-8ac3-138d637bdcef</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <para id="fs-id1165135193943">Consider the <term class="no-emphasis">rational function</term></para> <equation id="fs-id1165135496662" class="unnumbered"><label/> <m:math display="block">

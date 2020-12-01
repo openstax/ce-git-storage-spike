@@ -9,7 +9,9 @@
 <item>Build a logarithmic model from data.</item>
 <item>Build a logistic model from data.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>aa3a6479-56b9-4e74-9b72-5817cfe5bf5a</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <section id="eip-290" class="coreq-skills"><section id="eip-417" class="learning-objectives"><title>Learning Objectives</title><list id="eip-741">

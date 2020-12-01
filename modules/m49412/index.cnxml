@@ -12,7 +12,9 @@
 <item>    Find the unit vector in the direction of  <m:math><m:mrow><m:mi>v</m:mi></m:mrow></m:math>.</item>
 <item>    Perform operations with vectors in terms of  <m:math><m:mrow><m:mi>i</m:mi></m:mrow></m:math>  and  <m:math><m:mrow><m:mi>j</m:mi></m:mrow></m:math>.</item>
 <item>    Find the dot product of two vectors.</item></list></md:abstract>
-  </metadata>
+  <md:uuid>907cf72a-9d36-4043-98b4-3d251188ac6f</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 

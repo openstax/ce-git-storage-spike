@@ -10,7 +10,9 @@
 <item>Plot complex numbers on the complex plane.</item>
 <item>    Add and subtract complex numbers.</item>
 <item>    Multiply and divide complex numbers.</item></list></md:abstract>
-  </metadata>
+  <md:uuid>f40160e5-2774-4abb-9c52-e4408588068a</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
  <para id="fs-id1165135307920">The study of mathematics continuously builds upon itself. Negative integers, for example, fill a void left by the set of positive integers. The set of rational numbers, in turn, fills a void left by the set of integers. The set of real numbers fills a void left by the set of rational numbers. Not surprisingly, the set of real numbers has voids as well. For example, we still have no solution to equations such as</para>

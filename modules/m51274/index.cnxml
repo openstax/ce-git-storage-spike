@@ -10,7 +10,9 @@
 <item>Determine a quadratic function’s minimum or maximum value.</item>
 <item>Solve problems involving a quadratic function’s minimum or maximum value.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>f929bd85-ed50-4a67-a528-40008aa14d0c</md:uuid>
+<md:canonical-book-uuid>13ac107a-f15f-49d2-97e8-60ab2e3b519c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <section id="eip-516" class="coreq-skills"><section id="eip-954" class="learning-objectives"><title>Learning Objectives</title><list id="eip-535"><item>Graph quadratic functions using properties. (IA 9.6.4)

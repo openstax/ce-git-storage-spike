@@ -10,7 +10,9 @@
 <item>Distinguish between linear and nonlinear relations.</item>
 <item>Use a linear model to make predictions.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>5586f247-fbe5-44bb-b053-a432eb193aca</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <para id="fs-id1165137641419">A professor is attempting to identify trends among final exam scores. His class has a mixture of students, so he wonders if there is any relationship between age and final exam scores. One way for him to analyze the scores is by creating a diagram that relates the age of each student to the exam score received. In this section, we will examine one such diagram known as a scatter plot.</para>

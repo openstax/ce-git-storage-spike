@@ -11,7 +11,9 @@
 <item>Solve absolute value equations.</item>
 <item>Solve other types of equations.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>b88d40b3-a0d5-4a8f-8b2e-85993b911cc0</md:uuid>
+<md:canonical-book-uuid>13ac107a-f15f-49d2-97e8-60ab2e3b519c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <para id="fs-id1519532">We have solved linear equations, rational equations, and quadratic equations using several methods. However, there are many other types of equations, and we will investigate a few more types in this section. We will look at equations involving rational exponents, polynomial equations, radical equations, absolute value equations, equations in quadratic form, and some rational equations that can be transformed into quadratics. Solving any equation, however, employs the same basic algebraic rules. We will learn some new techniques as they apply to certain equations, but the algebra never changes.</para>

@@ -10,7 +10,9 @@
 <item>Use a recursive formula for a geometric sequence.</item>
 <item>Use an explicit formula for a geometric sequence.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>94ee3a01-1ca8-4d05-8e23-a5baba74e1a6</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-462" class="coreq-skills"><section id="eip-272" class="learning-objectives"><title>Learning Objectives</title><list id="eip-651"><item>Determine if a sequence is geometric (IA 12.3.1).</item>
