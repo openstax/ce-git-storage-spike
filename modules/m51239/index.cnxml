@@ -2,77 +2,8 @@
 
 <title>Real Numbers: Algebra Essentials</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m51239/latest/</md:content-url>
   <md:content-id>m51239</md:content-id>
   <md:title>Real Numbers: Algebra Essentials</md:title>
-  <md:version>1.42</md:version>
-  <md:created>2014/10/01 15:18:11 -0500</md:created>
-  <md:revised>2020/08/21 15:25:14.561 GMT-5</md:revised>
-  <md:actors>
-    <md:person userid="cnxcollalg">
-      <md:firstname>OpenStax</md:firstname>
-      <md:surname>College Algebra</md:surname>
-      <md:fullname>OpenStax College Algebra</md:fullname>
-      <md:email>saf3@rice.edu</md:email>
-    </md:person>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">cnxcollalg OpenStaxCollege</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>algebraic expression</md:keyword>
-    <md:keyword>associative property of addition</md:keyword>
-    <md:keyword>associative property of multiplication</md:keyword>
-    <md:keyword>base</md:keyword>
-    <md:keyword>commutative property of addition</md:keyword>
-    <md:keyword>commutative property of multiplication</md:keyword>
-    <md:keyword>constant</md:keyword>
-    <md:keyword>distributive property</md:keyword>
-    <md:keyword>equation</md:keyword>
-    <md:keyword>exponent</md:keyword>
-    <md:keyword>exponential notation</md:keyword>
-    <md:keyword>formula</md:keyword>
-    <md:keyword>identity property of addition</md:keyword>
-    <md:keyword>identity property of multiplication</md:keyword>
-    <md:keyword>integers</md:keyword>
-    <md:keyword>inverse property of addition</md:keyword>
-    <md:keyword>inverse property of multiplication</md:keyword>
-    <md:keyword>irrational numbers</md:keyword>
-    <md:keyword>natural numbers</md:keyword>
-    <md:keyword>order of operations</md:keyword>
-    <md:keyword>rational numbers</md:keyword>
-    <md:keyword>real number line</md:keyword>
-    <md:keyword>real numbers</md:keyword>
-    <md:keyword>variable</md:keyword>
-    <md:keyword>whole numbers</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract><para>In this section students will:</para><list>
 <item>Classify a real number as a natural, whole, integer, rational, or irrational number.</item>
 <item>Perform calculations using order of operations.</item>
@@ -80,10 +11,7 @@
 <item>Evaluate algebraic expressions.</item>
 <item>Simplify algebraic expressions.</item>
 </list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
   <section id="eip-845" class="coreq-skills"><section id="fs-idm348501264" class="learning-objectives"><title>Learning Objectives</title><list id="eip-991" list-type="bulleted" bullet-style="bullet"><item>Identify the study skills leading to success in a college level mathematics course.</item>

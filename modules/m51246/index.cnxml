@@ -2,63 +2,8 @@
 
 <title>Polynomials</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m51246/latest/</md:content-url>
   <md:content-id>m51246</md:content-id>
   <md:title>Polynomials</md:title>
-  <md:version>1.25</md:version>
-  <md:created>2014/10/02 11:33:57 -0500</md:created>
-  <md:revised>2020/08/24 15:17:22.287 GMT-5</md:revised>
-  <md:actors>
-    <md:person userid="cnxcollalg">
-      <md:firstname>OpenStax</md:firstname>
-      <md:surname>College Algebra</md:surname>
-      <md:fullname>OpenStax College Algebra</md:fullname>
-      <md:email>saf3@rice.edu</md:email>
-    </md:person>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxcollalg</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>binomial</md:keyword>
-    <md:keyword>coefficient</md:keyword>
-    <md:keyword>degree</md:keyword>
-    <md:keyword>difference of squares</md:keyword>
-    <md:keyword>leading coefficient</md:keyword>
-    <md:keyword>leading term</md:keyword>
-    <md:keyword>monomial</md:keyword>
-    <md:keyword>perfect square trinomial</md:keyword>
-    <md:keyword>polynomial</md:keyword>
-    <md:keyword>term of a polynomial</md:keyword>
-    <md:keyword>trinomial</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract><para>In this section students will:</para><list>
 <item>Identify the degree and leading coefficient of polynomials.</item>
 <item>Add and subtract polynomials.</item>
@@ -66,10 +11,7 @@
 <item>Use FOIL to multiply binomials.</item>
 <item>Perform operations with polynomials of several variables.</item>
 </list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
 <section id="fs-idm332534352" class="coreq-skills"><section id="fs-idm373429968" class="learning-objectives">

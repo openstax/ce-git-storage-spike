@@ -2,60 +2,8 @@
 
 <title>Inverse Trigonometric Functions</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m49390/latest/</md:content-url>
   <md:content-id>m49390</md:content-id>
   <md:title>Inverse Trigonometric Functions</md:title>
-  <md:version>1.22</md:version>
-  <md:created>2014/02/21 08:30:57 -0600</md:created>
-  <md:revised>2019/05/24 14:02:40.133 GMT-5</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="licensor">cnxprecal OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>arccosine</md:keyword>
-    <md:keyword>arcsine</md:keyword>
-    <md:keyword>arctangent</md:keyword>
-    <md:keyword>composite functions with inverse trigonometric functions</md:keyword>
-    <md:keyword>inverse cosine function</md:keyword>
-    <md:keyword>inverse sine function</md:keyword>
-    <md:keyword>inverse tangent function</md:keyword>
-    <md:keyword>inverse trigonometric functions</md:keyword>
-    <md:keyword>right triangle</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract><para>In this section, you will:</para>
 <list>
 <item>Understand and use the inverse sine, cosine, and tangent functions.</item>
@@ -63,10 +11,7 @@
 <item>Use a calculator to evaluate inverse trigonometric functions.</item>
 <item>Find exact values of composite functions with inverse trigonometric functions.</item>
 </list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
   <para id="fs-id1165135305803">For any <term class="no-emphasis">right triangle</term>, given one other angle and the length of one side, we can figure out what the other angles and sides are. But what if we are given only two sides of a right triangle? We need a procedure that leads us from a ratio of sides to an angle. This is where the notion of an inverse to a trigonometric function comes into play. In this section, we will explore the <term class="no-emphasis">inverse trigonometric functions</term>.</para><section id="fs-id1165135296329"><title>Understanding and Using the Inverse Sine, Cosine, and Tangent Functions</title><para id="fs-id1165133151767">In order to use inverse trigonometric functions, we need to understand that an inverse trigonometric function “undoes” what the original trigonometric function “does,” as is the case with any other function and its inverse. In other words, the domain of the inverse function is the range of the original function, and vice versa, as summarized in <link target-id="Figure_06_03_013"/>.</para><figure id="Figure_06_03_013" class="medium"><media id="fs-id1165135301704" alt="A chart that says “Trig Functinos”, “Inverse Trig Functions”, “Domain: Measure of an angle”, “Domain: Ratio”, “Range: Ratio”, and “Range: Measure of an angle”.">

@@ -2,60 +2,8 @@
 
 <title>Derivatives</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m49455/latest/</md:content-url>
   <md:content-id>m49455</md:content-id>
   <md:title>Derivatives</md:title>
-  <md:version>1.20</md:version>
-  <md:created>2014/02/23 18:51:41 -0600</md:created>
-  <md:revised>2019/06/13 16:13:54.397 GMT-5</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>average rate of change</md:keyword>
-    <md:keyword>change</md:keyword>
-    <md:keyword>derivative</md:keyword>
-    <md:keyword>differentiable</md:keyword>
-    <md:keyword>instantaneous rate of</md:keyword>
-    <md:keyword>instantaneous velocity</md:keyword>
-    <md:keyword>secant line</md:keyword>
-    <md:keyword>slope of a curve</md:keyword>
-    <md:keyword>tangent line</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract><para>In this section, you will:</para>
 <list>
 <item>Find the derivative of a function.</item>
@@ -63,10 +11,7 @@
 <item>Find an equation of the tangent line to the graph of a function at a point.</item>
 <item>Find the instantaneous velocity of a particle.</item>
 </list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
   <para id="fs-id1165137832373">The average teen in the United States opens a refrigerator door an estimated 25 times per day. Supposedly, this average is up from 10 years ago when the average teenager opened a refrigerator door 20 times per day <footnote id="fs-id1165137431100">http://www.csun.edu/science/health/docs/tv&amp;health.html Source provided.</footnote>.</para>

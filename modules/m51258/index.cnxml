@@ -2,58 +2,8 @@
 
 <title>Other Types of Equations</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m51258/latest/</md:content-url>
   <md:content-id>m51258</md:content-id>
   <md:title>Other Types of Equations</md:title>
-  <md:version>1.27</md:version>
-  <md:created>2014/10/02 02:13:06 -0500</md:created>
-  <md:revised>2020/08/21 15:50:41.018 GMT-5</md:revised>
-  <md:actors>
-    <md:person userid="cnxcollalg">
-      <md:firstname>OpenStax</md:firstname>
-      <md:surname>College Algebra</md:surname>
-      <md:fullname>OpenStax College Algebra</md:fullname>
-      <md:email>saf3@rice.edu</md:email>
-    </md:person>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">cnxcollalg OpenStaxCollege</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>absolute value equations</md:keyword>
-    <md:keyword>equations in quadratic form</md:keyword>
-    <md:keyword>extraneous solutions</md:keyword>
-    <md:keyword>polynomial equation</md:keyword>
-    <md:keyword>radical equations</md:keyword>
-    <md:keyword>radicand</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract><para>In this section you will:</para><list>
 <item>Solve equations involving rational exponents.</item>
 <item>Solve equations using factoring.</item>
@@ -61,10 +11,7 @@
 <item>Solve absolute value equations.</item>
 <item>Solve other types of equations.</item>
 </list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
 <para id="fs-id1519532">We have solved linear equations, rational equations, and quadratic equations using several methods. However, there are many other types of equations, and we will investigate a few more types in this section. We will look at equations involving rational exponents, polynomial equations, radical equations, absolute value equations, equations in quadratic form, and some rational equations that can be transformed into quadratics. Solving any equation, however, employs the same basic algebraic rules. We will learn some new techniques as they apply to certain equations, but the algebra never changes.</para>

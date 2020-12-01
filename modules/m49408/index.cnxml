@@ -2,62 +2,8 @@
 
 <title>Polar Form of Complex Numbers</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m49408/latest/</md:content-url>
   <md:content-id>m49408</md:content-id>
   <md:title>Polar Form of Complex Numbers</md:title>
-  <md:version>1.24</md:version>
-  <md:created>2014/02/21 04:01:25 -0600</md:created>
-  <md:revised>2019/06/17 16:52:07.495 GMT-5</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>argument</md:keyword>
-    <md:keyword>complex number</md:keyword>
-    <md:keyword>complex plane</md:keyword>
-    <md:keyword>De Moivre</md:keyword>
-    <md:keyword>De Moivre’s Theorem</md:keyword>
-    <md:keyword>Kronecker</md:keyword>
-    <md:keyword>magnitude</md:keyword>
-    <md:keyword>modulus</md:keyword>
-    <md:keyword>polar form</md:keyword>
-    <md:keyword>polar form of a complex number</md:keyword>
-    <md:keyword>rectangular form</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract><para>In this section, you will:</para>
 <list>
 <item>Plot complex numbers in the complex plane.</item>
@@ -69,10 +15,7 @@
 <item>Find powers of complex numbers in polar form.</item>
 <item>Find roots of complex numbers in polar form.</item>
 </list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
   <para id="fs-id1165137543411">“God made the integers; all else is the work of man.” This rather famous quote by nineteenth-century German mathematician Leopold <term class="no-emphasis">Kronecker</term> sets the stage for this section on the polar form of a complex number. Complex numbers were invented by people and represent over a thousand years of continuous investigation and struggle by mathematicians such as <term class="no-emphasis">Pythagoras</term>, <term class="no-emphasis">Descartes</term>, De Moivre, <term class="no-emphasis">Euler</term>, <term class="no-emphasis">Gauss</term>, and others. Complex numbers answered questions that for centuries had puzzled the greatest minds in science.</para><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165134035955">We first encountered complex numbers in <link document="m51255">Complex Numbers</link>. In this section, we will focus on the mechanics of working with complex numbers: translation of complex numbers from polar form to rectangular form and vice versa, interpretation of complex numbers in the scheme of applications, and application of De Moivre’s Theorem.</para><section id="fs-id1165133355948"><title>Plotting Complex Numbers in the Complex Plane</title><para id="fs-id1165134037549">Plotting a <term class="no-emphasis">complex number</term> <m:math>

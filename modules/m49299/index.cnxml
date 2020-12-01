@@ -2,102 +2,10 @@
 
 <title>Introduction to Functions</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>http://legacy.cnx.org/content</md:repository>
-  <md:content-url>http://legacy.cnx.org/content/m49299/latest</md:content-url>
   <md:content-id>m49299</md:content-id>
   <md:title>Introduction to Functions</md:title>
-  <md:version>1.7</md:version>
-  <md:created>2014/02/20 16:26:27 -0600</md:created>
-  <md:revised>2018/03/29 14:26:13 -0500</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>absolute maximum</md:keyword>
-    <md:keyword>absolute minimum</md:keyword>
-    <md:keyword>absolute value</md:keyword>
-    <md:keyword>absolute-value equation</md:keyword>
-    <md:keyword>absolute-value function</md:keyword>
-    <md:keyword>absolute-value inequality</md:keyword>
-    <md:keyword>average rate of change</md:keyword>
-    <md:keyword>combining functions</md:keyword>
-    <md:keyword>composite function</md:keyword>
-    <md:keyword>composition of functions</md:keyword>
-    <md:keyword>cost function</md:keyword>
-    <md:keyword>decomposing composite functions</md:keyword>
-    <md:keyword>decreasing function</md:keyword>
-    <md:keyword>dependent variable</md:keyword>
-    <md:keyword>domain</md:keyword>
-    <md:keyword>domain of a composite function</md:keyword>
-    <md:keyword>even function</md:keyword>
-    <md:keyword>function</md:keyword>
-    <md:keyword>horizontal compression</md:keyword>
-    <md:keyword>horizontal line test</md:keyword>
-    <md:keyword>horizontal reflection</md:keyword>
-    <md:keyword>horizontal shift</md:keyword>
-    <md:keyword>horizontal stretch</md:keyword>
-    <md:keyword>increasing function</md:keyword>
-    <md:keyword>independent variable</md:keyword>
-    <md:keyword>input</md:keyword>
-    <md:keyword>interval notation</md:keyword>
-    <md:keyword>inverse function</md:keyword>
-    <md:keyword>local extrema</md:keyword>
-    <md:keyword>local maximum</md:keyword>
-    <md:keyword>local minimum</md:keyword>
-    <md:keyword>natural numbers</md:keyword>
-    <md:keyword>odd function</md:keyword>
-    <md:keyword>one-to-one function</md:keyword>
-    <md:keyword>ordered pair</md:keyword>
-    <md:keyword>output</md:keyword>
-    <md:keyword>piecewise function</md:keyword>
-    <md:keyword>range</md:keyword>
-    <md:keyword>rate of change</md:keyword>
-    <md:keyword>relation</md:keyword>
-    <md:keyword>set-builder notation</md:keyword>
-    <md:keyword>vertical compression</md:keyword>
-    <md:keyword>vertical line test</md:keyword>
-    <md:keyword>vertical reflection</md:keyword>
-    <md:keyword>vertical shift</md:keyword>
-    <md:keyword>vertical stretch</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract/>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
     <?cnx.eoc class="key-equations" title="Key Equations"?>

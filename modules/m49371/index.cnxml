@@ -2,70 +2,8 @@
 
 <title>Angles</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m49371/latest/</md:content-url>
   <md:content-id>m49371</md:content-id>
   <md:title>Angles</md:title>
-  <md:version>1.25</md:version>
-  <md:created>2014/02/20 13:44:45 -0600</md:created>
-  <md:revised>2019/06/21 11:56:51.487 GMT-5</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>angle</md:keyword>
-    <md:keyword>angular speed</md:keyword>
-    <md:keyword>arc length</md:keyword>
-    <md:keyword>area of a sector</md:keyword>
-    <md:keyword>coterminal angles</md:keyword>
-    <md:keyword>degree</md:keyword>
-    <md:keyword>initial side</md:keyword>
-    <md:keyword>linear speed</md:keyword>
-    <md:keyword>measure of an angle</md:keyword>
-    <md:keyword>negative angle</md:keyword>
-    <md:keyword>positive angle</md:keyword>
-    <md:keyword>quadrantal angle</md:keyword>
-    <md:keyword>radian</md:keyword>
-    <md:keyword>radian measure</md:keyword>
-    <md:keyword>ray</md:keyword>
-    <md:keyword>reference angle</md:keyword>
-    <md:keyword>standard position</md:keyword>
-    <md:keyword>terminal side</md:keyword>
-    <md:keyword>vertex</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract><para>In this section, you will:</para>
 <list>
 <item>Draw angles in standard position.</item>
@@ -74,10 +12,7 @@
 <item>Find the length of a circular arc.</item>
 <item>Use linear and angular speed to describe motion on a circular path.</item>
 </list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
  <para id="fs-id1165135259677">A golfer swings to hit a ball over a sand trap and onto the green. An airline pilot maneuvers a plane toward a narrow runway. A dress designer creates the latest fashion. What do they all have in common? They all work with angles, and so do all of us at one time or another. Sometimes we need to measure angles exactly with instruments. Other times we estimate them or judge them by eye. Either way, the proper angle can make the difference between success and failure in many undertakings. In this section, we will examine properties of angles.</para>

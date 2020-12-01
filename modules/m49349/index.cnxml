@@ -2,60 +2,8 @@
 
 <title>Zeros of Polynomial Functions</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m49349/latest/</md:content-url>
   <md:content-id>m49349</md:content-id>
   <md:title>Zeros of Polynomial Functions</md:title>
-  <md:version>1.23</md:version>
-  <md:created>2014/02/20 23:18:43 -0600</md:created>
-  <md:revised>2020/02/10 13:15:58.324 US/Central</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
-    </md:person>
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="licensor">cnxprecal OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>Descartes’ Rule of Signs</md:keyword>
-    <md:keyword>Factor Theorem</md:keyword>
-    <md:keyword>Fundamental Theorem of Algebra</md:keyword>
-    <md:keyword>Linear Factorization Theorem</md:keyword>
-    <md:keyword>polynomial equations</md:keyword>
-    <md:keyword>polynomial functions</md:keyword>
-    <md:keyword>rational zeros</md:keyword>
-    <md:keyword>Rational Zero Theorem</md:keyword>
-    <md:keyword>Remainder Theorem</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract><para>In this section, you will:</para>
 <list>
 <item>Evaluate a polynomial using the Remainder Theorem.</item>
@@ -66,10 +14,7 @@
 <item>Use Descartes’ Rule of Signs.</item>
 <item>Solve real-world applications of polynomial equations.</item>
 </list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
  <para id="fs-id1165137758829">A new bakery offers decorated sheet cakes for children’s birthday parties and other special occasions. The bakery wants the volume of a small cake to be 351 cubic inches. The cake is in the shape of a rectangular solid. They want the length of the cake to be four inches longer than the width of the cake and the height of the cake to be one-third of the width. What should the dimensions of the cake pan be?</para><para id="eip-151">This problem can be solved by writing a cubic function and solving a cubic equation for the volume of the cake. In this section, we will discuss a variety of tools for writing polynomial functions and solving polynomial equations.</para><section id="fs-id1165135533136">

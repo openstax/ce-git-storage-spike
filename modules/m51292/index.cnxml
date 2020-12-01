@@ -2,58 +2,8 @@
 
 <title>Solving Trigonometric Equations</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/m51292/latest/</md:content-url>
   <md:content-id>m51292</md:content-id>
   <md:title>Solving Trigonometric Equations</md:title>
-  <md:version>1.13</md:version>
-  <md:created>2014/10/03 10:54:02 -0500</md:created>
-  <md:revised>2019/06/21 13:32:09.199 GMT-5</md:revised>
-  <md:actors>
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstaxcollege.org</md:email>
-    </md:person>
-    <md:person userid="cnxcat">
-      <md:firstname>OpenStax</md:firstname>
-      <md:surname>CAT</md:surname>
-      <md:fullname>OpenStax Algebra and Trigonometry</md:fullname>
-      <md:email>alinams@rice.edu</md:email>
-    </md:person>
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxcat</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-  </md:roles>
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  <md:keywordlist>
-    <md:keyword>double-angle formula</md:keyword>
-    <md:keyword>horizontal compression</md:keyword>
-    <md:keyword>period</md:keyword>
-    <md:keyword>Pythagorean Theorem</md:keyword>
-    <md:keyword>quadratic equation</md:keyword>
-    <md:keyword>quadratic formula</md:keyword>
-    <md:keyword>unit circle</md:keyword>
-  </md:keywordlist>
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
   <md:abstract>In this section, you will:
 <list>
 <item>Solve linear trigonometric equations in sine and cosine.</item>
@@ -64,10 +14,7 @@
 <item>Solve trigonometric equations with multiple angles. </item>
 <item>Solve right triangle problems.</item>
 </list></md:abstract>
-  <md:language>en</md:language>
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
-</metadata>
+  </metadata>
 
 <content>
 <figure id="Figure_07_05_001"><media id="fs-id2249164" alt="Photo of the Egyptian pyramids near a modern city.">
