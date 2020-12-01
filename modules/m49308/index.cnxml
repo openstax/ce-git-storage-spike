@@ -12,7 +12,9 @@
 <item>Find the domain of a composite function.</item>
 <item>Decompose a composite function into its component functions.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>362b389e-fb41-48ce-a7c3-12a91b163022</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <para id="fs-id1165134094620">Suppose we want to calculate how much it costs to heat a house on a particular day of the year. The cost to heat a house will depend on the average daily temperature, and in turn, the average daily temperature depends on the particular day of the year. Notice how we have just defined two relationships: The cost depends on the temperature, and the temperature depends on the day.</para>

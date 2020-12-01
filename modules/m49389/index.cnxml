@@ -11,7 +11,9 @@
     <item>Graph variations of  y=sec x  and  y=csc x.</item>
     <item>Analyze the graph of  y=cot x.</item>
     <item>Graph variations of  y=cot x.</item></list></md:abstract>
-  </metadata>
+  <md:uuid>cb7bac04-92bc-42cc-962f-4698fdaaab60</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <para id="fs-id1420477">We know the tangent function can be used to find distances, such as the height of a building, mountain, or flagpole. But what if we want to measure repeated occurrences of distance? Imagine, for example, a police car parked next to a warehouse. The rotating light from the police car would travel across the wall of the warehouse in regular intervals. If the input is time, the output would be the distance the beam of light travels. The beam of light would repeat the distance at regular intervals. The tangent function can be used to approximate this distance. Asymptotes would be needed to illustrate the repeated cycles when the beam runs parallel to the wall because, seemingly, the beam of light could appear to extend forever. The graph of the tangent function would clearly illustrate the repeated intervals. In this section, we will explore the graphs of the tangent and other trigonometric functions.</para><section id="fs-id1321556"><title>Analyzing the Graph of <emphasis effect="italics">y</emphasis> = tan <emphasis effect="italics">x</emphasis></title><para id="fs-id1530665">We will begin with the graph of the <term class="no-emphasis">tangent</term> function, plotting points as we did for the sine and cosine functions. Recall that</para>

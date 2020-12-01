@@ -9,7 +9,9 @@
 <item>Find the domain of a function defined by an equation.</item>
 <item>Graph piecewise-defined functions.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>1ca91f2c-f989-40da-b8cc-b930d5c0ad36</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <para id="fs-id1165137404978">If you’re in the mood for a scary movie, you may want to check out one of the five most popular horror movies of all time—<emphasis effect="italics">I am Legend</emphasis>, <emphasis effect="italics">Hannibal</emphasis>, <emphasis effect="italics">The Ring</emphasis>, <emphasis effect="italics">The Grudge</emphasis>, and <emphasis effect="italics">The Conjuring</emphasis>. <link target-id="Figure_01_02_001"/> shows the amount, in dollars, each of those movies grossed when they were released as well as the ticket sales for horror movies in general by year. Notice that we can use the data to create a function of the amount each movie earned or the total ticket sales for all horror movies by year. In creating various functions using the data, we can identify different independent and dependent variables, and we can analyze the data and the functions to determine the <term class="no-emphasis">domain</term> and range. In this section, we will investigate methods for determining the domain and range of functions such as these.</para><figure id="Figure_01_02_001">

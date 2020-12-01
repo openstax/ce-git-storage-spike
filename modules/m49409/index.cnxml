@@ -11,7 +11,9 @@
 <item>Find a rectangular equation for a curve defined parametrically.</item>
 <item>Find parametric equations for curves defined by rectangular equations.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>908896ca-db26-40f9-99de-79070485b4e7</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
   <para id="fs-id1165137407242">Consider the path a moon follows as it orbits a planet, which simultaneously rotates around the sun, as seen in <link target-id="Figure_08_06_001"/>. At any moment, the moon is located at a particular spot relative to the planet. But how do we write and solve the equation for the position of the moon when the distance from the planet, the speed of the moon’s orbit around the planet, and the speed of rotation around the sun are all unknowns? We can solve only for one variable at a time.</para><figure id="Figure_08_06_001" class="small"><media id="fs-id1165137895251" alt="Illustration of a planet's circular orbit around the sun.">

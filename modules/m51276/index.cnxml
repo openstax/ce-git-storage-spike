@@ -13,7 +13,9 @@
 <item>Graph polynomial functions.</item>
 <item>Use the Intermediate Value Theorem.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>644f6a93-7429-4768-8752-eccf5fb8e0bb</md:uuid>
+<md:canonical-book-uuid>13ac107a-f15f-49d2-97e8-60ab2e3b519c</md:canonical-book-uuid>
+</metadata>
 
 <content>
   <section id="eip-744" class="coreq-skills"><section id="eip-688" class="learning-objectives"><title>Learning Objectives</title><list id="eip-740"><item>Recognize and use the appropriate method to factor a polynomial completely (IA 6.4.1)</item>

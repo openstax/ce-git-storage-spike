@@ -7,7 +7,9 @@
   <md:abstract><para>In this section, you will:</para>
     <list><item>Graph variations of   <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mtext>sin</m:mtext><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:math>  and <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mtext>cos</m:mtext><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:math>  .</item>
     <item>Use phase shifts of sine and cosine curves.</item></list></md:abstract>
-  </metadata>
+  <md:uuid>ec87ee19-d627-4c06-89a0-2bd96aa3f402</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <figure id="Figure_06_01_001" class="small"><media id="fs-id1165135160648" alt="A photo of a rainbow colored beam of light stretching across the floor.">

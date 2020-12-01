@@ -15,7 +15,9 @@
 <item>Find powers of complex numbers in polar form.</item>
 <item>Find roots of complex numbers in polar form.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>5217ca36-7905-420a-b241-8d24df993e56</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
   <para id="fs-id1165137543411">“God made the integers; all else is the work of man.” This rather famous quote by nineteenth-century German mathematician Leopold <term class="no-emphasis">Kronecker</term> sets the stage for this section on the polar form of a complex number. Complex numbers were invented by people and represent over a thousand years of continuous investigation and struggle by mathematicians such as <term class="no-emphasis">Pythagoras</term>, <term class="no-emphasis">Descartes</term>, De Moivre, <term class="no-emphasis">Euler</term>, <term class="no-emphasis">Gauss</term>, and others. Complex numbers answered questions that for centuries had puzzled the greatest minds in science.</para><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165134035955">We first encountered complex numbers in <link document="m51255">Complex Numbers</link>. In this section, we will focus on the mechanics of working with complex numbers: translation of complex numbers from polar form to rectangular form and vice versa, interpretation of complex numbers in the scheme of applications, and application of De Moivre’s Theorem.</para><section id="fs-id1165133355948"><title>Plotting Complex Numbers in the Complex Plane</title><para id="fs-id1165134037549">Plotting a <term class="no-emphasis">complex number</term> <m:math>

@@ -9,7 +9,9 @@
 <item>Test polar equations for symmetry.</item>
 <item>Graph polar equations by plotting points.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>a63ed4d5-a31b-403b-9aaa-80329d8bcaa0</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
   <para id="fs-id1165135432945">The planets move through space in elliptical, periodic orbits about the sun, as shown in <link target-id="Figure_08_04_001"/>. They are in constant motion, so fixing an exact position of any planet is valid only for a moment. In other words, we can fix only a planet’s <emphasis effect="italics">instantaneous </emphasis>position. This is one application of <term class="no-emphasis">polar coordinates</term>, represented as <m:math>

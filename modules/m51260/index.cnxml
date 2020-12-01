@@ -5,7 +5,9 @@
   <md:content-id>m51260</md:content-id>
   <md:title>Introduction to Functions</md:title>
   <md:abstract/>
-  </metadata>
+  <md:uuid>a7beff97-9a51-4130-9764-ee4b9fc1e973</md:uuid>
+<md:canonical-book-uuid>13ac107a-f15f-49d2-97e8-60ab2e3b519c</md:canonical-book-uuid>
+</metadata>
 
 <content>
     <?cnx.eoc class="key-equations" title="Key Equations"?>

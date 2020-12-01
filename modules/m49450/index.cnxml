@@ -5,7 +5,9 @@
   <md:content-id>m49450</md:content-id>
   <md:title>Probability</md:title>
   <md:abstract/>
-  </metadata>
+  <md:uuid>0dfbb287-a541-4944-8ce7-5a848962a2ca</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <section id="eip-7" class="coreq-skills"><section id="eip-204" class="learning-objectives"><title>Learning Objectives</title><list id="eip-122"><item>Introduction to Sample Spaces and Computing Basic Probabilities.

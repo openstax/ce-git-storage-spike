@@ -10,7 +10,9 @@
 <item>Graph parabolas with vertices not at the origin.</item>
 <item>Solve applied problems involving parabolas.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>a79194a1-878d-4c6d-a978-53670f3e1266</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
   <section id="eip-97" class="coreq-skills"><section id="eip-339" class="learning-objectives"><title>Learning Objectives</title><list id="eip-790" list-type="enumerated" number-style="arabic"><item>Graph vertical parabolas. (IA 11.2.1)</item>

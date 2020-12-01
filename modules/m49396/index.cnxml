@@ -11,7 +11,9 @@
 <item>Use reduction formulas to simplify an expression.</item>
 <item>Use half-angle formulas to find exact values.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>f88d2fa2-ce9a-467f-ad1b-25ccd8ddddc0</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
   <figure id="Figure_07_03_001"><media id="fs-id2526438" alt="Picture of two bicycle ramps, one with a steep slope and one with a gentle slope.">

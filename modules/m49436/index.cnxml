@@ -9,7 +9,9 @@
     <item>Evaluate  3 × 3  determinants.</item>
     <item>Use Cramer’s Rule to solve a system of three equations in three variables.</item>
     <item>Know the properties of determinants.</item></list></md:abstract>
-  </metadata>
+  <md:uuid>e75dadb0-5d43-42f2-8e78-0ad237f10096</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
   <section id="eip-505" class="coreq-skills"><section id="eip-824" class="learning-objectives"><title>Learning Objectives</title><list id="eip-idm457324016">

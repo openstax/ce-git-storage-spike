@@ -13,7 +13,9 @@
 <item>Identify horizontal asymptotes.</item>
 <item>Graph rational functions.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>0e798cae-59fc-4794-8f86-5284a30d6313</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <para id="fs-id1165137740975">Suppose we know that the cost of making a product is dependent on the number of items, <m:math>

@@ -11,7 +11,9 @@
 <item>Use the formula for the sum of an inﬁnite geometric series.</item>
 <item>Solve annuity problems.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>06d76408-a317-4dcb-9bcc-26ab2bb71ba6</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <section id="eip-255" class="coreq-skills"><section id="eip-339" class="learning-objectives"><title>Learning Objectives</title><list id="eip-379"><item>Use summation notation to write a sum. (IA 12.1.5)</item>

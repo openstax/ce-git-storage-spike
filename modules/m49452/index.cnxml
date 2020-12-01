@@ -10,7 +10,9 @@
 <item>Find a limit using a graph.</item>
 <item>Find a limit using a table.</item>
 </list></md:abstract>
-  </metadata>
+  <md:uuid>9f4191da-785c-4c01-a89d-c9f42621b795</md:uuid>
+<md:canonical-book-uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:canonical-book-uuid>
+</metadata>
 
 <content>
 <para id="fs-id1165137925422">Intuitively, we know what a <term class="no-emphasis">limit</term> is. A car can go only so fast and no faster. A trash can might hold 33 gallons and no more. It is natural for measured amounts to have limits. What, for instance, is the limit to the height of a woman? The tallest woman on record was Jinlian Zeng from China, who was 8 ft 1 in.<footnote id="ch12mod00_fn01">https://en.wikipedia.org/wiki/Human_height and http://en.wikipedia.org/wiki/List_of_tallest_people</footnote> Is this the limit of the height to which women can grow? Perhaps not, but there is likely a limit that we might describe in inches if we were able to determine what it was.</para><para id="fs-id1165137850323">To put it mathematically, the function whose input is a woman and whose output is a measured height in inches has a limit. In this section, we will examine numerical and graphical approaches to identifying limits.</para>
