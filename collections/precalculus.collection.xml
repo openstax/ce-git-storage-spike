@@ -4,14 +4,14 @@
        Changes to the metadata section in the source will not be saved. -->
 
   <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/col11667/1.32</md:content-url>
+  <md:content-url>https://legacy.cnx.org/content/col11667/1.33</md:content-url>
   <md:content-id>col11667</md:content-id>
   <md:title>Precalculus</md:title>
   
   
-  <md:version>1.32</md:version>
+  <md:version>1.33</md:version>
   <md:created>2014/02/20 16:43:38.427 GMT-6</md:created>
-  <md:revised>2020/11/19 14:23:12.763 US/Central</md:revised>
+  <md:revised>2020/12/09 15:30:14.937 US/Central</md:revised>
 
   <md:actors>
     
@@ -147,7 +147,7 @@
       
     
     
-      <col:module document="m49304" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.19">
+      <col:module document="m49304" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.20">
         <md:title>Domain and Range</md:title>
         
         
@@ -197,7 +197,7 @@
       
     
     
-      <col:module document="m49320" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.25">
+      <col:module document="m49320" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.26">
         <md:title>Inverse Functions</md:title>
         
         
@@ -221,7 +221,7 @@
         <col:content>
           
     
-      <col:module document="m49321" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
+      <col:module document="m49321" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
         <md:title>Introduction to Linear Functions</md:title>
         
         
@@ -241,7 +241,7 @@
       
     
     
-      <col:module document="m50389" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.21">
+      <col:module document="m50389" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.22">
         <md:title>Graphs of Linear Functions</md:title>
         
         
@@ -375,7 +375,7 @@
       
     
     
-      <col:module document="m49353" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.24">
+      <col:module document="m49353" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.25">
         <md:title>Modeling Using Variation</md:title>
         
         
@@ -543,7 +543,7 @@
       
     
     
-      <col:module document="m49384" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.21">
+      <col:module document="m49384" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.22">
         <md:title>Right Triangle Trigonometry</md:title>
         
         
@@ -577,7 +577,7 @@
       
     
     
-      <col:module document="m49387" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.28">
+      <col:module document="m49387" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.29">
         <md:title>Graphs of the Sine and Cosine Functions</md:title>
         
         
@@ -597,7 +597,7 @@
       
     
     
-      <col:module document="m49390" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.22">
+      <col:module document="m49390" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.23">
         <md:title>Inverse Trigonometric Functions</md:title>
         
         
@@ -641,7 +641,7 @@
       
     
     
-      <col:module document="m49395" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.20">
+      <col:module document="m49395" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.21">
         <md:title>Sum and Difference Identities</md:title>
         
         
@@ -681,7 +681,7 @@
       
     
     
-      <col:module document="m49399" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.24">
+      <col:module document="m49399" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.25">
         <md:title>Modeling with Trigonometric Functions</md:title>
         
         
@@ -705,7 +705,7 @@
         <col:content>
           
     
-      <col:module document="m49402" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
+      <col:module document="m49402" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.10">
         <md:title>Introduction to Further Applications of Trigonometry</md:title>
         
         
@@ -735,7 +735,7 @@
       
     
     
-      <col:module document="m49406" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.21">
+      <col:module document="m49406" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.22">
         <md:title>Polar Coordinates</md:title>
         
         
@@ -765,7 +765,7 @@
       
     
     
-      <col:module document="m49409" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.16">
+      <col:module document="m49409" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.17">
         <md:title>Parametric Equations</md:title>
         
         
@@ -1121,7 +1121,7 @@
       
     
     
-      <col:module document="m49455" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.20">
+      <col:module document="m49455" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.21">
         <md:title>Derivatives</md:title>
         
         

@@ -3939,7 +3939,7 @@
 
   </section>
 
-  <section id="fs-id2050772"><title>Using Sum and Difference Formulas for Cofunctions</title><para id="fs-id1527759">Now that we can find the sine, cosine, and tangent functions for the sums and differences of angles, we can use them to do the same for their cofunctions. You may recall from <link class="target-chapter" document="m51284">Right Triangle Trigonometry</link> that, if the sum of two positive angles is <m:math>
+  <section id="fs-id2050772"><title>Using Sum and Difference Formulas for Cofunctions</title><para id="fs-id1527759">Now that we can find the sine, cosine, and tangent functions for the sums and differences of angles, we can use them to do the same for their cofunctions. You may recall from <link document="m51284">Right Triangle Trigonometry</link> that, if the sum of two positive angles is <m:math>
       <m:mrow>
         <m:mfrac>
           <m:mi>π</m:mi>
@@ -3993,7 +3993,7 @@
     </m:math> Similarly, tangent and cotangent are cofunctions, and secant and cosecant are cofunctions.</para><figure id="Figure_07_02_007" class="small"><media id="fs-id2872065" alt="Image of a right triangle. The remaining angles are labeled theta and pi/2 - theta.">
         <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_02_007.jpg"/>
       </media>
-    </figure><para id="fs-id2338660">From these relationships, the <term class="no-emphasis">cofunction identities</term> are formed. Recall that you first encountered these identities in <link class="target-chapter" document="m51282">The Unit Circle: Sine and Cosine Functions</link>.</para><note id="fs-id2247036"><title>Cofunction Identities</title>
+    </figure><para id="fs-id2338660">From these relationships, the <term class="no-emphasis">cofunction identities</term> are formed. Recall that you first encountered these identities in <link document="m51282">The Unit Circle: Sine and Cosine Functions</link>.</para><note id="fs-id2247036"><title>Cofunction Identities</title>
 
       <para id="fs-id2247045">The cofunction identities are summarized in <link target-id="Table_07_02_02"/>.</para>
 

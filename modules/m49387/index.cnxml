@@ -16,7 +16,7 @@
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_001.jpg"/>
 </media>
 <caption>Light can be separated into colors because of its wavelike properties. (credit: "wonderferret"/ Flickr)</caption></figure><para id="fs-id1165135329803">White light, such as the light from the sun, is not actually white at all. Instead, it is a composition of all the colors of the rainbow in the form of waves. The individual colors can be seen only when white light passes through an optical prism that separates the waves according to their wavelengths to form a rainbow.</para>
-<para id="fs-id1165134544966">Light waves can be represented graphically by the sine function. In the chapter on <link class="target-chapter" document="m49369">Trigonometric Functions</link>, we examined trigonometric functions such as the sine function. In this section, we will interpret and create graphs of sine and cosine functions.</para><section id="fs-id1165135169322">
+<para id="fs-id1165134544966">Light waves can be represented graphically by the sine function. In the chapter on <link document="m49369">Trigonometric Functions</link>, we examined trigonometric functions such as the sine function. In this section, we will interpret and create graphs of sine and cosine functions.</para><section id="fs-id1165135169322">
 <title>Graphing Sine and Cosine Functions</title>
 <para id="fs-id1165135241395">Recall that the sine and cosine functions relate real number values to the <emphasis effect="italics">x</emphasis>- and <emphasis effect="italics">y</emphasis>-coordinates of a point on the unit circle. So what do they look like on a graph on a coordinate plane? Let’s start with the <term class="no-emphasis">sine function</term>. We can create a table of values and use them to sketch a graph. <link target-id="Table_06_01_01"/> lists some of the values for the sine function on a unit circle.</para><table id="Table_06_01_01" summary="..">
 <tgroup cols="10"><colspec colnum="1" colname="c1"/>
@@ -472,7 +472,7 @@
 </media>
 </figure>
 
-<para id="fs-id1165137447360">Looking again at the sine and cosine functions on a domain centered at the <emphasis effect="italics">y</emphasis>-axis helps reveal symmetries. As we can see in <link target-id="Figure_06_01_006"/>, the <term class="no-emphasis">sine function</term> is symmetric about the origin. Recall from <link class="target-chapter" document="m49387">The Other Trigonometric Functions</link> that we determined from the unit circle that the sine function is an odd function because <m:math>
+<para id="fs-id1165137447360">Looking again at the sine and cosine functions on a domain centered at the <emphasis effect="italics">y</emphasis>-axis helps reveal symmetries. As we can see in <link target-id="Figure_06_01_006"/>, the <term class="no-emphasis">sine function</term> is symmetric about the origin. Recall from <link document="m49387">The Other Trigonometric Functions</link> that we determined from the unit circle that the sine function is an odd function because <m:math>
  <m:mrow>
   <m:mi>sin</m:mi><m:mo stretchy="false">(</m:mo><m:mi>−</m:mi><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>−</m:mi><m:mi>sin</m:mi><m:mspace width="0.3em"/><m:mi>x</m:mi><m:mo>.</m:mo>
  </m:mrow>

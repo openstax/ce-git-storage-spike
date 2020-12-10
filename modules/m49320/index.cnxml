@@ -1613,7 +1613,7 @@ Keep in mind that</para>
 
 <section id="fs-id1165137418615">
 <title>Evaluating the Inverse of a Function, Given a Graph of the Original Function</title>
-<para id="fs-id1165137400045">We saw in <link class="target-chapter" document="m49301">Functions and Function Notation</link> that the domain of a function can be read by observing the horizontal extent of its graph. We find the domain of the inverse function by observing the <emphasis effect="italics">vertical</emphasis> extent of the graph of the original function, because this corresponds to the horizontal extent of the inverse function. Similarly, we find the range of the inverse function by observing the <emphasis effect="italics">horizontal</emphasis> extent of the graph of the original function, as this is the vertical extent of the inverse function. If we want to evaluate an inverse function, we find its input within its domain, which is all or part of the vertical axis of the original function’s graph.</para><note id="fs-id1165133045388" class="how-to-notitle">
+<para id="fs-id1165137400045">We saw in <link document="m49301">Functions and Function Notation</link> that the domain of a function can be read by observing the horizontal extent of its graph. We find the domain of the inverse function by observing the <emphasis effect="italics">vertical</emphasis> extent of the graph of the original function, because this corresponds to the horizontal extent of the inverse function. Similarly, we find the range of the inverse function by observing the <emphasis effect="italics">horizontal</emphasis> extent of the graph of the original function, as this is the vertical extent of the inverse function. If we want to evaluate an inverse function, we find its input within its domain, which is all or part of the vertical axis of the original function’s graph.</para><note id="fs-id1165133045388" class="how-to-notitle">
 <label>How To</label>
 <para id="fs-id1165135333128"><emphasis>Given the graph of a function, evaluate its inverse at specific points.</emphasis></para>
 <list id="fs-id1165137464840" list-type="enumerated" number-style="arabic"><item>Find the desired input on the <emphasis effect="italics">y</emphasis>-axis of the given graph.</item>
@@ -3730,7 +3730,7 @@ Keep in mind that</para>
 <section id="fs-id1165135177582" class="review-exercises">
 <title>Chapter Review Exercises</title>
 <section id="eip-id1165135176875">
-<title><link class="target-chapter" document="m49301">Functions and Function Notation</link></title>
+<title><link document="m49301">Functions and Function Notation</link></title>
 <para id="fs-id1165137911358">For the following exercises, determine whether the relation is a function.</para>
 <exercise id="fs-id1165137464074">
 <problem id="fs-id1165137464076">
@@ -4055,7 +4055,7 @@ Keep in mind that</para>
 </solution>
 </exercise>
 </section><section id="eip-id1165132944714">
-<title><link class="target-chapter" document="m49304">Domain and Range</link></title><para id="fs-id1165137667477">For the following exercises, find the domain of each function, expressing answers using interval notation.</para>
+<title><link document="m49304">Domain and Range</link></title><para id="fs-id1165137667477">For the following exercises, find the domain of each function, expressing answers using interval notation.</para>
 <exercise id="fs-id1165137667482">
 <problem id="fs-id1165137535162">
 <para id="fs-id1165137535164"> <m:math>
@@ -4157,7 +4157,7 @@ Keep in mind that</para>
 </exercise>
 </section>
 <section id="eip-id1165133183577">
-<title><link class="target-chapter" document="m49306">Rates of Change and Behavior of Graphs</link></title><para id="fs-id1165135161227">For the following exercises, find the average rate of change of the functions from <m:math>
+<title><link document="m49306">Rates of Change and Behavior of Graphs</link></title><para id="fs-id1165135161227">For the following exercises, find the average rate of change of the functions from <m:math>
 <m:mrow>
 <m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mtext> to </m:mtext><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>2.</m:mn></m:mrow>
 </m:math>
@@ -4317,7 +4317,7 @@ decreasing <m:math>
 </solution>
 </exercise></section>
 <section id="eip-id1165131815810">
-<title><link class="target-chapter" document="m49308">Composition of Functions</link></title><para id="fs-id1165132962099">For the following exercises, find <m:math>
+<title><link document="m49308">Composition of Functions</link></title><para id="fs-id1165132962099">For the following exercises, find <m:math>
 <m:mrow>
 <m:mo stretchy="false">(</m:mo><m:mi>f</m:mi><m:mo>∘</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow>
 </m:math> and <m:math>
@@ -4637,7 +4637,7 @@ decreasing <m:math>
 </problem>
 </exercise>
 </section>
-<section id="eip-id1165134070725"><title><link class="target-chapter" document="m49312">Transformation of Functions</link></title><para id="fs-id1165137901175">For the following exercises, sketch a graph of the given function.</para>
+<section id="eip-id1165134070725"><title><link document="m49312">Transformation of Functions</link></title><para id="fs-id1165137901175">For the following exercises, sketch a graph of the given function.</para>
 <exercise id="fs-id1165137901178"><problem id="fs-id1165135439826">
 <para id="fs-id1165135439828"> <m:math>
 <m:mrow>
@@ -4891,7 +4891,7 @@ decreasing <m:math>
 
 </problem>
 </exercise></section><section id="eip-id1165135691363">
-<title><link class="target-chapter" document="m49314">Absolute Value Functions</link></title><para id="fs-id1165135203710">For the following exercises, write an equation for the transformation of <m:math>
+<title><link document="m49314">Absolute Value Functions</link></title><para id="fs-id1165135203710">For the following exercises, write an equation for the transformation of <m:math>
 <m:mrow>
 <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mrow><m:mo>|</m:mo> <m:mi>x</m:mi> <m:mo>|</m:mo></m:mrow><m:mo>.</m:mo></m:mrow>
 </m:math>
@@ -5052,7 +5052,7 @@ decreasing <m:math>
 </para>
 </problem>
 </exercise>
-</section><section id="eip-159"><title><link class="target-chapter" document="m49320">Inverse Functions</link></title><para id="eip-id1964739">For the following exercises, find <m:math>
+</section><section id="eip-159"><title><link document="m49320">Inverse Functions</link></title><para id="eip-id1964739">For the following exercises, find <m:math>
  <m:mrow>
   <m:msup>
    <m:mi>f</m:mi>

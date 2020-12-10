@@ -26,7 +26,7 @@
 
 <section id="fs-id1869629">
 <title>Determining the Amplitude and Period of a Sinusoidal Function</title>
-<para id="fs-id2135247">Any motion that repeats itself in a fixed time period is considered <term class="no-emphasis">periodic motion</term> and can be modeled by a <term class="no-emphasis">sinusoidal function</term>. The <term class="no-emphasis">amplitude</term> of a sinusoidal function is the distance from the midline to the maximum value, or from the midline to the minimum value. The <term class="no-emphasis">midline</term> is the average value. Sinusoidal functions oscillate above and below the midline, are periodic, and repeat values in set cycles. Recall from <link class="target-chapter" document="m49387">Graphs of the Sine and Cosine Functions</link> that the <term class="no-emphasis">period</term> of the sine function and the cosine function is <m:math>
+<para id="fs-id2135247">Any motion that repeats itself in a fixed time period is considered <term class="no-emphasis">periodic motion</term> and can be modeled by a <term class="no-emphasis">sinusoidal function</term>. The <term class="no-emphasis">amplitude</term> of a sinusoidal function is the distance from the midline to the maximum value, or from the midline to the minimum value. The <term class="no-emphasis">midline</term> is the average value. Sinusoidal functions oscillate above and below the midline, are periodic, and repeat values in set cycles. Recall from <link document="m49387">Graphs of the Sine and Cosine Functions</link> that the <term class="no-emphasis">period</term> of the sine function and the cosine function is <m:math>
  <m:mrow>
   <m:mn>2</m:mn><m:mi>π</m:mi><m:mo>.</m:mo>
  </m:mrow>
@@ -5371,7 +5371,7 @@ Spring 2 comes to rest first after 7.3 seconds.
 </para>
 </solution></exercise></section>
 </section>
-<section id="fs-id1817053" class="review-exercises"><title>Chapter Review Exercises</title><section id="fs-id1817056"><title><link class="target-chapter" document="m49393">Solving Trigonometric Equations with Identities</link></title><para id="fs-id1817061">For the following exercises, find all solutions exactly that exist on the interval <m:math>
+<section id="fs-id1817053" class="review-exercises"><title>Chapter Review Exercises</title><section id="fs-id1817056"><title><link document="m49393">Solving Trigonometric Equations with Identities</link></title><para id="fs-id1817061">For the following exercises, find all solutions exactly that exist on the interval <m:math>
     <m:mrow>
      <m:mrow><m:mo>[</m:mo> <m:mrow>
       <m:mn>0</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mi>π</m:mi>
@@ -5719,7 +5719,7 @@ Spring 2 comes to rest first after 7.3 seconds.
 </m:math>
 </para></problem></exercise>
 
-  </section><section id="fs-id1617465"><title><link class="target-chapter" document="m49395">Sum and Difference Identities</link></title><para id="fs-id1672272">For the following exercises, find the exact value.</para>
+  </section><section id="fs-id1617465"><title><link document="m49395">Sum and Difference Identities</link></title><para id="fs-id1672272">For the following exercises, find the exact value.</para>
    <exercise id="fs-id1672275" class="material-set-2"><problem id="fs-id1672276"><para id="fs-id1672277"> <m:math>
     <m:mrow>
      <m:mi>tan</m:mi><m:mrow><m:mo>(</m:mo>
@@ -6463,7 +6463,7 @@ Spring 2 comes to rest first after 7.3 seconds.
      </para>
     </solution></exercise>
 
-  </section><section id="fs-id1995856"><title><link class="target-chapter" document="m49396">Double-Angle, Half-Angle, and Reduction Formulas</link></title><para id="fs-id1995862">For the following exercises, find the exact value.</para>
+  </section><section id="fs-id1995856"><title><link document="m49396">Double-Angle, Half-Angle, and Reduction Formulas</link></title><para id="fs-id1995862">For the following exercises, find the exact value.</para>
    <exercise id="fs-id1995865"><problem id="fs-id1995866"><para id="fs-id1995867">Find <m:math>
     <m:mrow>
      <m:mi>sin</m:mi><m:mrow><m:mo>(</m:mo>
@@ -6901,7 +6901,7 @@ Spring 2 comes to rest first after 7.3 seconds.
      </para>
     </solution></exercise>
 
-  </section><section id="fs-id1760577"><title><link class="target-chapter" document="m49397">Sum-to-Product and Product-to-Sum Formulas</link></title><para id="fs-id1760583">For the following exercises, evaluate the product for the given expression using a sum or difference of two functions. Write the exact answer.</para>
+  </section><section id="fs-id1760577"><title><link document="m49397">Sum-to-Product and Product-to-Sum Formulas</link></title><para id="fs-id1760583">For the following exercises, evaluate the product for the given expression using a sum or difference of two functions. Write the exact answer.</para>
    <exercise id="fs-id1760587"><problem id="fs-id1760588"><para id="fs-id1760589"> <m:math>
     <m:mrow>
      <m:mi>cos</m:mi><m:mrow><m:mo>(</m:mo>
@@ -7138,7 +7138,7 @@ Spring 2 comes to rest first after 7.3 seconds.
    </m:math>
    </para></problem></exercise>
 
-  </section><section id="fs-id2042633"><title><link class="target-chapter" document="m49398">Solving Trigonometric Equations</link></title><para id="fs-id2042639">For the following exercises, find all exact solutions on the interval <m:math>
+  </section><section id="fs-id2042633"><title><link document="m49398">Solving Trigonometric Equations</link></title><para id="fs-id2042639">For the following exercises, find all exact solutions on the interval <m:math>
     <m:mrow>
      <m:mrow><m:mo>[</m:mo> <m:mrow>
       <m:mn>0</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mi>π</m:mi>
@@ -7379,7 +7379,7 @@ Spring 2 comes to rest first after 7.3 seconds.
        <m:mn>1.3694</m:mn></m:mrow></m:math>, <m:math><m:mn>1.9106</m:mn></m:math>, <m:math><m:mn>4.3726</m:mn></m:math>, <m:math><m:mn>4.9137</m:mn>
      </m:math>
      </para>
-    </solution></exercise></section><section id="fs-id1575734"><title><link class="target-chapter" document="m49399">Modeling with Trigonometric Equations</link></title><para id="fs-id1575740">For the following exercises, graph the points and find a possible formula for the trigonometric values in the given table.</para>
+    </solution></exercise></section><section id="fs-id1575734"><title><link document="m49399">Modeling with Trigonometric Equations</link></title><para id="fs-id1575740">For the following exercises, graph the points and find a possible formula for the trigonometric values in the given table.</para>
    <exercise id="fs-id1575744">
 <problem id="fs-id1575745"><table id="fs-id1575746" summary="Two columns, seven rows. The table has ordered pairs of these column values: (x,y), (0,1), (1,6), (2,11), (3,6), (4,1), (5,6)." class="unnumbered"><label/>
     <title/>

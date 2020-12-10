@@ -1836,7 +1836,7 @@
 </m:math> or simplify. See <link target-id="Figure_08_03_015"/>.</para><figure id="Figure_08_03_015"><media id="fs-id1165135359846" alt="Plots of the equations stated above - the plots are the same in both rectangular and polar coordinates. They are hyperbolas.">
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_015.jpg"/>
 </media>
-</figure><para id="fs-id1165135355014">The “hour-glass” shape of the graph is called a <emphasis effect="italics">hyperbola</emphasis>. Hyperbolas have many interesting geometric features and applications, which we will investigate further in <link class="target-chapter" document="m49437">Analytic Geometry</link>.</para></solution>
+</figure><para id="fs-id1165135355014">The “hour-glass” shape of the graph is called a <emphasis effect="italics">hyperbola</emphasis>. Hyperbolas have many interesting geometric features and applications, which we will investigate further in <link document="m49437">Analytic Geometry</link>.</para></solution>
 <commentary id="fs-id1165134116776">
 <title>Analysis </title>
 <para id="fs-id1165134116781">In this example, the right side of the equation can be expanded and the equation simplified further, as shown above. However, the equation cannot be written as a single function in Cartesian form. We may wish to write the rectangular equation in the hyperbola’s standard form. To do this, we can start with the initial equation.</para><equation id="fs-id1165135453309" class="unnumbered"><label/> <m:math display="block">
