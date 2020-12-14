@@ -7,7 +7,7 @@
     <md:title>College Algebra</md:title>
     <md:version>1.29</md:version>
     <md:created>2015-01-29T10:59:03-06:00</md:created>
-    <md:revised>2020-11-20T13:33:07.825784-06:00</md:revised>
+    <md:revised>2020-12-07T16:15:05.863093-06:00</md:revised>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <!-- For information on license requirements for use or modification, see license url in the above <md:license> element.
@@ -87,7 +87,7 @@
         <col:module document="m51254" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.20">
           <md:title>Models and Applications</md:title>
         </col:module>
-        <col:module document="m51255" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.21">
+        <col:module document="m51255" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.24">
           <md:title>Complex Numbers</md:title>
         </col:module>
         <col:module document="m51256" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.32">

@@ -2425,7 +2425,7 @@ and
 <title>Chapter Review Exercises</title><para id="eip-685">You have reached the end of Chapter 3: Polynomial and Rational Functions. Let’s review some of the Key Terms, Concepts and Equations you have learned.</para>
 
 <section id="fs-id1165135499870">
-<title><link class="target-chapter" document="m49335">Complex Numbers</link></title><para id="fs-id1165137611422">Perform the indicated operation with complex numbers.</para>
+<title><link document="m49335">Complex Numbers</link></title><para id="fs-id1165137611422">Perform the indicated operation with complex numbers.</para>
 
 <exercise id="fs-id1165137611425">
  <problem id="fs-id1165137611961">
@@ -2534,7 +2534,7 @@ and
 </para>
  </problem>
 </exercise>
-</section><section id="fs-id1165137548191"><title><link class="target-chapter" document="m49337">Quadratic Functions</link></title><para id="fs-id1165137639859">For the following exercises, write the quadratic function in standard form. Then, give the vertex and axes intercepts. Finally, graph the function.</para>
+</section><section id="fs-id1165137548191"><title><link document="m49337">Quadratic Functions</link></title><para id="fs-id1165137639859">For the following exercises, write the quadratic function in standard form. Then, give the vertex and axes intercepts. Finally, graph the function.</para>
 
 <exercise id="fs-id1165137477136"><problem id="fs-id1165137477138">
 <para id="fs-id1165137477140"> <m:math>
@@ -2668,7 +2668,7 @@ and
  <m:mo>+</m:mo><m:mi>x</m:mi><m:mo>.</m:mo></m:mrow>
 </m:math> Find the maximum height the object attains.</para></problem>
 </exercise>
-</section><section id="fs-id1165133233027"><title><link class="target-chapter" document="m49346">Power Functions and Polynomial Functions</link></title><para id="fs-id1165137596106">For the following exercises, determine if the function is a polynomial function and, if so, give the degree and leading coefficient.</para>
+</section><section id="fs-id1165133233027"><title><link document="m49346">Power Functions and Polynomial Functions</link></title><para id="fs-id1165137596106">For the following exercises, determine if the function is a polynomial function and, if so, give the degree and leading coefficient.</para>
 <exercise id="fs-id1165137596111">
  <problem id="fs-id1165137927725">
 <para id="fs-id1165137927727"> <m:math>
@@ -2788,7 +2788,7 @@ and
 </m:math>
 </para></problem></exercise>
 
- </section><section id="fs-id1165135169092"><title><link class="target-chapter" document="m49347">Graphs of Polynomial Functions</link></title><para id="fs-id1165137451676">For the following exercises, find all zeros of the polynomial function, noting multiplicities.</para>
+ </section><section id="fs-id1165135169092"><title><link document="m49347">Graphs of Polynomial Functions</link></title><para id="fs-id1165137451676">For the following exercises, find all zeros of the polynomial function, noting multiplicities.</para>
  <exercise id="fs-id1165137451679"><problem id="fs-id1165137557555"><para id="fs-id1165137557556"> <m:math>
 <m:mrow>
 <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msup>
@@ -2892,7 +2892,7 @@ and
  </problem>
 </exercise>
 
-</section><section id="fs-id1165137920803"><title><link class="target-chapter" document="m49348">Dividing Polynomials</link></title><para id="fs-id1165137749390">For the following exercises, use long division to find the quotient and remainder.</para>
+</section><section id="fs-id1165137920803"><title><link document="m49348">Dividing Polynomials</link></title><para id="fs-id1165137749390">For the following exercises, use long division to find the quotient and remainder.</para>
 <exercise id="fs-id1165137696726">
  <problem id="fs-id1165137696728">
 <para id="fs-id1165137696730"> <m:math>
@@ -3067,7 +3067,7 @@ and
  </m:math>
  </para></problem></exercise>
 
-</section><section id="fs-id1165135194274"><title><link class="target-chapter" document="m49349">Zeros of Polynomial Functions</link></title><para id="fs-id1165137653216">For the following exercises, use the Rational Zero Theorem to help you solve the polynomial equation.</para>
+</section><section id="fs-id1165135194274"><title><link document="m49349">Zeros of Polynomial Functions</link></title><para id="fs-id1165137653216">For the following exercises, use the Rational Zero Theorem to help you solve the polynomial equation.</para>
 <exercise id="fs-id1165134248795" class="material-set-2">
  <problem id="fs-id1165134248797">
 <para id="fs-id1165134248799"> <m:math>
@@ -3212,7 +3212,7 @@ and
  </problem>
 </exercise>
 
- </section><section id="fs-id1165134224073"><title><link class="target-chapter" document="m49351">Rational Functions</link></title><para id="fs-id1165135176618">For the following rational functions, find the intercepts and the vertical and horizontal asymptotes, and then use them to sketch a graph.</para>
+ </section><section id="fs-id1165134224073"><title><link document="m49351">Rational Functions</link></title><para id="fs-id1165135176618">For the following rational functions, find the intercepts and the vertical and horizontal asymptotes, and then use them to sketch a graph.</para>
 
 <exercise id="fs-id1165135176623"><problem id="fs-id1165135516926">
 <para id="fs-id1165135516928"> <m:math>
@@ -3389,7 +3389,7 @@ and <m:math>
  </problem>
 </exercise>
 
-</section><section id="fs-id1165135484148"><title><link class="target-chapter" document="m49352">Inverses and Radical Functions</link></title><para id="fs-id1165134104980">For the following exercises, find the inverse of the function with the domain given.</para>
+</section><section id="fs-id1165135484148"><title><link document="m49352">Inverses and Radical Functions</link></title><para id="fs-id1165134104980">For the following exercises, find the inverse of the function with the domain given.</para>
 
 <exercise id="fs-id1165134104983">
  <problem id="fs-id1165135458657">
@@ -3526,7 +3526,7 @@ and <m:math>
 </para>
 </problem>
  </exercise>
-</section><section id="fs-id1165135245788"><title><link class="target-chapter" document="m49353">Modeling Using Variation</link></title><para id="fs-id1165137462872">For the following exercises, find the unknown value.</para>
+</section><section id="fs-id1165135245788"><title><link document="m49353">Modeling Using Variation</link></title><para id="fs-id1165137462872">For the following exercises, find the unknown value.</para>
 
 <exercise id="fs-id1165137462875">
 <problem id="fs-id1165137462877">

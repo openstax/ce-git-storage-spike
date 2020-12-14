@@ -6471,7 +6471,7 @@
 
 <section id="fs-id1165134093944" class="review-exercises"><title>Chapter Review Exercises</title><!--Start of Exercises for 12.1-->
  <section id="fs-id2345532">
-  <title><link class="target-chapter" document="m49452"> Finding Limits: A Numerical and Graphical Approach</link></title><para id="fs-id1165134093953">For the following exercises, use <link target-id="CNX_Precalc_Figure_12_04_207"/>.</para><figure id="CNX_Precalc_Figure_12_04_207" class="small">
+  <title><link document="m49452"> Finding Limits: A Numerical and Graphical Approach</link></title><para id="fs-id1165134093953">For the following exercises, use <link target-id="CNX_Precalc_Figure_12_04_207"/>.</para><figure id="CNX_Precalc_Figure_12_04_207" class="small">
 <media id="fs-id1165134093965" alt="Graph of a piecewise function with two segments. The first segment goes from (-1, 2), a closed point, to (3, -6), a closed point, and the second segment goes from (3, 5), an open point, to (7, 9), a closed point.">
 <image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_207.jpg"/>
 </media>
@@ -6863,7 +6863,7 @@
 
 
 <!--Start of Exercises for 12.2-->
- <section id="fs-id2725218"><title><link class="target-chapter" document="m49453">Finding Limits: Properties of Limits</link></title><para id="fs-id1165135694065">For the following exercises, find the limits if <m:math>
+ <section id="fs-id2725218"><title><link document="m49453">Finding Limits: Properties of Limits</link></title><para id="fs-id1165135694065">For the following exercises, find the limits if <m:math>
  <m:mrow>
   <m:munder>
    <m:mrow>
@@ -7297,7 +7297,7 @@
 
 
 <!--Start of Exercise for 12.3-->
- <section id="fs-id1854920"><title><link class="target-chapter" document="m49454">Continuity</link></title><para id="fs-id1165134065520">For the following exercises, use numerical evidence to determine whether the limit exists at <m:math>
+ <section id="fs-id1854920"><title><link document="m49454">Continuity</link></title><para id="fs-id1165134065520">For the following exercises, use numerical evidence to determine whether the limit exists at <m:math>
  <m:mrow>
   <m:mi>x</m:mi><m:mo>=</m:mo><m:mi>a</m:mi><m:mo>.</m:mo>
  </m:mrow>
@@ -7628,7 +7628,7 @@
 <!--Start of Exercise for 12.4-->
 <section id="fs-id2107979">
  <title>
-  <link class="target-chapter" document="m49455">Derivatives</link>
+  <link document="m49455">Derivatives</link>
  </title>
  <para id="fs-id1165134109262">For the following exercises, find the average rate of change <m:math>
  <m:mrow>
