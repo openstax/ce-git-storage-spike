@@ -3,6 +3,20 @@
 import hashlib
 import consolidate_media
 import update_metadata
+import json
+import io
+from lxml import etree
+
+
+def _compare_xml_strings(data, expected):
+    """Helper to compare two XML strings using etree"""
+    parser = etree.XMLParser(remove_blank_text=True)
+    data_etree, expected_tree = map(
+        lambda str: etree.parse(io.StringIO(str), parser),
+        [data, expected]
+    )
+
+    assert etree.tostring(data_etree) == etree.tostring(expected_tree)
 
 
 def test_consolidate_media(tmp_path, mocker):
@@ -113,7 +127,7 @@ def test_consolidate_media(tmp_path, mocker):
     assert (media_dir / "unused.jpg").exists()
 
     # Confirm expected CNXML content after updates
-    assert (modules_dir / module1_name / "index.cnxml").read_text() == f"""
+    expected = f"""
         <document xmlns="http://cnx.rice.edu/cnxml">
             <content>
                 <image src="image1.jpg"/>
@@ -122,9 +136,13 @@ def test_consolidate_media(tmp_path, mocker):
                 <image src="{module1_name}.jpg"/>
             </content>
         </document>
-    """.strip()
+    """
+    _compare_xml_strings(
+        (modules_dir / module1_name / "index.cnxml").read_text(),
+        expected
+    )
 
-    assert (modules_dir / module2_name / "index.cnxml").read_text() == f"""
+    expected = f"""
         <document xmlns="http://cnx.rice.edu/cnxml">
             <content>
                 <image src="image1.jpg"/>
@@ -133,9 +151,13 @@ def test_consolidate_media(tmp_path, mocker):
                 <image src="{module2_name}.jpg"/>
             </content>
         </document>
-    """.strip()
+    """
+    _compare_xml_strings(
+        (modules_dir / module2_name / "index.cnxml").read_text(),
+        expected
+    )
 
-    assert (modules_dir / module3_name / "index.cnxml").read_text() == f"""
+    expected = f"""
         <document xmlns="http://cnx.rice.edu/cnxml">
             <content>
                 <image src="image1.jpg"/>
@@ -144,7 +166,11 @@ def test_consolidate_media(tmp_path, mocker):
                 <image src="{module3_name}.jpg"/>
             </content>
         </document>
-    """.strip()
+    """
+    _compare_xml_strings(
+        (modules_dir / module3_name / "index.cnxml").read_text(),
+        expected
+    )
 
 
 def test_update_metadata(tmp_path, mocker):
@@ -156,14 +182,12 @@ def test_update_metadata(tmp_path, mocker):
     module_dir.mkdir(parents=True)
 
     module_json = module_dir / "metadata.json"
-    module_json_content = """
-        {
-            "id": "00000000-0000-0000-0000-000000000001",
-            "canonical": "00000000-0000-0000-0000-000000000000",
-            "title": "Test module"
-        }
-    """
-    module_json.write_text(module_json_content)
+    module_json_content = {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "canonical": "00000000-0000-0000-0000-000000000000",
+        "title": "Test module"
+    }
+    module_json.write_text(json.dumps(module_json_content))
 
     module_cnxml = module_dir / "index.cnxml"
     module_cnxml_content = """
@@ -219,13 +243,79 @@ def test_update_metadata(tmp_path, mocker):
     """
     module_cnxml.write_text(module_cnxml_content)
 
+    collections_dir = tmp_path / "collections"
+    collections_dir.mkdir()
+    metadata_dir = tmp_path / "metadata"
+    metadata_dir.mkdir()
+    collection_name = "alchemy"
+
+    collection_json = metadata_dir / f"{collection_name}.metadata.json"
+    collection_json_content = {
+        "id": "6e9c4e99-1fe4-42e2-8268-8cb892f9602e",
+        "slug": "alchemy-slug"
+    }
+
+    collection_json.write_text(json.dumps(collection_json_content))
+
+    collection_xml = collections_dir / f"{collection_name}.xml"
+    collection_xml_content = """
+        <col:collection xmlns="http://cnx.rice.edu/collxml"
+            xmlns:col="http://cnx.rice.edu/collxml">
+            <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+                <!-- Some comment -->
+                <md:repository>https://legacy.cnx.org/content</md:repository>
+                <md:content-url>https://legacy.cnx.org/content/col00001/1.11</md:content-url>
+                <md:content-id>col00001</md:content-id>
+                <md:title>Alchemy</md:title>
+                <md:version>1.11</md:version>
+                <md:created>2014/02/20 16:43:38.427 GMT-6</md:created>
+                <md:revised>2020/12/09 15:30:14.937 US/Central</md:revised>
+                <md:actors>
+                    <md:organization userid="OpenStaxCollege">
+                    <md:shortname>OpenStax</md:shortname>
+                    <md:fullname>OpenStax</md:fullname>
+                    <md:email>info@openstax.org</md:email>
+                    </md:organization>
+                    <md:person userid="OSCRiceUniversity">
+                    <md:firstname>Rice</md:firstname>
+                    <md:surname>University</md:surname>
+                    <md:fullname>Rice University</md:fullname>
+                    <md:email>info@openstax.org</md:email>
+                    </md:person>
+                    <md:person userid="cnxprecal">
+                    <md:firstname>OpenStax College</md:firstname>
+                    <md:surname>Precalculus</md:surname>
+                    <md:fullname>OpenStax Precalculus</md:fullname>
+                    <md:email>sanura@mac.com</md:email>
+                    </md:person>
+                </md:actors>
+                <md:roles>
+                    <md:role type="author">OpenStaxCollege</md:role>
+                    <md:role type="maintainer">
+                    OpenStaxCollege cnxprecal
+                    </md:role>
+                    <md:role type="licensor">OSCRiceUniversity</md:role>
+                </md:roles>
+                <md:license url="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution License 4.0
+                </md:license>
+                <md:subjectlist>
+                    <md:subject>Magic</md:subject>
+                </md:subjectlist>
+                <md:abstract/>
+                <md:language>en</md:language>
+            </metadata>
+        </col:collection>
+    """
+    collection_xml.write_text(collection_xml_content)
+
     mocker.patch(
         "sys.argv",
-        ["", modules_dir]
+        ["", modules_dir, collections_dir, metadata_dir]
     )
     update_metadata.main()
 
-    assert module_cnxml.read_text() == """
+    expected = """
         <document xmlns="http://cnx.rice.edu/cnxml">
             <title>Test module</title>
             <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
@@ -233,7 +323,24 @@ def test_update_metadata(tmp_path, mocker):
                 <md:title>Test module</md:title>
                 <md:abstract/>
             <md:uuid>00000000-0000-0000-0000-000000000001</md:uuid>
-<md:canonical-book-uuid>00000000-0000-0000-0000-000000000000</md:canonical-book-uuid>
-</metadata>
+            <md:canonical-book-uuid>00000000-0000-0000-0000-000000000000</md:canonical-book-uuid>
+            </metadata>
         </document>
-    """.strip()
+    """
+    _compare_xml_strings(module_cnxml.read_text(), expected)
+
+    expected = """
+        <col:collection xmlns="http://cnx.rice.edu/collxml"
+            xmlns:col="http://cnx.rice.edu/collxml">
+            <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+                <md:content-id>col00001</md:content-id>
+                <md:title>Alchemy</md:title>
+                <md:license url="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution License 4.0
+                </md:license>
+                <md:uuid>6e9c4e99-1fe4-42e2-8268-8cb892f9602e</md:uuid>
+                <md:slug>alchemy-slug</md:slug>
+            </metadata>
+        </col:collection>
+    """
+    _compare_xml_strings(collection_xml.read_text(), expected)
