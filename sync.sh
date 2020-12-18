@@ -15,12 +15,15 @@ mkdir modules collections metadata media
 cat canonical-modules | awk '{ print "cp -r "$1"/"$2" modules/"; }' | xargs -I {} bash -c '{}'
 find modules/. -name .sha1sum | xargs rm
 python $CODE_DIR/consolidate_media.py modules media
-python $CODE_DIR/update_metadata.py modules
-find modules/. -name metadata.json | xargs rm
 while read slug collid
 do
   mv "$slug/collection.xml" "collections/$slug.collection.xml"
-  mv "$slug/metadata.json" "metadata/$slug.metadata.json"
+  # Inject slug into book metadata so it can be used when updating
+  # the book collection XML
+  jq --arg slug "$slug" '. + {slug: $slug}' "$slug/metadata.json" > "metadata/$slug.metadata.json"
   rm -rf ./"$slug"
 done < archive-syncfile
+python $CODE_DIR/update_metadata.py modules collections metadata
+find modules/. -name metadata.json | xargs rm
+rm -rf metadata
 echo 'Done.'
