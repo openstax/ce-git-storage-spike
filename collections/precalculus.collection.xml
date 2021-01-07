@@ -1,88 +1,12 @@
 <col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:cnx="http://cnx.rice.edu/cnxml" xmlns:cnxorg="http://cnx.rice.edu/system-info" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:bib="http://bibtexml.sf.net/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xml:lang="en">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
-       Changes to the metadata section in the source will not be saved. -->
-
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/col11667/1.33</md:content-url>
   <md:content-id>col11667</md:content-id>
   <md:title>Precalculus</md:title>
   
   
-  <md:version>1.33</md:version>
-  <md:created>2014/02/20 16:43:38.427 GMT-6</md:created>
-  <md:revised>2020/12/09 15:30:14.937 US/Central</md:revised>
-
-  <md:actors>
-    
-    <md:organization userid="OpenStaxCollege">
-      <md:shortname>OpenStax</md:shortname>
-      <md:fullname>OpenStax</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:organization>
-    
-    
-    
-    
-    <md:person userid="OSCRiceUniversity">
-      <md:firstname>Rice</md:firstname>
-      <md:surname>University</md:surname>
-      <md:fullname>Rice University</md:fullname>
-      <md:email>info@openstax.org</md:email>
-    </md:person>
-    
-    
-    
-    <md:person userid="cnxprecal">
-      <md:firstname>OpenStax College</md:firstname>
-      <md:surname>Precalculus</md:surname>
-      <md:fullname>OpenStax Precalculus</md:fullname>
-      <md:email>sanura@mac.com</md:email>
-    </md:person>
-    
-  </md:actors>
-  <md:roles>
-    <md:role type="author">OpenStaxCollege</md:role>
-    <md:role type="maintainer">OpenStaxCollege cnxprecal</md:role>
-    <md:role type="licensor">OSCRiceUniversity</md:role>
-    
-    
-  </md:roles>
-
   <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <!-- For information on license requirements for use or modification, see license url in the
-       above <md:license> element.
-       For information on formatting required attribution, see the URL:
-         CONTENT_URL/content_info#cnx_cite_header
-       where CONTENT_URL is the value provided above in the <md:content-url> element.
-  -->
-  
-  
-  
-  
-
-  
-
-  
-
-  <md:subjectlist>
-    <md:subject>Mathematics and Statistics</md:subject>
-  </md:subjectlist>
-
-  <md:abstract/>
-
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
-       Changes to the metadata section in the source will not be saved. -->
+  <md:uuid>fd53eae1-fa23-47c7-bb1b-972349835c3c</md:uuid>
+<md:slug>precalculus</md:slug>
 </metadata>
 
   <col:parameters>

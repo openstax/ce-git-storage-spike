@@ -1,44 +1,11 @@
 <col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:cnx="http://cnx.rice.edu/cnxml" xmlns:cnxorg="http://cnx.rice.edu/system-info" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-    <!-- WARNING! The 'metadata' section is read only. Do not edit below. Changes to the metadata section in the source will not be saved. -->
-    <md:repository>https://legacy.cnx.org/content</md:repository>
-    <md:content-url>https://legacy.cnx.org/content/col11759/1.29</md:content-url>
     <md:content-id>col11759</md:content-id>
     <md:title>College Algebra</md:title>
-    <md:version>1.29</md:version>
-    <md:created>2015-01-29T10:59:03-06:00</md:created>
-    <md:revised>2020-12-07T16:15:05.863093-06:00</md:revised>
-    <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
-    <!-- For information on license requirements for use or modification, see license url in the above <md:license> element.
-           For information on formatting required attribution, see the URL:
-             CONTENT_URL/content_info#cnx_cite_header
-           where CONTENT_URL is the value provided above in the <md:content-url> element.
-      -->
-    <md:actors>
-      <md:person userid="OpenStaxCollege">
-        <md:firstname/>
-        <md:surname>OpenStax College</md:surname>
-        <md:fullname>OpenStax</md:fullname>
-        <md:email>info@openstaxcollege.org</md:email>
-      </md:person>
-      <md:person userid="cnxcollalg">
-        <md:firstname>OpenStax</md:firstname>
-        <md:surname>College Algebra</md:surname>
-        <md:fullname>OpenStax College Algebra</md:fullname>
-        <md:email>saf3@rice.edu</md:email>
-      </md:person>
-    </md:actors>
-    <md:roles>
-      <md:role type="author">OpenStaxCollege</md:role>
-      <md:role type="maintainer">OpenStaxCollege cnxcollalg</md:role>
-      <md:role type="licensor">cnxcollalg</md:role>
-    </md:roles>
-    <md:abstract/>
-    <md:subjectlist>
-      <md:subject>Mathematics and Statistics</md:subject>
-    </md:subjectlist>
-  </metadata>
+    <md:uuid>9b08c294-057f-4201-9f48-5d6ad992740d</md:uuid>
+<md:slug>college-algebra</md:slug>
+</metadata>
   <col:parameters>
     <col:param name="print-style" value="precalculus"/>
   </col:parameters>
