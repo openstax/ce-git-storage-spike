@@ -4,6 +4,7 @@ import sys
 from pathlib import Path
 import hashlib
 from lxml import etree
+import os.path
 
 IGNORE_FILENAMES = [
     "index.cnxml",
@@ -69,13 +70,26 @@ def main():
     # Pass 2: Move files to media directory, adding a subset of the sha string
     # to the name as a suffix if it has a sha conflict and updating CNXML
     for media in media_files:
+        # Add the relative path to all image filenames
+        new_media_relpath = os.path.relpath(
+            media_dir,
+            media.resolve().parent
+        )
+
         if media.name not in sha_conflicts:
+            update_cnxml_references(
+                media,
+                f"{new_media_relpath}/{media.name}"
+            )
             media.rename(media_dir / media.name)
         else:
             sha_suffix = shas_by_filepath[media][0:SHA_SUFFIX_LENGTH]
             new_filename = \
                 f"{media.with_suffix('').name}-{sha_suffix}{media.suffix}"
-            update_cnxml_references(media, new_filename)
+            update_cnxml_references(
+                media,
+                f"{new_media_relpath}/{new_filename}"
+            )
             media.rename(media_dir / new_filename)
 
 

@@ -130,10 +130,10 @@ def test_consolidate_media(tmp_path, mocker):
     expected = f"""
         <document xmlns="http://cnx.rice.edu/cnxml">
             <content>
-                <image src="image1.jpg"/>
-                <image src="{image2_1_name}"/>
-                <image src="{image3_1_name}"/>
-                <image src="{module1_name}.jpg"/>
+                <image src="../../media/image1.jpg"/>
+                <image src="../../media/{image2_1_name}"/>
+                <image src="../../media/{image3_1_name}"/>
+                <image src="../../media/{module1_name}.jpg"/>
             </content>
         </document>
     """
@@ -145,10 +145,10 @@ def test_consolidate_media(tmp_path, mocker):
     expected = f"""
         <document xmlns="http://cnx.rice.edu/cnxml">
             <content>
-                <image src="image1.jpg"/>
-                <image src="{image2_2_name}"/>
-                <image src="{image3_1_name}"/>
-                <image src="{module2_name}.jpg"/>
+                <image src="../../media/image1.jpg"/>
+                <image src="../../media/{image2_2_name}"/>
+                <image src="../../media/{image3_1_name}"/>
+                <image src="../../media/{module2_name}.jpg"/>
             </content>
         </document>
     """
@@ -160,10 +160,10 @@ def test_consolidate_media(tmp_path, mocker):
     expected = f"""
         <document xmlns="http://cnx.rice.edu/cnxml">
             <content>
-                <image src="image1.jpg"/>
-                <image src="{image2_3_name}"/>
-                <image src="{image3_2_name}"/>
-                <image src="{module3_name}.jpg"/>
+                <image src="../../media/image1.jpg"/>
+                <image src="../../media/{image2_3_name}"/>
+                <image src="../../media/{image3_2_name}"/>
+                <image src="../../media/{module3_name}.jpg"/>
             </content>
         </document>
     """
