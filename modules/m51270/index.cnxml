@@ -20,11 +20,11 @@
 <m:mo>=</m:mo>
 
 <m:mfrac><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo stretchy="false">)</m:mo><m:mo>-</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>-</m:mo><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mtext>rise</m:mtext><m:mtext>run</m:mtext></m:mfrac></m:math> </para><para id="eip-322">When interpreting slope, it will be important to consider the units of measurement. Make sure to always attach these units to both the numerator and denominator when they are provided to you. </para><note id="eip-731"><title>Quick Guide to Slopes of Lines</title><media id="fs-id1167835420474" alt="The image shows four arrows. The first arrow is slanted and pointing up and to the right and is labeled “positive”. The second arrow is slanted and pointing down and to the right and labeled “negative”. The third arrow is horizontal and labeled “zero”. The fourth arrow is vertical and labeled “undefined”.">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_03_02_006_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_03_02_006_img_new.jpg"/>
 </media></note></section><example id="eip-996"><exercise id="eip-398"><problem id="fs-id1167835368885">
 <para id="fs-id1167835335819">Find the slope of the line shown.</para>
 <media id="fs-id1167835201118" alt="This figure shows the graph of a straight line on the x y-coordinate plane. The x-axis runs from negative 3 to 6. The y-axis runs from negative 3 to 2. The line goes through the points (0, 1) and (5, negative 2).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_03_02_302_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_03_02_302_img_new.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1167835280533">
@@ -38,7 +38,7 @@ It may help to visualize this change as <m:math><m:mi>m</m:mi><m:mo>=</m:mo><m:m
   <para id="eip-10">
     Find the slope of the line below:
   </para> <media id="fs-id1167834227637" alt="This figure shows the graph of a straight line on the x y-coordinate plane. The x-axis runs from negative 8 to 8. The y-axis runs from negative 8 to 8. The line goes through the points (0, negative 5) and (2, negative 2).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_03_02_202_img_new.jpg"/></media>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_03_02_202_img_new.jpg"/></media>
 </problem>
 
 </exercise><exercise id="eip-152"><problem id="eip-150">
@@ -148,7 +148,7 @@ Find the equation of a line containing the points (−4, −3) and (1, −5)</pa
 
 
 </exercise></section></section></section><figure id="CNX_Precalc_Figure_02_01_011"><media id="fs-id2238310" alt="Front view of a subway train, the maglev train.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_011_CAT.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_011_CAT.jpg"/>
     </media>
 
   <caption>Shanghai MagLev Train (credit: "kanegen"/Flickr)</caption></figure><para id="fs-id1602082">Just as with the growth of a bamboo plant, there are many situations that involve constant change over time. Consider, for example, the first commercial maglev train in the world, the Shanghai MagLev Train (<link target-id="CNX_Precalc_Figure_02_01_011"/>). It carries passengers comfortably for a 30-kilometer trip from the airport to the subway station in only eight minutes<footnote id="fs-id2084925">http://www.chinahighlights.com/shanghai/transportation/maglev-train.htm</footnote>. </para>
@@ -249,7 +249,7 @@ Find the equation of a line containing the points (−4, −3) and (1, −5)</pa
       <para id="fs-id2040470">A third method of representing a linear function is through the use of a table. The relationship between the distance from the station and the time is represented in <link target-id="CNX_Precalc_Figure_02_01_015"/>. From the table, we can see that the distance changes by 83 meters for every 1 second increase in time.</para>
       <figure id="CNX_Precalc_Figure_02_01_015" class="small">
         <media id="fs-id1314714" alt="Table with the first row, labeled t, containing the seconds from 0, 1, 2, 3, and with the second row, labeled D (t), containing the meters 250, 333, 416, and 499. Each value in the first row increases by 1 second, and each value in the second row increases by 83 meters.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_015.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_015.jpg"/>
         </media>
 <caption>Tabular representation of the function <m:math>
  <m:mrow>
@@ -278,7 +278,7 @@ Find the equation of a line containing the points (−4, −3) and (1, −5)</pa
 </m:math> and represents the distance of the train from the station when it began moving at a constant speed.</para>
       <figure id="CNX_Precalc_Figure_02_01_012" class="small">
         <media id="fs-id1053318" alt="This is a graph with y-axis labeled “Distance (m)” and x-axis labeled “Time (s).” The x-axis spans from 0 to 5 and is marked in increments of one. The y-axis spans from 0 to 500 and is marked in increments of one hundred. The graph shows an increasing function. As time increases, distance also increases. The line is graphed along the points (0, 250) and (1, 333)">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_012.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_012.jpg"/>
         </media>
 <caption>The graph of <m:math>
  <m:mrow>
@@ -336,7 +336,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
  </m:mrow>
 </m:math> Restate this function in words.</para><figure id="CNX_Precalc_Figure_02_01_003" class="small">
               <media id="fs-id2097818" alt="This figure shows a scuba diver.">
-                <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_003.jpg"/>
+                <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_003.jpg"/>
               </media>
 <caption>(credit: Ilse Reijs and Jan-Noud Hutten)</caption>
             </figure>
@@ -357,7 +357,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 <para id="fs-id2209400">The linear functions we used in the two previous examples increased over time, but not every linear function does. A linear function may be increasing, decreasing, or constant. For an <term class="no-emphasis">increasing function</term>, as with the train example, the output values increase as the input values increase. The graph of an increasing function has a positive slope. A line with a positive slope slants upward from left to right as in <link target-id="CNX_Precalc_Figure_02_01_004abc"/><emphasis>(a)</emphasis>. For a <term class="no-emphasis">decreasing function</term>, the slope is negative. The output values decrease as the input values increase. A line with a negative slope slants downward from left to right as in <link target-id="CNX_Precalc_Figure_02_01_004abc"/><emphasis>(b)</emphasis>. If the function is constant, the output values are the same for all input values so the slope is zero. A line with a slope of zero is horizontal as in <link target-id="CNX_Precalc_Figure_02_01_004abc"/><emphasis>(c)</emphasis>.</para>
 <figure id="CNX_Precalc_Figure_02_01_004abc">
 <media id="fs-id2107432" alt="This figure shows three graphs labeled a, b, and c. Graph a shows an increasing function (f) along the x-axis and the y-axis which is labeled f of x. Graph b shows a decreasing function (f) along the x-axis and y-axis which is labeled f of x. Graph c shows a constant function (f) along the x-axis and y-axis which is labeled f of x. The constant function is horizontal. None of the graphs have any increments labeled on the x- or y-axis.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_004abc.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_004abc.jpg"/>
 </media>
 </figure>
 
@@ -662,7 +662,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
   <m:mo>)</m:mo></m:mrow><m:mo>,</m:mo>
  </m:mrow>
 </m:math> is calculated. Recall that the slope measures steepness, or slant. The greater the absolute value of the slope, the steeper the slant is.</para><figure id="CNX_Precalc_Figure_02_01_005" class="small"><media id="fs-id1171674" alt="This graph shows how to calculate the slope of a line. The line is graphed on an x y coordinate plane. The x-axis is labeled from negative 1 to 6. The y-axis is labeled from negative 1 to 10. The line passes through several points, but two are marked specifcally. The first is labeled (x subscript 1, y subscript 1). It is located at the point (1, 5). The second point is labeled (x subscript 2, y subscript 2). It is located at the point (2, 8). There is a small arrow that runs horizontally from point (2, 8) to point (1, 8). This arrow is labeled x subscript 2 minus x subscript 1. There is a blue arrow that runs vertically from point (1, 5) to point (1, 8) and is labeled y subscript 2 minus y subscript 1. Off to the side is the equation m equals delta y divided by delta x which equals y subscript 2 minus y subscript 1 divided by x subscript 2 minus x subscript 1. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_005.jpg"/>
 </media>
 
 <caption>The slope of a function is calculated by the change in <m:math>
@@ -1037,7 +1037,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 
 <figure id="CNX_Precalc_Figure_02_01_006" class="small">
 <media id="fs-id2107641" alt="This graph shows a linear function graphed on an x y coordinate plane. The x axis is labeled from negative 2 to 8 and the y axis is labeled from negative 1 to 8. The function f is graph along the points (0, 7) and (4, 4).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_006.jpg"/>
 </media>
 </figure>
 <para id="fs-id1308976">We are not given the slope of the line, but we can choose any two points on the line to find the slope. Let’s choose <m:math>
@@ -1262,7 +1262,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
  </m:mrow>
 </m:math> into the slope-intercept form of a line.</para>
 <media id="fs-id1109555" alt="This image shows the equation f of x equals m times x plus b. It shows that m is the value negative three fourths and b is 7. It then shows the equation rewritten as f of x equals negative three fourths times x plus 7.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_007.jpg"/>
 </media>
 <para id="fs-id2065131">So the function is <m:math>
  <m:mrow>
@@ -1301,7 +1301,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </m:math> shown in <link target-id="CNX_Precalc_Figure_02_01_008a"/>.</para>
 <figure id="CNX_Precalc_Figure_02_01_008a" class="small">
 <media id="fs-id1588053" alt="This figure shows an increasing function graphed on an x y coordinate plane. The x axis is labeled from negative 10 to 10. The y axis is labeled from negative 10 to 10. The function passes through the points (0, 2) and (-2, -4). These points are not labeled on this graph. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_008a.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_008a.jpg"/>
 </media>
 </figure>
 </problem>
@@ -1535,7 +1535,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </m:math> </para>
 <figure id="CNX_Precalc_Figure_02_01_008b" class="small">
 <media id="fs-id2187492" alt="This figure shows an increasing function graphed on an x y coordinate plane. The x axis is labeled from negative 10 to 10. The y axis is labeled from negative 10 to 10. The function passes through the points (0, 2) and (-2, -4). These points are labeled on this graph.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_008b.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_008b.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -1974,7 +1974,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
  </m:mrow>
 </m:math> We can substitute the initial value and the rate of change into the slope-intercept form of a line.</para>
 <figure id="eip-idm461188240"><media id="fs-id2094603" alt="This image shows the equation f of x equals m times x plus b. It shows that m is the value 15 and b is 200. It then shows the equation rewritten as N of t equals 15 times t plus 200.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_010.jpg"/>
 </media></figure>
 <para id="fs-id1552406">We can write the formula <m:math>
  <m:mrow>
@@ -2528,7 +2528,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </para>
 <figure id="CNX_Precalc_Figure_02_02_001" class="small">
 <media id="fs-id2256618" alt="This graph shows a decreasing function graphed on an x y coordinate plane. The x axis runs from negative 4 to 7 and the y axis runs from negative 2 to 7. The y axis is labeled f of x. The function passes through the points (0, 5), (3, 3) and (6, 1)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_001.jpg"/>
 </media>
 <caption>The graph of the linear function <m:math>
  <m:mrow>
@@ -2566,7 +2566,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 <solution id="fs-id2406831">
 
 <media id="fs-id2238248" alt="This graph shows a decreasing function graphed on an x y coordinate plane. The x-axis runs from negative 8 to 10 and the y-axis runs from negative 8 to 8. The function passes through the points (0,6), (4,3) and (8,0).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_002.jpg"/>
 </media>
 </solution>
 </exercise></note>
@@ -2636,7 +2636,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
  </m:mrow>
 </m:math> we can rise 1 and then run 2, or run 2 and then rise 1. We repeat until we have a few points, and then we draw a line through the points as shown in <link target-id="CNX_Precalc_Figure_02_02_003"/>.</para><figure id="CNX_Precalc_Figure_02_02_003" class="medium">
 <media id="fs-id2238190" alt="This graph shows how to calculate the rise over run for the slope on an x, y coordinate plane.  The x-axis runs from negative 2 to 7. The y-axis runs from negative 2 to 5. The line extends right and upward from point (0,1), which is the y-intercept.  A dotted line extends two units to the right from point (0, 1) and is labeled Run = 2.  The same dotted line extends upwards one unit and is labeled Rise =1.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_003.jpg"/>
 </media>
 </figure>
 <note id="fs-id2202042"><title>Graphical Interpretation of a Linear Function</title>
@@ -2779,7 +2779,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 <m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo>
  </m:mrow>
 </m:math> we move down 2 units and to the right 3 units. We can extend the line to the left and right by repeating, and then drawing a line through the points.</para><figure id="CNX_Precalc_Figure_02_02_004" class="small"><media id="fs-id2595671" alt="This graph shows a decreasing function graphed on an x y coordinate plane. The x-axis runs from negative 3 to 7, and the y-axis runs from negative 1 to 7. The function passes through the points (0,5); (3,3); and (6,1).  Arrows extend downward two units and to the right three units from each point to the next point.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_004.jpg"/>
 </media>
 
 <caption>Graph of <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>−2</m:mn><m:mo lspace="0em" rspace="0em">/</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>5</m:mn></m:math> and shows how to calculate the rise over run for the slope.</caption></figure></solution>
@@ -2874,7 +2874,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
  </m:mrow>
 </m:math> the steeper the slope.</para><figure id="CNX_Precalc_Figure_02_02_005">
 <media id="fs-id2181992" alt="This graph shows seven versions of the function, f of x = x on an x, y coordinate plane. The x-axis runs from negative 8 to 8. The y-axis runs from negative 8 to 8. Seven multi-colored lines run through the point (0, 0). Starting with the lines in the top right quadrant and moving clockwise, the first line is f of x = 3 times x and has a slope of 3, the next line is f of x = 2 times x which has a slope of 2, the next line is f of x = x which has a slope of 1, the next line is f of x = x divided by 2 which has a slope of .5. The last line in this quadrant is f of x = x divided by 3 which has a slope of one third x. In the bottom right quadrant moving clockwise, the first line is f of x = negative x divided by 2, which has a slope of negative one half, the middle line is f of x = negative x which has a slope of negative 1, and the last line is f of x = negative 2 times x which has a slope of  negative 2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_005.jpg"/>
 </media>
 <caption>Vertical stretches and compressions and reflections on the function <m:math>
  <m:mrow>
@@ -2926,7 +2926,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
  </m:mrow>
 </m:math> is negative.</para><figure id="CNX_Precalc_Figure_02_02_006">
 <media id="fs-id2458486" alt="This graph shows six versions of the function, f of x = x, on an x, y coordinate plane. The x-axis runs from negative 8 to 8, and the y axis runs negative 8 to 8. There are five lines parallel to each other. The first line extends from the bottom left quadrant to the upper right quadrant on the coordinate plane. This line shows f of x = x plus 4 which has a slope of 1 and a y-intercept at 4. The next line also extends from the bottom left quadrant to the upper right quadrant and shows f of x = x plus 2 which has a slope of 1 and a y-intercept at 2. The next and middle line, extends from the lower left quadrant, through the center of the graph at point (0, 0) to the upper right quadrant and shows f of x = x. The next line extends from the lower left quadrant, through the lower right quadrant to the upper right quadrant. This line shows f of x = x minus 2 which has a slope of 1 and a y-intercept at -2. The last line extends from the lower left quadrant, through the lower right quadrant to the upper right quadrant.This line shows f of x = x minus 4 which has a slope of 1 and a y-intercept at -4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_006.jpg"/>
 </media>
 <caption>This graph illustrates vertical shifts of the function <m:math>
  <m:mrow>
@@ -3005,7 +3005,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
  </m:mrow>
 </m:math> so the identity function is vertically shifted down 3 units. First, graph the identity function, and show the vertical compression as in <link target-id="CNX_Precalc_Figure_02_02_007"/>.</para>
 <figure id="CNX_Precalc_Figure_02_02_007" class="small"><media id="fs-id1798299" alt="This graph shows two functions on an x, y coordinate plane. One shows an increasing function of y = x divided by 2 that runs through the points (0, 0) and (2, 1). The second shows an increasing function of y = x and runs through the points (0, 0) and (1, 1)).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_007.jpg"/>
 </media>
 
 <caption>The function, <m:math>
@@ -3021,7 +3021,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
  </m:mrow>
 </m:math> .</caption></figure><para id="fs-id2674265">Then show the vertical shift as in <link target-id="CNX_Precalc_Figure_02_02_008"/>.</para>
 <figure id="CNX_Precalc_Figure_02_02_008" class="small"><media id="fs-id2674274" alt="This graph shows two functions on an x, y coordinate plane. The first is an increasing function of y = x divided by 2 and runs through the points (0, 0) and (2, 1).  The second shows an increasing function of y = x divided by 2 minus 3 and passes through the points (0, 3) and (2, -2).  An arrow pointing downward from the first function  to the second function reveals the vertical shift.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_008.jpg"/>
 </media>
 
 <caption>The function <m:math>
@@ -3049,7 +3049,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </problem>
 <solution id="fs-id2238414">
 <media id="fs-id2238419" alt="This graph shows three functions on an x, y coordinate plane. One shows an increasing function y = x that passes through points (0, 0) and (2, 2).  A second shows an increasing function y = 2 times x that passes through the points (0, 0) and (2, 4).  The third is an increasing function y = 2 times x plus 4 and passes through the points (0, 4) and (2, 8).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_009.jpg"/>
 </media>
 </solution>
 </exercise></note>
@@ -3117,7 +3117,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 <m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mtext>4</m:mtext><m:mo stretchy="false">)</m:mo>
  </m:mrow>
 </m:math> so this is the <emphasis effect="italics">y</emphasis>-intercept.</para><figure id="CNX_Precalc_Figure_02_04_010" class="small"><media id="fs-id2525923" alt="This graph shows the function f of x = 2 times x plus 4 on an x, y coordinate plane. The x-axis runs from negative 10 to 10. The y-axis runs from negative 10 to 10. This function passes through the points (-2, 0) and (0, 4).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_010.jpg"/>
 </media>
 </figure><para id="fs-id2525935">Then we can calculate the slope by finding the rise and run. We can choose any two points, but let’s look at the point <m:math>
  <m:mrow>
@@ -3168,7 +3168,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 <item><span class="token">ⓓ</span> <m:math><m:mrow><m:mi>j</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:math> </item>
 </list>
  <figure id="CNX_Precalc_Figure_02_04_011" class="small"><media id="fs-id2248106" alt="Graph of four functions where the orange line has a y-intercept at 3 and slope of 2, the baby blue line has a y-intercept at 3 and slope of 1/2, the blue line has a y-intercept at 3 and slope of -2, and the green line has a y-intercept at -3 and slope of 2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_011.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id2280186">
@@ -3228,7 +3228,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </m:math> must be flatter. This function is represented by Line II.</item>
 </list><para id="fs-id2369623">Now we can re-label the lines as in <link target-id="CNX_Precalc_Figure_02_04_012"/>.</para>
 <figure id="CNX_Precalc_Figure_02_04_012" class="small"><media id="fs-id2369637" alt="Graph of four functions where the blue line is h(x) = -2x + 3 which goes through the point (0,3), the baby blue line is j(x) = x/2 + 3 which goes through the point (0,3). The orange line is f(x) = 2x + 3 which goes through the point (0,3), and the red line is g(x) = 2x – 3 which goes through the point (0,-3).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_012.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_012.jpg"/>
 </media>
 </figure></solution>
 
@@ -3332,7 +3332,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
  </m:mrow>
 </m:math> is a horizontal line 5 units above the x-axis. This function has no x-intercepts, as shown in <emphasis><link target-id="CNX_Precalc_Figure_02_02_026"/>.</emphasis></emphasis></para>
 <figure id="CNX_Precalc_Figure_02_02_026" class="small"><media id="fs-id2262339" alt="Graph of the function y = 5, a completely horizontal line that goes through the point (0,5).  Graphed on an xy-plane with the x-axis ranging from -3 to 3 and the y-plane ranging from -1 to 8.  ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_026_CAT.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_026_CAT.jpg"/>
 </media>
 </figure></note><note id="fs-id1855647">
 
@@ -3450,7 +3450,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </m:math> as we expected.</para>
 <figure id="CNX_Precalc_Figure_02_04_013" class="small">
 <media id="fs-id1796734" alt="Graph of the linear function with the points (6,0) and (0,-3) labeled with a slope of ½.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_013.jpg"/>
 </media>
 </figure></commentary>
 
@@ -3504,7 +3504,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
  </m:mrow>
 </m:math>
 </para><figure id="CNX_Precalc_Figure_02_04_014" class="small"><media id="fs-id2648371" alt="This graph shows the line y = 2 on an x.y coordinate plane.  The x-axis runs from negative 5 to 5 and the y-axis runs from – 5 to 5. A horizontal line crosses through the point (0, 2).  Underneath the graph is a table with two rows and six columns.  The top row is labeled: “x” and has the values negative 4, negative 2, 0, 2, and 4. The bottom row is labeled “y” and has the values 2, 2, 2, 2, and 2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_014.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_014.jpg"/>
 </media>
 
 <caption>A horizontal line representing the function <m:math>
@@ -3515,7 +3515,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </caption></figure><para id="fs-id2395091">A <term class="no-emphasis">vertical line</term> indicates a constant input, or <emphasis effect="italics">x</emphasis>-value. We can see that the input value for every point on the line is 2, but the output value varies. Because this input value is mapped to more than one output value, a vertical line does not represent a function. Notice that between any two points, the change in the input values is zero. In the slope formula, the denominator will be zero, so the slope of a vertical line is undefined.</para>
 
 <figure id="Image_04_01_027" class="small"><media id="fs-id2228904" alt="This is an image showing when a slope is undefined.  m = change of output divided by the change of input.  The change of output is labeled as: non-zero real number and the change of input is labeled 0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_015.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_015.jpg"/>
 </media>
 
 <caption>Example of how a line has a vertical slope.  0 in the denominator of the slope.</caption></figure><para id="fs-id2228919">A vertical line, such as the one in <link target-id="CNX_Precalc_Figure_02_04_016"/><emphasis>,</emphasis> has an <emphasis effect="italics">x</emphasis>-intercept, but no <emphasis effect="italics">y-</emphasis>intercept unless it’s the line <m:math>
@@ -3529,7 +3529,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </m:math>
 </para>
 <figure id="CNX_Precalc_Figure_02_04_016" class="small"><media id="fs-id1796683" alt="This graph shows a vertical line passing through the point (2, 0) on an x, y coordinate plane. The x-axis runs from negative 5 to 5 and the y-axis runs from negative 5 to 5.  Underneath the graph is a table with two rows and six columns.  The top row is labeled: “x” and has the values 2, 2, 2, 2, and 2. The bottom row is labeled: “y” and has the values negative 4, negative 2, 0, 2, and 4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_016.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_016.jpg"/>
 </media>
 
 <caption>The vertical line, <m:math>
@@ -3558,7 +3558,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 <title>Writing the Equation of a Horizontal Line</title>
 <para id="fs-id2394877">Write the equation of the line graphed in <link target-id="CNX_Precalc_Figure_02_04_017"/>.</para>
 <figure id="CNX_Precalc_Figure_02_04_017" class="small"><media id="fs-id2394887" alt="This graph shows the function y = negative 4 on  an x, y coordinate plane.  The x-axis runs from negative 10 to 10. The y-axis runs from negative 10 to 10. The horizontal line passes through the point, (0, -4).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_017.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_017.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id2394899">
@@ -3578,7 +3578,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 <title>Writing the Equation of a Vertical Line</title>
 <para id="fs-id2382599">Write the equation of the line graphed in <link target-id="CNX_Precalc_Figure_02_04_018"/>.</para>
 <figure id="CNX_Precalc_Figure_02_04_018" class="small"><media id="fs-id2382609" alt="This is a graph showing a line with an undefined slope on an x, y coordinate plane. The x-axis runs from negative 10 to 10 and the y-axis runs from -10 to 10. The line passes through the point (7, 0).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_018.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_018.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id2382621">
@@ -3598,7 +3598,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 <title>Determining Whether Lines are Parallel or Perpendicular</title>
 <para id="fs-id2239921">The two lines in <link target-id="CNX_Precalc_Figure_02_04_019"/> are <term class="no-emphasis">parallel lines</term>: they will never intersect. They have exactly the same steepness, which means their slopes are identical. The only difference between the two lines is the <emphasis effect="italics">y</emphasis>-intercept. If we shifted one line vertically toward the other, they would become coincident.</para>
 <figure id="CNX_Precalc_Figure_02_04_019" class="small"><media id="fs-id2239940" alt="This graph shows two lines on an x, y coordinate plane. The x-axis runs from negative 4 to 6. The y-axis runs from negative 3 to 8.  The first line has the equation y = -3 times x divided by 2 plus 1.  The second line has the equation y = -3 times x divided by 2 plus 7.  The lines do not cross.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_019.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_019.jpg"/>
 </media>
 
 <caption>Parallel lines</caption></figure><para id="fs-id2239956">We can determine from their equations whether two lines are parallel by comparing their slopes. If the slopes are the same and the <emphasis effect="italics">y</emphasis>-intercepts are different, the lines are parallel. If the slopes are different, the lines are not parallel.</para>
@@ -3658,7 +3658,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 
 <figure id="CNX_Precalc_Figure_02_02_020" class="small">
 <media id="fs-id2447818" alt="This graph shows two functions perpendicular to each other on an x, y coordinate plane. The first function increases and passes through the points (1, 0) and (0, -5).  The second function decreases and passes through the points (1, 0) and (-4, 1).  The lines intersect to form a 90-degree right angle at the point (1, 0).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_020.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_020.jpg"/>
 </media>
 <caption>Perpendicular lines</caption>
 </figure>
@@ -4006,7 +4006,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 <para id="fs-id2482688">A graph of the lines is shown in <link target-id="CNX_Precalc_Figure_02_02_021"/>.</para>
 <figure id="CNX_Precalc_Figure_02_02_021" class="small">
 <media id="fs-id1797783" alt="This graph shows four functions on an x, y coordinate plane. The x-axis runs from negative 8 to 9. The y-axis runs from negative 8 to 8.  The first shows the decreasing function h of x = negative 2 times x plus 2. It passes through the points (0, 2) and (1, 0). The second is an increasing function that shows f of x = 2 times x plus 3. It passes through the points (0, 3) and (-1.5, 0). The third is an increasing function that shows j of x = 2 times x minus 6 and passes through the points (0, -6) and (3, 0). The fourth line is an increasing function where g of x = x divided by 2 minus 4 and passes through the points (0, -4) and (2 ,0).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_021.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_021.jpg"/>
 </media>
 </figure>
 <para id="fs-id1797798">The graph shows that the lines <m:math>
@@ -4313,7 +4313,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 <para id="fs-id2249964">We can confirm that the two lines are parallel by graphing them. <link target-id="CNX_Precalc_Figure_02_02_022"/> shows that the two lines will never intersect.</para>
 <figure id="CNX_Precalc_Figure_02_02_022">
 <media id="fs-id2249974" alt="This is a graph of two functions on an x, y coordinate plane. The x-axis runs from negative 6 to 6 and the y-axis runs from negative 2 to 10. The first function is y = 3 times x plus 6.  On this line is the point at (0, 6) with an arrow extending right one unit labeled: Right 1. From here, the arrow extends upward 3 units labeled: Up 3. The next function is y = 3 times x minus 9.  On this line is the point (3, 0) with an arrow extending right one unit labeled: Right 1. From here is an arrow extending upward 3 units labeled: Up 3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_022.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_022.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -4708,7 +4708,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 <para id="fs-id1348628">A graph of the two lines is shown in <link target-id="CNX_Precalc_Figure_02_02_023"/>.</para>
 <figure id="CNX_Precalc_Figure_02_02_023" class="medium">
 <media id="fs-id1348638" alt="This is a graph of two functions on an x, y coordinate plane. The x-axis runs from negative 6 to 6. The y-axis runs from negative 4 to 10. The first function shows g of x = negative x divided by 3 plus 1. The second function shows f of x = 3 times x plus 6.  The lines intersect at the point (-1.5, 1.5) to form a 90-degree, right angle.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_023.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_023.jpg"/>
 </media>
 </figure>
 <para id="fs-id2214467">Note that that if we graph perpendicular lines on a graphing calculator using standard zoom, the lines may not appear to be perpendicular. Adjusting the window will make it possible to zoom in further to see the intersection more closely.</para>
@@ -5911,24 +5911,24 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 <section id="fs-id2261328"><title>Graphical</title><para id="fs-id2261333">For the following exercises, find the slope of the line graphed.</para>
 <exercise id="fs-id2261337"><problem id="fs-id2261338">
 <media id="fs-id2261344" alt="This is a graph of a decreasing linear function on an x, y coordinate plane. The x-axis runs from negative 6 to 6. The y-axis runs from negative 6 to 6. The line passes through points (0, 5) and (4, 0).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_202-2cc8.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_202-2cc8.jpg"/>
 </media>
 </problem></exercise>
 <exercise id="fs-id2261358"><problem id="fs-id2261359">
 <media id="fs-id2261364" alt="This is a graph of a function on an x, y coordinate plane. The x-axis runs from negative 6 to 6. The y-axis runs from negative 6 to 6. The lines passes through points at (0, -2) and (2, -2).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_203-9e0c.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_203-9e0c.jpg"/>
 </media>
 </problem>
 <solution id="fs-id2261378"><para id="fs-id2261379">0</para></solution></exercise>
 <para id="fs-id2261383">For the following exercises, write an equation for the line graphed.</para>
 <exercise id="fs-id2261386"><problem id="fs-id2261387">
 <media id="fs-id2261392" alt="Graph of an increasing linear function with points at (0,1) and (3,3)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_205-50b9.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_205-50b9.jpg"/>
 </media>
 </problem></exercise>
 <exercise id="fs-id2261404"><problem id="fs-id2261406">
 <media id="fs-id2261411" alt="Graph of a decreasing linear function with points (0,5) and (4,0)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_206-ae2b.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_206-ae2b.jpg"/>
 </media>
 </problem><solution id="fs-id2261422"><para id="fs-id2261423"> <m:math>
  <m:mrow>
@@ -5940,12 +5940,12 @@ Ask yourself what numbers can be input to the function. In other words, what is 
  </m:mrow></m:math> </para></solution></exercise>
 <exercise id="fs-id2261453"><problem id="fs-id2261454">
 <media id="fs-id2261459" alt="Graph of a decreasing linear function with points at (0,3) and (1.5,0)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_207.jpg"/>
 </media>
 </problem></exercise>
 	<exercise id="fs-id2605036"><problem id="fs-id2605037">
 <media id="fs-id2605042" alt="Graph of an increasing linear function with points at (1,2) and (0,-2)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_208-ed56.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_208-ed56.jpg"/>
 </media>
 </problem>
 <solution id="fs-id2605055"><para id="fs-id2605056"> <m:math>
@@ -5956,12 +5956,12 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </para></solution></exercise>
 <exercise id="fs-id2605078"><problem id="fs-id2605079">
 <media id="fs-id2605084" alt="Graph of a function with points at (0, 3) and (3, 3)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_209-1a57.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_209-1a57.jpg"/>
 </media>
 </problem></exercise>
 <exercise id="fs-id2605097"><problem id="fs-id2605098">
 <media id="fs-id2605103" alt="Graph of a function with points at (0,-2.5) and (-2.5,-2.5)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_210-23b3.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_210-23b3.jpg"/>
 </media>
 </problem>
 <solution id="fs-id2605115"><para id="fs-id2202054"> <m:math>
@@ -5972,7 +5972,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </para></solution></exercise>
 <para id="fs-id2605134">For the following exercises, match the given linear equation with its graph in <link target-id="CNX_Precalc_Figure_04_01_210"/>.</para><figure id="CNX_Precalc_Figure_04_01_210" class="small">
 <media id="fs-id2605147" alt="Graph of six functions where line A has a slope of 3 and y-intercept at 2, line B has a slope of 1 and y-intercept at 2, line C has a slope of 0 and y-intercept at 2, line D has a slope of -1/2 and y-intercept at -1, line E has a slope of -1 and y-intercept at -1, and line F has a slope of -2 and y-intercept at -1.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_201.jpg"/>
 </media>
 </figure>
 <exercise id="fs-id2605162"><problem id="fs-id2605163"><para id="fs-id2605164"> <m:math>
@@ -6047,7 +6047,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </para></problem>
 <solution id="fs-id2393328">
 <media id="fs-id2393334" alt="Graph of f with an x-intercept at -4 and y-intercept at -2 which gives us a slope of: 2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_203.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_203.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id2393349"><problem id="fs-id2393350"><para id="fs-id2393351">A <emphasis effect="italics">y</emphasis>-intercept of <m:math>
  <m:mrow>
@@ -6076,7 +6076,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </m:math> </para></problem>
 <solution id="fs-id2393459">
 <media id="fs-id2393465" alt="Graph of f with an y-intercept at 3 and a slope of 2/5.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_205.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_205.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id2393478"><problem id="fs-id2393480"><para id="fs-id2393481">Passing through the points <m:math>
  <m:mrow>
@@ -6100,7 +6100,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 
 </para></problem><solution id="fs-id2239680">
 <media id="fs-id2239687" alt="Graph of a line that passes through the points (-3, -4) and (3, 0) which results in a slope of 2/3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_207.jpg"/>
 </media>
 </solution></exercise><para id="fs-id2239701">For the following exercises, sketch the graph of each equation.</para>
 <exercise id="fs-id2239704"><problem id="fs-id2239705"><para id="fs-id2239706"> <m:math>
@@ -6120,7 +6120,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </m:math> </para></problem>
 <solution id="fs-id2239776">
 <media id="fs-id2239782" alt="Graph of g(x) = -3x + 2 which goes through the points (0,2) and (1,-1) with a slope of -3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_209-60a6.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_209-60a6.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id2239796"><problem id="fs-id2239797"><para id="fs-id2239798"> <m:math>
  <m:mrow>
@@ -6146,7 +6146,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </m:math> </para></problem>
 <solution id="fs-id2447371">
 <media id="fs-id2447378" alt="Graph of k(x) =  .  This line goes through the points (0,-3) and (3,-1) and has a slope of 2/3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_211.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_211.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id2447392"><problem id="fs-id2447393"><para id="fs-id2447394"> <m:math>
  <m:mrow>
@@ -6164,7 +6164,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </m:math> </para></problem>
 <solution id="fs-id2447460">
 <media id="fs-id2447466" alt="Graph of the line p(t) = 3t -2.  This line goes through the points (0,-2) and (1,1) which has a slope of 3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_226.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_226.jpg"/>
 </media>
  </solution></exercise><exercise id="fs-id2447481"><problem id="fs-id2447482"><para id="fs-id2447483"> <m:math>
  <m:mrow>
@@ -6180,7 +6180,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </para></problem>
 <solution id="fs-id2447519">
 <media id="fs-id2447526" alt="Graph of x = -2 which is a line of undefined slope that goes through the point (-2,0).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_214.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_214.jpg"/>
 </media>
  </solution></exercise><exercise id="fs-id2447539"><problem id="fs-id2447540"><para id="fs-id2447541"> <m:math>
  <m:mrow>
@@ -6192,7 +6192,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 <para id="fs-id2447566">For the following exercises, write the equation of the line shown in the graph.</para>
 <exercise id="fs-id2447569"><problem id="fs-id2447570">
 <media id="fs-id1979120" alt="The graph of a line with a slope of 0 and y-intercept at 3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_222-612a.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_222-612a.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1979132"><para id="fs-id1979133"> <m:math>
@@ -6201,11 +6201,11 @@ Ask yourself what numbers can be input to the function. In other words, what is 
  </m:mrow>
 </m:math> </para></solution></exercise><exercise id="fs-id1979148"><problem id="fs-id1979149">
 <media id="fs-id1979154" alt="Graph of a line with a slope of 0 and y-intercept at -1.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_223-8721.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_223-8721.jpg"/>
 </media>
 </problem></exercise><exercise id="fs-id1979167"><problem id="fs-id1979168">
 <media id="fs-id1979173" alt="Graph of a line with an undefined slope and x-intercept at -3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_224-571d.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_224-571d.jpg"/>
 </media>
 </problem>
  <solution id="fs-id1979186"><para id="fs-id2084650"> <m:math>
@@ -6214,7 +6214,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
  </m:mrow>
 </m:math> </para></solution></exercise><exercise id="fs-id1979203"><problem id="fs-id1965935">
 <media id="fs-id1979208" alt="Graph of a line with an undefined slope and x-intercept at 2">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_225.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_225.jpg"/>
 </media>
 </problem></exercise></section><section id="fs-id1979221">
 <title>Numeric</title>
@@ -6601,7 +6601,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </m:math>
 </para></problem>
 <solution id="fs-id2241329"><media id="fs-id2241335" alt="Graph of f(x) = 2500x + 4000">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_214.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_214.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id2241349"><problem id="fs-id2241350"><para id="fs-id2241351"><link target-id="Table_04_01_12"/> shows the input, <m:math>
  <m:mrow>
@@ -6705,7 +6705,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </tbody>
 
 </tgroup>
-</table></problem><solution id="eip-idm528078304"><para id="eip-idm528078176"><list id="eip-idm439292752" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>11,900</m:mn><m:mtext>, </m:mtext><m:mo> </m:mo><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>1001.1</m:mn></m:mrow></m:math> </item>
+</table></problem><solution id="eip-idm528078304"><para id="eip-idm528078176"><list id="eip-idm439292752" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>11,900</m:mn><m:mtext>, </m:mtext><m:mo> </m:mo><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>1000.1</m:mn></m:mrow></m:math> </item>
 <item><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>q</m:mi><m:mo>(</m:mo><m:mi>p</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>1000</m:mn><m:mi>p</m:mi><m:mo> –</m:mo><m:mn>100</m:mn></m:mrow></m:math> </item>
 </list></para></solution></exercise><exercise id="fs-id2633952"><problem id="fs-id2633953"><para id="fs-id2633954">Graph the linear function <m:math>
  <m:mrow>
@@ -6774,7 +6774,7 @@ Ask yourself what numbers can be input to the function. In other words, what is 
 </m:math> </para></problem>
 <solution id="eip-idm326207600"><para id="eip-idm326207472">
   <media id="Figure_04_01_201" alt="graph where the function's slope is 75 and y-intercept is –22.5">
-    <image mime-type="image/jpeg" src="CNX_PreCalc_Figure_04_01_201.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/CNX_PreCalc_Figure_04_01_201.jpg"/>
   </media>
 </para></solution></exercise><exercise id="fs-id2512070"><problem id="fs-id2512071"><para id="fs-id2512072">Graph the linear function <m:math>
  <m:mrow>

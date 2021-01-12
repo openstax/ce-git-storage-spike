@@ -29,19 +29,19 @@ It is often helpful to <emphasis effect="bold">solve a formula for a specific va
 <tbody>
 <row valign="top">
 <entry valign="top" align="left">Write the formula.</entry>
-<entry valign="top" align="left"><media id="fs-id1167835595188" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_02_03_001a_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835595188" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_02_03_001a_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Remove the fraction on the right.</entry>
-<entry valign="top" align="left"><media id="fs-id1167834423545" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_02_03_001b_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167834423545" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_02_03_001b_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Simplify.</entry>
-<entry valign="top" align="left"><media id="fs-id1167832325472" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_02_03_001c_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167832325472" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_02_03_001c_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Divide both sides by <m:math><m:mrow><m:mi>π</m:mi><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math> </entry>
-<entry valign="top" align="left"><media id="fs-id1167831213473" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_02_03_001d_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167831213473" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_02_03_001d_img.jpg"/></media></entry>
 </row>
 </tbody>
 </tgroup>
@@ -66,8 +66,8 @@ It is often helpful to <emphasis effect="bold">solve a formula for a specific va
 </exercise></section></section><section id="eip-11"><title>Objective 2: Solve direct variation problems (IA 7.5.5)</title><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-704">Lindsay gets paid $15 per hour at her job. If we let <m:math><m:mi>s</m:mi></m:math> be her salary and <m:math><m:mi>h</m:mi></m:math> be the number of hours she has worked, we could model this situation with the equation <m:math><m:mi>S</m:mi><m:mo>=</m:mo><m:mn>15</m:mn><m:mi>h</m:mi></m:math> .
 </para><para id="eip-499">Lindsay’s salary is the product of a constant, 15, and the number of hours she works. We say that Lindsay’s salary <emphasis effect="bold">varies directly</emphasis> with the number of hours she works. <emphasis effect="bold">Two variables vary directly if one is the product of a constant and the other</emphasis>.</para><para id="eip-728">Which graph represents direct variation and why?</para>
 <para id="fs-id1163832158585">
-          <span class="token">ⓐ</span><media id="fs-id1167331213473" alt="."><image mime-type="image/jpeg" src="CNX_Coreq_Figure_05_08_001.jpg"/></media>
-          <span class="token">ⓑ</span> <media id="fs-id1167831214473" alt="."><image mime-type="image/jpeg" src="CNX_Coreq_Figure_05_08_002.jpg"/></media>
+          <span class="token">ⓐ</span><media id="fs-id1167331213473" alt="."><image mime-type="image/jpeg" src="../../media/CNX_Coreq_Figure_05_08_001.jpg"/></media>
+          <span class="token">ⓑ</span> <media id="fs-id1167831214473" alt="."><image mime-type="image/jpeg" src="../../media/CNX_Coreq_Figure_05_08_002.jpg"/></media>
     </para>
     <note id="eip-355"><title>Direct Variation</title><para id="fs-id1167835332296">For any two variables <emphasis effect="italics">x</emphasis> and <emphasis effect="italics">y</emphasis>, <emphasis effect="italics">y</emphasis> varies directly with <emphasis effect="italics">x</emphasis> if</para>
 <equation id="fs-id1167835304679" class="unnumbered"><label/> <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>k</m:mi><m:mi>x</m:mi><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>where</m:mtext><m:mspace width="0.2em"/><m:mi>k</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:mrow></m:math> </equation>
@@ -98,44 +98,44 @@ It is often helpful to <emphasis effect="bold">solve a formula for a specific va
 <row>
 <entry align="left">Write the formula for direct variation.</entry>
 <entry align="center"><media id="fs-id1167830700596" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_07_05_015a_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_07_05_015a_img.jpg"/>
 </media>
 </entry>
 </row>
 <row>
 <entry align="left">We will use <emphasis effect="italics">c</emphasis> in place of <emphasis effect="italics">y</emphasis> and <emphasis effect="italics">m</emphasis> in place of <emphasis effect="italics">x</emphasis>.</entry>
 <entry align="center"><media id="fs-id1167835339267" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_07_05_015b_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_07_05_015b_img.jpg"/>
 </media>
 </entry>
 </row>
 <row>
 <entry align="left">Substitute the given values for the variables.</entry>
 <entry align="center"><media id="fs-id1167831148800" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_07_05_015c_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_07_05_015c_img.jpg"/>
 </media>
 </entry>
 </row>
 <row>
 <entry align="left">Solve for the constant of variation.</entry>
 <entry align="center"><media id="fs-id1167831103299" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_07_05_015d_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_07_05_015d_img.jpg"/>
 </media><newline/><media id="fs-id1167831879987" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_07_05_015e_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_07_05_015e_img.jpg"/>
 </media>
 </entry>
 </row>
 <row>
 <entry align="left">Write the equation that relates <emphasis effect="italics">c</emphasis> and <emphasis effect="italics">m</emphasis>.</entry>
 <entry align="center"><media id="fs-id1167834053655" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_07_05_015f_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_07_05_015f_img.jpg"/>
 </media>
 </entry>
 </row>
 <row>
 <entry align="left">Substitute in the constant of variation.</entry>
 <entry align="center"><media id="fs-id1167835352469" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_07_05_015g_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_07_05_015g_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -155,21 +155,21 @@ It is often helpful to <emphasis effect="bold">solve a formula for a specific va
 <row>
 <entry align="left">Write the equation that relates <emphasis effect="italics">c</emphasis> and <emphasis effect="italics">m</emphasis>. <m:math><m:mrow><m:mspace width="1.4em"/></m:mrow></m:math> </entry>
 <entry align="center"> <m:math><m:mrow><m:mspace width="0.1em"/></m:mrow></m:math> <media id="fs-id1167835380271" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_07_05_016a_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_07_05_016a_img.jpg"/>
 </media>
 </entry>
 </row>
 <row>
 <entry align="left">Substitute the given value for <emphasis effect="italics">m</emphasis>.</entry>
 <entry align="center"> <m:math><m:mrow><m:mspace width="0.1em"/></m:mrow></m:math> <media id="fs-id1167834433091" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_07_05_016b_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_07_05_016b_img.jpg"/>
 </media>
 </entry>
 </row>
 <row>
 <entry align="left">Simplify.</entry>
 <entry align="center"> <m:math><m:mrow><m:mspace width="0.1em"/></m:mrow></m:math> <media id="fs-id1167835236743" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_07_05_016c_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_07_05_016c_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -300,7 +300,7 @@ It is often helpful to <emphasis effect="bold">solve a formula for a specific va
    </m:math> We saw functions like this one when we discussed power functions.
   </para><figure id="Figure_03_09_001" class="small">
    <media id="fs-id1165137507296" alt="Graph of y=(0.16)x where the horizontal axis is labeled, “s, Sales Price in Dollars”, and the vertical axis is labeled, “e, Earnings, $”.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_09_001.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_09_001.jpg"/>
    </media>
   </figure>
 
@@ -549,7 +549,7 @@ It is often helpful to <emphasis effect="bold">solve a formula for a specific va
 
      <figure id="Figure_03_09_002" class="small">
       <media id="fs-id1165137645610" alt="Graph of y=25/8(x^3) with the labeled points (2, 25) and (6, 675).">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_09_002.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_09_002.jpg"/>
       </media>
      </figure>
  </commentary>
@@ -696,7 +696,7 @@ It is often helpful to <emphasis effect="bold">solve a formula for a specific va
   </m:math>
   </para><figure id="Figure_03_09_003" class="small">
    <media id="fs-id1165135161265" alt="Graph of y=(14000)/x where the horizontal axis is labeled, “Depth, d (ft)”, and the vertical axis is labeled, “Temperature, T (Degrees Fahrenheit)”.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_09_003-9e56.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_09_003-9e56.jpg"/>
    </media>
   </figure>
 
@@ -1058,7 +1058,7 @@ It is often helpful to <emphasis effect="bold">solve a formula for a specific va
      <title>Analysis </title>
      <para id="fs-id1165137852181">The graph of this equation is a rational function, as shown in <link target-id="Figure_03_09_004"/>. </para><figure id="Figure_03_09_004" class="small">
       <media id="fs-id1165135631535" alt="Graph of y=25/(x^3) with the labeled points (2, 25) and (6, 25/27).">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_09_004.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_09_004.jpg"/>
       </media>
      </figure>
 </commentary>
@@ -2474,7 +2474,7 @@ and <m:math>
  </m:math>
 </para>
  <media id="fs-id1165137441679" alt="Graph of y=3/4(x^2).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_09_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_09_201.jpg"/>
 </media>
  </solution></exercise><exercise id="fs-id1165137785175">
  <problem id="fs-id1165137785177">
@@ -2512,7 +2512,7 @@ and <m:math>
  </m:math>
 </para>
  <media id="fs-id1165135358030" alt="Graph of y=1/3sqrt(x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_09_203.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_09_203.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165137460988">
  <problem id="fs-id1165137460990">
@@ -2554,7 +2554,7 @@ and <m:math>
   </m:math>
 </para>
  <media id="fs-id1165137742313" alt="Graph of y=4/(x^2).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_09_205.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_09_205.jpg"/>
 </media>
 </solution></exercise></section><section id="fs-id1165135193362"><title>Extensions</title><para id="fs-id1165137762704">For the following exercises, use Kepler’s Law, which states that the square of the time, <m:math>
   <m:mrow>
@@ -2721,7 +2721,7 @@ and
 </m:math>
 <newline count="1"/></para><para id="eip-id1165134241030">
  <media id="fs-id1165137460981" alt="Graph of f(x)=x^2-4x-5.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_09_206.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_09_206.jpg"/>
 </media>
 </para>
 </solution></exercise><exercise id="fs-id1165137863438">
@@ -3015,13 +3015,13 @@ and
 <exercise id="fs-id1165137846487"><problem id="fs-id1165137697060">
 
    <media id="fs-id1165135368421" alt="Graph of an odd-degree polynomial with two turning points.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_09_208.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_09_208.jpg"/>
 </media>
  </problem>
 </exercise><exercise id="fs-id1165135192893"><problem id="fs-id1165137742630">
 
    <media id="fs-id1165134313923" alt="Graph of an even-degree polynomial with two turning points.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_09_209.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_09_209.jpg"/>
 </media>
  </problem>
 <solution id="fs-id1165137539727">
@@ -3398,7 +3398,7 @@ and
   </m:math>
 <newline count="1"/></para><para id="eip-id1165134201651">
  <media id="fs-id1165135538551" alt="Graph of f(x)=(x+1)/(x-5).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_09_210.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_09_210.jpg"/>
 </media>
 </para>
 </solution></exercise><exercise id="fs-id1165135205950">
@@ -3463,7 +3463,7 @@ and
  </m:math>
 <newline count="1"/></para><para id="eip-id1165132972907">
  <media id="fs-id1165135178389" alt="Graph of f(x)=(3x^2-27)/(x^2+x-2).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_09_212.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_09_212.jpg"/>
 </media>
 </para>
 </solution></exercise><exercise id="fs-id1165134226797">
@@ -4025,7 +4025,7 @@ Degree: 5, leading coefficient: −2
    <exercise id="fs-id1165137871376"><problem id="fs-id1165137871378">
 
     <media id="fs-id1165135264841" alt="Graph of an odd-degree polynomial with two turning points.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_09_215.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_09_215.jpg"/>
     </media>
 
     </problem>
@@ -4442,7 +4442,7 @@ Degree: 5, leading coefficient: −2
 
  </m:math>
 
-<media id="eip-idm550436560" alt=""><image mime-type="jpeg" src="CNX_Precalc_Figure_05_221.jpg"/></media></para></solution></exercise><para id="fs-id1165137567083">Find the slant asymptote of the rational function.</para>
+<media id="eip-idm550436560" alt=""><image mime-type="jpeg" src="../../media/CNX_Precalc_Figure_05_221.jpg"/></media></para></solution></exercise><para id="fs-id1165137567083">Find the slant asymptote of the rational function.</para>
    <exercise id="fs-id1165137567086"><problem id="fs-id1165137567088">
      <para id="fs-id1165137567090"> <m:math>
       <m:mrow>

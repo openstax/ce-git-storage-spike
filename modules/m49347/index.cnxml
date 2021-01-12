@@ -91,7 +91,7 @@
       </m:mrow>
     </m:math> corresponding to 2006. Over which intervals is the revenue for the company increasing? Over which intervals is the revenue for the company decreasing? These questions, along with many others, can be answered by examining the graph of the polynomial function. We have already explored the local behavior of quadratics, a special case of polynomials. In this section we will explore the local behavior of polynomials in general.</para><section id="fs-id1165135510712"><title>Recognizing Characteristics of Graphs of Polynomial Functions</title><para id="fs-id1165134352567">Polynomial functions of degree 2 or more have graphs that do not have sharp corners; recall that these types of graphs are called smooth curves. Polynomial functions also display graphs that have no breaks. Curves with no breaks are called continuous. <link target-id="Figure_03_04_001"/> shows a graph that represents a <term class="no-emphasis">polynomial function</term> and a graph that represents a function that is not a polynomial.</para><figure id="Figure_03_04_001">
       <media id="fs-id1165135185916" alt="Graph of f(x)=x^3-0.01x.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_001.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_001.jpg"/>
       </media>
     </figure>
 
@@ -99,7 +99,7 @@
       <exercise id="fs-id1165137643218"><problem id="fs-id1165133360328">
           <title>Recognizing Polynomial Functions</title>
           <para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165137938673">Which of the graphs in <link target-id="Figure_03_04_002"/> represents a polynomial function?</para><figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="Figure_03_04_002" class="medium"><media id="fs-id1165135251463" alt="Two graphs in which one has a polynomial function and the other has a function closely resembling a polynomial but is not.">
-              <image mime-type="image/jpg" src="figure2n3combine.jpg"/>
+              <image mime-type="image/jpg" src="../../media/figure2n3combine.jpg"/>
             </media>
           </figure></problem>
         <solution id="fs-id1165134118594">
@@ -606,7 +606,7 @@
 
         <figure id="Figure_03_04_003" class="small">
           <media id="fs-id1165134380378" alt="Four graphs where the first graph is of an even-degree polynomial, the second graph is of an absolute function, the third graph is an odd-degree polynomial, and the fourth graph is a disjoint function.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_003-acfc.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_003-acfc.jpg"/>
           </media>
         </figure>
 </solution>
@@ -814,7 +814,7 @@
 
         <figure id="Figure_03_04_004" class="small">
           <media id="fs-id1165133344112" alt="Graph of f(x)=x^6-3x^4+2x^2 with its five intercepts, (-sqrt(2), 0), (-1, 0), (0, 0), (1, 0), and (sqrt(2), 0).">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_004.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_004.jpg"/>
           </media>
         </figure>
 </solution>
@@ -1003,7 +1003,7 @@
           <title>Analysis </title>
           <para id="fs-id1165135692892">We can always check that our answers are reasonable by using a graphing calculator to graph the polynomial as shown in <link target-id="Figure_03_04_005"/>.</para><figure id="Figure_03_04_005">
             <media id="fs-id1165135349148" alt="Graph of f(x)=x^3-5x^2-x+5 with its three intercepts (-1, 0), (1, 0), and (5, 0).">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_005.jpg" class="small"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_005.jpg" class="small"/>
             </media>
           </figure>
 </commentary>
@@ -1043,7 +1043,7 @@
             </m:mrow>
           </m:math>        </para><figure id="Figure_03_04_006" class="small">
           <media id="fs-id1165135543237" alt="Graph of g(x)=(x-2)^2(2x+3) with its two x-intercepts (2, 0) and (-3/2, 0) and its y-intercept (0, 12).">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_006.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_006.jpg"/>
           </media>
         </figure>
 
@@ -1239,7 +1239,7 @@
   <m:mspace width="0.8em"/><m:mi>x</m:mi><m:mtext>-</m:mtext>
  </m:mrow>
 </m:math> intercepts is different.</para><figure id="Figure_03_04_007" class="small"><media id="fs-id1165137933143" alt="Graph of h(x)=x^3+4x^2+x-6.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_007-ce92.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_007-ce92.jpg"/>
       </media>
     <caption>Identifying the behavior of the graph at an <emphasis effect="italics">x</emphasis>-intercept by examining the multiplicity of the zero.</caption></figure><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135407009">The <m:math>
  <m:mrow>
@@ -1348,7 +1348,7 @@
   <m:mspace width="0.8em"/><m:mi>x</m:mi><m:mtext>-</m:mtext>
  </m:mrow>
 </m:math> axis. See <link target-id="Figure_03_04_008"/> for examples of graphs of polynomial functions with multiplicity 1, 2, and 3.</para><figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="Figure_03_04_008"><media id="fs-id1165134589565" alt="Graph of f(x)=(x+3)(x-2)^2(x+1)^3.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_008_fixed.jpg" class="small"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_008_fixed.jpg" class="small"/>
       </media>
     </figure><para id="fs-id1165133078115">For higher even powers, such as 4, 6, and 8, the graph will still touch and bounce off of the horizontal axis but, for each increasing even power, the graph will appear flatter as it approaches and leaves the <m:math>
  <m:mrow>
@@ -1428,7 +1428,7 @@
 
           <figure id="Figure_03_04_009" class="small">
             <media id="fs-id1165134117221" alt="Three graphs showing three different polynomial functions with multiplicity 1, 2, and 3.">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_009.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_009.jpg"/>
             </media>
           </figure>
         </problem>
@@ -1469,7 +1469,7 @@
       <label>Try It</label>
       <exercise id="ti_03_04_02"><problem id="fs-id1165137932363"><para id="fs-id1165131968038">Use the graph of the function of degree 7 in <link target-id="Figure_03_04_010"/> to identify the zeros of the function and their multiplicities.</para><figure id="Figure_03_04_010" class="small">
           <media id="fs-id1165131968050" alt="Graph of an even-degree polynomial with degree 6.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_010-2698.jpg" class="small"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_010-2698.jpg" class="small"/>
           </media>
 </figure>
 </problem>
@@ -1557,7 +1557,7 @@
 </m:math> also increases without bound. If the leading term is negative, it will change the direction of the end behavior. <link target-id="Figure_03_04_011abcd"/> summarizes all four cases.</para>
 
 <figure id="Figure_03_04_011abcd"><media id="eip-id1165135341244" alt="Graph of a polynomial function with degree 5.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_011abcdn.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_011abcdn.jpg"/>
       </media>
 </figure></section><section id="fs-id1165134393046">
     <title> Understanding the Relationship between Degree and Turning Points</title>
@@ -1579,7 +1579,7 @@
  </m:mrow>
 </m:math> in <link target-id="Figure_03_04_015"/>. The graph has three turning points.</para><figure id="Figure_03_04_015" class="small">
       <media id="fs-id1165134155116" alt="Graph of an odd-degree polynomial with a negative leading coefficient. Note that as x goes to positive infinity, f(x) goes to negative infinity, and as x goes to negative infinity, f(x) goes to positive infinity.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_015-432f.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_015-432f.jpg"/>
       </media>
     </figure>
     <para id="fs-id1165137784439">This function <m:math>
@@ -1713,7 +1713,7 @@ is a 4<sup>th</sup> degree polynomial function and has 3 turning points. The max
 </item>
         </list><para id="fs-id1165133104532">First, identify the leading term of the polynomial function if the function were expanded.</para>
           <media id="fs-id1165134130071" alt="Graph of f(x)=x^4-x^3-4x^2+4x which denotes where the function increases and decreases and its turning points.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_016.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_016.jpg"/>
           </media>
         <para id="fs-id1165135551181">Then, identify the degree of the polynomial function. This polynomial function is of degree 4.</para>
         <para id="fs-id1165135551185">The maximum number of turning points is <m:math>
@@ -1871,7 +1871,7 @@ If a function is an odd function, its graph is symmetrical about the origin, tha
 </m:math>
 so the end behavior is that of a vertically reflected cubic, with the outputs decreasing as the inputs approach infinity, and the outputs increasing as the inputs approach negative infinity. See <link target-id="Figure_03_04_017"/>.</para><figure id="Figure_03_04_017" class="small">
           <media id="fs-id1165135646080" alt="Showing the distribution for the leading term.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_017.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_017.jpg"/>
           </media>
         </figure>
         <para id="fs-id1165134374738">To sketch this, we consider that:</para>
@@ -1950,7 +1950,7 @@ is not equal to <m:math>
 </m:math> intercept. See <link target-id="Figure_03_04_018"/>.</para></item>
         </list><figure id="Figure_03_04_018" class="small">
           <media id="fs-id1165135419795" alt="Graph of the end behavior and intercepts, (-3, 0) and (0, 90), for the function f(x)=-2(x+3)^2(x-5).">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_018.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_018.jpg"/>
           </media>
         </figure>
 
@@ -1964,7 +1964,7 @@ is not equal to <m:math>
  </m:mrow>
 </m:math> See <link target-id="Figure_03_04_019"/>.</para><figure id="Figure_03_04_019" class="small">
           <media id="fs-id1165135241013" alt="Graph of the end behavior and intercepts, (-3, 0), (0, 90) and (5, 0), for the function f(x)=-2(x+3)^2(x-5).">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_019.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_019.jpg"/>
           </media>
         </figure>
         <para id="fs-id1165135613608">As <m:math>
@@ -1978,7 +1978,7 @@ is not equal to <m:math>
 </m:math> so we know the graph continues to decrease, and we can stop drawing the graph in the fourth quadrant.</para><para id="fs-id1165135574296">Using technology, we can create the graph for the polynomial function, shown in <link target-id="Figure_03_04_020"/>, and verify that the resulting graph looks like our sketch in <link target-id="Figure_03_04_019"/>.</para>
 
         <figure id="Figure_03_04_020" class="small"><media id="fs-id1165137766748" alt="Graph of f(x)=-2(x+3)^2(x-5).">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_020.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_020.jpg"/>
           </media>
         <caption>The complete graph of the polynomial function <m:math>
  <m:mrow>
@@ -2018,7 +2018,7 @@ is not equal to <m:math>
 </m:math>
 </para></problem>
         <solution id="fs-id1165135264689"><media id="fs-id1165137843192" alt="Graph of f(x)=(1/4)x(x-1)^4(x+3)^3.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_021.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_021.jpg"/>
         </media>
       </solution>
       </exercise></note>
@@ -2141,7 +2141,7 @@ and <m:math>
 </para>
 
 <figure id="Figure_03_04_022" class="small"><media id="fs-id1165135347497" alt="Graph of an odd-degree polynomial function that shows a point f(a) that’s negative, f(b) that’s positive, and f(c) that’s 0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_022.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_022.jpg"/>
 </media>
 <caption>Using the Intermediate Value Theorem to show there exists a zero.</caption></figure><note id="fs-id1165135347510">
 <label/>
@@ -2303,7 +2303,7 @@ and <m:math>
 </m:math>
 </para>
 <figure id="Figure_03_04_023" class="small"><media id="Figure_03_04_0223" alt="Graph of f(x)=x^3-5x^2+3x+6 and shows, by the Intermediate Value Theorem, that there exists two zeros since f(1)=5  and f(4)=2 are positive and f(3) = -3 is negative.">
-    <image mime-type="image/jpeg" src="CNX_Precalc_Figure_03_04_023.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/CNX_Precalc_Figure_03_04_023.jpg"/>
   </media>
 
 
@@ -2477,7 +2477,7 @@ can be determined given a value of the function other than the <emphasis effect=
 <title>Writing a Formula for a Polynomial Function from the Graph</title>
   <para id="fs-id1165134043956">Write a formula for the polynomial function shown in <link target-id="Figure_03_04_024"/>.</para>
 <figure id="Figure_03_04_024" class="small"><media id="fs-id1165135621940" alt="Graph of a positive even-degree polynomial with zeros at x=-3, 2, 5 and y=-2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_024.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_024.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165135621953">
@@ -2618,7 +2618,7 @@ the graph passes through the axis linearly, suggesting the corresponding factors
   <problem id="fs-id1165135203389"><para id="fs-id1165135203390">Given the graph shown in <link target-id="Figure_03_04_025"/>, write a formula for the function shown.</para>
 <figure id="Figure_03_04_025" class="small">
   <media id="fs-id1165135559448" alt="Graph of a negative even-degree polynomial with zeros at x=-1, 2, 4 and y=-4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_025.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_025.jpg"/>
 </media>
 </figure>
 </problem>
@@ -2721,7 +2721,7 @@ the graph passes through the axis linearly, suggesting the corresponding factors
   <m:mspace width="0.8em"/><m:mi>x</m:mi><m:mo>.</m:mo>
  </m:mrow>
 </m:math> </para><para id="fs-id1165135347645">We can see the difference between local and global extrema in <link target-id="Figure_03_04_026"/>.</para><figure id="Figure_03_04_026" class="small"><media id="fs-id1165135347656" alt="Graph of an even-degree polynomial that denotes the local maximum and minimum and the global maximum.">
-<image mime-type="image/png" src="CNX_Precalc_Figure_03_04_026n.png"/>
+<image mime-type="image/png" src="../../media/CNX_Precalc_Figure_03_04_026n.png"/>
 </media>
 </figure></note>
 
@@ -2748,7 +2748,7 @@ the graph passes through the axis linearly, suggesting the corresponding factors
 
 <figure id="Figure_03_04_027" class="small">
   <media id="fs-id1165135523368" alt="Diagram of a rectangle with four squares at the corners.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_027.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_027.jpg"/>
 </media>
 </figure>
 
@@ -2834,7 +2834,7 @@ the graph passes through the axis linearly, suggesting the corresponding factors
  </m:mrow>
 </m:math> that are reasonable for this problem—values from 0 to 7.</para><figure id="Figure_03_04_028" class="small">
   <media id="fs-id1165137852816" alt="Graph of V(w)=(20-2w)(14-2w)w where the x-axis is labeled w and the y-axis is labeled V(w).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_028.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_028.jpg"/>
 </media>
 </figure>
   <para id="fs-id1165135440025">From this graph, we turn our focus to only the portion on the reasonable domain, <m:math>
@@ -2845,7 +2845,7 @@ the graph passes through the axis linearly, suggesting the corresponding factors
  </m:mrow>
 </m:math> We can estimate the maximum value to be around 340 cubic cm, which occurs when the squares are about 2.75 cm on each side. To improve this estimate, we could use advanced features of our technology, if available, or simply change our window to zoom in on our graph to produce <link target-id="Figure_03_04_029"/>.</para><figure id="Figure_03_04_029" class="small">
   <media id="fs-id1165133036015" alt="Graph of V(w)=(20-2w)(14-2w)w where the x-axis is labeled w and the y-axis is labeled V(w) on the domain [2.4, 3].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_029.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_029.jpg"/>
 </media>
 </figure>
 
@@ -4046,7 +4046,7 @@ with multiplicity 2, <m:math>
 
  <m:math><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow></m:mrow><m:mi>∞</m:mi></m:mrow></m:math>.
 </para><media id="fs-id1165135449706" alt="Graph of g(x)=(x+4)(x-1)^2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_202.jpg"/>
 </media>
 
 </solution>
@@ -4125,7 +4125,7 @@ with multiplicity 2, <m:math>
  <m:math><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow></m:mrow><m:mi>∞</m:mi><m:mo>.</m:mo>
  </m:mrow>
 </m:math> </para><media id="fs-id1165135419699" alt="Graph of k(x)=(x-3)^3(x-2)^2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_204.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_204.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165135419710"><problem id="fs-id1165135419711"><para id="fs-id1165135419712"> <m:math>
  <m:mrow>
@@ -4173,15 +4173,15 @@ with multiplicity 2, <m:math>
 </m:math>
 
 </para><media id="fs-id1165134087603" alt="Graph of n(x)=-3x(x+2)(x-4).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_206.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_206.jpg"/>
 </media>
 </solution></exercise><para id="fs-id1165134087616">For the following exercises, use the graphs to write the formula for a polynomial function of least degree.</para>
 <exercise id="fs-id1165134087620" class="material-set-2"><problem id="fs-id1165134087621">
   <media id="fs-id1165134087627" alt="Graph of a positive odd-degree polynomial with zeros at x=-2, 1, and 3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_04_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_04_207.jpg"/>
 </media>
 </problem></exercise><exercise id="fs-id1165134087640" class="material-set-2"><problem id="fs-id1165134087641"><media id="fs-id1165134087647" alt="Graph of a negative odd-degree polynomial with zeros at x=-3, 1, and 3.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_208.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_04_208.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165134087659"><para id="fs-id1165134087660"> <m:math>
@@ -4194,10 +4194,10 @@ with multiplicity 2, <m:math>
  </m:mrow>
 </m:math>
 </para></solution></exercise><exercise id="fs-id1165133360406" class="material-set-2"><problem id="fs-id1165133360407"><media id="fs-id1165133104539" alt="Graph of a negative odd-degree polynomial with zeros at x=-1, and 2.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_209.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_04_209.jpg"/>
 </media>
 </problem></exercise><exercise id="fs-id1165133104551" class="material-set-2"><problem id="fs-id1165133104552"><media id="fs-id1165133104559" alt="Graph of a positive odd-degree polynomial with zeros at x=-2, and 3.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_210.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_04_210.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165133104571"><para id="fs-id1165133104572"> <m:math>
@@ -4216,22 +4216,22 @@ with multiplicity 2, <m:math>
  </m:mrow>
 </m:math>
 </para></solution></exercise><exercise id="fs-id1165134155968" class="material-set-2"><problem id="fs-id1165134155970"><media id="fs-id1165134155976" alt="Graph of a negative even-degree polynomial with zeros at x=-3, -2, 3, and 4.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_211.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_04_211.jpg"/>
 </media>
 </problem></exercise><para id="fs-id1165134155988">For the following exercises, use the graph to identify zeros and multiplicity.</para>
 <exercise id="fs-id1165134155991" class="material-set-2"><problem id="fs-id1165134155992"><media id="fs-id1165134155999" alt="Graph of a negative even-degree polynomial with zeros at x=-4, -2, 1, and 3.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_212.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_04_212.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165134156011"><para id="fs-id1165134156012">–4, –2, 1, 3 with multiplicity 1</para></solution></exercise><exercise id="fs-id1165134156015" class="material-set-2"><problem id="fs-id1165134156016"><media id="fs-id1165134156023" alt="Graph of a positive even-degree polynomial with zeros at x=-4, -2, and 3.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_213.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_04_213.jpg"/>
 </media>
 </problem></exercise><exercise id="fs-id1165134347457" class="material-set-2"><problem id="fs-id1165134347458"><media id="fs-id1165134347464" alt="Graph of a positive even-degree polynomial with zeros at x=-2,, and 3.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_214.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_04_214.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165134347476"><para id="fs-id1165134347478">–2, 3 each with multiplicity 2</para></solution></exercise><exercise id="fs-id1165134347481" class="material-set-2"><problem id="fs-id1165134347482"><media id="fs-id1165134347488" alt="Graph of a negative odd-degree polynomial with zeros at x=-3, -2, and 1.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_215.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_04_215.jpg"/>
 </media>
 </problem></exercise><para id="fs-id1165134347500">For the following exercises, use the given information about the polynomial graph to write the equation.</para>
 <exercise id="fs-id1165134347505"><problem id="fs-id1165134347506"><para id="fs-id1165134347507">Degree 3. Zeros at <m:math>
@@ -4624,10 +4624,10 @@ local min <m:math>
 <title>Extensions</title>
 <para id="fs-id1165134402672">For the following exercises, use the graphs to write a polynomial function of least degree.</para>
 <exercise id="fs-id1165134402676"><problem id="fs-id1165134402677"><media id="fs-id1165134402683" alt="Graph of a positive odd-degree polynomial with zeros at x = negative 2/3, 1/2, and 4/3 and y = 8.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_216-111d.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_04_216-111d.jpg"/>
 </media>
 </problem></exercise><exercise id="fs-id1165134402695"><problem id="fs-id1165134402696"><media id="fs-id1165134402703" alt="Graph of a positive odd-degree polynomial with zeros at x=--200, and 500 and y=50000000.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_217.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_04_217.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165134402716"><para id="fs-id1165134402717"> <m:math>
@@ -4642,7 +4642,7 @@ local min <m:math>
  </m:mrow>
 </m:math>
 </para></solution></exercise><exercise id="fs-id1165137694912"><problem id="fs-id1165137694913"><media id="fs-id1165137694919" alt="Graph of a positive odd-degree polynomial with zeros at x=--300, and 100 and y=-90000.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_04_218.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_04_218.jpg"/>
 </media>
 </problem></exercise></section>
 <section id="fs-id1165137694933">

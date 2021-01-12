@@ -18,7 +18,7 @@
 
 <content>
 <figure id="CNX_Precalc_Figure_02_01_001"><media id="fs-id1165137433758" alt="Front view of a subway train, the maglev train.">
-<image src="CNX_Precalc_Figure_02_01_011.jpg" mime-type="image/jpg" width="325"/>
+<image src="../../media/CNX_Precalc_Figure_02_01_011.jpg" mime-type="image/jpg" width="325"/>
 </media>
 
 <caption>Shanghai MagLev Train (credit: “kanegen”/Flickr)</caption></figure><para id="fs-id1165137697072">Just as with the growth of a bamboo plant, there are many situations that involve constant change over time. Consider, for example, the first commercial maglev train in the world, the Shanghai MagLev Train (<link target-id="CNX_Precalc_Figure_02_01_001"/>). It carries passengers comfortably for a 30-kilometer trip from the airport to the subway station in only eight minutes.<footnote id="ch02mod01_fn01">http://www.chinahighlights.com/shanghai/transportation/maglev-train.htm</footnote></para>
@@ -105,7 +105,7 @@ is the original distance from the station, 250 meters. We can write a generalize
 
 <figure id="CNX_Precalc_Figure_02_01_015" class="medium">
 <media id="fs-id1165137759688" alt="Table with the first row, labeled t, containing the seconds from 0 to 3, and with the second row, labeled D(t), containing the meters 250 to 499. The first row goes up by 1 second, and the second row goes up by 83 meters.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_015.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_015.jpg"/>
 </media>
 <caption>Tabular representation of the function <emphasis effect="italics">D</emphasis> showing selected input and output values</caption>
 </figure>
@@ -127,7 +127,7 @@ is the original distance from the station, 250 meters. We can write a generalize
 and represents the distance of the train from the station when it began moving at a constant speed.</para>
 <figure id="CNX_Precalc_Figure_02_01_012" class="small">
 <media id="fs-id1165137698181" alt="A graph of an increasing function with points at (-2, -4) and (0, 2).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_012.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_012.jpg"/>
 </media>
 
 <caption>The graph of <m:math>
@@ -194,7 +194,7 @@ in pounds per square inch (PSI) on the diver in <link target-id="CNX_Precalc_Fig
 </m:mrow>
 </m:math> Restate this function in words.</para><figure id="CNX_Precalc_Figure_02_01_003" class="small">
 <media id="fs-id1165137565865" alt="Scuba diver.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_003.jpg"/>
 </media>
 <caption>(credit: Ilse Reijs and Jan-Noud Hutten)</caption>
 </figure>
@@ -214,7 +214,7 @@ in pounds per square inch (PSI) on the diver in <link target-id="CNX_Precalc_Fig
 
 <figure id="CNX_Precalc_Figure_02_01_004abc">
 <media id="fs-id1165137453957" alt="Three graphs depicting an increasing function, a decreasing function, and a constant function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_004abc.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_004abc.jpg"/>
 </media>
 </figure>
 
@@ -452,7 +452,7 @@ and <m:math>
 is calculated. Recall that the slope measures steepness. The greater the absolute value of the slope, the steeper the line is.</para>
 <figure id="CNX_Precalc_Figure_02_01_005" class="medium">
 <media id="fs-id1165137415842" alt="Graph depicting how to calculate the slope of a line">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_005.jpg"/>
 </media>
 
 <caption>The slope of a function is calculated by the change in <m:math>
@@ -1203,7 +1203,7 @@ and <m:math>
 </m:mrow>
 </m:math> describe the same line. See <link target-id="CNX_Precalc_Figure_02_01_013"/>.</para><figure id="CNX_Precalc_Figure_02_01_013" class="small">
 <media id="fs-id1165137925529" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_013.jpg"/>
 </media>
 </figure>
 
@@ -1548,7 +1548,7 @@ and <m:math>
 
 <figure id="CNX_Precalc_Figure_02_01_014" class="small">
 <media id="fs-id1165135154190" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_014.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_014.jpg"/>
 </media>
 </figure>
 
@@ -1769,7 +1769,7 @@ and <m:math>
 
 <figure id="CNX_Precalc_Figure_02_01_006" class="small">
 <media id="fs-id1165135182766" alt="Graph depicting how to calculate the slope of a line">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_006.jpg"/>
 </media>
 </figure>
 
@@ -1951,7 +1951,7 @@ and <m:math>
 </equation>
 <para id="fs-id1165137769983">If we wanted to find the slope-intercept form without first writing the point-slope form, we could have recognized that the line crosses the <emphasis effect="italics">y</emphasis>-axis when the output value is 7. Therefore, <m:math><m:mrow><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>7.</m:mn></m:mrow></m:math>
 We now have the initial value <m:math><m:mi>b</m:mi></m:math> and the slope <m:math><m:mi>m</m:mi></m:math> so we can substitute <m:math><m:mi>m</m:mi></m:math> and <m:math><m:mi>b</m:mi></m:math> into the slope-intercept form of a line.</para><media id="fs-id1165137548391" display="block" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_007.jpg"/>
 </media>
 
 
@@ -1992,7 +1992,7 @@ and the linear equation would be <m:math>
 
 <figure id="CNX_Precalc_Figure_02_01_008a" class="small">
 <media id="fs-id1165137439448" alt="Graph of an increasing function with points at (-3, 0) and (0, 1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_008a.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_008a.jpg"/>
 </media>
 </figure>
 </problem>
@@ -2170,7 +2170,7 @@ and the linear equation would be <m:math>
 <para id="fs-id1165135496505">This makes sense because we can see from <link target-id="CNX_Precalc_Figure_02_01_008b"/> that the line crosses the y-axis at the point <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow>  <m:mn>0</m:mn><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mn>2</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math>, which is the <emphasis effect="italics">y</emphasis>-intercept, so <m:math><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>2.</m:mn></m:math> </para>
 <figure id="CNX_Precalc_Figure_02_01_008b" class="small">
 <media id="fs-id1165137407613" alt="Graph of an increasing line with points at (0, 2) and (-2, -4).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_008b.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_008b.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -2451,7 +2451,7 @@ and the linear equation would be <m:math>
 <para id="fs-id1165135411394">The initial value for this function is 200 because he currently owns 200 songs, so <m:math><m:mrow><m:mi>N</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>200</m:mn><m:mo>,</m:mo></m:mrow></m:math> which means that <m:math><m:mrow><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>200.</m:mn></m:mrow></m:math> </para>
 <para id="fs-id1165137738190">The number of songs increases by 15 songs per month, so the rate of change is 15 songs per month. Therefore we know that <m:math><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>15.</m:mn></m:mrow></m:math> We can substitute the initial value and the rate of change into the slope-intercept form of a line.</para>
 <figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="CNX_Precalc_Figure_02_01_010" class="unnumbered"><media id="fs-id1165137417445" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_010.jpg"/>
 </media>
 </figure><para id="fs-id1165137810258">We can write the formula <m:math><m:mrow><m:mi>N</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>15</m:mn><m:mi>t</m:mi><m:mo>+</m:mo><m:mn>200.</m:mn></m:mrow></m:math> </para>
 <para id="fs-id1165137454711">With this formula, we can then predict how many songs Marcus will have in 1 year (12 months). In other words, we can evaluate the function at <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>12.</m:mn></m:mrow></m:math> </para>
@@ -3263,14 +3263,14 @@ and the linear equation would be <m:math>
 <exercise id="fs-id1165137737092" class="material-set-2"><problem id="fs-id1165137737094">
 
 <media id="fs-id1165137638038" display="block" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_201.jpg"/>
 </media>
 
 </problem>
 </exercise><exercise id="fs-id1165135195937" class="material-set-2"><problem id="fs-id1165135195939">
 
 <media id="fs-id1165137405241" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_202-314b.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_202-314b.jpg"/>
 </media>
 
 </problem>
@@ -3278,14 +3278,14 @@ and the linear equation would be <m:math>
 <para id="fs-id1165135245503"> <m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> </para></solution>
 </exercise><exercise id="fs-id1165137470735"><problem id="fs-id1165137851787">
 <media id="fs-id1165137851792" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_203-9ba5.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_203-9ba5.jpg"/>
 </media>
 </problem>
 </exercise><para id="fs-id1165137454184">For the following exercises, write an equation for the lines graphed.</para>
 
 <exercise id="fs-id1165137454188" class="material-set-2"><problem id="fs-id1165135189842">
 <media id="fs-id1165135189848" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_205-2fc2.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_205-2fc2.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165135186682">
@@ -3301,13 +3301,13 @@ and the linear equation would be <m:math>
 </para></solution>
 </exercise><exercise id="fs-id1165137661374" class="material-set-2"><problem id="fs-id1165137692090">
 <media id="fs-id1165137692095" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_206-cf9d.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_206-cf9d.jpg"/>
 </media>
 </problem>
 </exercise><exercise id="fs-id1165137828363" class="material-set-2"><problem id="fs-id1165137828365">
 
 <media id="fs-id1165137394600" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_207.jpg"/>
 </media>
 
 </problem>
@@ -3321,14 +3321,14 @@ and the linear equation would be <m:math>
 </exercise><exercise id="fs-id1165137677631" class="material-set-2"><problem id="fs-id1165137677633">
 
 <media id="fs-id1165135160253" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_208-5f32.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_208-5f32.jpg"/>
 </media>
 
 </problem>
 </exercise><exercise id="fs-id1165137663997" class="material-set-2"><problem id="fs-id1165137663999">
 
 <media id="fs-id1165135175196" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_209-ffd3.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_209-ffd3.jpg"/>
 </media>
 
 </problem>
@@ -3343,7 +3343,7 @@ and the linear equation would be <m:math>
 </exercise><exercise id="fs-id1165137767831" class="material-set-2"><problem id="fs-id1165137767833">
 
 <media id="fs-id1165137785002" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_210-0a01.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_210-0a01.jpg"/>
 </media>
 
 </problem>
@@ -3607,7 +3607,7 @@ and the linear equation would be <m:math>
 <solution id="fs-id1165137678561">
 
 <media id="fs-id1165137817569" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_214.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_214.jpg"/>
 </media>
 
 </solution>
@@ -3677,7 +3677,7 @@ and the linear equation would be <m:math>
 </tgroup>
 </table></problem>
 <solution id="fs-id1165135500746">
-<para id="fs-id1165135500748">a. <m:math><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>11</m:mn><m:mo>,</m:mo><m:mn>900</m:mn></m:mrow></m:math>; <m:math><m:mrow><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>1001.1</m:mn></m:mrow></m:math> b. <m:math><m:mrow><m:mi>q</m:mi><m:mo stretchy="false">(</m:mo><m:mi>p</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>1000</m:mn><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>100</m:mn></m:mrow></m:math> </para>
+<para id="fs-id1165135500748">a. <m:math><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>11</m:mn><m:mo>,</m:mo><m:mn>900</m:mn></m:mrow></m:math>; <m:math><m:mrow><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>1000.1</m:mn></m:mrow></m:math> b. <m:math><m:mrow><m:mi>q</m:mi><m:mo stretchy="false">(</m:mo><m:mi>p</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>1000</m:mn><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>100</m:mn></m:mrow></m:math> </para>
 </solution>
 </exercise>
 
@@ -3693,7 +3693,7 @@ and the linear equation would be <m:math>
 <solution id="fs-id1165137540098">
 
 <media id="fs-id1165137540104" alt="..">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_01_216.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_01_216.jpg"/>
 </media>
 
 </solution>

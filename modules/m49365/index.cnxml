@@ -37,7 +37,7 @@ For example, <m:math><m:mo stretchy="false">(</m:mo><m:mn>–3</m:mn><m:msup><m:
 <row valign="top">
 <entry valign="top" align="left">What does this mean?</entry>
 <entry valign="top" align="left"> <m:math><m:mrow><m:mspace width="5em"/></m:mrow></m:math> </entry>
-<entry valign="top" align="center"><media id="fs-id1167826978064" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_05_02_003b_img.jpg"/></media></entry>
+<entry valign="top" align="center"><media id="fs-id1167826978064" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_05_02_003b_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Now we see that</entry>
@@ -365,7 +365,7 @@ Use the Properties of Logarithms to condense the logarithm: <m:math><m:mn>2</m:m
 </exercise></section></section>
 </section>
 <figure id="CNX_Precalc_Figure_04_05_001" class="small"><media id="fs-id1165137431594" alt="Testing of the pH of hydrochloric acid.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_05_001F.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_05_001F.jpg"/>
 </media>
 
 <caption>The pH of hydrochloric acid is tested with litmus paper. (credit: David Berardan)</caption></figure><para id="fs-id1165137759741">In chemistry, <term class="no-emphasis">pH</term> is used as a measure of the acidity or alkalinity of a substance. The pH scale runs from 0 to 14. Substances with a pH less than 7 are considered acidic, and substances with a pH greater than 7 are said to be alkaline. Our bodies, for instance, must maintain a pH close to 7.35 in order for enzymes to work properly. To get a feel for what is acidic and what is alkaline, consider the following pH levels of some common substances:</para>

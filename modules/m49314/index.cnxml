@@ -18,7 +18,7 @@
 <content>
 
  <figure id="Figure_01_06_001" class="medium"><media id="fs-id1165137466427" alt="The Milky Way.">
-   <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_001n.jpg"/>
+   <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_001n.jpg"/>
   </media>
 
  <caption>Distances in deep space can be measured in all directions. As such, it is useful to consider distance in terms of absolute values. (credit: "s58y"/Flickr)</caption></figure><para id="fs-id1165137475222">Until the 1920s, the so-called spiral nebulae were believed to be clouds of dust and gas in our own galaxy, some tens of thousands of light years away. Then, astronomer Edwin Hubble proved that these objects are galaxies in their own right, at distances of millions of light years. Today, astronomers can detect galaxies that are billions of light years away. Distances in the universe can be measured in all directions. As such, it is useful to consider distance as an absolute value function. In this section, we will investigate <term class="no-emphasis">absolute value functions</term>.
@@ -81,7 +81,7 @@
        <m:mi>x</m:mi></m:mrow>
      </m:math> and 5 to be less than or equal to 4. We can draw a number line, such as the one in <link target-id="Figure_01_06_002"/>, to represent the condition to be satisfied.</para><figure id="Figure_01_06_002" class="small">
      <media id="fs-id1165137761581" alt="Number line describing the difference of the distance of 4 away from 5.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_002-2c3f.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_002-2c3f.jpg"/>
      </media>
     </figure>
      <para id="fs-id1165137772130">The distance from <m:math>
@@ -244,7 +244,7 @@
 <title>Graphing an Absolute Value Function</title>
 <para id="fs-id1165135570012">The most significant feature of the absolute value graph is the corner point at which the graph changes direction. This point is shown at the <term class="no-emphasis">origin</term> in <link target-id="Figure_01_06_003"/>.</para><figure id="Figure_01_06_003" class="small">
    <media id="fs-id1165137530693" alt="Graph of an absolute function">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_003-f97d.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_003-f97d.jpg"/>
    </media>
   </figure>
 
@@ -264,7 +264,7 @@
      <m:mo>)</m:mo></m:mrow></m:mrow>
   </m:math> for this transformed function.</para><figure id="Figure_01_06_004" class="small">
    <media id="fs-id1165137768813" alt="Graph of the different types of transformations for an absolute function.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_004-eab2.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_004-eab2.jpg"/>
    </media>
   </figure>
 
@@ -276,7 +276,7 @@
 
      <figure id="Figure_01_06_005" class="small">
       <media id="fs-id1165137838653" alt="Graph of an absolute function.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_005-7ac2.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_005-7ac2.jpg"/>
       </media>
      </figure>
 
@@ -287,7 +287,7 @@
 
     <figure id="Figure_01_06_006" class="small">
      <media id="fs-id1165137901124" alt="Graph of two transformations for an absolute function at (3, -2).">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_006-ccf0.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_006-ccf0.jpg"/>
      </media>
     </figure>
 
@@ -295,7 +295,7 @@
 
     <figure id="Figure_01_06_007" class="small">
      <media id="fs-id1165135388376" alt="Graph of two transformations for an absolute function at (3, -2) and describes the ratios between the two different transformations.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_007-b405.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_007-b405.jpg"/>
      </media>
     </figure>
 
@@ -415,7 +415,7 @@
 
    <figure id="Figure_01_06_008">
     <media id="fs-id1165135523418" alt="Graph of the different types of transformations for an absolute function.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_008abc-8a0c.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_008abc-8a0c.jpg"/>
     </media>
     <caption>(a) The absolute value function does not intersect the horizontal axis. (b) The absolute value function intersects the horizontal axis at one point. (c) The absolute value function intersects the horizontal axis at two points.</caption>
    </figure>
@@ -740,7 +740,7 @@
         <m:mi>x</m:mi><m:mo>=</m:mo><m:mo>−</m:mo><m:mn>2.</m:mn></m:mrow>
       </m:math> See <link target-id="Figure_01_06_011"/>.
       </para><figure id="Figure_01_06_011" class="medium"><media id="fs-id1165137662351" alt="Graph an absolute function with x-intercepts at -2 and 1.5.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_011F-d7a0.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_011F-d7a0.jpg"/>
       </media>
      </figure></solution>
    </exercise></example><note id="fs-id1165137599670" class="precalculus try">
@@ -886,7 +886,7 @@
 
     <figure id="Figure_01_06_012" class="small">
      <media id="fs-id1165135190179" alt="Graph of g(x)=4|x-2|+2 and f(x)=1.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_012.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_012.jpg"/>
      </media>
     </figure>
 
@@ -1215,7 +1215,7 @@ such that the distance between <m:math>
 
     <figure id="Figure_01_06_013" class="small">
      <media id="fs-id1165137704773" alt="Graph of an absolute function and a vertical line, demonstrating how to see what outputs are less than the vertical line.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_013.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_013.jpg"/>
      </media>
      <caption>Graph to find the points satisfying an absolute value inequality.</caption>
     </figure>
@@ -1579,7 +1579,7 @@ such that the distance between <m:math>
        </m:mrow>
      </m:math> and that the graph has been reflected vertically. See <link target-id="Figure_01_06_014"/><emphasis>.</emphasis></para><figure id="Figure_01_06_014" class="small">
      <media id="fs-id1165137728256" alt="Graph of an absolute function with x-intercepts at -0.25 and 2.75.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_014.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_014.jpg"/>
      </media>
     </figure>
 
@@ -2312,7 +2312,7 @@ such that the distance between <m:math>
    <solution id="fs-id1165137714274">
 
     <media id="fs-id1165135499906" alt="Graph of an absolute function with points at (-1, 2), (0, 1), (1, 0), (2, 1), and (3, 2).">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_201.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_201.jpg"/>
     </media>
 
    </solution></exercise><exercise id="fs-id1165137679099">
@@ -2334,7 +2334,7 @@ such that the distance between <m:math>
    <solution id="fs-id1165137414774">
 
     <media id="fs-id1165137658298" alt="Graph of an absolute function with points at (-2, 3), (-1, 2), (0, 1), (1, 2), and (2, 3).">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_203.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_203.jpg"/>
     </media>
   </solution></exercise><para id="fs-id1165137406944">For the following exercises, graph the given functions by hand.</para>
 
@@ -2357,7 +2357,7 @@ such that the distance between <m:math>
    <solution id="fs-id1165137400044">
 
     <media id="fs-id1165135160170" alt="Graph of an absolute function.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_205.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_205.jpg"/>
     </media>
  </solution></exercise><exercise id="fs-id1165137735265">
     <problem id="fs-id1165137431347">
@@ -2379,7 +2379,7 @@ such that the distance between <m:math>
    <solution id="fs-id1165137645253">
 
     <media id="fs-id1165135653964" alt="Graph of an absolute function.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_207.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_207.jpg"/>
     </media>
 
    </solution>
@@ -2402,7 +2402,7 @@ such that the distance between <m:math>
    <solution id="fs-id1165137434149">
 
     <media id="fs-id1165137553071" alt="Graph of an absolute function.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_209.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_209.jpg"/>
     </media>
 
    </solution>
@@ -2427,7 +2427,7 @@ such that the distance between <m:math>
    <solution id="fs-id1165137436399">
 
     <media id="fs-id1165137410325" alt="Graph of an absolute function.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_211.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_211.jpg"/>
     </media>
 
    </solution>
@@ -2455,7 +2455,7 @@ such that the distance between <m:math>
    <solution id="fs-id1165137433126">
 
     <media id="fs-id1165137654715" alt="Graph of an absolute function.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_213.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_213.jpg"/>
     </media>
 
    </solution>
@@ -2481,7 +2481,7 @@ such that the distance between <m:math>
    <solution id="fs-id1165137399944">
 
     <media id="fs-id1165137451010" alt="Graph of an absolute function.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_215.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_215.jpg"/>
     </media>
 
    </solution>
@@ -2520,7 +2520,7 @@ such that the distance between <m:math>
     </para>
 
     <media id="fs-id1165137564125" alt="Graph of an absolute function.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_217.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_217.jpg"/>
     </media>
 
     </solution>
@@ -2552,7 +2552,7 @@ such that the distance between <m:math>
  </m:mrow>
 </m:math> intercepts:</para>
     <media id="fs-id1165137784866" alt="Graph of an absolute function.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_06_219.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_06_219.jpg"/>
     </media>
 
 

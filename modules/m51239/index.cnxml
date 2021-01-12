@@ -1100,7 +1100,7 @@ Share your autobiographies with your study group members. This helps to create a
   <para id="fs-id2057634">The real numbers can be visualized on a horizontal number line with an arbitrary point chosen as 0, with negative numbers to the left of 0 and positive numbers to the right of 0. A fixed unit distance is then used to mark off each integer (or other basic value) on either side of 0. Any real number corresponds to a unique position on the number line.The converse is also true: Each location on the number line corresponds to exactly one real number. This is known as a one-to-one correspondence. We refer to this as the <term>real number line</term> as shown in <link target-id="Figure_01_01_001"/><emphasis>.</emphasis></para>
   <figure id="Figure_01_01_001" class="medium">
   <media id="fs-id1436073" alt="A number line that is marked from negative five to five">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_01_01_002.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_01_01_002.jpg"/>
   </media>
   <caption>The real number line</caption>
   </figure>
@@ -1282,7 +1282,7 @@ Share your autobiographies with your study group members. This helps to create a
   <para id="fs-id2447911">Beginning with the natural numbers, we have expanded each set to form a larger set, meaning that there is a subset relationship between the sets of numbers we have encountered so far. These relationships become more obvious when seen as a diagram, such as <link target-id="Figure_01_01_002"/>.</para>
 
   <figure id="Figure_01_01_002"><media id="fs-id3303121" alt="A large box labeled: Real Numbers encloses five circles. Four of these circles enclose each other and the other is separate from the rest. The innermost circle contains: 1, 2, 3… N. The circle enclosing that circle contains: 0 W. The circle enclosing that circle contains: …, -3, -2, -1 I. The outermost circle contains: m/n, n not equal to zero Q. The separate circle contains: pi, square root of two, etc Q´. ">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_01_01_001.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_01_01_001.jpg"/>
   </media>
 
   <caption>Sets of numbers<newline/><emphasis effect="italics">N</emphasis>: the set of natural numbers<newline/><emphasis effect="italics">W</emphasis>: the set of whole numbers<newline/><emphasis effect="italics">I</emphasis>: the set of integers<newline/><emphasis effect="italics">Q</emphasis>: the set of rational numbers<newline/><emphasis effect="italics">Q</emphasis>´: the set of irrational numbers</caption></figure><note id="fs-id931589">
@@ -2564,7 +2564,7 @@ Share your autobiographies with your study group members. This helps to create a
   <para id="fs-id3594964">This property combines both addition and multiplication (and is the only property to do so). Let us consider an example.</para>
 
   <media id="fs-id1567314" alt="The number four is separated by a multiplication symbol from a bracketed expression reading: twelve plus negative seven. Arrows extend from the four pointing to the twelve and negative seven separately. This expression equals four times twelve plus four times negative seven. Under this line the expression reads forty eight plus negative twenty eight. Under this line the expression reads twenty as the answer. ">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_01_01_003.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_01_01_003.jpg"/>
   </media>
 
   <para id="fs-id1719796">Note that 4 is outside the grouping symbols, so we distribute the 4 by multiplying it by 12, multiplying it by –7, and adding the products.</para>
@@ -4236,7 +4236,7 @@ Share your autobiographies with your study group members. This helps to create a
 
   <figure id="Figure_01_01_004" class="small">
   <media id="fs-id1441505" alt="A right circular cylinder with an arrow extending from the center of the top circle outward to the edge, labeled: r. Another arrow beside the image going from top to bottom, labeled: h. ">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_01_01_004.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_01_01_004.jpg"/>
   </media>
   <caption>Right circular cylinder</caption>
   </figure>
@@ -4311,7 +4311,7 @@ Share your autobiographies with your study group members. This helps to create a
 
   <figure id="Figure_01_01_005" class="small">
   <media id="fs-id2143933" alt="/ An art frame with a piece of artwork in the center. The frame has a width of 8 centimeters. The artwork itself has a length of 32 centimeters and a width of 24 centimeters.">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_01_01_005.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_01_01_005.jpg"/>
   </media>
   </figure>
   </problem>
@@ -5420,7 +5420,7 @@ Share your autobiographies with your study group members. This helps to create a
     <m:mo>.</m:mo></m:mrow>
   </m:math>
   </para></problem></exercise>
-  <exercise id="fs-id1979146"><problem id="fs-id2608456"><para id="fs-id2608457">The division of two whole numbers will always result in what type of number?</para></problem>
+  <exercise id="fs-id1979146"><problem id="fs-id2608456"><para id="fs-id2608457">The division of two natural numbers will always result in what type of number?</para></problem>
   <solution id="fs-id2608460"><para id="fs-id2608461"> rational</para></solution></exercise>
   <exercise id="fs-id2053806"><problem id="fs-id2053807"><para id="fs-id2053808">What property of real numbers would simplify the following expression: <m:math>
    <m:mrow>

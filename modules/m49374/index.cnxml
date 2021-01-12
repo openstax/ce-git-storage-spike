@@ -70,7 +70,7 @@
 
   <figure id="Figure_05_03_001" class="small">
    <media id="fs-id1165137533849" alt="Graph of circle with angle of t inscribed. Point of (x, y) is at intersection of terminal side of angle and edge of circle.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_001.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_001.jpg"/>
    </media>
   </figure>
 
@@ -255,7 +255,7 @@
  </m:mrow>
 </m:math>     </para><figure id="Figure_05_03_002" class="small">
       <media id="fs-id1165135209146" alt="Graph of circle with angle of t inscribed. Point of (negative square root of 3 over 2, 1/2) is at intersection of terminal side of angle and edge of circle.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_002.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_002.jpg"/>
       </media>
      </figure>
 
@@ -502,7 +502,7 @@
 
     <figure id="Figure_05_02_003" class="small">
      <media id="fs-id1165137417617" alt="Graph of circle with angle of t inscribed. Point of (square root of 2 over 2, negative square root of 2 over 2) is at intersection of terminal side of angle and edge of circle.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_003.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_003.jpg"/>
      </media>
     </figure>
 </para></problem>
@@ -1187,7 +1187,7 @@
 
   <figure id="Figure_05_03_004" class="small">
    <media id="fs-id1165134155093" alt="Graph of circle with each quadrant labeled. Under quadrant 1, labels fro sin t, cos t, tan t, sec t, csc t, and cot t. Under quadrant 2, labels for sin t and csc t. Under quadrant 3, labels for tan t and cot t. Under quadrant 4, labels for cos t, sec t.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_004.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_004.jpg"/>
    </media>
   </figure>
 
@@ -1502,7 +1502,7 @@
    </m:math>
   </para><figure id="Figure_05_03_005" class="medium">
    <media id="fs-id1165137817732" alt="Graph of parabola with points (-2, 4) and (2, 4) labeled.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_005.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_005.jpg"/>
    </media>
    <caption>The function <m:math>
     <m:mrow>
@@ -1539,7 +1539,7 @@
       <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow>
   </m:math> </para><figure id="Figure_05_03_006" class="small">
    <media id="fs-id1165135545756" alt="Graph of function with labels for points (-1, -1) and (1, 1).">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_006-2c7e.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_006-2c7e.jpg"/>
    </media>
    <caption>The function <m:math>
     <m:mrow>
@@ -1557,7 +1557,7 @@
    <m:mi>y</m:mi><m:mo>.</m:mo></m:mrow>
   </m:math> The sine of the negative angle is −<emphasis effect="italics">y</emphasis>. The <term class="no-emphasis">sine function</term>, then, is an odd function. We can test each of the six trigonometric functions in this fashion. The results are shown in <link target-id="Table_05_03_02"/>.</para><figure id="Figure_05_03_007" class="small">
    <media id="fs-id1165137637477" alt="Graph of circle with angle of t and -t inscribed. Point of (x, y) is at intersection of terminal side of angle t and edge of circle. Point of (x, -y) is at intersection of terminal side of angle -t and edge of circle.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_007.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_007.jpg"/>
    </media>
   </figure>
 
@@ -2636,7 +2636,7 @@
         <m:mi>t</m:mi></m:mrow>
       </m:math> is in quadrant IV, as shown in <link target-id="Figure_05_03_008"/>, find the values of the other five trigonometric functions.</para><figure id="Figure_05_03_008" class="small">
        <media id="fs-id1165137444782" alt="Graph of circle with angle of t inscribed. Point of (12/13, y) is at intersection of terminal side of angle and edge of circle.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_008.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_008.jpg"/>
        </media>
       </figure>
 
@@ -3114,7 +3114,7 @@
 
       <figure id="Figure_05_03_009" class="small">
        <media id="fs-id1165137692365" alt="Graph of circle with angle of t inscribed. Point of (1/2, negative square root of 3 over 2) is at intersection of terminal side of angle and edge of circle.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_009.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_009.jpg"/>
        </media>
       </figure>
 
@@ -3286,7 +3286,7 @@
 
      <figure id="Figure_05_03_010" class="small">
       <media id="fs-id1165132972951" alt="Graph of circle with angle of t inscribed. Point of (0, -1) is at intersection of terminal side of angle and edge of circle.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_010.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_010.jpg"/>
       </media>
      </figure>
      </problem>
@@ -4725,7 +4725,7 @@ and
    <para id="fs-id1165135453046">For the following exercises, use the angle in the unit circle to find the value of the each of the six trigonometric functions.</para>
    <exercise id="fs-id1165135453050" class="material-set-2"><problem id="fs-id1165135453051">
     <media id="fs-id1165135242858" alt="Graph of circle with angle of t inscribed. Point of (square root of 2 over 2, square root of 2 over 2) is at intersection of terminal side of angle and edge of circle." display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_201-d821.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_201-d821.jpg"/>
     </media>
 </problem>
     <solution id="fs-id1165137942478"> <para id="fs-id1165137942480"> <m:math>
@@ -4757,14 +4757,14 @@ and
     </para></solution></exercise><exercise id="fs-id1165134031177" class="material-set-2"><problem id="fs-id1165134031180">
 
       <media id="fs-id1165135193433" alt="Graph of circle with angle of t inscribed. Point of (square root of 3 over 2, 1/2) is at intersection of terminal side of angle and edge of circle." display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_202-d6a4.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_202-d6a4.jpg"/>
     </media>
 
     </problem>
    </exercise><exercise id="fs-id1165135181288" class="material-set-2"><problem id="fs-id1165135181290">
 
     <media id="fs-id1165134224517" alt="Graph of circle with angle of t inscribed. Point of (-1/2, negative square root of 3 over 2) is at intersection of terminal side of angle and edge of circle." display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_203-bbb7.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_203-bbb7.jpg"/>
     </media>
 
 </problem>

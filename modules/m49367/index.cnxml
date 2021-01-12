@@ -292,7 +292,7 @@ In 1906, San Francisco experienced an intense earthquake with a magnitude of 7.8
 </problem>
 
 </exercise></section></section></section><figure id="CNX_Precalc_Figure_04_07_001" class="small"><media id="fs-id1165137664850" alt="Inside a nuclear research reactor.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_07_001F.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_07_001F.jpg"/>
 </media>
 <caption>A nuclear research reactor inside the Neely Nuclear Research Center on the Georgia Institute of Technology campus (credit: Georgia Tech Research Institute)</caption></figure><para id="fs-id1165134081045">We have already explored some basic applications of exponential and logarithmic functions. In this section, we explore some important applications in more depth, including radioactive isotopes and Newton’s Law of Cooling.</para>
 
@@ -302,14 +302,14 @@ In 1906, San Francisco experienced an intense earthquake with a magnitude of 7.8
 
 <figure id="CNX_Precalc_Figure_04_07_002" class="small">
 <media id="fs-id1165137565761" alt="Graph of y=2e^(3x) with the labeled points (-1/3, 2/e), (0, 2), and (1/3, 2e) and with the asymptote at y=0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_07_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_07_002.jpg"/>
 </media>
 <caption>A graph showing exponential growth. The equation is <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mrow><m:mn>3</m:mn><m:mi>x</m:mi></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math> </caption>
 </figure>
 
 <figure id="CNX_Precalc_Figure_04_07_003" class="small">
 <media id="fs-id1165137600882" alt="Graph of y=3e^(-2x) with the labeled points (-1/2, 3e), (0, 3), and (1/2, 3/e) and with the asymptote at y=0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_07_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_07_003.jpg"/>
 </media>
 <caption>A graph showing exponential decay. The equation is <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:msup><m:mi>e</m:mi><m:mrow><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math> </caption>
 </figure>
@@ -332,7 +332,7 @@ In 1906, San Francisco experienced an intense earthquake with a magnitude of 7.8
 
 <figure id="CNX_Precalc_Figure_04_07_004" class="medium">
 <media id="fs-id1165135511596" alt="Two graphs of y=(A_0)(e^(kt)) with the asymptote at y=0. The first graph is of when k&gt;0 and with the labeled points (1/k, (A_0)e), (0, A_0), and (-1/k, (A_0)/e). The second graph is of when k&lt;0 and with the labeled points (-1/k, (A_0)e), (0, A_0), and (1/k, (A_0)/e).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_07_004new.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_07_004new.jpg"/>
 </media>
 
 <caption>An exponential function models exponential growth when <m:math><m:mrow><m:mi>k</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> and exponential decay when <m:math><m:mrow><m:mi>k</m:mi><m:mo>&lt;</m:mo><m:mn>0.</m:mn></m:mrow></m:math> </caption></figure></note><example id="Example_04_07_01">
@@ -419,7 +419,7 @@ In 1906, San Francisco experienced an intense earthquake with a magnitude of 7.8
 </m:mrow>
 </m:math> The graph is shown in <link target-id="CNX_Precalc_Figure_04_07_005"/>.</para>
 <figure id="CNX_Precalc_Figure_04_07_005" class="small"><media id="fs-id1165137715158" alt="A graph starting at ten on the y-axis and rising rapidly to the right.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_07_005_fixed.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_07_005_fixed.jpg"/>
 </media>
 
 <caption>The graph of <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>10</m:mn><m:msup><m:mi>e</m:mi><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>ln</m:mi><m:mn>2</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mi>t</m:mi></m:mrow></m:msup></m:mrow></m:math> </caption></figure></solution>
@@ -1911,7 +1911,7 @@ where
 </m:mrow>
 </m:math> is represented by the model</para><equation id="eip-391" class="unnumbered"><label/> <m:math display="block">
 <m:mrow>
-<m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
+<m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
 <m:mi>c</m:mi>
 <m:mrow>
 <m:mn>1</m:mn><m:mo>+</m:mo><m:mi>a</m:mi><m:msup>
@@ -1928,8 +1928,8 @@ where
 </equation><para id="fs-id1165135439859">The graph in <link target-id="CNX_Precalc_Figure_04_07_006"/> shows how the growth rate changes over time. The graph increases from left to right, but the growth rate only increases until it reaches its point of maximum growth rate, at which point the rate of increase decreases.</para>
 
 <figure id="CNX_Precalc_Figure_04_07_006" class="small">
-<media id="fs-id1165137725470" alt="Graph of f(x)=c/(1+ae^(-tx)). The carrying capacity is the asymptote at y=c. The initial value of population is (0, c/(1+a)). The point of maximum growth is (ln(a)/b, c/2).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_07_006.jpg"/>
+<media id="fs-id1165137725470" alt="Graph of f(t)=c/(1+ae^(-tx)). The carrying capacity is the asymptote at y=c. The initial value of population is (0, c/(1+a)). The point of maximum growth is (ln(a)/b, c/2).">
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_07_006.jpg"/>
 </media>
 </figure>
 
@@ -1939,7 +1939,7 @@ where
 
 <para id="fs-id1165135511485">The logistic growth model is</para><equation id="eip-id1165134239632" class="unnumbered"><label/> <m:math display="block">
 <m:mrow>
-<m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
+<m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
 <m:mi>c</m:mi>
 <m:mrow>
 <m:mn>1</m:mn><m:mo>+</m:mo><m:mi>a</m:mi><m:msup>
@@ -1996,7 +1996,7 @@ where
 <para id="fs-id1165135471239">We substitute the given data into the logistic growth model</para>
 <equation id="eip-id1165133200610" class="unnumbered"><label/> <m:math display="block">
 <m:mrow>
-<m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
+<m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
 <m:mi>c</m:mi>
 <m:mrow>
 <m:mn>1</m:mn><m:mo>+</m:mo><m:mi>a</m:mi><m:msup>
@@ -2039,7 +2039,7 @@ where
 </m:mrow>
 </m:math> This model predicts that, after ten days, the number of people who have had the flu is <m:math>
 <m:mrow>
-<m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
+<m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
 <m:mrow>
 <m:mn>1000</m:mn>
 </m:mrow>
@@ -2064,11 +2064,11 @@ where
 <title>Analysis </title>
 <para id="fs-id1165135445936">Remember that, because we are dealing with a virus, we cannot predict with certainty the number of people infected. The model only approximates the number of people infected and will not give us exact or actual values. </para>
 <para id="fs-id1165135344064">The graph in <link target-id="CNX_Precalc_Figure_04_07_007"/> gives a good picture of how this model fits the data.</para><figure id="CNX_Precalc_Figure_04_07_007" class="medium"><media id="fs-id1165135344072" alt="Graph of f(x)=1000/(1+999e^(-0.5030x)) with the y-axis labeled as “Cases” and the x-axis labeled as “Days”. There was 1 case on day 0, 20 on day 5, 294 on day 10, and 1000 on day 21.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_07_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_07_007.jpg"/>
 </media>
 <caption>The graph of <m:math>
 <m:mrow>
-<m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
+<m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
 <m:mrow>
 <m:mn>1000</m:mn></m:mrow>
 <m:mrow>
@@ -2151,7 +2151,7 @@ where
 
 <figure id="CNX_Precalc_Figure_04_07_008" class="small">
 <media id="fs-id1165135457081" alt="Graph of the previous table’s values.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_07_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_07_008.jpg"/>
 </media>
 </figure>
 
@@ -2259,7 +2259,7 @@ where
 </m:math> </para>
 <para id="fs-id1165135393414">To check the accuracy of the model, we graph the function together with the given points as in <link target-id="CNX_Precalc_Figure_04_07_009"/>.</para><figure id="CNX_Precalc_Figure_04_07_009" class="small">
 <media id="fs-id1165135393422" alt="Graph of previous table’s values showing that it fits the function y=2ln(x) with an asymptote at x=0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_07_009a.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_07_009a.jpg"/>
 </media>
 <caption>The graph of <m:math>
 <m:mrow>
@@ -2282,7 +2282,7 @@ where
 <m:mo>)</m:mo></m:mrow>
 </m:mrow>
 </m:math> shown in <link target-id="CNX_Precalc_Figure_04_07_009a"/>.</para><figure id="CNX_Precalc_Figure_04_07_009a" class="small"><media id="fs-id1165137635174" alt="Graph of previous table’s values showing that it fits the function y=2ln(x) with an asymptote at x=0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_07_009b.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_07_009b.jpg"/>
 </media>
 
 <caption>The graph of <m:math>
@@ -2356,7 +2356,7 @@ where
 </m:mrow>
 </m:math> can have negative domain values.</para><figure id="CNX_Precalc_Figure_04_07_010" class="small">
 <media id="fs-id1165134054923" alt="Graph of y=ln(x^2).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_07_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_07_010.jpg"/>
 </media>
 </figure>
 </solution>
@@ -3203,7 +3203,7 @@ where
 </table></para></problem>
 <solution id="fs-id1165137836553"><para id="fs-id1165137836554">logarithmic</para>
 <media id="fs-id1165137836562" alt="Graph of the question’s table.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_07_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_07_201.jpg"/>
 </media></solution>
 </exercise><exercise id="fs-id1165137836576"><problem id="fs-id1165135332894">
 <table id="fs-id1165135332896" summary=".." class="unnumbered"><label/>
@@ -3275,7 +3275,7 @@ where
 
 <solution id="fs-id1165134342556"><para id="fs-id1165134342557">logarithmic</para>
 <media id="fs-id1165134342565" alt="Graph of the question’s table.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_07_203.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_07_203.jpg"/>
 </media></solution>
 </exercise><exercise id="fs-id1165135532481"><problem id="fs-id1165135532483">
 <table id="fs-id1165135532486" summary=".." class="unnumbered"><label/>
@@ -3333,7 +3333,7 @@ where
 </m:mrow>
 </m:math> </para><exercise id="fs-id1165137611543"><problem id="fs-id1165137611545"><para id="fs-id1165137611546">Graph the function.</para></problem>
 <solution id="fs-id1165137611549"><media id="fs-id1165137611556" alt="Graph of P(t)=1000/(1+9e^(-0.6t))">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_07_205.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_07_205.jpg"/>
 </media></solution>
 </exercise><exercise id="fs-id1165134275365">
 <problem id="fs-id1165134275367"><para id="fs-id1165134275368">What is the initial population of fish?</para></problem>
@@ -3935,11 +3935,11 @@ where
 <para id="fs-id1165137580701">For the following exercises, find the value of the number shown on each logarithmic scale. Round all answers to the nearest thousandth.</para>
 <exercise id="fs-id1165137580706" class="material-set-2"><problem id="fs-id1165137580708">
 <media id="fs-id1165137428096" alt="Number line to show log(x) is between -1 and 0.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_07_206.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_07_206.jpg"/>
 </media>
 </problem>
 </exercise><exercise id="fs-id1165137428110" class="material-set-2"><problem id="fs-id1165137428113"><media id="fs-id1165134085824" alt="Number line to show log(x) is between 1 and 2.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_07_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_07_207.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165134085837"><para id="fs-id1165134085838"> <m:math>

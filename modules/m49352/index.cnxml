@@ -19,7 +19,7 @@
 
 <figure id="Figure_03_08_001" class="small">
 <media id="fs-id1165137939558" alt="Gravel in the shape of a cone.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_001.jpg"/>
 </media>
 </figure>
 
@@ -136,7 +136,7 @@
 
 <figure id="Figure_03_08_002" class="small">
 <media id="fs-id1165137471735" alt="Diagram of a parabolic trough that is 18” in height, 3’ in length, and 12” in width.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_002-1d36.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_002-1d36.jpg"/>
 </media>
 </figure>
 
@@ -152,7 +152,7 @@
 
 <figure id="Figure_03_08_003" class="small">
 <media id="fs-id1165137727320" alt="Graph of a parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_003.jpg"/>
 </media>
 </figure>
 
@@ -1182,7 +1182,7 @@ and <m:math>
  </m:mrow>
 </m:math> See <link target-id="Figure_03_08_004"/>.</para><figure id="Figure_03_08_004" class="small">
 <media id="fs-id1165137891279" alt="Graph of f(x)=5x^3+1 and its inverse, f^(-1)(x)=3sqrt((x-1)/(5)).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_004.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -1334,7 +1334,7 @@ and <m:math>
 
 <figure id="Figure_03_08_005" class="medium">
 <media id="fs-id1165137532798" alt="Two graphs of f(x)=(x-4)^2 where the first is when x&gt;=4 and the second is when x&lt;=4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_005.jpg"/>
 </media>
 </figure>
 
@@ -1610,7 +1610,7 @@ this gave us the values <m:math>
 
 <figure id="Figure_03_08_006">
 <media id="fs-id1165137471020" alt="Two graphs of a parabolic function with half of its inverse.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_006.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -1932,7 +1932,7 @@ this gave us the values <m:math>
 </para>
 <figure id="Figure_03_08_007" class="small">
 <media id="fs-id1165135194279" alt="Graph of a parabolic function with half of its inverse.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_007.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -2169,7 +2169,7 @@ with <m:math>
 
 <figure id="Figure_03_08_008" class="small">
 <media id="fs-id1165137803321" alt="Graph of f(x)=sqrt(x-4) and its inverse, f^(-1)(x)=x^2+4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_008.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -2506,7 +2506,7 @@ with <m:math>
 
 <figure id="Figure_03_08_009" class="medium">
 <media id="fs-id1165132950041" alt="Graph of a radical function that shows where the outputs are nonnegative.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_009.jpg"/>
 </media>
 </figure>
 
@@ -3517,7 +3517,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </para>
 
 <media id="fs-id1165137462220" alt="Graph of f(x)=4- x^2 and its inverse, f^(-1)(x)= sqrt(4-x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_202.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165135547140"><problem id="fs-id1165135547141"><para id="fs-id1165135547142"> <m:math>
  <m:mrow>
@@ -3568,7 +3568,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </para>
 
 <media id="fs-id1165137811172" alt="Graph of f(x)= (x-4)^2 and its inverse, f^(-1)(x)= sqrt(x)+4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_204.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_204.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165135187190"><problem id="fs-id1165135187191"><para id="fs-id1165135187192"> <m:math>
  <m:mrow>
@@ -3610,7 +3610,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </para>
 
 <media id="fs-id1165135694369" alt="Graph of f(x)= 1-x^3 and its inverse, f^(-1)(x)= (1-x)^(1/3).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_206.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_206.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165135368483"><problem id="fs-id1165135368484"><para id="fs-id1165135368485"> <m:math>
  <m:mrow>
@@ -3651,7 +3651,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </para>
 
 <media id="fs-id1165135678741" alt="Graph of f(x)= x^2-6x+1 and its inverse, f^(-1)(x)= sqrt(x+8)+3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_208.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_208.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165135206104"><problem id="fs-id1165135206105"><para id="fs-id1165135206106"> <m:math>
  <m:mrow>
@@ -3702,7 +3702,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </para>
 
 <media id="fs-id1165135187198" alt="Graph of f(x)= 1/x^2 and its inverse, f^(-1)(x)= sqrt(1/x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_210.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_210.jpg"/>
 </media>
 </solution></exercise><para id="fs-id1165137451122">For the following exercises, use a graph to help determine the domain of the functions.</para>
 <exercise id="fs-id1165137480291"><problem id="fs-id1165137480292"><para id="fs-id1165137480293"> <m:math>
@@ -3749,7 +3749,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </para>
 
 <media id="fs-id1165134557316" alt="Graph of f(x)= sqrt((x+2)(x-3)/(x-1)).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_212.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_212.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165135173418"><problem id="fs-id1165135173419"><para id="fs-id1165137772203"> <m:math>
  <m:mrow>
@@ -3801,7 +3801,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </para>
 
 <media id="fs-id1165135536640" alt="Graph of f(x)= sqrt((x^2-x-20)/(x-2)).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_214.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_214.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165137898053"><problem id="fs-id1165137898054"><para id="fs-id1165137898056"> <m:math>
  <m:mrow>
@@ -3846,7 +3846,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </m:math> </para>
 
 <media id="fs-id1165137470403" alt="Graph of f(x)= x^3-x-2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_216.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_216.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165137571412" class="material-set-2"><problem id="fs-id1165137571413"><para id="fs-id1165137571414"> <m:math>
  <m:mrow>
@@ -3876,7 +3876,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </para>
 
 <media id="fs-id1165135613310" alt="Graph of f(x)= x^3+3x-4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_218.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_218.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165137768493" class="material-set-2"><problem id="fs-id1165137414579"><para id="fs-id1165137414580"> <m:math>
  <m:mrow>
@@ -3906,7 +3906,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </para>
 
 <media id="fs-id1165137427214" alt="Graph of f(x)= x^4+5x+1.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_220.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_220.jpg"/>
 </media>
 </solution></exercise></section>
 <section id="fs-id1165137833145">

@@ -154,24 +154,24 @@ At (4, 3, 7):
     <entry namest="c1" nameend="c4"><emphasis>One Solution</emphasis></entry>
   </row>
   <row>
-    <entry namest="c1" nameend="c4">The three planes intersect at a common point.<newline/><media id="eip-idm184108288" alt="."><image mime-type="image/jpg" src="CNX_IntAlg_Figure_04_04_002h_img-02.jpg"/></media></entry>
+    <entry namest="c1" nameend="c4">The three planes intersect at a common point.<newline/><media id="eip-idm184108288" alt="."><image mime-type="image/jpg" src="../../media/CNX_IntAlg_Figure_04_04_002h_img-02.jpg"/></media></entry>
   </row>
   <row>
     <entry namest="c1" nameend="c4"><emphasis>No Solution</emphasis></entry>
   </row>
   <row>
-    <entry>The planes are parallel; they have no points in common.<newline/><media id="eip-idm416300624" alt="."><image mime-type="image/jpg" src="CNX_IntAlg_Figure_04_04_002a_img-02.jpg"/></media></entry>
-    <entry>Two planes are the same and they are parallel to the third plane. They have no points in common.<newline/><media id="eip-idm410083664" alt="."><image mime-type="image/jpg" src="CNX_IntAlg_Figure_04_04_002b_img-02.jpg"/></media></entry>
-    <entry>Two planes are parallel and they each intersect the third plane. They have no points in common.<newline/><media id="eip-idm197537344" alt="."><image mime-type="image/jpg" src="CNX_IntAlg_Figure_04_04_002c_img-02.jpg"/></media></entry>
-    <entry>Each plane intersects the other two but they have no points in common.<newline/><media id="eip-idm197535856" alt="."><image mime-type="image/jpg" src="CNX_IntAlg_Figure_04_04_002d_img-02.jpg"/></media></entry>
+    <entry>The planes are parallel; they have no points in common.<newline/><media id="eip-idm416300624" alt="."><image mime-type="image/jpg" src="../../media/CNX_IntAlg_Figure_04_04_002a_img-02.jpg"/></media></entry>
+    <entry>Two planes are the same and they are parallel to the third plane. They have no points in common.<newline/><media id="eip-idm410083664" alt="."><image mime-type="image/jpg" src="../../media/CNX_IntAlg_Figure_04_04_002b_img-02.jpg"/></media></entry>
+    <entry>Two planes are parallel and they each intersect the third plane. They have no points in common.<newline/><media id="eip-idm197537344" alt="."><image mime-type="image/jpg" src="../../media/CNX_IntAlg_Figure_04_04_002c_img-02.jpg"/></media></entry>
+    <entry>Each plane intersects the other two but they have no points in common.<newline/><media id="eip-idm197535856" alt="."><image mime-type="image/jpg" src="../../media/CNX_IntAlg_Figure_04_04_002d_img-02.jpg"/></media></entry>
   </row>
   <row>
     <entry namest="c1" nameend="c4"><emphasis>Infinitely many solutions</emphasis></entry>
   </row>
   <row>
-    <entry>The three planes intersect in one line. They have many points on that line in common.<newline/><media id="eip-idm503263792" alt="."><image mime-type="image/jpg" src="CNX_IntAlg_Figure_04_04_002e_img-02.jpg"/></media></entry>
-    <entry>Two planes are the same and intersect the third one in a line. they have many points on that line in common.<newline/><media id="eip-idm511002512" alt="."><image mime-type="image/jpg" src="CNX_IntAlg_Figure_04_04_002f_img-02.jpg"/></media></entry>
-    <entry namest="c3" nameend="c4">The three planes are exactly the same. They have many points in common.<newline/><media id="eip-idm265773824" alt="."><image mime-type="image/jpg" src="CNX_IntAlg_Figure_04_04_002g_img-02.jpg"/></media></entry>
+    <entry>The three planes intersect in one line. They have many points on that line in common.<newline/><media id="eip-idm503263792" alt="."><image mime-type="image/jpg" src="../../media/CNX_IntAlg_Figure_04_04_002e_img-02.jpg"/></media></entry>
+    <entry>Two planes are the same and intersect the third one in a line. they have many points on that line in common.<newline/><media id="eip-idm511002512" alt="."><image mime-type="image/jpg" src="../../media/CNX_IntAlg_Figure_04_04_002f_img-02.jpg"/></media></entry>
+    <entry namest="c3" nameend="c4">The three planes are exactly the same. They have many points in common.<newline/><media id="eip-idm265773824" alt="."><image mime-type="image/jpg" src="../../media/CNX_IntAlg_Figure_04_04_002g_img-02.jpg"/></media></entry>
   </row>
 
 </tbody>
@@ -200,19 +200,19 @@ At (4, 3, 7):
 <para id="fs-id1167833139042">Use equation (1) and (3) to eliminate <emphasis effect="italics">x</emphasis>.</para>
 <para id="fs-id1167836406682">
 <media id="fs-id1167836508275" alt="The equations are x plus 2y minus z equals 1, 2x plus 7y plus 4z equals 11 and x plus 3y plus z equals 4. Multiply equation 1 with minus 1 and add it to equation 3. We get equation 4, y plus 2z equals 3.">
-<image mime-type="image/jpeg" src="7_2_1.jpg"/>
+<image mime-type="image/jpeg" src="../../media/7_2_1.jpg"/>
 </media>
 </para>
 <para id="fs-id1167833022192">Use equation (1) and (2) to eliminate <emphasis effect="italics">x</emphasis> again.</para>
 <para id="fs-id1167829893720">
 <media id="fs-id1167826171290" alt="Multiply equation 1 with minus 2 and add it to equation 2. We get equation 5, 3y plus 6z equals 9.">
-<image mime-type="image/jpeg" src="7_2_2.jpg"/>
+<image mime-type="image/jpeg" src="../../media/7_2_2.jpg"/>
 </media>
 </para>
 <para id="fs-id1167836327517">Use equation (4) and (5) to eliminate <m:math><m:mi>y</m:mi></m:math> .</para>
 <para id="fs-id1167836789117">
 <media id="fs-id1171789696361" alt="Multiply equation 4 with minus 3 and add it to equation 5. We get 0 equal to 0. There are infinite many solutions. Solving equation 4 for y, we get y equal to minus 2z plus 3. Substituting this into equation 1, we get x equal to 5z minus 5. The true statement 0 equal to 0 tells us that this is a dependent system that has infinitely many solutions. The solutions are of the form x, y, z where x is 5z minus 5, y is minus 2z plus 3 and z is any real number.">
-<image mime-type="image/jpeg" src="7_2_3.jpg"/>
+<image mime-type="image/jpeg" src="../../media/7_2_3.jpg"/>
 </media>
 <table id="fs-id1167824774013" class="unnumbered unstyled" summary="">
 <label/>
@@ -296,7 +296,7 @@ Solve the system of linear equations with three variables <newline/>
 </problem>
 
 </exercise></section></section></section><figure id="Figure_09_02_005" class="small"><media id="fs-id1165135581219" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_02_005n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_02_005n.jpg"/>
 </media>
 
 <caption>(credit: “Elembis,” Wikimedia Commons)</caption></figure><para id="fs-id1165137936545">John received an inheritance of $12,000 that he divided into three parts and invested in three ways: in a money-market fund paying 3% annual interest; in municipal bonds paying 4% annual interest; and in mutual funds paying 7% annual interest. John invested $4,000 more in municipal funds than in municipal bonds. He earned $670 in interest the first year. How much did John invest in each type of fund?</para>
@@ -393,11 +393,11 @@ Solve the system of linear equations with three variables <newline/>
  </m:mrow>
 </m:math> Graphically, a system with no solution is represented by three planes with no point in common.</item>
 </list><figure id="Figure_09_02_006" class="small"><media id="fs-id1165134068818" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_02_006n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_02_006n.jpg"/>
 </media>
 
 <caption>(a)Three planes intersect at a single point, representing a three-by-three system with a single solution. (b) Three planes intersect in a line, representing a three-by-three system with infinite solutions.</caption></figure><figure id="Figure_09_02_007" class="small"><media id="fs-id1165137843093" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_02_007n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_02_007n.jpg"/>
 </media>
 
 <caption>All three figures represent three-by-three systems with no solution. (a) The three planes intersect with each other, but not at a common point. (b) Two of the planes are parallel and intersect with the third plane, but not with each other. (c) All three planes are parallel, so there is no point of intersection.</caption></figure></note>
@@ -929,7 +929,7 @@ Solve the system of linear equations with three variables <newline/>
  </m:mrow>
 </m:math> See <link target-id="Figure_09_02_008"/>.</para><figure id="Figure_09_02_008">
 <media id="fs-id1165134486749" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_02_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_02_008.jpg"/>
 </media>
 </figure>
 </solution>
@@ -1883,7 +1883,7 @@ Solve the system of linear equations with three variables <newline/>
 
 <figure id="Figure_09_02_009" class="small">
 <media id="fs-id1165135352994" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_02_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_02_009.jpg"/>
 </media>
 </figure>
 </commentary>

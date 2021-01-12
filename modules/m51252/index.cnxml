@@ -19,27 +19,27 @@
 </para><para id="eip-761">The figure below shows the number line with all the points plotted.
 </para>
 <media id="fs-id1167829714516" alt="Figure shows a number line with numbers ranging from minus 6 to 6. Various points on the line are highlighted. From left to right, these are: minus 5, minus 9 by 2, minus 4 by 5, 1 by 5, 4 by 5, 8 by 3 and 3.">
-<image mime-type="image/jpg" src="IntAlg_Figure_01_04_017_img_new.jpg"/>
+<image mime-type="image/jpg" src="../../media/IntAlg_Figure_01_04_017_img_new.jpg"/>
 </media>
 
 </example><section id="fs-id1167829693724" class="practice-perfect">
 <title>Practice Makes Perfect</title><para id="eip-38"><title>Plot each set of points on a real number line.</title></para><exercise id="eip-989"><problem id="eip-981">
   <para id="eip-418"> <m:math><m:mrow><m:mn>-5</m:mn><m:mo>,</m:mo><m:msqrt><m:mn>36</m:mn></m:msqrt><m:mo>,</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>,</m:mo><m:mn>3</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>,</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>8</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math>
    <space count="7"/> <media id="fs-id1167869714516" alt="Horizontal blank plot line with arrows on either side of the line.">
-<image mime-type="image/png" src="blankplot-d9a0.png"/>
+<image mime-type="image/png" src="../../media/blankplot-d9a0.png"/>
 </media></para></problem>
 
 </exercise><exercise id="eip-755"><problem id="eip-712">
   <para id="eip-563"> <m:math><m:mrow><m:mn>-π</m:mn><m:mo>,</m:mo><m:msqrt><m:mn>25</m:mn></m:msqrt><m:mo>,</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>,</m:mo><m:mn>0.8</m:mn><m:mo>,</m:mo><m:mn>2.55</m:mn><m:mo>,</m:mo><m:mo>-</m:mo><m:mfrac><m:mn>15</m:mn><m:mn>16</m:mn></m:mfrac></m:mrow></m:math>
    <space count="7"/> <media id="fs-id1159269714516" alt="Horizontal blank plot line with arrows on either side of the line.">
-<image mime-type="image/png" src="blankplot-d9a0.png"/>
+<image mime-type="image/png" src="../../media/blankplot-d9a0.png"/>
 </media></para></problem>
 
 
 </exercise><exercise id="eip-548"><problem id="eip-296">
   <para id="eip-483"> <m:math><m:mrow><m:mi>e</m:mi><m:mo>,</m:mo><m:msqrt><m:mn>5</m:mn></m:msqrt><m:mo>,</m:mo><m:mn>-2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>,</m:mo><m:mn>-0.75</m:mn><m:mo>,</m:mo><m:mo>-</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math>
    <space count="7"/> <media id="fs-id1159269611516" alt="Horizontal blank plot line with arrows on either side of the line.">
-<image mime-type="image/png" src="blankplot-d9a0.png"/>
+<image mime-type="image/png" src="../../media/blankplot-d9a0.png"/>
 </media>
   </para></problem></exercise></section></section>
 <section id="eip-943"><title>Objective 2: Plot points in a rectangular coordinate system (IA 3.1.1)</title><example id="eip-605"><exercise id="eip-738"><problem id="fs-id1167835416428">
@@ -55,7 +55,7 @@
 <span class="token">ⓓ</span> Since <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>,</m:mo></m:mrow></m:math> the point whose coordinates are <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>−1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> is on the <emphasis effect="italics">y</emphasis>-axis.<newline/>
 <span class="token">ⓔ</span> Since <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mo>,</m:mo></m:mrow></m:math> the point is to the right of the <emphasis effect="italics">y</emphasis>-axis. Since <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> the point is above the <emphasis effect="italics">x</emphasis>-axis. (It may be helpful to write <m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> as a mixed number or decimal.) The point <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> is in Quadrant I.<newline/>
 <media id="fs-id1167835356754" alt="This figure shows points plotted on the x y-coordinate plane. The x and y axes run from negative 6 to 6. The following points are labeled: (3, 5 divided by 2), (negative 2, 3), negative 5, 4), (negative 3, negative 4), and (2, negative 3).">
-<image mime-type="image/jpg" src="CNX_IntAlg_Figure_03_01_005_img_new.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_IntAlg_Figure_03_01_005_img_new.jpg"/>
 </media></para>
 </solution>
 </exercise></example>
@@ -83,7 +83,7 @@
 
 </section><figure id="Figure_02_01_001" class="medium">
 <media id="fs-id1340190" alt="Road map of a city with street names on an x, y coordinate grid. Various points are marked in red on the grid lines indicating different locations on the map.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_001.jpg"/>
 </media>
 </figure>
 <para id="fs-id2906377">Tracie set out from Elmhurst, IL, to go to Franklin Park. On the way, she made a few stops to do errands. Each stop is indicated by a red dot in <link target-id="Figure_02_01_001"/>. Laying a rectangular coordinate grid over the map, we can see that each stop aligns with an intersection of grid lines. In this section, we will learn how to use grid lines to describe locations and changes in locations.</para>
@@ -92,7 +92,7 @@
 <para id="fs-id2500615">An old story describes how seventeenth-century philosopher/mathematician René Descartes invented the system that has become the foundation of algebra while sick in bed. According to the story, Descartes was staring at a fly crawling on the ceiling when he realized that he could describe the fly’s location in relation to the perpendicular lines formed by the adjacent walls of his room. He viewed the perpendicular lines as horizontal and vertical axes. Further, by dividing each axis into equal unit lengths, Descartes saw that it was possible to locate any object in a two-dimensional plane using just two numbers—the displacement from the horizontal axis and the displacement from the vertical axis.</para><para id="fs-id1960277">While there is evidence that ideas similar to Descartes’ grid system existed centuries earlier, it was Descartes who introduced the components that comprise the <term>Cartesian coordinate system</term>, a grid system having perpendicular axes. Descartes named the horizontal axis the <term><emphasis effect="italics">x-</emphasis>axis</term> and the vertical axis the <term><emphasis effect="italics">y-</emphasis>axis</term>.</para><para id="fs-id1167648">The Cartesian coordinate system, also called the rectangular coordinate system, is based on a two-dimensional plane consisting of the <emphasis effect="italics">x</emphasis>-axis and the <emphasis effect="italics">y</emphasis>-axis. Perpendicular to each other, the axes divide the plane into four sections. Each section is called a <term>quadrant</term>; the quadrants are numbered counterclockwise as shown in <link target-id="Figure_02_01_002"/></para>
 <figure id="Figure_02_01_002" class="small">
 <media id="fs-id1296956" alt="This is an image of an x, y plane with the axes labeled. The upper right section is labeled: Quadrant I.  The upper left section is labeled: Quadrant II.  The lower left section is labeled: Quadrant III.  The lower right section is labeled: Quadrant IV.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_002.jpg"/>
 </media>
 </figure>
 <para id="fs-id1423341">The center of the plane is the point at which the two axes cross. It is known as the <term>origin</term>, or point <m:math>
@@ -102,7 +102,7 @@
 </m:math> From the origin, each axis is further divided into equal units: increasing, positive numbers to the right on the <emphasis effect="italics">x-</emphasis>axis and up the <emphasis effect="italics">y-</emphasis>axis; decreasing, negative numbers to the left on the <emphasis effect="italics">x-</emphasis>axis and down the <emphasis effect="italics">y-</emphasis>axis. The axes extend to positive and negative infinity as shown by the arrowheads in <link target-id="Figure_02_01_003"/>.</para>
 <figure id="Figure_02_01_003" class="small">
 <media id="fs-id2302074" alt="This is an image of an x, y coordinate plane.  The x and y axis range from negative 5 to 5. ">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_003.jpg"/>
 </media>
 </figure>
 <para id="fs-id1787344">Each point in the plane is identified by its <term><emphasis effect="italics">x-</emphasis>coordinate</term>, or horizontal displacement from the origin, and its <term><emphasis effect="italics">y-</emphasis>coordinate</term>, or vertical displacement from the origin. Together, we write them as an <term>ordered pair</term> indicating the combined distance from the origin in the form <m:math>
@@ -118,7 +118,7 @@
 </m:math> in the plane by moving three units to the right of the origin in the horizontal direction, and one unit down in the vertical direction. See <link target-id="Figure_02_01_004"/>.</para>
 <figure id="Figure_02_01_004" class="small">
 <media id="fs-id2433756" alt="This is an image of an x, y coordinate plane. The x and y axis range from negative 5 to 5.  The point (3, -1) is labeled.  An arrow extends rightward from the origin 3 units and another arrow extends downward one unit from the end of that arrow to the point. ">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_004.jpg"/>
 </media>
 </figure>
 <para id="fs-id3155322">When dividing the axes into equally spaced increments, note that the <emphasis effect="italics">x-</emphasis>axis may be considered separately from the <emphasis effect="italics">y-</emphasis>axis. In other words, while the <emphasis effect="italics">x-</emphasis>axis may be divided and labeled according to consecutive integers, the <emphasis effect="italics">y-</emphasis>axis may be divided and labeled by increments of 2, or 10, or 100. In fact, the axes may represent other units, such as years against the balance in a savings account, or quantity against cost, and so on. Consider the rectangular coordinate system primarily as a method for showing the relationship between two quantities.</para>
@@ -202,7 +202,7 @@
 </m:math> begin again at the origin. The <emphasis effect="italics">x</emphasis>-coordinate is 0. This tells us not to move in either direction along the <emphasis effect="italics">x</emphasis>-axis. The <emphasis effect="italics">y</emphasis>-coordinate is –3, so move three units down in the negative <emphasis effect="italics">y</emphasis> direction. See the graph in <link target-id="Figure_02_01_005"/>.</para>
 <figure id="Figure_02_01_005" class="small">
 <media id="fs-id2187492" alt="This is an image of a graph on an x, y coordinate plane. The x and y axes range from negative 5 to 5.  The points (-2, 4); (3, 3); and (0, -3) are labeled.  Arrows extend from the origin to the points.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_005.jpg"/>
 </media>
 </figure>
 </solution>
@@ -381,7 +381,7 @@
 </table><para id="fs-id1386116">We can plot the points in the table. The points for this particular equation form a line, so we can connect them. See <link target-id="Figure_02_01_006"/><emphasis>. </emphasis>This is not true for all equations.</para>
 <figure id="Figure_02_01_006" class="medium">
 <media id="fs-id1542084" alt="This is a graph of a line on an x, y coordinate plane. The x- and y-axis range from negative 8 to 8.  A line passes through the points (-3, -7); (-2, -5); (-1, -3); (0, -1); (1, 1); (2, 3); and (3, 5).  ">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_006.jpg"/>
 </media>
 </figure>
 <para id="fs-id2522154">Note that the <emphasis effect="italics">x-</emphasis>values chosen are arbitrary, regardless of the type of equation we are graphing. Of course, some situations may require particular values of <emphasis effect="italics">x</emphasis> to be plotted in order to see a particular result. Otherwise, it is logical to choose values that can be calculated easily, and it is always a good idea to choose values that are both negative and positive. There is no rule dictating how many points to plot, although we need at least two to graph a line. Keep in mind, however, that the more points we plot, the more accurately we can sketch the graph.</para>
@@ -598,7 +598,7 @@
 </table><para id="fs-id2330968">Now, plot the points. Connect them if they form a line. See <link target-id="Figure_02_01_007"/></para>
 <figure id="Figure_02_01_007" class="medium">
 <media id="fs-id1925284" alt="This image is a graph of a line on an x, y coordinate plane. The x-axis includes numbers that range from negative 7 to 7. The y-axis includes numbers that range from negative 5 to 8.  A line passes through the  points: (-5, 7); (-3, 5); (-1, 3); (0, 2); (1, 1); (3, -1); and (5, -3).">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_007.jpg"/>
 </media>
 </figure>
 </solution>
@@ -799,7 +799,7 @@
 
 </tgroup>
 </table><media id="fs-id2440549" alt="This is an image of a graph on an x, y coordinate plane. The x and y-axis range from negative 5 to 5.  A line passes through the points (-2, 1); (-1, 3/2); (0, 2); (1, 5/2); and (2, 3).">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_008.jpg"/>
 </media>
 </solution>
 </exercise></note>
@@ -819,13 +819,13 @@
 <m:mn>−10</m:mn><m:mo>≤</m:mo><m:mi>y</m:mi><m:mo>≤</m:mo><m:mn>10.</m:mn> </m:mrow>
 </m:math> See <link target-id="Figure_02_01_09"/><emphasis>c</emphasis>.</para>
 <figure id="Figure_02_01_09" class="medium"><media id="fs-id1536578" alt="This is an image of three side-by-side calculator screen captures.  The first screen is the plot screen with the function y sub 1 equals two times x minus twenty.  The second screen shows the plotted line on the coordinate plane.  The third screen shows the window edit screen with the following settings: Xmin = -10; Xmax = 10; Xscl = 1; Ymin = -10; Ymax = 10; Yscl = 1; Xres = 1.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_009abcN.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_009abcN.jpg"/>
 </media>
 
 <caption>a. Enter the equation. b. This is the graph in the original window. c. These are the original settings.</caption></figure><para id="fs-id1416938">By changing the window to show more of the positive <emphasis effect="italics">x-</emphasis>axis and more of the negative <emphasis effect="italics">y-</emphasis>axis, we have a much better view of the graph and the <emphasis effect="italics">x-</emphasis> and <emphasis effect="italics">y-</emphasis>intercepts. See <link target-id="Figure_02_01_10"/><emphasis>a</emphasis> and <link target-id="Figure_02_01_10"/><emphasis>b.</emphasis></para>
 
 <figure id="Figure_02_01_10" class="small"><media id="fs-id1252717" alt="This is an image of two side-by-side calculator screen captures.  The first screen is the window edit screen with the following settings: Xmin = negative 5; Xmax = 15; Xscl = 1; Ymin = -30; Ymax = 10; Yscl = 1; Xres =1.  The second screen shows the plot of the previous graph, but is more centered on the line.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_010ab.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_010ab.jpg"/>
 </media>
 
 <caption>a. This screen shows the new window settings. b. We can clearly view the intercepts in the new window.</caption></figure><example id="Example_02_01_03">
@@ -851,7 +851,7 @@
 <para id="fs-id781084">Enter the equation in the <emphasis effect="italics">y=</emphasis> function of the calculator. Set the window settings so that both the <emphasis effect="italics">x-</emphasis> and <emphasis effect="italics">y-</emphasis> intercepts are showing in the window. See <link target-id="Figure_02_01_011"/>.</para>
 <figure id="Figure_02_01_011" class="small">
 <media id="fs-id1272802" alt="This image is of a line graph on an x, y coordinate plane. The x-axis has numbers that range from negative 3 to 4. The y-axis has numbers that range from negative 3 to 3.  The function y = -2x/3 + 4/3 is plotted.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_011.jpg"/>
 </media>
 </figure>
 </solution>
@@ -973,7 +973,7 @@
 </m:math> </equation><para id="fs-id1730534">We can confirm that our results make sense by observing a graph of the equation as in <link target-id="Figure_02_01_012"/>. Notice that the graph crosses the axes where we predicted it would.</para>
 <figure id="Figure_02_01_012" class="small">
 <media id="fs-id1458702" alt="This is an image of a line graph on an x, y coordinate plane. The x and y-axis range from negative 4 to 4.  The function y = 3x – 1 is plotted on the coordinate plane">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_012.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_012.jpg"/>
 </media>
 </figure>
 <note id="fs-id1780189">
@@ -1091,7 +1091,7 @@
 </equation><para id="fs-id2504052">Plot both points, and draw a line passing through them as in <link target-id="Figure_02_01_013"/>.</para>
 <figure id="Figure_02_01_013" class="small">
 <media id="fs-id2433829" alt="This is an image of a line graph on an x, y coordinate plane. The x-axis ranges from negative 5 to 5. The y-axis ranges from negative 6 to 3.  The line passes through the points (-4/3, 0) and (0, -4). ">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_013.jpg"/>
 </media>
 </figure>
 </solution>
@@ -1129,7 +1129,7 @@
 </m:math> </para>
 
 <media id="fs-id1297236" alt="This is an image of a line graph on an x, y coordinate plane. The x and y axes range from negative 4 to 6.  The function y = -3x/4 + 3 is plotted.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_014.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_014.jpg"/>
 </media>
 </solution>
 </exercise></note>
@@ -1154,7 +1154,7 @@
  </m:mrow>
 </m:math> is based on a right triangle where <emphasis effect="italics">a </emphasis>and <emphasis effect="italics">b</emphasis> are the lengths of the legs adjacent to the right angle, and <emphasis effect="italics">c</emphasis> is the length of the hypotenuse. See <link target-id="Figure_02_01_015"/>.</para><figure id="Figure_02_01_015" class="small">
 <media id="fs-id553958" alt="This is an image of a triangle on an x, y coordinate plane. The x and y axes range from 0 to 7. The points (x sub 1, y sub 1); (x sub 2, y sub 1); and (x sub 2, y sub 2) are labeled and connected to form a triangle.  Along the base of the triangle, the following equation is displayed: the absolute value of x sub 2 minus x sub 1 equals a. The hypotenuse of the triangle is labeled: d = c.  The remaining side is labeled: the absolute value of y sub 2 minus y sub 1 equals b.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_015.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_015.jpg"/>
 </media>
 </figure>
 <para id="fs-id1151919">The relationship of sides <m:math>
@@ -1421,7 +1421,7 @@
 <para id="fs-id3223093">Let us first look at the graph of the two points. Connect the points to form a right triangle as in <link target-id="Figure_02_01_016"/><emphasis>.</emphasis></para>
 <figure id="Figure_02_01_016" class="small">
 <media id="fs-id1532033" alt="This is an image of a triangle on an x, y coordinate plane. The x-axis ranges from negative 4 to 4. The y-axis ranges from negative 2 to 4.  The points (-3, -1); (2, -1); and (2, 3) are plotted and labeled on the graph.  The points are connected to form a triangle">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_016.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_016.jpg"/>
 </media>
 </figure>
 <para id="fs-id1211736">Then, calculate the length of <emphasis effect="italics">d </emphasis>using the distance formula.</para>
@@ -1627,7 +1627,7 @@
 </m:math> We can label these points on the grid as in <link target-id="Figure_02_01_017"/>.</para>
 <figure id="Figure_02_01_017" class="medium">
 <media id="fs-id2708427" alt="This is an image of a road map of a city. The point (1, 1) is on North Avenue and Bertau Avenue.  The point (5, 1) is on North Avenue and Wolf Road.  The point (8, 3) is on Mannheim Road and McLean Street.  The point (8, 7) is on Mannheim Road and Schiller Avenue.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_017.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_017.jpg"/>
 </media>
 </figure>
 <para id="fs-id2777115">Next, we can calculate the distance. Note that each grid unit represents 1,000 feet.</para>
@@ -1958,7 +1958,7 @@
 </m:math> </equation>
 <para id="fs-id2837053">A graphical view of a midpoint is shown in <link target-id="Figure_02_01_018"/>. Notice that the line segments on either side of the midpoint are congruent.</para>
 <figure id="Figure_02_01_018" class="small"><media id="fs-id2484102" alt="This is a line graph on an x, y coordinate plane with the x and y axes ranging from 0 to 6. The points (x sub 1, y sub 1), (x sub 2, y sub 2), and (x sub 1 plus x sub 2 all over 2, y sub 1 plus y sub 2 all over 2) are plotted.  A straight line runs through these three points. Pairs of short parallel lines bisect the two sections of the line to note that they are equivalent.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_018.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_018.jpg"/>
 </media>
 </figure><example id="Example_02_01_07">
 <exercise id="fs-id3008576">
@@ -2587,7 +2587,7 @@
  </m:mrow>
 </m:math> </para>
 <media id="fs-id2387110" alt="This is an image of a blank x, y coordinate plane with the x and y axes ranging from negative 5 to 5.">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_201.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_201.jpg"/>
  </media>
 </problem></exercise>
 <exercise id="fs-id1341660"><problem id="fs-id1341661"><para id="fs-id1341662"> <m:math>
@@ -2596,12 +2596,12 @@
  </m:mrow>
 </m:math>
 </para><media id="fs-id3165041" alt="This is an image of a blank x, y coordinate plane with the x and y axes ranging from negative 5 to 5.">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_201.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_201.jpg"/>
  </media>
 </problem>
 <solution id="fs-id1388008"><para id="fs-id1319659"><newline/>
 <media id="fs-id1319663" alt="This is an image of an x, y coordinate plane with the x and y axes ranging from negative 5 to 5. The points (0,4); (-1,2) and (2,1) are plotted and labeled.">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_203.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_203.jpg"/>
  </media>
 </para><para id="fs-id2797393">not collinear
 </para></solution></exercise>
@@ -2624,12 +2624,12 @@
 </m:math>
 </para>
 <media id="fs-id2918881" alt="This is an image of a blank x, y coordinate plane with the x and y axes ranging from negative 5 to 5.">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_201.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_201.jpg"/>
  </media>
 </problem></exercise>
 <exercise id="fs-id2453414"><problem id="fs-id2453415"><para id="fs-id2453416">Name the coordinates of the points graphed.</para>
 <media id="fs-id1333042" alt="This is an image of an x, y coordinate plane where the x and y-axis range from negative 5 to 5. Three points are plotted: A, B, and C.">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_205.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_205.jpg"/>
  </media>
 </problem>
 <solution id="fs-id3158702"><para id="fs-id3158703"> <m:math>
@@ -2745,7 +2745,7 @@
 </table>
 <para id="fs-id1920362">
 <media id="fs-id1920364" alt="This is an image of an x, y coordinate plane with the x and y axes ranging from negative 10 to 10.  The points (-3, 1); (0, 2); (3, 3) and (6, 4) are plotted and labeled.  A line runs through all these points.">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_206.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_206.jpg"/>
  </media>
 </para>
 </solution>
@@ -2786,7 +2786,7 @@
 
 </tgroup>
 </table><para id="fs-id1269391"><media id="fs-id1269392" alt="This is an image of an x, y coordinate plane with the x and y axes ranging from negative 10 to 10.  The points (-3, 0); (0, 1.5) and (3, 3) are plotted and labeled.  A line runs through all of these points.">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_208.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_208.jpg"/>
  </media></para>
 </solution>
 </exercise>
@@ -2806,7 +2806,7 @@
 </para></problem>
 <solution id="fs-id3105867"><para id="fs-id3105868">
 <media id="fs-id1333412" alt="This is an image of an x, y coordinate plane with the x and y axes ranging from negative 10 to 10.  The points (8, 0) and (0, -4) are plotted and labeled.  A line runs through both of these points.">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_210.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_210.jpg"/>
  </media>
 </para></solution>
 </exercise>
@@ -2822,7 +2822,7 @@
 </para></problem>
 <solution id="fs-id2385556"><para id="fs-id2385557">
 <media id="fs-id2385560" alt="This is an image of an x, y coordinate plane with the x and y axes ranging from negative 10 to 10.  The points (0, 2) and (3, 0) are plotted and labeled.  A line runs through both of these points.">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_212.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_212.jpg"/>
  </media>
 </para></solution>
 </exercise>
@@ -2839,7 +2839,7 @@
 </m:math> </para></problem></exercise>
 <para id="fs-id1919624">For each of the following exercises, use the graph in the figure below.</para>
 <media id="fs-id1832449" alt="This is an image of an x, y coordinate plane with the x and y axes ranging from negative 5 to 5.  The points (-3, 4) and (5, 2) are plotted.  A line connects these two points.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_214.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_214.jpg"/>
 </media>
 <exercise id="fs-id1267899"><problem id="fs-id2432278"><para id="fs-id2432279">Find the distance between the two endpoints using the distance formula. Round to three decimal places.</para></problem>
 <solution id="fs-id2432282"><para id="fs-id2905920"> <m:math>
@@ -3006,7 +3006,7 @@
 </m:math> </para></solution></exercise>
 <exercise id="fs-id1312332"><problem id="fs-id1312333"><para id="fs-id3207842">Given the graph of the rectangle shown and the coordinates of its vertices, prove that the diagonals of the rectangle are of equal length.</para>
 <media id="fs-id3207847" alt="This is an image of an x, y coordinate plane with the x and y axes ranging from negative 12 to 12.  The points (-6, 5); (10, 5); (-6, -1) and (10, -1) are plotted and labeled.  These points are connected to form a rectangle.  Dotted lines extend from each corner point to their opposite point.">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_215.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_215.jpg"/>
  </media>
 </problem>
 </exercise><exercise id="fs-id1228174">
@@ -3020,7 +3020,7 @@
 <exercise id="fs-id2925632"><problem id="fs-id2925633"><para id="fs-id2925634">A small craft in Lake Ontario sends out a distress signal. The coordinates of the boat in trouble were <m:math><m:mo>(</m:mo><m:mn>49</m:mn><m:mo>,</m:mo><m:mn>64</m:mn><m:mo>)</m:mo></m:math> One rescue boat is at the coordinates <m:math><m:mo>(</m:mo><m:mn>60</m:mn><m:mo>,</m:mo><m:mn>82</m:mn><m:mo>)</m:mo></m:math> and a second Coast Guard craft is at coordinates <m:math><m:mo>(</m:mo><m:mn>58</m:mn><m:mo>,</m:mo><m:mn>47</m:mn><m:mo>)</m:mo></m:math>. Assuming both rescue craft travel at the same rate, which one would get to the distressed boat the fastest?</para></problem></exercise>
 <exercise id="fs-id1551836"><problem id="fs-id1551837"><para id="fs-id1551838">A man on the top of a building wants to have a guy wire extend to a point on the ground 20 ft from the building. To the nearest foot, how long will the wire have to be if the building is 50 ft tall?</para>
 <media id="fs-id1477367" alt="A right triangle with its bottom left point sitting on the point (0,0).  The upper right hand corner is labeled (20,50).  The base has a length of 20 units and the triangle has a height of 50 units.">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_01_217.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_01_217.jpg"/>
  </media></problem>
 <solution id="fs-id1783292"><para id="fs-id1783293">54 ft</para></solution>
 </exercise>

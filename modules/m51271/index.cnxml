@@ -34,12 +34,12 @@
 <span class="token">ⓒ</span></para>
 <para id="eip-idm525662496">Interpret the slope and <emphasis effect="italics">F</emphasis>-intercept of the equation.<newline/>
 Even though this equation uses <emphasis effect="italics">F</emphasis> and <emphasis effect="italics">C</emphasis>, it is still in slope–intercept form.<newline/><media id="fs-id1167835308564" alt="y equals m x plus b. F equals m C plus b. The y and F are emphasized in red. The x and C are emphasized in blue. F equals 9 divided by 5 C plus 32.">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_03_02_018_img_new.jpg"/></media>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_03_02_018_img_new.jpg"/></media>
 The slope, <m:math><m:mrow><m:mfrac><m:mn>9</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> means that the temperature Fahrenheit (<emphasis effect="italics">F</emphasis>) increases 9 degrees when the temperature Celsius (<emphasis effect="italics">C</emphasis>) increases 5 degrees.<newline/>
 The <emphasis effect="italics">F</emphasis>-intercept means that when the temperature is <m:math><m:mrow><m:mn>0</m:mn><m:mtext>°</m:mtext></m:mrow></m:math> on the Celsius scale, it is <m:math><m:mrow><m:mn>32</m:mn><m:mtext>°</m:mtext></m:mrow></m:math> on the Fahrenheit scale.</para>
 <para id="eip-idm503436240"><span class="token">ⓓ</span> Graph the equation.<newline/>
 We’ll need to use a larger scale than our usual. Start at the <emphasis effect="italics">F</emphasis>-intercept <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>32</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> , and then count out the rise of 9 and the run of 5 to get a second point as shown in the graph.</para><media id="fs-id1167835288229" alt="This figure shows the graph of a straight line on the x y-coordinate plane. The x-axis runs from negative 40 to 80. The y-axis runs from negative 40 to 80. The line goes through the points (0, 32) and (5, 41).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_03_02_019_img_new.jpg"/></media></solution>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_03_02_019_img_new.jpg"/></media></solution>
 </exercise></example><section id="eip-117" class="practice-perfect"><title>Practice Makes Perfect</title><para id="eip-294">
 Graph and interpret applications of slope–intercept form of a linear function.
 </para><exercise id="eip-97"><problem id="eip-746">
@@ -179,7 +179,7 @@ A function that will convert women’s dress sizes in the US, x, to dress sizes 
 
 </exercise></section></section><figure id="Figure_04_02_001">
 <media id="fs-id2651969" alt="A skyline view of Seattle with a focus on the Space Needle.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_001_CAT-8fba.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_001_CAT-8fba.jpg"/>
 </media>
 <caption>(credit: EEK Photography/Flickr)</caption>
 </figure>
@@ -251,7 +251,7 @@ A function that will convert women’s dress sizes in the US, x, to dress sizes 
  </m:mrow>
 </m:math> Then we can substitute the intercept and slope provided.</para>
 <media id="fs-id2463828" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_002-4389.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_002-4389.jpg"/>
 </media>
 <para id="fs-id2180524">To find the <emphasis effect="italics">t-</emphasis>intercept (horizontal axis intercept), we set the output to zero, and solve for the input.</para><equation id="fs-id2612253" class="unnumbered"><label/>
  <m:math>
@@ -788,7 +788,7 @@ A function that will convert women’s dress sizes in the US, x, to dress sizes 
 
 <figure id="Figure_04_02_003" class="small">
 <media id="fs-id1609271" alt="Emanuel is walking south at 3 miles/hour, while Anna is walking east at 4 miles/hour. The image shows a dotted, diagonal line that is labeled as the distance between them.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_003.jpg"/>
 </media>
 </figure>
 
@@ -877,7 +877,7 @@ A function that will convert women’s dress sizes in the US, x, to dress sizes 
   <m:mo>)</m:mo></m:mrow>
  </m:mrow>
 </m:math> represent distances.</para><figure id="Figure_04_02_004" class="small"><media id="fs-id2403479" alt="The rate of change of Emanuel and Anna where the rise of the slope is labeled E, the run is labeled A, and the hypotenuse is labeled D. The lines EAD form a right triangle.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_004.jpg"/>
 </media>
 </figure><para id="fs-id1610430"><link target-id="Figure_04_02_003"/> shows us that we can use the Pythagorean Theorem because we have drawn a right angle.</para>
 <para id="fs-id1596257">Using the Pythagorean Theorem, we get:</para>
@@ -1136,7 +1136,7 @@ A function that will convert women’s dress sizes in the US, x, to dress sizes 
  </m:mrow>
 </m:math> </para><figure id="Figure_04_02_005" class="small">
 <media id="fs-id1441391" alt="Graph of the intersection of the three roads, Westborough, Eastborough, and Agritown.  Westborough is at the point (0,0) and Eastborough is is 20 miles east at the point (20,0).  Agritown is at the point (30,10) with a line connecting Westborough to Agritown.  A line perpendicular to the previously mentioned line extends from Eastborough.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_005.jpg"/>
 </media>
 </figure>
 <para id="fs-id2597503">Using this point along with the origin, we can find the slope of the line from Westborough to Agritown.</para>
@@ -1488,7 +1488,7 @@ A function that will convert women’s dress sizes in the US, x, to dress sizes 
 <para id="fs-id2055095">Real-world situations including two or more linear functions may be modeled with a <term class="no-emphasis">system of linear equations</term>. Remember, when solving a system of linear equations, we are looking for points the two lines have in common. Typically, there are three types of answers possible, as shown in <link target-id="Figure_04_02_006"/>.</para>
 <figure id="Figure_04_02_006">
 <media id="fs-id2058640" alt="The graph in (a) is of two intersecting lines.  The point of intersection is marked and labeled: exactly one solution.  Figure (b) shows one line and is labeled: infinitely many solutions.  Figure (c) shows two parallel lines labeled: no solutions.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_006abc.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_006abc.jpg"/>
 </media>
 </figure>
 <note id="fs-id2243270" class="how-to-notitle"><label>How To</label>
@@ -1632,7 +1632,7 @@ A function that will convert women’s dress sizes in the US, x, to dress sizes 
 
 <figure id="Figure_04_02_007" class="medium">
 <media id="fs-id1859115" alt="Graph of M(d) = 0.63 +16 and K(d) = 0.59m + 20.  The x-axis goes from 0 to 160 and the y-axis goes from 0 to 120 both in intervals of 10. M(d) has a slope of 0.63 and a y-intercept of 20 while K(d) has a slope of 0.59 and a y-intercept of 16.  The two lines intersect at (100, 80).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_007-4eed.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_007-4eed.jpg"/>
 </media>
 </figure>
 
@@ -2004,7 +2004,7 @@ A function that will convert women’s dress sizes in the US, x, to dress sizes 
  </m:mrow>
 </m:math> represents the number of years since 1980.</para>
 <figure id="Figure_04_02_201" class="small"><media id="eip-id3137261" alt="Graph of a decreasing line from (15, 150) to (25, 130).  The x-axis goes from 0 to 30 in intervals of 5 and the y-axis goes from 125 to 155 in intervals of 5.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_201-34f0.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_201-34f0.jpg"/>
 </media>
 </figure><exercise id="fs-id1862880"><problem id="fs-id1862881"><para id="fs-id1862882">Find the linear function <m:math>
  <m:mrow>
@@ -2043,7 +2043,7 @@ A function that will convert women’s dress sizes in the US, x, to dress sizes 
 </m:math> represents the number of years since 1980.</para>
 <figure id="Figure_04_02_202" class="small">
 <media id="fs-id2558285" alt="Graph of a line from (15, 150) to (25, 450).  The x-axis goes from 0 to 30 in intervals of 5 and the y-axis goes from 0 to 500 in intervals of 50.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_202.jpg"/>
 </media>
 </figure>
 <exercise id="fs-id1843372"><problem id="fs-id1595293"><para id="fs-id1595294">Find the linear function <m:math>

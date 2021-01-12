@@ -21,7 +21,7 @@
 <para id="fs-id1165137411387">Over 12 kilometers from port, a sailboat encounters rough weather and is blown off course by a 16-knot wind (see <link target-id="Figure_08_03_001"/>). How can the sailor indicate his location to the Coast Guard? In this section, we will investigate a method of representing location that is different from a standard coordinate grid.</para>
 
 <figure id="Figure_08_03_001" class="small"><media id="fs-id1165135458608" alt="An illustration of a boat on the polar grid.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_001.jpg"/>
 </media>
 </figure><section id="fs-id1165135551681">
 <title>Plotting Points Using Polar Coordinates</title>
@@ -79,7 +79,7 @@
   </m:mfrac>
   </m:mrow>
 </m:math> units in the counterclockwise direction and then a length of 2 from the pole. This point is plotted on the grid in <link target-id="Figure_08_03_002"/>.</para><figure id="Figure_08_03_002" class="small"><media id="fs-id1165135409801" alt="Polar grid with point (2, pi/4) plotted.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_002.jpg"/>
 </media>
 </figure><example id="Example_08_03_01">
 <exercise id="fs-id1165137735842">
@@ -116,7 +116,7 @@
 
 
 <figure id="Figure_08_03_003" class="small"><media id="fs-id1165137502856" alt="Polar grid with point (3, pi/2) plotted.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_003.jpg"/>
 </media>
 </figure></solution>
 </exercise>
@@ -137,7 +137,7 @@
   <m:mo>)</m:mo></m:mrow></m:mrow>
 </m:math> in the <term class="no-emphasis">polar grid</term>.</para></problem>
 <solution id="fs-id1165134076025"><para id="fs-id1165133111603"><media id="fs-id1165134036712" alt="Polar grid with point (2, pi/3) plotted.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_004.jpg"/>
 </media></para></solution>
 </exercise>
 </note>
@@ -210,7 +210,7 @@
 </m:math> shown in <link target-id="Figure_08_03_005"/>(b).</para>
 
 <figure id="Figure_08_03_005" class="medium"><media id="fs-id1165135699115" alt="Two polar grids. Points (2, pi/6) and (-2, pi/6) are plotted. They are reflections across the origin in Q1 and Q3. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_005.jpg"/>
 </media>
 </figure></solution>
 </exercise></example><note id="fs-id1165137723371" class="precalculus try">
@@ -238,7 +238,7 @@
   <m:mo>)</m:mo></m:mrow></m:mrow>
 </m:math> on the same polar grid.</para></problem>
 <solution id="fs-id1165137444539"><media id="fs-id1165135296271" alt="Points (2, 9pi/4) and (3, -pi/6) are plotted in the polar grid.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_006.jpg"/>
 </media></solution>
 </exercise></note>
 </section>
@@ -298,7 +298,7 @@
  <m:mrow>
   <m:mi>sin</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi></m:mrow>
 </m:math> as the opposite side over the hypotenuse.</para><figure id="Figure_08_03_007" class="small"><media id="fs-id1165137696986" alt="Comparison between polar coordinates and rectangular coordinates. There is a right triangle plotted on the x,y axis. The sides are a horizontal line on the x-axis of length x, a vertical line extending from thex-axis to some point in quadrant 1, and a hypotenuse r extending from the origin to that same point in quadrant 1. The vertices are at the origin (0,0), some point along the x-axis at (x,0), and that point in quadrant 1. This last point is (x,y) or (r, theta), depending which system of coordinates you use.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_007.jpg"/>
 </media>
 </figure><note id="fs-id1165134105991"><title>Converting from Polar Coordinates to Rectangular Coordinates</title>
 
@@ -439,7 +439,7 @@
 </m:math> See <link target-id="Figure_08_03_008"/>.</para>
 
 <figure id="Figure_08_03_008"><media id="fs-id1165135536558" alt="Illustration of (3, pi/2) in polar coordinates and (0,3) in rectangular coordinates - they are the same point!">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_008.jpg"/>
 </media>
 </figure></solution>
 </exercise>
@@ -503,7 +503,7 @@
 </m:math>
 </para>
 <figure id="Figure_08_03_009" class="medium"><media id="fs-id1165135541564" alt="Illustration of (-2, 0) in polar coordinates and (-2,0) in rectangular coordinates - they are the same point!">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_009.jpg"/>
 </media>
 </figure></solution>
 </exercise></example><note id="fs-id1165134489724" class="precalculus try">
@@ -612,7 +612,7 @@
  </m:mrow>
 </m:math>
 </equation><figure id="Figure_08_03_010" class="small"><media id="fs-id1165137850200" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_010new.png"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_010new.png"/>
 </media>
 </figure></note><example id="Example_08_03_05">
 <exercise id="fs-id1165134303364">
@@ -809,7 +809,7 @@
   <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow>
 </m:math> See <link target-id="Figure_08_03_011"/>.</para>
 <figure id="Figure_08_03_011"><media id="fs-id1165134357405" alt="Illustration of (3rad2, pi/4) in polar coordinates and (3,3) in rectangular coordinates - they are the same point!">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_011.jpg"/>
 </media>
 </figure></solution>
 <commentary id="fs-id1165133078085">
@@ -1195,7 +1195,7 @@
 </m:math> should generate the same graph. See <link target-id="Figure_08_03_016"/>.</para>
 
 <figure id="Figure_08_03_016" class="medium"><media id="fs-id1165137812757" alt="Plotting a circle of radius 3 with center at the origin in polar and rectangular coordinates. It is the same in both systems.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_016.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_016.jpg"/>
 </media>
 
 <caption>(a) Cartesian form <m:math>
@@ -1462,7 +1462,7 @@
   <m:mi>r</m:mi><m:mo>=</m:mo><m:mn>6</m:mn><m:mi>sin</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi>
  </m:mrow>
 </m:math>  should give us the same graph. See <link target-id="Figure_08_03_012"/>.</para><figure id="Figure_08_03_012"><media id="fs-id1165135580385" alt="Plots of the equations stated above - the plots are the same in both rectangular and polar coordinates. They are circles.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_012.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_012.jpg"/>
 </media>
 
 <caption>(a) Cartesian form <m:math>
@@ -1646,7 +1646,7 @@
 </m:math> is the standard form for a vertical line in polar form.</para>
 
 <figure id="Figure_08_03_013" class="medium"><media id="fs-id1165135194873" alt="Plots of the equations stated above - the plots are the same in both rectangular and polar coordinates. They are lines.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_013.jpg"/>
 </media>
 
 <caption>(a) Polar grid (b) Rectangular coordinate system</caption></figure><para id="fs-id1165135689446">A similar discussion would demonstrate that the graph of the function <m:math>
@@ -1834,7 +1834,7 @@
  <m:mrow>
   <m:mi>y</m:mi></m:mrow>
 </m:math> or simplify. See <link target-id="Figure_08_03_015"/>.</para><figure id="Figure_08_03_015"><media id="fs-id1165135359846" alt="Plots of the equations stated above - the plots are the same in both rectangular and polar coordinates. They are hyperbolas.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_015.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_015.jpg"/>
 </media>
 </figure><para id="fs-id1165135355014">The “hour-glass” shape of the graph is called a <emphasis effect="italics">hyperbola</emphasis>. Hyperbolas have many interesting geometric features and applications, which we will investigate further in <link document="m49437">Analytic Geometry</link>.</para></solution>
 <commentary id="fs-id1165134116776">
@@ -2445,13 +2445,7 @@
 </section>
 <section id="fs-id1165135329737">
 <title>Algebraic</title>
-<para id="fs-id1165133143104">For the following exercises, convert the given polar coordinates to Cartesian coordinates with <m:math>
- <m:mrow>
-  <m:mi>r</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow>
-</m:math> and <m:math>
- <m:mrow>
-  <m:mn>0</m:mn><m:mo>≤</m:mo><m:mi>θ</m:mi><m:mo>≤</m:mo><m:mn>2</m:mn><m:mi>π</m:mi><m:mo>.</m:mo></m:mrow>
-</m:math> Remember to consider the quadrant in which the given point is located when determining <m:math>
+<para id="fs-id1165133143104">For the following exercises, convert the given polar coordinates to Cartesian coordinates. Remember to consider the quadrant in which the given point is located when determining <m:math>
  <m:mrow>
   <m:mi>θ</m:mi></m:mrow>
 </m:math> for the point.</para>
@@ -3154,12 +3148,12 @@ line</para>
 <exercise id="fs-id1165135202397"><problem id="fs-id1165135202399">
 
 <media id="fs-id1165133267806" alt="Polar coordinate system with a point located on the third concentric circle and pi/2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_201n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_201n.jpg"/>
 </media>
 </problem></exercise><exercise id="fs-id1165134108566"><problem id="fs-id1165134108568">
 
 <media id="fs-id1165134108574" alt="Polar coordinate system with a point located on the third concentric circle and midway between pi/2 and pi in the second quadrant. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_202n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_202n.jpg"/>
 </media>
 
 </problem>
@@ -3181,14 +3175,14 @@ line</para>
 </exercise><exercise id="fs-id1165137900018"><problem id="fs-id1165137900019">
 
 <media id="fs-id1165135445695" alt="Polar coordinate system with a point located midway between the first and second concentric circles and a third of the way between pi and 3pi/2 (closer to pi).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_203n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_203n.jpg"/>
 </media>
 
 </problem>
 </exercise><exercise id="fs-id1165135397089"><problem id="fs-id1165135397091">
 
 <media id="fs-id1165135397098" alt="Polar coordinate system with a point located on the fifth concentric circle and pi.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_204n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_204n.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165137445164">
@@ -3204,7 +3198,7 @@ line</para>
 </exercise><exercise id="fs-id1165137652655"><problem id="fs-id1165135468162">
 
 <media id="fs-id1165135468169" alt="Polar coordinate system with a point located on the fourth concentric circle and a third of the way between 3pi/2 and 2pi (closer to 3pi/2).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_205n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_205n.jpg"/>
 </media>
 </problem></exercise><para id="fs-id1165137554410">For the following exercises, plot the points.</para>
 <exercise id="fs-id1165137554413"><problem id="fs-id1165137554415">
@@ -3225,7 +3219,7 @@ line</para>
 
 
 <media id="fs-id1165133318711" alt="Polar coordinate system with a point located on the second concentric circle and two-thirds of the way between pi and 3pi/2 (closer to 3pi/2).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_206.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_206.jpg"/>
 </media>
 
 </solution>
@@ -3264,7 +3258,7 @@ line</para>
 
 
 <media id="fs-id1165135528493" alt="Polar coordinate system with a point located midway between the third and fourth concentric circles and midway between 3pi/2 and 2pi.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_208.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_208.jpg"/>
 </media>
 
 </solution>
@@ -3302,7 +3296,7 @@ line</para>
 
 
 <media id="fs-id1165134081850" alt="Polar coordinate system with a point located on the fifth concentric circle and pi/2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_210.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_210.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165134167348">
 <problem id="fs-id1165134167350">
@@ -3340,7 +3334,7 @@ line</para>
 
 
 <media id="fs-id1165137897892" alt="Polar coordinate system with a point located on the third concentric circle and 2/3 of the way between pi/2 and pi (closer to pi).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_212.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_212.jpg"/>
 </media>
 
 </solution>
@@ -3379,7 +3373,7 @@ line</para>
 
 
 <media id="fs-id1165135414193" alt="Polar coordinate system with a point located on the second concentric circle and midway between pi and 3pi/2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_214.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_214.jpg"/>
 </media>
 
 
@@ -3421,7 +3415,7 @@ line</para>
 </m:math>
 </para>
 <media id="fs-id1165134070906" alt="Plot of given line in the polar coordinate grid">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_222.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_222.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165135559505">
@@ -3460,7 +3454,7 @@ line</para>
 </para>
 
 <media id="fs-id1165135407253" alt="Plot of given circle in the polar coordinate grid">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_224.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_224.jpg"/>
 </media>
 
 </solution></exercise><exercise id="fs-id1165134068940">
@@ -3508,7 +3502,7 @@ line</para>
 </para>
 
 <media id="fs-id1165131991391" alt="Plot of given circle in the polar coordinate grid">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_226.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_226.jpg"/>
 </media>
 
 </solution></exercise><exercise id="fs-id1165133077985">
@@ -3551,7 +3545,7 @@ line</para>
 </para>
 
 <media id="fs-id1165137844424" alt="Plot of given circle in the polar coordinate grid.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_228.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_228.jpg"/>
 </media>
 
 </solution></exercise><para id="fs-id1165135547602">For the following exercises, convert the equation from polar to rectangular form and graph on the rectangular plane.</para>
@@ -3587,7 +3581,7 @@ line</para>
 </para>
 
 <media id="fs-id1165137888093" alt="Plot of circle with radius 4 centered at the origin in the rectangular coordinates grid.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_230.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_230.jpg"/>
 </media>
 
 </solution></exercise><exercise id="fs-id1165137888104">
@@ -3623,7 +3617,7 @@ line</para>
 </para>
 
 <media id="fs-id1165134037559" alt="Plot of line y=x in the rectangular coordinates grid.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_232.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_232.jpg"/>
 </media>
 
 </solution></exercise><exercise id="fs-id1165134037569">
@@ -3660,7 +3654,7 @@ line</para>
 </para>
 
 <media id="fs-id1165135255439" alt="Plot of circle with radius 5 centered at (0,-5).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_234.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_234.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165135452296">
 <problem id="fs-id1165135452299">
@@ -3826,7 +3820,7 @@ line</para>
 </para>
 </problem>
 <solution id="fs-id1165134177579"><media id="fs-id1165134177587" alt="Graph of shaded circle of radius 4 with the edge not included (dotted line) - polar coordinate grid.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_216.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_216.jpg"/>
 </media></solution>
 </exercise><exercise id="fs-id1165137734330">
 <problem id="fs-id1165137734332">
@@ -3853,7 +3847,7 @@ line</para>
 </para>
 </problem>
 <solution id="fs-id1165135154583"><media id="fs-id1165135154592" alt="Graph of ray starting at (2, pi/4) and extending in a positive direction along pi/4 - polar coordinate grid.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_218.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_218.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165134378618">
 <problem id="fs-id1165134378620">
 <para id="fs-id1165134378622"> <m:math>
@@ -3878,7 +3872,7 @@ line</para>
 </para>
 </problem>
 <solution id="fs-id1165133199370"><media id="fs-id1165135641642" alt="Graph of the shaded region 0 to pi/3 from r=0 to 2 with the edge not included (dotted line) - polar coordinate grid">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_03_220.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_03_220.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165137643355">
 <problem id="fs-id1165137643357">
 <para id="fs-id1165137643360"> <m:math>

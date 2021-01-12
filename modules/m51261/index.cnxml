@@ -66,7 +66,7 @@ Find <m:math><m:mi>g</m:mi><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:math> ,
  <item>
 <span class="token">ⓒ</span> <para id="fs-id1167821190527">For a man of height <m:math><m:mrow><m:mn>5</m:mn><m:mo>′</m:mo><m:mn>11</m:mn></m:mrow></m:math> the mapping below shows the corresponding Body Mass Index (BMI). The body mass index is a measurement of body fat based on height and weight. A BMI of <m:math><m:mrow><m:mn>18.5</m:mn><m:mo>–</m:mo><m:mn>24.9</m:mn></m:mrow></m:math> is considered healthy.<newline/>
 <media id="fs-id1167836328549" alt="This figure shows two table that each have one column. The table on the left has the header “Weight (lbs)” and lists the numbers 130, 140, 150, 160, 170, 180, 190, and 200. The table on the right has the header “BMI” and lists the numbers 22. 3, 19. 5, 20. 9, 27. 9, 25. 1, 26. 5, 23. 7, and 18. 1. There are arrows starting at numbers in the weight table and pointing towards numbers in the BMI table. The first arrow goes from 130 to 18. 1. The second arrow goes from 140 to 19. 5. The third arrow goes from 150 to 20. 9. The fourth arrow goes from 160 to 22. 3. The fifth arrow goes from 170 to 23. 7. The sixth arrow goes from 180 to 25. 1. The seventh arrow goes from 190 to 26. 5. The eighth arrow goes from 200 to 27. 9.">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_03_05_204_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_03_05_204_img_new.jpg"/>
 </media><newline/>
 Find the BMI for a man of height <m:math><m:mrow><m:mn>5</m:mn><m:mo>′</m:mo><m:mn>11</m:mn></m:mrow></m:math> who weighs <m:math><m:mn>180</m:mn></m:math> pounds.
 Find the weight of a man of height <m:math><m:mrow><m:mn>5</m:mn><m:mo>′</m:mo><m:mn>11</m:mn></m:mrow></m:math> and who has a BMI of <m:math><m:mn>22.3</m:mn></m:math> .
@@ -139,7 +139,7 @@ The weight for a man of height <m:math><m:mrow><m:mn>5</m:mn><m:mo>′</m:mo><m:
 </list></para></solution>
 </exercise></example><section id="eip-664" class="practice-perfect"><title>Practice Makes Perfect</title><para id="eip-29">Find the value of a function</para><exercise id="eip-429"><problem id="eip-616">
 <para id="eip-976"><media id="fs-id1167835322463" alt=".">
-<image mime-type="image/jpeg" src="CNX_Coreq_Figure_03_01_001.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_Coreq_Figure_03_01_001.jpg"/>
 </media><newline/>
 <list id="eip-idm209761200" list-type="enumerated" number-style="arabic" class="circled"><item>
 <span class="token">ⓐ</span> Find: <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mo stretchy="false">)</m:mo></m:math> .
@@ -185,7 +185,7 @@ For the function <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m
 </problem>
 </exercise><exercise id="eip-241"><problem id="eip-24">
 <para id="eip-660"><media id="fs-id1167822322463" alt=".">
-<image mime-type="image/jpeg" src="CNX_Coreq_Figure_03_01_002.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_Coreq_Figure_03_01_002.jpg"/>
 </media> <newline/>
 Use the mapping <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>G</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:math> to find the following:
 <list id="eip-idm528103152" list-type="enumerated" number-style="arabic" class="circled"><item>
@@ -201,7 +201,7 @@ Use the mapping <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>G</m:mi><m:mo stretchy
 <span class="token">ⓓ</span> Is <m:math><m:mi>G</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:math> a function? Explain why or why not.</item>
 </list></para></problem></exercise><exercise id="eip-113"><problem id="eip-59">
 <para id="eip-620"><media id="fs-id1167822722473" alt=".">
-<image mime-type="image/jpeg" src="CNX_Coreq_Figure_03_01_003.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_Coreq_Figure_03_01_003.jpg"/>
 </media><newline/>
 Use the mapping <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>F</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:math> to find the following:
 <list xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-idm528703152" list-type="enumerated" number-style="arabic" class="circled"><item>
@@ -361,7 +361,7 @@ For example, the term “odd” corresponds to three values from the range, <m:m
  This violates the definition of a function, so this relation is not a function.</para><para id="fs-id1165135176295"><link target-id="Figure_01_01_001"/> compares relations that are functions and not functions. </para>
 
 <figure id="Figure_01_01_001"><media id="fs-id1165137811253" alt="Three relations that demonstrate what constitute a function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_001.jpg"/>
  </media>
 
 <caption>(a) This relationship is a function because each input is associated with a single output. Note that input <m:math>
@@ -398,7 +398,7 @@ For example, the term “odd” corresponds to three values from the range, <m:m
 
 <figure id="Figure_01_01_004" class="small unnumbered"><label/>
  <media id="fs-id1165137705861" alt="A menu of donut prices from a coffee shop where a plain donut is $1.49 and a jelly donut and chocolate donut are $1.99.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_004.jpg"/>
 </media>
 </figure>
 
@@ -408,7 +408,7 @@ For example, the term “odd” corresponds to three values from the range, <m:m
 
 <figure id="Figure_01_01_027" class="medium unnumbered"><label/>
  <media id="fs-id1165135253831" alt="A menu of donut prices from a coffee shop where a plain donut is $1.49 and a jelly donut and chocolate donut are $1.99.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_027.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_027.jpg"/>
 </media>
 </figure>
 
@@ -418,7 +418,7 @@ Each item on the menu has only one price, so the price is a function of the item
 
 
  <figure id="eip-idm500770384" class="medium unnumbered"><label/><media id="fs-id1165135187276" alt="Association of the prices to the donuts.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_028.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_028.jpg"/>
 </media>
 </figure>
 <newline/>
@@ -679,7 +679,7 @@ Each item on the menu has only one price, so the price is a function of the item
 <m:mi>d</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo>
  </m:mrow></m:math> The name of the month is the input to a “rule” that associates a specific number (the output) with each input.</para>
 <figure id="Image_01_01_005"><media id="fs-id1165135187902" alt="The function 31 = f(January) where 31 is the output, f is the rule, and January is the input.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_005.jpg"/>
 </media>
 </figure><para id="fs-id1165135417826">For example, <m:math>
  <m:mrow>
@@ -1136,7 +1136,7 @@ Each item on the menu has only one price, so the price is a function of the item
 <label>How To</label>
  <para id="fs-id1165137767182"> <emphasis>Given the formula for a function, evaluate.
  </emphasis></para>
-<list id="fs-id1165137629040" list-type="enumerated" number-style="arabic"><item>Replace the input variable in the formula with the value provided.</item>
+<list id="fs-id1165137629040" list-type="enumerated" number-style="arabic"><item>Substitute the input variable in the formula with the value provided.</item>
 <item>Calculate the result.</item>
 </list></note>
 
@@ -1150,7 +1150,7 @@ Each item on the menu has only one price, so the price is a function of the item
  <m:mi>x</m:mi>
  <m:mn>2</m:mn>
 </m:msup>
- <m:mo>+</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:math> at</para>
+ <m:mo>+</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:math> at:</para>
  <list xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165137648008" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> <m:math>
  <m:mn>2</m:mn>
 </m:math>
@@ -1732,7 +1732,7 @@ in the function with each specified value.</para><list id="fs-id1165137778273" l
 
 <figure id="Figure_01_01_006" class="small">
  <media id="fs-id1165135335985" alt="Graph of a parabola with labeled points (-3, 3), (1, 3), and (4, 24).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_006-3b25.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_006-3b25.jpg"/>
  </media>
 </figure>
  </solution>
@@ -2309,7 +2309,7 @@ and <m:math>
 
 <figure id="Figure_01_01_007" class="small">
  <media id="fs-id1165137705894" alt="Graph of a positive parabola centered at (1, 0).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_007-d9d5.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_007-d9d5.jpg"/>
  </media>
 </figure>
 
@@ -2333,7 +2333,7 @@ and <m:math>
 
  <figure id="Figure_01_01_008" class="small">
 <media id="fs-id1165135675165" alt="Graph of a positive parabola centered at (1, 0) with the labeled point (2, 1) where f(2) =1.">
- <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_008.jpg"/>
+ <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_008.jpg"/>
 </media>
  </figure>
 <newline/>
@@ -2382,7 +2382,7 @@ and <m:math>
 
  <figure id="Figure_01_01_009" class="small">
 <media id="fs-id1165137469773" alt="Graph of an upward-facing parabola with a vertex at (0,1) and labeled points at (-1, 4) and (3,4). A line at y = 4 intersects the parabola at the labeled points.">
- <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_009-f695.jpg"/>
+ <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_009-f695.jpg"/>
 </media>
  </figure>
 
@@ -2550,14 +2550,14 @@ and <m:math>
  <m:mrow><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math> because the curve passes through those points.</para>
 <figure id="Figure_01_01_011" class="medium">
  <media id="fs-id1165137572613" alt="Graph of a polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_011-e402.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_011-e402.jpg"/>
  </media>
 </figure>
 
 <para id="fs-id1165137737620">The <term>vertical line test</term> can be used to determine whether a graph represents a function. If we can draw any vertical line that intersects a graph more than once, then the graph does <emphasis effect="italics">not</emphasis> define a function because a function has only one output value for each input value. See <link target-id="Figure_01_01_012"/>.</para>
 <figure id="Figure_01_01_012">
  <media id="fs-id1165135533149" alt="Three graphs visually showing what is and is not a function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_012-5de4.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_012-5de4.jpg"/>
  </media>
 </figure>
 
@@ -2583,7 +2583,7 @@ and <m:math>
 
  <figure id="Figure_01_01_013">
 <media id="fs-id1165137786563" alt="Graph of a polynomial.">
- <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_013abc-e8fe.jpg"/>
+ <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_013abc-e8fe.jpg"/>
 </media>
  </figure>
 
@@ -2591,7 +2591,7 @@ and <m:math>
 <solution id="fs-id1165135190052">
  <para id="fs-id1165137629350">If any vertical line intersects a graph more than once, the relation represented by the graph is not a function. Notice that any vertical line would pass through only one point of the two graphs shown in parts (a) and (b) of <link target-id="Figure_01_01_013"/>. From this we can conclude that these two graphs represent functions. The third graph does not represent a function because, at most <emphasis effect="italics">x</emphasis>-values, a vertical line would intersect the graph at more than one point, as shown in <link target-id="Figure_01_01_016"/>.</para><figure id="Figure_01_01_016" class="small">
  <media id="fs-id1165133201929" alt="Graph of a circle.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_016.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_016.jpg"/>
  </media>
 </figure>
 </solution>
@@ -2604,7 +2604,7 @@ and <m:math>
 
 <figure id="Figure_01_01_017" class="small">
  <media id="fs-id1165135519277" alt="Graph of absolute value function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_017-87d8.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_017-87d8.jpg"/>
  </media>
 </figure>
 </problem>
@@ -2637,7 +2637,7 @@ and <m:math>
 
 <figure id="Figure_01_01_010" class="small">
  <media id="fs-id1165135255395" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_010-84bf.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_010-84bf.jpg"/>
  </media>
 </figure>
 
@@ -2687,7 +2687,7 @@ and <m:math>
  <m:mrow><m:mi>c</m:mi>
  </m:mrow></m:math> is a constant </entry>
 <entry align="center"><media id="fs-id1165137643159" alt="Graph of a constant function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_018n-9c1e.jpg"/></media>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_018n-9c1e.jpg"/></media>
 </entry>
  </row>
  <row valign="top">
@@ -2700,7 +2700,7 @@ and <m:math>
 </entry>
 <entry align="center">
  <media id="fs-id1165137811013" alt="Graph of a straight line.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_019n-d192.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_019n-d192.jpg"/>
  </media>
 </entry>
  </row>
@@ -2714,7 +2714,7 @@ and <m:math>
 </entry>
 <entry align="center">
  <media id="fs-id1165135195221" alt="Graph of absolute function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_020n-7036.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_020n-7036.jpg"/>
  </media>
 </entry>
  </row>
@@ -2732,7 +2732,7 @@ and <m:math>
 </entry>
 <entry align="center">
  <media id="fs-id1165137501903" alt="Graph of a parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_021-a0a4.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_021-a0a4.jpg"/>
  </media>
 </entry>
  </row>
@@ -2750,7 +2750,7 @@ and <m:math>
 </entry>
 <entry align="center">
  <media id="fs-id1165137722123" alt="Graph of f(x) = x^3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_022n-4a17.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_022n-4a17.jpg"/>
  </media>
 </entry>
  </row>
@@ -2768,7 +2768,7 @@ and <m:math>
 </entry>
 <entry align="center">
  <media id="fs-id1165134544980" alt="Graph of f(x)=1/x.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_023n-24f9.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_023n-24f9.jpg"/>
  </media>
 </entry>
  </row>
@@ -2791,7 +2791,7 @@ and <m:math>
 </entry>
 <entry align="center">
  <media id="fs-id1165137647610" alt="Graph of f(x)=1/x^2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_024-1577.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_024-1577.jpg"/>
  </media>
 </entry>
  </row>
@@ -2808,7 +2808,7 @@ and <m:math>
 </entry>
 <entry align="center">
  <media id="fs-id1165137863670" alt="Graph of f(x)=sqrt(x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_025-35ba.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_025-35ba.jpg"/>
  </media>
 </entry>
  </row>
@@ -2826,7 +2826,7 @@ and <m:math>
 </entry>
 <entry align="center">
  <media id="fs-id1165137838612" alt="Graph of f(x)=x^(1/3).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_026n-87dc.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_026n-87dc.jpg"/>
  </media>
 </entry>
  </row>
@@ -3661,13 +3661,13 @@ and <m:math>
 <para id="fs-id1165135664077">For the following exercises, use the vertical line test to determine which graphs show relations that are functions.</para>
 <exercise id="fs-id1165135455987"><problem id="fs-id1165135455989">
  <media id="fs-id1165135455994" alt="Graph of relation." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_201-6781.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_201-6781.jpg"/>
 </media>
 
 </problem>
 </exercise><exercise id="fs-id1165137527641"><problem id="fs-id1165137847086">
 <media id="fs-id1165137847091" alt="Graph of relation." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_202-2758.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_202-2758.jpg"/>
 </media>
 
  </problem>
@@ -3677,69 +3677,69 @@ and <m:math>
 </exercise><exercise id="fs-id1165135332512"><problem id="fs-id1165133336399">
 
  <media id="fs-id1165133336405" alt="Graph of relation." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_203-82d5.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_203-82d5.jpg"/>
 </media>
 
  </problem>
 </exercise><exercise id="fs-id1165137742393"><problem id="fs-id1165137742395">
 
  <media id="fs-id1165137597394" alt="Graph of relation." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_204-7e1e.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_204-7e1e.jpg"/>
 </media>
 </problem>
  <solution id="fs-id1165137597406"><para id="fs-id1165135386375"> function</para></solution></exercise><exercise id="fs-id1165135386379"><problem id="fs-id1165135386381">
 
  <media id="fs-id1165135386387" alt="Graph of relation." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_205-9868.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_205-9868.jpg"/>
 </media>
 
  </problem>
 </exercise><exercise id="fs-id1165137749974"><problem id="fs-id1165137439464">
 
  <media id="fs-id1165137439470" alt="Graph of relation." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_206-e6d4.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_206-e6d4.jpg"/>
 </media>
 
  </problem>
  <solution id="fs-id1165137399700"><para id="fs-id1165137399701">function</para></solution></exercise><exercise id="fs-id1165137399704"><problem id="fs-id1165137399706">
 
  <media id="fs-id1165135704896" alt="Graph of relation." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_207-1ed5.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_207-1ed5.jpg"/>
 </media>
 
  </problem>
 </exercise><exercise id="fs-id1165137883764"><problem id="fs-id1165137883767">
 
  <media id="fs-id1165137883773" alt="Graph of relation." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_208-10bb.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_208-10bb.jpg"/>
 </media>
 
  </problem>
 <solution id="fs-id1165135190490"><para id="fs-id1165135190491"> function</para></solution></exercise><exercise id="fs-id1165134497159"><problem id="fs-id1165134497161">
 
  <media id="fs-id1165134497168" alt="Graph of relation." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_209-1e69.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_209-1e69.jpg"/>
 </media>
 
  </problem>
 </exercise><exercise id="fs-id1165135496435"><problem id="fs-id1165135496437">
 
 <media id="fs-id1165134234204" alt="Graph of relation." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_210-3b79.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_210-3b79.jpg"/>
 </media>
 
  </problem>
 <solution id="fs-id1165137911649"><para id="fs-id1165137911650"> function </para></solution></exercise><exercise id="fs-id1165137911653"><problem id="fs-id1165137911656">
 
  <media id="fs-id1165137786191" alt="Graph of relation." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_211-dc5d.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_211-dc5d.jpg"/>
 </media>
 
  </problem>
 </exercise><exercise id="fs-id1165135593325"><problem id="fs-id1165135593327">
 
  <media id="fs-id1165135593333" alt="Graph of relation." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_212-3018.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_212-3018.jpg"/>
 </media>
 
  </problem>
@@ -3755,7 +3755,7 @@ and <m:math>
 </list>
 
  <media id="fs-id1165137834413" alt="Graph of relation." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_213-116b.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_213-116b.jpg"/>
 </media>
 </para></problem>
 </exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135632092"><problem id="fs-id1165135632095">
@@ -3769,7 +3769,7 @@ and <m:math>
 </list></para>
 
  <media id="fs-id1165135567425" alt="Graph of relation." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_214-bbc5.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_214-bbc5.jpg"/>
 </media>
 
 </problem>
@@ -3794,27 +3794,27 @@ and <m:math>
  </item>
 </list>
 </para><media id="fs-id1165135575950" alt="Graph of relation." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_215-5d9b.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_215-5d9b.jpg"/>
 </media>
 
 </problem>
  </exercise><para id="fs-id1165135531627">For the following exercises, determine if the given graph is a one-to-one function.</para><exercise id="fs-id1165135541711"><problem id="fs-id1165135541713">
 
 <media id="fs-id1165135541720" alt="Graph of a circle." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_216-a74a.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_216-a74a.jpg"/>
 </media>
 
 </problem>
 <solution id="fs-id1165133085670"><para id="fs-id1165133085671">not a function so it is also not a one-to-one function</para></solution></exercise><exercise id="fs-id1165133085674"><problem id="fs-id1165134380351">
 <media id="fs-id1165134380356" alt="Graph of a parabola." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_232-f1fb.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_232-f1fb.jpg"/>
 </media>
 
  </problem>
 </exercise><exercise id="fs-id1165134037560"><problem id="fs-id1165134037562">
 
  <media id="fs-id1165134037568" alt="Graph of a rotated cubic function." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_217-f017.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_217-f017.jpg"/>
 </media>
 
  </problem>
@@ -3822,14 +3822,14 @@ and <m:math>
  </exercise><exercise id="fs-id1165134031248"><problem id="fs-id1165134031250">
 
  <media id="fs-id1165134031257" alt="Graph of half of 1/x." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_218-610c.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_218-610c.jpg"/>
 </media>
 
  </problem>
 </exercise><exercise id="fs-id1165134394579"><problem id="fs-id1165134394581">
 
  <media id="fs-id1165135457089" alt="Graph of a one-to-one function." display="block">
- <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_233-d9ac.jpg"/>
+ <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_233-d9ac.jpg"/>
 </media>
 
  </problem>
@@ -4294,7 +4294,7 @@ and <m:math>
  <m:mi>x</m:mi>
  <m:mn>2</m:mn>
 </m:msup>
-</m:mrow></m:math> on the given viewing window. Determine the corresponding range for each viewing window. Show each graph.</para><exercise id="fs-id1165135530591">
+</m:mrow></m:math> on the given domain. Determine the corresponding range. Show each graph.</para><exercise id="fs-id1165135530591">
 <problem id="fs-id1165135530593">
  <para id="fs-id1165135530595"> <m:math>
 <m:mrow>
@@ -4311,7 +4311,7 @@ and <m:math>
  <m:mo stretchy="false">[</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>100</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow></m:math>
  </para>
 <media id="fs-id1165133448050" alt="Graph of a parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_220-9a76.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_220-9a76.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165135695182">
  <problem id="fs-id1165135695184">
@@ -4326,7 +4326,7 @@ and <m:math>
 <m:mi>x</m:mi>
 <m:mn>3</m:mn>
  </m:msup>
- </m:mrow></m:math> on the given viewing window. Determine the corresponding range for each viewing window. Show each graph.</para><exercise id="fs-id1165134060421"><problem id="fs-id1165134060424">
+ </m:mrow></m:math> on the given domain. Determine the corresponding range. Show each graph.</para><exercise id="fs-id1165134060421"><problem id="fs-id1165134060424">
 <para id="fs-id1165134060426"> <m:math>
  <m:mrow>
 <m:mo stretchy="false">[</m:mo><m:mo>−</m:mo><m:mn>0.1</m:mn><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>0</m:mtext><m:mtext>.1</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow></m:math>
@@ -4337,7 +4337,7 @@ and <m:math>
  <m:mo stretchy="false">[</m:mo><m:mo>−</m:mo><m:mn>0.001</m:mn><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>0</m:mtext><m:mtext>.001</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow></m:math>
  </para>
 <media id="fs-id1165135259631" alt="Graph of a parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_222-58a3.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_222-58a3.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165133195224">
@@ -4357,13 +4357,13 @@ and <m:math>
  <m:mo stretchy="false">[</m:mo><m:mo>−</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>1,000,000</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow></m:math>
  </para>
 <media id="fs-id1165135434747" alt="Graph of a cubic function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_224-eb84.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_224-eb84.jpg"/>
 </media>
 </solution></exercise><para id="fs-id1165135634160">For the following exercises, graph <m:math>
 <m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:msqrt>
 <m:mi>x</m:mi>
  </m:msqrt>
- </m:mrow></m:math> on the given viewing window. Determine the corresponding range for each viewing window. Show each graph.</para><exercise id="fs-id1165137844302">
+ </m:mrow></m:math> on the given domain. Determine the corresponding range. Show each graph.</para><exercise id="fs-id1165137844302">
  <problem id="fs-id1165137844304">
 <para id="fs-id1165137844306"> <m:math>
  <m:mrow>
@@ -4382,7 +4382,7 @@ and <m:math>
  <m:mo stretchy="false">[</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mtext>10</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow></m:math>
  </para>
  <media id="fs-id1165137850247" alt="Graph of a square root function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_226-2ab0.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_226-2ab0.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165137605840">
  <problem id="fs-id1165137605842">
@@ -4399,7 +4399,7 @@ and <m:math>
 <m:mi>x</m:mi>
 <m:mn>3</m:mn>
  </m:mroot>
-</m:mrow></m:math> on the given viewing window. Determine the corresponding range for each viewing window. Show each graph.</para><exercise id="fs-id1165134031227" class="material-set-2"><problem id="fs-id1165134031229">
+</m:mrow></m:math> on the given domain. Determine the corresponding range. Show each graph.</para><exercise id="fs-id1165134031227" class="material-set-2"><problem id="fs-id1165134031229">
 <para id="fs-id1165134031231"> <m:math>
  <m:mrow>
 <m:mo stretchy="false">[</m:mo><m:mn>−0.001</m:mn><m:mo>,</m:mo><m:mtext>0.001</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow></m:math>
@@ -4409,7 +4409,7 @@ and <m:math>
  <m:mo stretchy="false">[</m:mo><m:mn>−0.1</m:mn><m:mo>,</m:mo><m:mtext>0.1</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow></m:math>
  </para>
  <media id="fs-id1165135407024" alt="Graph of a square root function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_228-97a8.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_228-97a8.jpg"/>
 </media>
  </solution></exercise><exercise id="fs-id1165134087649" class="material-set-2">
  <problem id="fs-id1165134087651">
@@ -4429,7 +4429,7 @@ and <m:math>
 </para>
 
  <media id="fs-id1165135394245" alt="Graph of a cubic root function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_01_230-df5b.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_01_230-df5b.jpg"/>
 </media>
 </solution></exercise></section>
 <section id="fs-id1165135580349">

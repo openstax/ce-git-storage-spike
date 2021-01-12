@@ -19,7 +19,7 @@
 <item>Graph horizontal parabolas. (IA 11.2.2)</item></list></section><section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-816"><title>Objective 1: Graph vertical parabolas. (IA 11.2.1)</title><para id="eip-840">A <term>parabola</term> is all points in a plane that are the same distance from a fixed point and a fixed line. The fixed point is called the <term>focus</term>, and the fixed line is called the <term>directrix</term> of the parabola.
 </para>
 <media id="paraboladef" alt="This figure shows a parabola opening upwards. Below the parabola is a horizontal line labeled directrix. A vertical dashed line through the center of the parabola is labeled axis of symmetry. The point where the axis intersects the parabola is labeled vertex. A point on the axis, within the parabola is labeled focus. A line perpendicular to the directrix connects the directrix to a point on the parabola and another line connects this point to the focus. Both these lines are of the same length.">
-<image mime-type="image/png" src="CNX_IntAlg_Figure_11_02_002_img.jpg"/>
+<image mime-type="image/png" src="../../media/CNX_IntAlg_Figure_11_02_002_img.jpg"/>
 </media>
 <para id="eip-203">Previously, we learned to graph vertical parabolas from the general form or the standard form using properties. Those methods will also work here.</para><table id="fs-id1163871908965" summary="This table, titled vertical parabolas, has 3 columns, 5 rows and a header row. The header row labeled the second and third column general form and standard form respectively. General form is y equals ax squared plus bx plus c and standard form is y equals a open parentheses x minus h close parentheses squared plus k. Row one: orientation: general form is a greater than 0, up and a less than 0 down. Standard form is the same. Row 2: Axis of symmetry: general form is x equals minus b upon 2a and standard form is x equals h. Row 3: vertex: general form, substitute x equals minus b upon 2a and solve for y; standard form is point h, k. Row 4: y intercept: general and standard forms, let x be 0. Row 5: x intercept: general and standard forms, let y be 0." class="unnumbered"><label/>
 <tgroup cols="3"><colspec colnum="1" colname="c1"/>
@@ -194,7 +194,7 @@ down
 <entry valign="top" align="left"/>
 <entry valign="top" align="left">
 <media id="fs-id1163872689672" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004b_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004b_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -213,7 +213,7 @@ the parabola opens downward.
 </entry>
 <entry valign="top" align="left">
 <media id="fs-id1163872468262" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004a_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004a_img.jpg"/>
 </media></entry>
 </row>
 <row valign="top">
@@ -237,7 +237,7 @@ To find the axis of symmetry, find
 </entry>
 <entry valign="top" align="left">
 <media id="fs-id1163872574710" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004c_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004c_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -245,7 +245,7 @@ To find the axis of symmetry, find
 <entry valign="top" align="left"/>
 <entry valign="top" align="left">
 <media id="fs-id1163872520882" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004d_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004d_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -253,7 +253,7 @@ To find the axis of symmetry, find
 <entry valign="top" align="left"/>
 <entry valign="top" align="left">
 <media id="fs-id1163872562025" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004e_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004e_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -275,7 +275,7 @@ The axis of symmetry is
 <entry valign="top" align="left"/>
 <entry valign="top" align="left">
 <media id="fs-id1163872630300" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004f_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004f_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -293,7 +293,7 @@ The vertex is on the line
 </entry>
 <entry valign="top" align="left">
 <media id="fs-id1163872013436" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004g_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004g_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -311,7 +311,7 @@ Let
 </entry>
 <entry valign="top" align="left">
 <media id="fs-id1163872571907" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004h_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004h_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -319,7 +319,7 @@ Let
 <entry valign="top" align="left"/>
 <entry valign="top" align="left">
 <media id="fs-id1163872512977" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004i_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004i_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -327,7 +327,7 @@ Let
 <entry valign="top" align="left"/>
 <entry valign="top" align="left">
 <media id="fs-id1163872568047" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004j_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004j_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -355,7 +355,7 @@ The vertex is
 <entry valign="top" align="left"/>
 <entry valign="top" align="left">
 <media id="fs-id1163872703214" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004k_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004k_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -375,7 +375,7 @@ The
 </entry>
 <entry valign="top" align="left">
 <media id="fs-id1163872517696" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004l_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004l_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -393,7 +393,7 @@ Substitute
 </entry>
 <entry valign="top" align="left">
 <media id="fs-id1163872465389" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004m_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004m_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -401,7 +401,7 @@ Substitute
 <entry valign="top" align="left">Simplify.</entry>
 <entry valign="top" align="left">
 <media id="fs-id1163871975475" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004n_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004n_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -487,7 +487,7 @@ Point symmetric to the
 <entry valign="top" align="left"/>
 <entry valign="top" align="left">
 <media id="fs-id1163872840487" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004o_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004o_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -507,7 +507,7 @@ The
 </entry>
 <entry valign="top" align="left">
 <media id="fs-id1163872538667" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004p_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004p_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -525,7 +525,7 @@ Let
 </entry>
 <entry valign="top" align="left">
 <media id="fs-id1163872561300" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004q_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004q_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -533,7 +533,7 @@ Let
 <entry valign="top" align="left">Factor the GCF.</entry>
 <entry valign="top" align="left">
 <media id="fs-id1163872731143" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004r_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004r_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -541,7 +541,7 @@ Let
 <entry valign="top" align="left">Factor the trinomial.</entry>
 <entry valign="top" align="left">
 <media id="fs-id1163872571007" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004s_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004s_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -553,7 +553,7 @@ Solve for
 </entry>
 <entry valign="top" align="left">
 <media id="fs-id1163872512920" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004t_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004t_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -593,7 +593,7 @@ The
 <entry valign="top" align="left">Graph the parabola.</entry>
 <entry valign="top" align="left">
 <media id="fs-id1163872459332" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_004u_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_004u_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -796,7 +796,7 @@ solve for
 </tgroup>
 </table>
 <media id="fs-horizontaldef" alt="This figure shows two parabolas with axis of symmetry y equals k,) and vertex (h, k. The one on the left is labeled a greater than 0 and opens to the right. The other parabola opens to the left.">
-<image mime-type="image/jpg" src="CNX_IntAlg_Figure_11_02_006_img.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_IntAlg_Figure_11_02_006_img.jpg"/>
 </media>
 
 <note id="fs-id1163872530085" class="how-to-notitle">
@@ -861,7 +861,7 @@ Graph
 <entry valign="top" align="left"/>
 <entry valign="top" align="left">
 <media id="fs-id1163872574283" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_011b_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_011b_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -912,7 +912,7 @@ the parabola opens to the right.
 </entry>
 <entry valign="top" align="left">
 <media id="fs-id1163871783227" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_011a_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_011a_img.jpg"/>
 </media></entry>
 </row>
 <row valign="top">
@@ -1253,7 +1253,7 @@ solution. So there are no
 <entry valign="top" align="left">Graph the parabola.</entry>
 <entry valign="top" align="left">
 <media id="fs-id1163872023683" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_02_011c_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_02_011c_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -1271,7 +1271,7 @@ solution. So there are no
 Graph <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>3</m:mn></m:math> .
   </para>
 </problem></exercise></section></section></section><figure id="Figure_10_03_001" class="small"><media id="fs-id1755691" alt="">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_001n.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_001n.jpg"/>
 
     </media>
 
@@ -1285,7 +1285,7 @@ Graph <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:msup><m:mi>y</m:mi><m
 
   <section id="fs-id2002579"><title>Graphing Parabolas with Vertices at the Origin</title><para id="fs-id1482583">In <link document="m49438">The Ellipse</link>, we saw that an <term class="no-emphasis">ellipse</term> is formed when a plane cuts through a right circular cone. If the plane is parallel to the edge of the cone, an unbounded curve is formed. This curve is a <term>parabola</term>. See <link target-id="Figure_10_03_002"/>.</para><figure id="Figure_10_03_002" class="small">
       <media id="fs-id1198446" alt="">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_002.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_002.jpg"/>
 
       </media>
 <caption>Parabola</caption>
@@ -1312,12 +1312,12 @@ Graph <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:msup><m:mi>y</m:mi><m
         <m:mi>P</m:mi>
     </m:mrow>
 </m:math> to the directrix.</para><figure id="Figure_10_03_003" class="small"><media id="fs-id1247449" alt="">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_003n.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_003n.jpg"/>
       </media>
 
     <caption>Key features of the parabola</caption></figure><para id="fs-id2073447">To work with parabolas in the <term class="no-emphasis">coordinate plane</term>, we consider two cases: those with a vertex at the origin and those with a <term class="no-emphasis">vertex</term> at a point other than the origin. We begin with the former.</para><figure id="Figure_10_03_018" class="small">
       <media id="fs-id2466598" alt="A vertical upward opening parabola with Vertex (0, 0), Focus (0, p) and Directrix y = negative p. Lines of length d connect a point on the parabola (x, y) to the Focus and the Directrix. The line to the Directrix is perpendicular to it.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_018.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_018.jpg"/>
       </media>
     </figure>
 
@@ -1714,7 +1714,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
 </table>
 
 <figure id="Figure_10_03_004abcd"><media id="fs-id2066121" alt="">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_004n.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_004n.jpg"/>
         </media>
 
       <caption>(a) When <m:math>
@@ -1735,7 +1735,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
  </m:mrow>
 </m:math> and the axis of symmetry is the <emphasis effect="italics">y</emphasis>-axis, the parabola opens down.</caption></figure></note><para id="fs-id1216434">The key features of a parabola are its vertex, axis of symmetry, focus, directrix, and latus rectum. See <link target-id="Figure_10_03_004abcd"/>. When given a standard equation for a parabola centered at the origin, we can easily identify the key features to graph the parabola.</para><para id="fs-id1611614">A line is said to be tangent to a curve if it intersects the curve at exactly one point. If we sketch lines tangent to the parabola at the endpoints of the latus rectum, these lines intersect on the axis of symmetry, as shown in <link target-id="Figure_10_03_005"/>.</para><figure id="Figure_10_03_005" class="small">
       <media id="fs-id1331421" alt="This is a graph labeled y squared = 24 x, a horizontal parabola opening to the right with Vertex (0, 0), Focus (6, 0) and Directrix x = negative 6. Two lines extend to the parabola from the point (negative 6, 0) and are tangent to the parabola at (6, 12) and (6, negative 12).">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_005.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_005.jpg"/>
       </media>
     </figure>
 
@@ -1988,7 +1988,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
 <para id="fs-id1208453">Next we plot the focus, directrix, and latus rectum, and draw a smooth curve to form the <term class="no-emphasis">parabola</term>. <link target-id="Figure_10_03_019"/></para>
 
 <figure id="Figure_10_03_019" class="small"><media id="eip-id2526388" alt="This is a horizontal parabola opening to the right with Vertex (0, 0), Focus (6, 0), and Directrix x = negative 6. The Latus Rectum is shown, a vertical line passing through the Focus and terminating on the parabola at (6, 12) and (6, negative 12).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_019.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_019.jpg"/>
 </media>
 </figure></solution>
 </exercise></example><note id="fs-id1203125" class="precalculus try">
@@ -2026,7 +2026,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
         </para>
 
         <media id="fs-id2340704" alt="">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_006.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_006.jpg"/>
         </media>
         </solution>
       </exercise></note>
@@ -2125,7 +2125,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
         </list></para><para id="fs-id1376330">Next we plot the focus, directrix, and latus rectum, and draw a smooth curve to form the <term class="no-emphasis">parabola</term>.</para>
 
         <figure id="Figure_10_03_007" class="small"><media id="fs-id1129590" alt="This is the graph labeled x squared = negative 6 y, a vertical parabola opening down with Vertex (0, 0), Focus (0, negative 3/2) and Directrix y = 3/2. The Latus Rectum is shown, a horizontal line passing through the Focus and terminating on the parabola at (negative 3, negative 3/2) and (3, negative 3/2).">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_007.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_007.jpg"/>
           </media>
         </figure></solution>
       </exercise></example>
@@ -2165,7 +2165,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
         </m:math>
           </para>
         <media id="fs-id1138457" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_008.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_008.jpg"/>
         </media>
 
         </solution>
@@ -2585,7 +2585,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
 </tgroup>
 </table>
     <figure id="Figure_10_03_009"><media id="fs-id1304080" alt="">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_009_revised.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_009_revised.jpg"/>
         </media>
 
       <caption>(a) When <m:math>
@@ -3049,7 +3049,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
 <para id="fs-id1341077">Next we plot the vertex, axis of symmetry, focus, directrix, and latus rectum, and draw a smooth curve to form the parabola. See <link target-id="Figure_10_03_010"/>.</para>
         <figure id="Figure_10_03_010" class="small">
           <media id="fs-id1981032" alt="This is the graph labeled (y minus 1) squared = negative 16(x + 3), a horizontal parabola opening to the left with Vertex (negative 3, 1), Focus (negative 7, 1), and Directrix x = 1. The Latus Rectum is shown, a vertical line passing through the Focus and terminating on the parabola at (negative 7, negative 7) and (negative 7, 9). The Axis of Symmetry, the horizontal line y = 1, is also shown, passing through the Vertex and the Focus.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_010.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_010.jpg"/>
           </media>
         </figure>
         </solution>
@@ -3121,7 +3121,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
         </para>
 
         <media id="fs-id2438840" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_011.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_011.jpg"/>
         </media></solution>
       </exercise>
 
@@ -3328,7 +3328,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
 
         <figure id="Figure_10_03_012" class="small">
           <media id="fs-id2438845" alt="This is the graph labeled (x minus 4)squared = 28 times (y + 8), a vertical parabola opening upward with Vertex (4, negative 8), Focus (4, negative 1), and Directrix y = negative 15. The Latus Rectum is shown, a horizontal line passing through the Focus and terminating on the parabola at (negative 10, negative 1) and (18, negative 1). The Axis of Symmetry, the vertical line x = 4, is also shown, passing through the Vertex and the Focus.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_012.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_012.jpg"/>
           </media>
         </figure>
         </solution>
@@ -3399,7 +3399,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
         </para>
 
         <media id="fs-id2208499" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_013.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_013.jpg"/>
         </media></solution>
       </exercise>
 
@@ -3409,7 +3409,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
 
     <figure id="Figure_10_03_014" class="small">
       <media id="fs-id2190283" alt="A parabolic reflector is shown with its Focus labeled. Rays of sunlight parallel to the Axis of Symmetry all bounce off the reflector and pass through the Focus.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_014.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_014.jpg"/>
       </media>
       <caption>Reflecting property of parabolas</caption>
     </figure>
@@ -3423,7 +3423,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
           <item><span class="token">ⓑ</span> Use the equation found in part ⓐ to find the depth of the fire starter.</item>
           </list><figure id="Figure_10_03_016" class="small">
             <media id="fs-id1668327" alt="">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_016.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_016.jpg"/>
             </media>
             <caption>Cross-section of a travel-sized solar fire starter</caption>
           </figure>
@@ -4671,7 +4671,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
 
 
         <media id="fs-id1953166" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_201.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_201.jpg"/>
         </media>
 
 
@@ -4707,7 +4707,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
 
 
         <media id="fs-id1525724" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_203.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_203.jpg"/>
         </media>
 
 
@@ -4751,7 +4751,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
 
 
         <media id="fs-id2052909" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_205.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_205.jpg"/>
         </media>
 
 
@@ -4801,7 +4801,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
 
 
         <media id="fs-id1154589" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_207.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_207.jpg"/>
         </media>
 
 
@@ -4831,7 +4831,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
 
 
         <media id="fs-id2600560" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_209.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_209.jpg"/>
         </media>
 
 
@@ -4861,7 +4861,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
 
 
         <media id="fs-id1981318" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_211.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_211.jpg"/>
         </media>
 
 
@@ -4891,7 +4891,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
 
 
         <media id="fs-id1935044" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_213.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_213.jpg"/>
         </media>
 
 
@@ -5154,7 +5154,7 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
       	<exercise id="fs-id1525645">
 <problem id="fs-id1525646">
         <media id="fs-id1525651" alt="This figure shows two thumbtacks stuck in a piece of paper with a slack piece of string between them. A pencil pulls the string taught and by moving around, draws an ellipse." display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_215.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_215.jpg"/>
         </media>
 
 </problem>      <solution id="fs-id1525661">
@@ -5173,12 +5173,12 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
 
       <exercise id="fs-id1406730"><problem id="fs-id1406731">
         <media id="fs-id1406735" alt="This is a horizontal parabola in the x y plane, opening to the left, with Vertex (3, 2) and Focus (negative 1, 2). The Axis of Symmetry, a horizontal line, is shown, passing through the Vertex and the Focus." display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_216.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_216.jpg"/>
         </media>
       </problem></exercise>
       <exercise id="fs-id1406744"><problem id="fs-id1406746">
         <media id="fs-id1406750" alt="This is a horizontal parabola in the x y plane, opening to the right, with Vertex (negative 2, 2) and Focus (negative 31/16, 2). The Axis of Symmetry, a horizontal line, is shown, passing through the Vertex and the Focus." display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_217.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_217.jpg"/>
         </media>
       </problem>
       <solution id="fs-id1406759">
@@ -5210,12 +5210,12 @@ on the directrix is the difference of the <emphasis effect="italics">y</emphasis
 
       <exercise id="fs-id1916229"><problem id="fs-id1916230">
         <media id="fs-id1916234" alt="This is a vertical parabola in the x-y plane, opening down, with Vertex (negative 3, 5) and Focus (negative 3, 319/64). The Axis of Symmetry, a vertical line, is shown, passing through the Vertex and the Focus." display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_218.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_218.jpg"/>
         </media>
 </problem></exercise>
       <exercise id="fs-id1916244"><problem id="fs-id1916245">
         <media id="fs-id1916249" alt="This is a horizontal parabola in the x y plane, opening to the right, with Vertex (negative square root of 2, square root of 3) and Focus (negative square root of 2 + square root of 5, square root of 3). The Axis of Symmetry, a horizontal line, is shown, passing through the Vertex and the Focus." display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_03_219.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_03_219.jpg"/>
         </media>
 </problem>
       <solution id="fs-id1916259">

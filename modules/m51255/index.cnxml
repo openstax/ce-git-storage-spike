@@ -250,7 +250,7 @@ Use the definition of <m:math><m:mi>i</m:mi></m:math> and simplify radical terms
 </problem>
 
 </exercise></section></section></section><figure id="Figure_02_04_001" class="medium"><media id="fs-id1919899" alt="A visual representation of the Mandelbrot set">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_04_001N.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_04_001N.jpg"/>
 </media>
 </figure><para id="fs-id2523388">Discovered by Benoit Mandelbrot around 1980, the Mandelbrot Set is one of the most recognizable fractal images. The image is built on the theory of self-similarity and the operation of iteration. Zooming in on a fractal image brings many surprises, particularly in the high level of repetition of detail that appears as magnification increases. The equation that generates this image turns out to be rather simple.</para>
 <para id="fs-id2510203">In order to better understand it, we need to become familiar with a new set of numbers. Keep in mind that the study of mathematics continuously builds upon itself. Negative integers, for example, fill a void left by the set of positive integers. The set of rational numbers, in turn, fills a void left by the set of integers. The set of real numbers fills a void left by the set of rational numbers. Not surprisingly, the set of real numbers has voids as well. In this section, we will explore a set of numbers that fills voids in the set of real numbers and find out how to work within it.</para><section id="fs-id2425607">
@@ -388,7 +388,7 @@ Use the definition of <m:math><m:mi>i</m:mi></m:math> and simplify radical terms
  </m:mrow>
 </m:math> </para>
 <media id="fs-id1541885" alt="The complex number 5 + 2i is displayed.  The 5 is labeled as: Real part and the 2i is labeled as: Imaginary part">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_04_002.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_04_002.jpg"/>
  </media>
 <para id="fs-id1174676">Imaginary numbers differ from real numbers in that a squared imaginary number produces a negative real number. Recall that when a positive real number is squared, the result is a positive real number and when a negative real number is squared, the result is also a positive real number. Complex numbers consist of real and imaginary numbers.</para>
 <note id="fs-id1558068">
@@ -587,14 +587,14 @@ Use the definition of <m:math><m:mi>i</m:mi></m:math> and simplify radical terms
  </m:mrow>
 </m:math> as shown in <link target-id="Figure_02_04_003"/><emphasis>.</emphasis></para><figure id="Figure_02_04_003" class="small">
 <media id="fs-id1245266" alt="Coordinate plane with the x and y axes ranging from negative 5 to 5.  The point negative 2 plus 3i is plotted on the graph.  An arrow extends leftward from the origin two units and then an arrow extends upward three units from the end of the previous arrow.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_04_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_04_003.jpg"/>
 </media>
 </figure>
 <note id="fs-id1184889">
 
 <title>Complex Plane</title>
 <para id="fs-id3269164">In the complex plane, the horizontal axis is the real axis, and the vertical axis is the imaginary axis, as shown in <link target-id="Figure_02_04_004"/>.</para><figure id="Figure_02_04_004" class="small"><media id="fs-id1943089" alt="A blank coordinate plane with the x-axis labeled: real and the y-axis labeled: imaginary.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_04_004N.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_04_004N.jpg"/>
 </media>
 </figure></note>
 <note id="fs-id1273812" class="how-to-notitle">
@@ -625,7 +625,7 @@ Use the definition of <m:math><m:mi>i</m:mi></m:math> and simplify radical terms
  <m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>−4</m:mn><m:mo stretchy="false">)</m:mo>
  </m:mrow>
 </m:math> as shown in <link target-id="Figure_02_04_005"/><emphasis>.</emphasis></para><figure id="Figure_02_04_005" class="small"><media id="fs-id915324" alt="Coordinate plane with the x and y axes ranging from -5 to 5.  The point 3 – 4i is plotted, with an arrow extending rightward from the origin 3 units and an arrow extending downward 4 units from the end of the previous arrow.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_01_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_01_004.jpg"/>
 </media>
 </figure></solution>
 </exercise>
@@ -640,7 +640,7 @@ Use the definition of <m:math><m:mi>i</m:mi></m:math> and simplify radical terms
 </m:math> on the complex plane.</para></problem>
 <solution id="fs-id1697947">
 <media id="fs-id2493583" alt="Coordinate plane with the x and y axes ranging from negative 5 to 5.  The point -4  i is plotted.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_01_005.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_01_005.jpg"/>
  </media>
 </solution>
 </exercise>
@@ -841,7 +841,7 @@ Use the definition of <m:math><m:mi>i</m:mi></m:math> and simplify radical terms
  </m:mrow>
 </m:math> :
 </para><media id="fs-id1545734" alt="Multiplication of a real number and a complex number.  The 3 outside of the parentheses has arrows extending from it to both the 6 and the 2i inside of the parentheses.  This expression is set equal to the quantity three times six plus the quantity three times two times i; this is the distributive property.  The next line equals eighteen plus six times i; the simplification.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_01_006.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_01_006.jpg"/>
  </media>
 <note id="fs-id1494245" class="how-to-notitle">
 <label>How To</label>
@@ -2400,7 +2400,7 @@ Use the definition of <m:math><m:mi>i</m:mi></m:math> and simplify radical terms
 <solution id="fs-id1582066">
 <para id="fs-id1793331"><newline/>
 <media id="fs-id1535238" alt="Coordinate plane with the x and y axes ranging from 5 to 5.  The point 1  2i is plotted">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_01_203-c969.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_01_203-c969.jpg"/>
  </media>
 </para>
 </solution></exercise>
@@ -2416,7 +2416,7 @@ Use the definition of <m:math><m:mi>i</m:mi></m:math> and simplify radical terms
 <solution id="fs-id1933015">
 <para id="fs-id2958818"><newline/>
 <media id="fs-id1799421" alt="Coordinate plane with the x and y axes ranging from -5 to 5.  The point i is plotted.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_01_205-93bf.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_01_205-93bf.jpg"/>
  </media>
 </para>
 </solution>

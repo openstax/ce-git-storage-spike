@@ -78,115 +78,115 @@ Use Cramer’s Rule to solve the system of equations.
 <tbody>
 <row valign="top">
 <entry valign="top" align="left">Evaluate the determinant <emphasis effect="italics">D</emphasis>.</entry>
-<entry valign="top" align="left"><media id="fs-id1167826801782" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018d_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167826801782" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018d_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Expand by minors using column 1.</entry>
 <entry valign="top" align="left"/>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><media id="fs-id1167835504018" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018a_img.jpg"/></media></entry>
-<entry valign="top" align="left"><media id="fs-id1167835235110" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018e_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835504018" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018a_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835235110" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018e_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Evaluate the determinants.</entry>
-<entry valign="top" align="left"><media id="fs-id1167834279238" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018f_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167834279238" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018f_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Simplify.</entry>
-<entry valign="top" align="left"><media id="fs-id1167832152001" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018g_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167832152001" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018g_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Simplify.</entry>
-<entry valign="top" align="left"><media id="fs-id1167826938247" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018h_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167826938247" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018h_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Simplify.</entry>
-<entry valign="top" align="left"><media id="fs-id1167834131323" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018i_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167834131323" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018i_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Evaluate the determinant <m:math><m:mrow><m:msub><m:mi>D</m:mi><m:mi>x</m:mi></m:msub><m:mo>.</m:mo></m:mrow></m:math> Use the<newline/>constants to replace the coefficients of <emphasis effect="italics">x</emphasis>.</entry>
-<entry valign="top" align="left"><media id="fs-id1167835305033" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018j_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835305033" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018j_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Expand by minors using column 1.</entry>
-<entry valign="top" align="left"><media id="fs-id1167835634609" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018k_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835634609" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018k_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Evaluate the determinants.</entry>
-<entry valign="top" align="left"><media id="fs-id1167831825107" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018l_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167831825107" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018l_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Simplify.</entry>
-<entry valign="top" align="left"><media id="fs-id1167834556769" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018m_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167834556769" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018m_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Simplify.</entry>
-<entry valign="top" align="left"><media id="fs-id1167834517442" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018n_img-76ec.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167834517442" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018n_img-76ec.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Evaluate the determinant <m:math><m:mrow><m:msub><m:mi>D</m:mi><m:mi>y</m:mi></m:msub><m:mo>.</m:mo></m:mrow></m:math> Use the<newline/>constants to replace the coefficients of <emphasis effect="italics">y</emphasis>.</entry>
-<entry valign="top" align="left"><media id="fs-id1167835376143" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018o_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835376143" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018o_img.jpg"/></media></entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><media id="fs-id1167834408455" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018b_img.jpg"/></media></entry>
-<entry valign="top" align="left"><media id="fs-id1167826798788" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018p_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167834408455" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018b_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167826798788" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018p_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Evaluate the determinants.</entry>
-<entry valign="top" align="left"><media id="fs-id1167835335956" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018q_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835335956" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018q_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Simplify.</entry>
-<entry valign="top" align="left"><media id="fs-id1167831959318" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018r_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167831959318" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018r_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Simplify.</entry>
-<entry valign="top" align="left"><media id="fs-id1167835327732" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018s_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835327732" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018s_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Simplify.</entry>
-<entry valign="top" align="left"><media id="fs-id1167835259317" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018t_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835259317" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018t_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Evaluate the determinant <m:math><m:mrow><m:msub><m:mi>D</m:mi><m:mi>z</m:mi></m:msub><m:mo>.</m:mo></m:mrow></m:math> Use the<newline/>constants to replace the coefficients of <emphasis effect="italics">z</emphasis>.</entry>
-<entry valign="top" align="left"><media id="fs-id1167835423151" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018u_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835423151" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018u_img.jpg"/></media></entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><media id="fs-id1167834587839" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018c_img.jpg"/></media></entry>
-<entry valign="top" align="left"><media id="fs-id1167830898572" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018v_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167834587839" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018c_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167830898572" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018v_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Evaluate the determinants.</entry>
-<entry valign="top" align="left"><media id="fs-id1167835367199" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018w_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835367199" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018w_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Simplify.</entry>
-<entry valign="top" align="left"><media id="fs-id1167834423610" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018x_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167834423610" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018x_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Simplify.</entry>
-<entry valign="top" align="left"><media id="fs-id1167835325481" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018y_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835325481" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018y_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Simplify.</entry>
-<entry valign="top" align="left"><media id="fs-id1167835237771" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018z_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835237771" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018z_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Find <emphasis effect="italics">x</emphasis>, <emphasis effect="italics">y</emphasis>, and <emphasis effect="italics">z</emphasis>.</entry>
-<entry valign="top" align="left"><media id="fs-id1167830697629" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018aa_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167830697629" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018aa_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Substitute in the values.</entry>
-<entry valign="top" align="left"><media id="fs-id1167835340509" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018bb_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835340509" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018bb_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Simplify.</entry>
-<entry valign="top" align="left"><media id="fs-id1167832052669" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018cc_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167832052669" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018cc_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Write the solution as an ordered triple.</entry>
-<entry valign="top" align="left"><media id="fs-id1167835330774" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_06_018dd_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835330774" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_06_018dd_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="bottom" align="left">Check that the ordered triple is a solution<newline/>to <emphasis effect="bold">all three</emphasis> original equations.</entry>
@@ -247,7 +247,7 @@ Use Cramer’s Rule to solve the system of three equations.
 <para id="fs-id1644238">is defined as</para>
 
 <media id="fs-id1347161" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_08_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_08_001.jpg"/>
 </media>
 
 
@@ -2201,7 +2201,7 @@ Use Cramer’s Rule to solve the system of three equations.
 </list>
 
 <media id="fs-id1536830" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_08_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_08_002.jpg"/>
 </media>
 
 <para id="fs-id1704961">The algebra is as follows:</para>
@@ -2548,7 +2548,7 @@ Use Cramer’s Rule to solve the system of three equations.
 </m:math> matrices. For larger matrices it is best to use a graphing utility or computer software.</emphasis></para></note>
 </section><section id="fs-id1420022"><title>Using Cramer’s Rule to Solve a System of Three Equations in Three Variables</title><para id="fs-id1433754">Now that we can find the <term class="no-emphasis">determinant</term> of a 3 × 3 matrix, we can apply <term class="no-emphasis">Cramer’s Rule</term> to solve a <term class="no-emphasis">system of three equations in three variables</term>. Cramer’s Rule is straightforward, following a pattern consistent with Cramer’s Rule for 2 × 2 matrices. As the order of the matrix increases to 3 × 3, however, there are many more calculations required.</para><para id="fs-id1433166">When we calculate the determinant to be zero, Cramer’s Rule gives no indication as to whether the system has no solution or an infinite number of solutions. To find out, we have to perform elimination on the system.</para>
 <para id="fs-id1518566">Consider a 3 × 3 system of equations.</para><media id="eip-id1435181" alt="" display="block">
-<image mime-type="image/jpg" src="9.8.1.jpg"/>
+<image mime-type="image/jpg" src="../../media/9.8.1.jpg"/>
 </media>
 
 <equation id="fs-id1452172" class="unnumbered"><label/> <m:math display="block">
@@ -2590,7 +2590,7 @@ Use Cramer’s Rule to solve the system of three equations.
 <para id="fs-id1517256">where</para>
 
 <media id="eip-id1165135512554" alt="" display="block">
-<image mime-type="image/jpg" src="9.8.2.jpg"/>
+<image mime-type="image/jpg" src="../../media/9.8.2.jpg"/>
 </media>
 
 <para id="fs-id1702973">If we are writing the determinant <m:math>
@@ -3166,7 +3166,7 @@ Use Cramer’s Rule to solve the system of three equations.
   <m:mn>0</m:mn><m:mo>=</m:mo><m:mn>−8</m:mn><m:mo>,</m:mo> </m:mrow>
 </m:math> which is false. Therefore, the system has no solution. Graphing the system reveals two parallel lines. See <link target-id="Figure_09_08_003"/>.</para><figure id="Figure_09_08_003" class="small">
 <media id="fs-id1663104" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_08_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_08_003.jpg"/>
 </media>
 </figure>
 </solution>
@@ -3392,7 +3392,7 @@ Use Cramer’s Rule to solve the system of three equations.
 </m:math> a statement that is always true, means that the system has an infinite number of solutions. Graphing the system, we can see that two of the planes are the same and they both intersect the third plane on a line. See <link target-id="Figure_09_08_005"/>.</item>
 </list><figure id="Figure_09_08_005" class="small">
 <media id="fs-id1454754" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_08_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_08_005.jpg"/>
 </media>
 </figure>
 </solution>
@@ -6977,7 +6977,7 @@ Use Cramer’s Rule to solve the system of three equations.
 
 
 <media id="fs-id1663829" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_08_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_08_202.jpg"/>
 </media>
 
 </solution></exercise><para id="fs-id1663839">For the following exercises, graph the system of inequalities.</para>
@@ -7049,7 +7049,7 @@ Use Cramer’s Rule to solve the system of three equations.
 
 
 <media id="fs-id1600817" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_08_204.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_08_204.jpg"/>
 </media>
 
 </solution></exercise><exercise id="fs-id1600828"><problem id="fs-id1600829"><para id="fs-id1600830"> <m:math>
@@ -9531,7 +9531,7 @@ Use Cramer’s Rule to solve the system of three equations.
   <solution id="fs-id1380134">
 
    <media id="fs-id1380141" alt="">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_09_08_207.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_08_207.jpg"/>
    </media>
 
 </solution></exercise><para id="fs-id1663752">For the following exercises, write the partial fraction decomposition.</para>

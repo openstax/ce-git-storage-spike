@@ -22,13 +22,13 @@
 In our work with functions we will make observations about when the function increases or decreases and how quickly this change takes place. The <term>average rate of change</term> is a measure of change of a function and tells us how an output quantity, or y value, changes relative to an input quantity, or x value. Finding the average rate of change between two points is equivalent to finding the <term>slope</term> of the line segment connecting these two data points.
 </para><para id="eip-871"><m:math><m:mtext>average rate of change</m:mtext><m:mo>=</m:mo><m:mfrac><m:mtext>change in output</m:mtext><m:mtext>change in input</m:mtext></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>Δ</m:mi><m:mi>y</m:mi></m:mrow><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>y</m:mi><m:mn>2</m:mn></m:msub><m:mo>-</m:mo><m:msub><m:mi>y</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>-</m:mo><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>f</m:mi><m:mo>(</m:mo><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>)</m:mo><m:mo>-</m:mo><m:mi>f</m:mi><m:mo>(</m:mo><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>-</m:mo><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mtext>rise</m:mtext><m:mtext>run</m:mtext></m:mfrac></m:math> </para><para id="eip-700">When interpreting an average rate of change it will be important to consider the units of measurement. Make sure to always attach these units to both the numerator and denominator when they are provided to you.</para>
 <note id="eip-idm320577248"><label/><title>Quick Guide to the Slopes of Lines</title><media id="fs-id1167835420474" alt="The image shows four arrows. The first arrow is slanted and pointing up and to the right and is labeled “positive”. The second arrow is slanted and pointing down and to the right and labeled “negative”. The third arrow is horizontal and labeled “zero”. The fourth arrow is vertical and labeled “undefined”.">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_03_02_006_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_03_02_006_img_new.jpg"/>
 </media></note>
 <example id="fs-id1167835309939">
 <exercise id="fs-id1167835335299"><problem id="fs-id1167834472479">
 <para id="fs-id1167835297415">Find the slope of the line shown.</para>
 <media id="fs-id1167834094757" alt="This figure shows the graph of a straight line on the x y-coordinate plane. The x-axis runs from negative 1 to 9. The y-axis runs from negative 1 to 7. The line goes through the points (0, 5), (3, 3), and (6, 1).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_03_02_002_img_new-2c04.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_03_02_002_img_new-2c04.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1167831887592"><para id="eip-idm369217712">Locate two points on the graph whose coordinates are integers.</para>
@@ -80,7 +80,7 @@ In our work with functions we will make observations about when the function inc
 </m:math> </para>
 
 <media id="fs-id1167826940711" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_03_02_003a_img-4a96.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_03_02_003a_img-4a96.jpg"/>
 </media>
 <para id="eip-idm380898352">It may help to visualize this change as <m:math>
 <m:mrow>
@@ -139,7 +139,7 @@ Use the slope formula: <m:math>
 </m:math> </para></solution>
 </exercise></example><para id="eip-271">Finding slopes of lines.</para>
 <media id="eip-idm363880624" alt=" ">
-<image mime-type="image/png" src="CNX_Coreq_Figure_03_03_001.jpg"/></media>
+<image mime-type="image/png" src="../../media/CNX_Coreq_Figure_03_03_001.jpg"/></media>
 <para id="eip-idm308448352">
           <span class="token">ⓐ</span> Which pair of lines appear parallel?  ________ and ________.
           Find their slopes: ________;  _________<newline/>
@@ -204,7 +204,7 @@ Complete this table’s y-values, and then graph the line. <m:math><m:mi>y</m:mi
 </entry>
 <entry>
 <media id="eip-idm368404624" alt="blank graph">
-<image mime-type="image/png" src="CNX_Coreq_Figure_03_03_002.png"/>
+<image mime-type="image/png" src="../../media/CNX_Coreq_Figure_03_03_002.png"/>
 </media>
 
 </entry>
@@ -821,7 +821,7 @@ The following table shows the number of Associates degrees awarded (in thousands
 
      <figure id="Figure_01_03_001" class="small">
       <media id="fs-id1165137838377" alt="Graph of a parabola.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_001-81a9.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_001-81a9.jpg"/>
       </media>
      </figure>
 
@@ -848,7 +848,7 @@ The following table shows the number of Associates degrees awarded (in thousands
      </m:math>
      </para><figure id="Figure_01_03_002" class="small">
      <media id="fs-id1165137387448" alt="Graph of a parabola with a line from points (-1, 4) and (2, 1) to show the changes for g(t) and t.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_002.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_002.jpg"/>
      </media>
     </figure>
 
@@ -1737,7 +1737,7 @@ and <m:math>
  </section>
 
  <section id="fs-id1165135440486"><title>Using a Graph to Determine Where a Function is Increasing, Decreasing, or Constant</title><para id="fs-id1165137784644">As part of exploring how functions change, we can identify intervals over which the function is changing in specific ways. We say that a function is increasing on an interval if the function values increase as the input values increase within that interval. Similarly, a function is decreasing on an interval if the function values decrease as the input values increase over that interval. The average rate of change of an increasing function is positive, and the average rate of change of a decreasing function is negative. <link target-id="Figure_01_03_004"/> shows examples of increasing and decreasing intervals on a function.</para><figure id="Figure_01_03_004" class="small"><media id="fs-id1165135390884" alt="Graph of a polynomial that shows the increasing and decreasing intervals and local maximum and minimum.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_004-2b4a.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_004-2b4a.jpg"/>
    </media>
 
   <caption>The function <m:math>
@@ -1788,11 +1788,11 @@ and <m:math>
    <m:mi>x</m:mi><m:mo>=</m:mo><m:mn>2.</m:mn></m:mrow>
   </m:math>
   </para><figure id="Figure_01_03_015" class="medium"><media id="fs-id1165137459600" alt="A graph is shown on a set of x and y axes. The scale is minus five to plus five for x and minus twenty to twenty for y. The graph rises from below in the third quadrant, crossing the x-axis between negative three and negative four, has a turning point at minus two, sixteen, crosses the x-axis again at the origin, has another turning point at two, minus sixteen, and crosses the x-axis one last time between three and four, rising from there. The turning points are labeled local maximum and local minimum respectively. The curve is labeled increasing or decreasing as appropriate.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_014-ba4c.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_014-ba4c.jpg"/>
    </media>
   </figure><para id="fs-id1165133316450">To locate the local maxima and minima from a graph, we need to observe the graph to determine where the graph attains its highest and lowest points, respectively, within an open interval. Like the summit of a roller coaster, the graph of a function is higher at a local maximum than at nearby points on both sides. The graph will also be lower at a local minimum than at neighboring points. <link target-id="Figure_01_03_005"/> illustrates these ideas for a local maximum.</para><figure id="Figure_01_03_005" class="small">
    <media id="fs-id1165137724379" alt="Graph of a polynomial that shows the increasing and decreasing intervals and local maximum.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_005.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_005.jpg"/>
    </media>
    <caption>Definition of a local maximum</caption>
   </figure>
@@ -1903,7 +1903,7 @@ and <m:math>
 
      <figure id="Figure_01_03_006" class="small">
       <media id="fs-id1165134106001" alt="Graph of a polynomial.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_006.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_006.jpg"/>
       </media>
      </figure>
 
@@ -1972,7 +1972,7 @@ and <m:math>
 </m:math> </para>
 <figure id="Figure_01_03_007" class="small">
      <media id="fs-id1165137888935" alt="Graph of a reciprocal function.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_007.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_007.jpg"/>
      </media>
     </figure>
     </solution>
@@ -1980,7 +1980,7 @@ and <m:math>
      <title>Analysis </title>
      <para id="fs-id1165133320718">Most graphing calculators and graphing utilities can estimate the location of maxima and minima. <link target-id="Figure_01_03_008"/> provides screen images from two different technologies, showing the estimate for the local maximum and minimum.</para>
 <figure id="Figure_01_03_008"><media id="fs-id1165134377142" alt="Graph of the reciprocal function on a graphing calculator.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_008ab_CAT.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_008ab_CAT.jpg"/>
       </media>
      </figure><para id="fs-id1165134075625">Based on these estimates, the function is increasing on the interval <m:math>
  <m:mrow>
@@ -2029,7 +2029,7 @@ and <m:math>
     </m:math>
     </para>
     <media id="fs-id1165134043615" alt="Graph of a polynomial with a local maximum at (-1, 28) and local minimum at (5, -80).">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_010.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_010.jpg"/>
     </media>
     </solution></exercise></note>
 
@@ -2042,7 +2042,7 @@ and <m:math>
        <m:mi>f</m:mi></m:mrow>
      </m:math> whose graph is shown in <link target-id="Figure_01_03_011"/>, find all local maxima and minima.</para><figure id="Figure_01_03_011" class="small">
       <media id="fs-id1165135516800" alt="Graph of a polynomial.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_011.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_011.jpg"/>
       </media>
      </figure>
     </problem>
@@ -2090,17 +2090,17 @@ and <m:math>
 
   <figure id="Figure_01_03_012">
    <media id="fs-id1165135186344" alt="Table showing the increasing and decreasing intervals of the toolkit functions.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_012a.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_012a.jpg"/>
    </media>
   </figure>
   <figure id="Figure_01_03_016">
    <media id="fs-id1165137834947" alt="Table showing the increasing and decreasing intervals of the toolkit functions.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_012b.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_012b.jpg"/>
    </media>
   </figure>
   <figure id="Figure_01_03_017">
    <media id="fs-id1165137834962" alt="Table showing the increasing and decreasing intervals of the toolkit functions.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_012c.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_012c.jpg"/>
    </media>
   </figure>
  </section>
@@ -2114,7 +2114,7 @@ and <m:math>
 </m:math> coordinates (output) at the highest and lowest points are called the <emphasis>absolute maximum </emphasis>and<emphasis> absolute minimum</emphasis>, respectively.</para><para id="fs-id1165131833490">To locate absolute maxima and minima from a graph, we need to observe the graph to determine where the graph attains it highest and lowest points on the domain of the function. See <link target-id="Figure_01_03_014"/>.</para>
 
   <figure id="Figure_01_03_014" class="small"><media id="fs-id1165134153022" alt="Graph of a segment of a parabola with an absolute minimum at (0, -2) and absolute maximum at (2, 2).">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_015.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_015.jpg"/>
    </media>
   </figure><para id="fs-id1165137692066">Not every function has an absolute maximum or minimum value. The toolkit function <m:math>
    <m:mrow>
@@ -2181,7 +2181,7 @@ and <m:math>
        <m:mi>f</m:mi></m:mrow>
      </m:math> shown in <link target-id="Figure_01_03_013"/>, find all absolute maxima and minima.</para><figure id="Figure_01_03_013" class="small">
       <media id="fs-id1165134360890" alt="Graph of a polynomial.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_013.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_013.jpg"/>
       </media>
      </figure>
 
@@ -2637,7 +2637,7 @@ and <m:math>
 
    <figure id="Figure_01_03_201" class="medium">
     <media id="fs-id1165135581139" alt="Graph of a polynomial.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_201.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_201.jpg"/>
     </media>
    </figure>
 
@@ -2681,13 +2681,13 @@ and <m:math>
 
  <exercise id="fs-id1165133213915"><problem id="fs-id1165133213917">
    <media id="fs-id1165133213923" alt="Graph of an absolute function." display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_202.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_202.jpg"/>
     </media>
 </problem>
  </exercise><exercise id="fs-id1165137897938"><problem id="fs-id1165137897940">
 
       <media id="fs-id1165137897946" alt="Graph of a cubic function." display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_203.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_203.jpg"/>
     </media>
 
     </problem>
@@ -2710,14 +2710,14 @@ and <m:math>
    </exercise><exercise id="fs-id1165135600844"><problem id="fs-id1165135600846">
 
       <media id="fs-id1165135422552" alt="Graph of a cubic function." display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_204.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_204.jpg"/>
     </media>
 
     </problem>
    </exercise><exercise id="fs-id1165135422567"><problem id="fs-id1165135422569">
 
      <media id="fs-id1165134080979" alt="Graph of a reciprocal function." display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_205.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_205.jpg"/>
     </media>
 
    </problem>
@@ -2747,7 +2747,7 @@ and <m:math>
 
    <figure id="Figure_01_03_206" class="medium">
     <media id="fs-id1165134373469" alt="Graph of a cubic function.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_206.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_206.jpg"/>
     </media>
    </figure>
 
@@ -2779,7 +2779,7 @@ and <m:math>
 
    <figure id="Figure_01_03_207" class="medium">
     <media id="fs-id1165135404188" alt="Graph of a cubic function.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_207.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_207.jpg"/>
     </media>
    </figure>
 
@@ -3252,7 +3252,7 @@ and <m:math>
   </section><section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135536251"><title>Extension</title><exercise id="fs-id1165135536257" class="material-set-2"><problem id="fs-id1165135536258"><para id="fs-id1165135536259">The graph of the function <m:math>
     <m:mrow><m:mi>f</m:mi></m:mrow>
    </m:math> is shown in <link target-id="Figure_01_03_213"/>.</para><figure id="Figure_01_03_213"><media id="fs-id1165134298977" alt="Graph of f(x) on a graphing calculator.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_213n.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_213n.jpg"/>
     </media>
    </figure><para id="fs-id1165134298989">Based on the calculator screen shot, the point <m:math>
      <m:mrow>
@@ -3381,7 +3381,7 @@ and <m:math>
    </m:math> days.</para>
 
 <figure id="Figure_01_03_214" class="medium"><media id="fs-id1165135517159" alt="Graph of an exponential function.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_03_214n.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_03_214n.jpg"/>
     </media>
    </figure>
 <para id="fs-id1165135517172">Use the graph to estimate the average decay rate from <m:math>

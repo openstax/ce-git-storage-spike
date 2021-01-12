@@ -4,8 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
   <md:content-id>m49304</md:content-id>
   <md:title>Domain and Range</md:title>
-  <md:abstract><para>In this section, you will:</para>
-<list>
+  <md:abstract><para>In this section, you will:</para><list>
 <item>Find the domain of a function defined by an equation.</item>
 <item>Graph piecewise-defined functions.</item>
 </list></md:abstract>
@@ -16,7 +15,7 @@
 <content>
 <para id="fs-id1165137404978">If you’re in the mood for a scary movie, you may want to check out one of the five most popular horror movies of all time—<emphasis effect="italics">I am Legend</emphasis>, <emphasis effect="italics">Hannibal</emphasis>, <emphasis effect="italics">The Ring</emphasis>, <emphasis effect="italics">The Grudge</emphasis>, and <emphasis effect="italics">The Conjuring</emphasis>. <link target-id="Figure_01_02_001"/> shows the amount, in dollars, each of those movies grossed when they were released as well as the ticket sales for horror movies in general by year. Notice that we can use the data to create a function of the amount each movie earned or the total ticket sales for all horror movies by year. In creating various functions using the data, we can identify different independent and dependent variables, and we can analyze the data and the functions to determine the <term class="no-emphasis">domain</term> and range. In this section, we will investigate methods for determining the domain and range of functions such as these.</para><figure id="Figure_01_02_001">
 <media id="fs-id1165135435537" alt="Two graphs where the first graph is of the Top-Five Grossing Horror Movies for years 2000-2003 and Market Share of Horror Movies by Year">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_001-f298.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_001-f298.jpg"/>
 </media>
 <caption>Based on data compiled by www.the-numbers.com.<footnote id="fs-id1165137758551">The Numbers: Where Data and the Movie Business Meet. “Box Office History for Horror Movies.” http://www.the-numbers.com/market/genre/Horror. Accessed 3/24/2014</footnote></caption>
 </figure>
@@ -25,7 +24,7 @@
 <title>Finding the Domain of a Function Defined by an Equation</title>
 <para id="fs-id1165135445896">In <link document="m49301">Functions and Function Notation</link>, we were introduced to the concepts of <term class="no-emphasis">domain and range</term>. In this section, we will practice determining domains and ranges for specific functions. Keep in mind that, in determining domains and ranges, we need to consider what is physically possible or meaningful in real-world examples, such as tickets sales and year in the horror movie example above. We also need to consider what is mathematically permitted. For example, we cannot include any input value that leads us to take an even root of a negative number if the domain and range consist of real numbers. Or in a function expressed as a formula, we cannot include any input value in the domain that would lead us to divide by 0.</para><para id="fs-id1165135453892">We can visualize the domain as a “holding area” that contains “raw materials” for a “function machine” and the range as another “holding area” for the machine’s products. See <link target-id="Figure_01_02_002"/>.</para><figure id="Figure_01_02_002" class="small">
 <media id="fs-id1165137737552" alt="Diagram of how a function relates two relations.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_002-9aef.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_002-9aef.jpg"/>
 </media>
 </figure>
 
@@ -46,7 +45,7 @@
 </list>
 
 <para id="fs-id1165137807384">See <link target-id="Figure_01_02_029"/> for a summary of interval notation.</para><figure id="Figure_01_02_029"><media id="fs-id1165137406680" alt="Summary of interval notation.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_029n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_029n.jpg"/>
 </media>
 </figure><example id="Example_01_02_01">
 <exercise id="fs-id1165137661548"><problem id="fs-id1165137772018">
@@ -265,7 +264,7 @@
 </m:mrow>
 </m:math>
 </para><figure id="Image_01_02_028"><media id="fs-id1165137434263" alt="Line graph of x=!2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_028n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_028n.jpg"/>
 </media>
 </figure><para id="fs-id1165134036054">In interval form, the domain of <m:math>
 <m:mrow>
@@ -488,7 +487,7 @@
 
 <figure id="Figure_01_02_003">
 <media id="fs-id1165135315543" alt="Summary of notations for inequalities, set-builder, and intervals.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_003-832b.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_003-832b.jpg"/>
 </media>
 </figure>
 
@@ -573,7 +572,7 @@ is the set <m:math>
 <title>Describing Sets on the Real-Number Line</title>
 <para id="fs-id1165137592069">Describe the intervals of values shown in <link target-id="Figure_01_02_004"/> using inequality notation, set-builder notation, and interval notation.</para><figure id="Figure_01_02_004" class="small">
 <media id="fs-id1165135177575" alt="Line graph of 1&lt;=x&lt;=3 and 5&lt;x.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_004-13c7.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_004-13c7.jpg"/>
 </media>
 </figure>
 </problem>
@@ -644,7 +643,7 @@ is the set <m:math>
 </list>
 <figure id="Figure_01_02_005" class="small">
 <media id="fs-id1165137424715" alt="Line graph of -2&lt;=x, -1&lt;=x&lt;3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_005-eba2.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_005-eba2.jpg"/>
 </media>
 </figure>
 </problem>
@@ -676,7 +675,7 @@ is the set <m:math>
 <title>Finding Domain and Range from Graphs</title>
 <para id="fs-id1165135161404">Another way to identify the domain and range of functions is by using graphs. Because the domain refers to the set of possible input values, the domain of a graph consists of all the input values shown on the <emphasis effect="italics">x</emphasis>-axis. The range is the set of possible output values, which are shown on the <emphasis effect="italics">y</emphasis>-axis. Keep in mind that if the graph continues beyond the portion of the graph we can see, the domain and range may be greater than the visible values. See <link target-id="Figure_01_02_006"/>.</para><figure id="Figure_01_02_006" class="small">
 <media id="fs-id1165137432156" alt="Graph of a polynomial that shows the x-axis is the domain and the y-axis is the range">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_006-aec6.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_006-aec6.jpg"/>
 </media>
 </figure>
 
@@ -713,7 +712,7 @@ whose graph is shown in <link target-id="Figure_01_02_007"/>.</para>
 
 <figure id="Figure_01_02_007" class="small">
 <media id="fs-id1165137805567" alt="Graph of a function from (-3, 1].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_007-940d.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_007-940d.jpg"/>
 </media>
 </figure>
 
@@ -740,7 +739,7 @@ is <m:math>
 </m:mrow> </m:mrow><m:mo>,</m:mo><m:mrow> <m:mn>0</m:mn> <m:mo>]</m:mo></m:mrow><m:mo>.</m:mo>
 </m:mrow>
 </m:math> See <link target-id="Figure_01_02_008"/>.</para><figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="Figure_01_02_008" class="small"><media id="fs-id1165137937577" alt="Graph of the previous function shows the domain and range.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_008_new.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_008_new.jpg"/>
 </media>
 </figure></solution>
 </exercise>
@@ -754,7 +753,7 @@ is <m:math>
 <m:mi>f</m:mi>
 </m:mrow>
 </m:math> whose graph is shown in <link target-id="Figure_01_02_009"/>.</para><figure id="Figure_01_02_009" class="small"><media id="fs-id1165135186977" alt="Graph of the Alaska Crude Oil Production where the y-axis is thousand barrels per day and the -axis is the years.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_009-e7be.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_009-e7be.jpg"/>
 </media>
 <caption>(credit: modification of work by the U.S. Energy Information Administration)<footnote id="fs-id1165135445728">http://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&amp;s=MCRFPAK2&amp;f=A.</footnote></caption></figure></problem>
 <solution id="fs-id1165137444311">
@@ -784,7 +783,7 @@ is <m:math>
 <exercise id="ti_01_02_04"><problem id="fs-id1165137644581"><para id="fs-id1165137644582">Given <link target-id="Figure_01_02_010"/>, identify the domain and range using interval notation.</para>
 <figure id="Figure_01_02_010" class="small">
 <media id="fs-id1165137827275" alt="Graph of World Population Increase where the y-axis represents millions of people and the x-axis represents the year.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_010-d86a.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_010-d86a.jpg"/>
 </media>
 </figure>
 </problem>
@@ -799,7 +798,7 @@ is <m:math>
 <section id="fs-id1165134384565"><title>Finding Domains and Ranges of the Toolkit Functions</title><para id="fs-id1165137419914">We will now return to our set of toolkit functions to determine the domain and range of each.</para>
 
 <figure id="Figure_01_02_011" class="small"><media id="fs-id1165137661673" alt="Constant function f(x)=c.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_011-7288.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_011-7288.jpg"/>
 </media>
 <caption>For the <emphasis>constant function</emphasis> <m:math>
 <m:mrow>
@@ -818,7 +817,7 @@ is <m:math>
 <m:mi>c</m:mi><m:mo>.</m:mo></m:mrow>
 </m:math>
 </caption></figure><figure id="Figure_01_02_012" class="small"><media id="fs-id1165137543965" alt="Identity function f(x)=x.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_012-7156.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_012-7156.jpg"/>
 </media>
 <caption>For the <emphasis>identity function</emphasis> <m:math>
 <m:mrow>
@@ -827,7 +826,7 @@ is <m:math>
 <m:mrow>
 <m:mi>x</m:mi><m:mo>.</m:mo></m:mrow>
 </m:math> Both the domain and range are the set of all real numbers.</caption></figure><figure id="Figure_01_02_013" class="small"><media id="fs-id1165137757797" alt="Absolute function f(x)=|x|.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_013-f38f.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_013-f38f.jpg"/>
 </media>
 <caption>For the <emphasis>absolute value function</emphasis> <m:math>
 <m:mrow>
@@ -836,7 +835,7 @@ is <m:math>
 <m:mrow>
 <m:mi>x</m:mi><m:mo>.</m:mo></m:mrow>
 </m:math> However, because absolute value is defined as a distance from 0, the output can only be greater than or equal to 0.</caption></figure><figure id="Figure_01_02_014" class="small"><media id="fs-id1165137448012" alt="Quadratic function f(x)=x^2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_014-babe.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_014-babe.jpg"/>
 </media>
 <caption>For the <emphasis>quadratic function</emphasis> <m:math>
 <m:mrow>
@@ -846,7 +845,7 @@ is <m:math>
 </m:msup>
 <m:mo>,</m:mo></m:mrow>
 </m:math> the domain is all real numbers since the horizontal extent of the graph is the whole real number line. Because the graph does not include any negative values for the range, the range is only nonnegative real numbers.</caption></figure><figure id="Figure_01_02_015" class="small"><media id="fs-id1165137660840" alt="Cubic function f(x)-x^3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_015-2cf1.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_015-2cf1.jpg"/>
 </media>
 <caption>For the <emphasis>cubic function</emphasis> <m:math>
 <m:mrow>
@@ -856,7 +855,7 @@ is <m:math>
 </m:msup>
 <m:mo>,</m:mo></m:mrow>
 </m:math> the domain is all real numbers because the horizontal extent of the graph is the whole real number line. The same applies to the vertical extent of the graph, so the domain and range include all real numbers.</caption></figure><figure id="Figure_01_02_016" class="small"><media id="fs-id1165137582779" alt="Reciprocal function f(x)=1/x.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_016-44f1.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_016-44f1.jpg"/>
 </media>
 <caption>For the <emphasis>reciprocal function</emphasis> <m:math>
 <m:mrow>
@@ -870,7 +869,7 @@ is <m:math>
   <m:mo>{</m:mo><m:mi>x</m:mi><m:mo>|</m:mo><m:mspace width="0.8em"/><m:mi>x</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>}</m:mo><m:mo>,</m:mo>
  </m:mrow>
 </m:math> the set of all real numbers that are not zero.</caption></figure><figure id="Figure_01_02_017" class="small"><media id="fs-id1165133004481" alt="Reciprocal squared function f(x)=1/x^2">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_017-7cac.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_017-7cac.jpg"/>
 </media>
 <caption>For the <emphasis>reciprocal squared function</emphasis> <m:math>
  <m:mrow>
@@ -895,7 +894,7 @@ is <m:math>
 </m:math> from the domain. There is also no <m:math>
  <m:mi>x</m:mi>
 </m:math> that can give an output of 0, so 0 is excluded from the range as well. Note that the output of this function is always positive due to the square in the denominator, so the range includes only positive numbers.</caption></figure><figure id="Figure_01_02_018" class="small"><media id="fs-id1165137401809" alt="Square root function f(x)=sqrt(x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_018-edda.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_018-edda.jpg"/>
 </media>
 <caption>For the <emphasis>square root function</emphasis> <m:math>
 <m:mrow>
@@ -917,7 +916,7 @@ is <m:math>
 <m:mrow>
 <m:mi>x</m:mi><m:mo>.</m:mo></m:mrow>
 </m:math> </caption></figure><figure id="Figure_01_02_019" class="small"><media id="fs-id1165137730429" alt="Cube root function f(x)=x^(1/3).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_019-5e97.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_019-5e97.jpg"/>
 </media>
 <caption>For the <emphasis>cube root function</emphasis> <m:math>
 <m:mrow>
@@ -1097,7 +1096,7 @@ is <m:math>
 
 <figure id="Figure_01_02_020" class="small">
 <media id="fs-id1165135582217" alt="Graph of a square root function at (-4, 0).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_020-d001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_020-d001.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -1298,7 +1297,7 @@ is <m:math>
 <m:mi>n</m:mi><m:mo>=</m:mo><m:mn>10</m:mn><m:mo>,</m:mo></m:mrow>
 </m:math> but not all piecewise functions have this property.</para><figure id="Figure_01_02_021" class="small">
 <media id="fs-id1165137419948" alt="Graph of C(n).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_021-ddd5.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_021-ddd5.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -1380,7 +1379,7 @@ is <m:math>
 <m:mi>g</m:mi><m:mo>=</m:mo><m:mn>2.</m:mn></m:mrow>
 </m:math> We plot the graphs for the different formulas on a common set of axes, making sure each formula is applied on its proper domain. </para><figure id="Figure_01_02_022" class="">
 <media id="fs-id1165135453346" alt="Graph of C(g)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_022-75d8.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_022-75d8.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -1456,7 +1455,7 @@ is <m:math>
 
 <figure id="Figure_01_02_023">
 <media id="fs-id1165137439226" alt="Graph of each part of the piece-wise function f(x)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_023abc-8709.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_023abc-8709.jpg"/>
 </media>
 <caption>(a) <m:math>
 <m:mrow>
@@ -1485,7 +1484,7 @@ is <m:math>
 
 <figure id="Figure_01_02_026" class="small">
 <media id="fs-id1165137646696" alt="Graph of the entire function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_026-e20a.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_026-e20a.jpg"/>
 </media>
 </figure>
 </solution>
@@ -1563,7 +1562,7 @@ is <m:math>
 </equation></problem>
 <solution id="fs-id1165137784656">
 <media id="fs-id1165134302462" alt="Graph of f(x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_027-55b5.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_027-55b5.jpg"/>
 </media>
 </solution>
 </exercise></note>
@@ -2165,7 +2164,7 @@ is <m:math>
 <exercise id="fs-id1165135168172"><problem id="fs-id1165137647479">
 
 <media id="fs-id1165137891294" alt="Graph of a function from (2, 8]." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_202-95dc.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_202-95dc.jpg"/>
 </media>
 
 </problem>
@@ -2182,14 +2181,14 @@ is <m:math>
 </exercise><exercise id="fs-id1165135160181"><problem id="fs-id1165135160183">
 
 <media id="fs-id1165137837830" alt="Graph of a function from [4, 8)." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_203-38f5.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_203-38f5.jpg"/>
 </media>
 
 </problem>
 </exercise><exercise id="fs-id1165137723404"><problem id="fs-id1165137809982">
 
 <media id="fs-id1165137733767" alt="Graph of a function from [-4, 4]." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_204-d2ad.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_204-d2ad.jpg"/>
 </media>
 
 </problem>
@@ -2206,14 +2205,14 @@ is <m:math>
 </exercise><exercise id="fs-id1165137590678"><problem id="fs-id1165134168421">
 
 <media id="fs-id1165137837060" alt="Graph of a function from [2, 6]." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_205-5a91.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_205-5a91.jpg"/>
 </media>
 
 </problem>
 </exercise><exercise id="fs-id1165137737326"><problem id="fs-id1165137737328">
 
 <media id="fs-id1165134129572" alt="Graph of a function from [-5, 3)." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_206-059d.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_206-059d.jpg"/>
 </media>
 
 </problem>
@@ -2231,14 +2230,14 @@ is <m:math>
 </exercise><exercise id="fs-id1165137404973"><problem id="fs-id1165137404975">
 
 <media id="fs-id1165134305418" alt="Graph of a function from [-3, 2)." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_207-ec92.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_207-ec92.jpg"/>
 </media>
 
 </problem>
 </exercise><exercise id="fs-id1165137544188"><problem id="fs-id1165137437269">
 
 <media id="fs-id1165137447903" alt="Graph of a function from (-infinity, 2]." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_208-7f09.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_208-7f09.jpg"/>
 </media>
 
 </problem>
@@ -2255,14 +2254,14 @@ is <m:math>
 </exercise><exercise id="fs-id1165135176309"><problem id="fs-id1165134323791">
 
 <media id="fs-id1165135192955" alt="Graph of a function from [-4, infinity)." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_209-37f5.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_209-37f5.jpg"/>
 </media>
 
 </problem>
 </exercise><exercise id="fs-id1165137642580"><problem id="fs-id1165137642582">
 
 <media id="fs-id1165134482733" alt="Graph of a function from [-6, -1/6]U[1/6, 6]/." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_210-a5dd.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_210-a5dd.jpg"/>
 </media>
 
 </problem>
@@ -2299,14 +2298,14 @@ is <m:math>
 </exercise><exercise id="fs-id1165137442385"><problem id="fs-id1165137812572">
 
 <media id="fs-id1165137645308" alt="Graph of a function from (-2.5, infinity)." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_211-3cb1.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_211-3cb1.jpg"/>
 </media>
 
 </problem>
 </exercise><exercise id="fs-id1165137851981"><problem id="fs-id1165137851983">
 
 <media id="fs-id1165137602824" alt="Graph of a function from [-3, infinity)." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_212-f3f3.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_212-f3f3.jpg"/>
 </media>
 
 </problem>
@@ -2423,7 +2422,7 @@ is <m:math>
 </para>
 
 <media id="fs-id1165137662700" alt="Graph of f(x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_214.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_214.jpg"/>
 </media>
 
 </solution>
@@ -2500,7 +2499,7 @@ is <m:math>
 </para>
 
 <media id="fs-id1165137474386" alt="Graph of f(x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_216.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_216.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165135192719">
@@ -2596,7 +2595,7 @@ is <m:math>
 </para>
 
 <media id="fs-id1165135188662" alt="Graph of f(x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_218.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_218.jpg"/>
 </media>
 
 </solution>
@@ -2693,7 +2692,7 @@ is <m:math>
 </para>
 
 <media id="fs-id1165135432997" alt="Graph of f(x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_220.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_220.jpg"/>
 </media>
 
 </solution>
@@ -3203,7 +3202,7 @@ is <m:math>
 <solution id="fs-id1165137501974">
 
 <media id="fs-id1165134258632" alt="Graph of the equation from [-0.5, -0.1].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_221.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_221.jpg"/>
 </media>
 
 <para id="fs-id1165135191028">window: <m:math>
@@ -3216,7 +3215,7 @@ is <m:math>
 </para>
 
 <media id="fs-id1165137442910" alt="Graph of the equation from [0.1, 0.5].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_02_222-1958.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_02_222-1958.jpg"/>
 </media>
 
 <para id="fs-id1165134378637">window: <m:math>

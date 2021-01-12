@@ -15,7 +15,7 @@
 
 <content>
 <figure id="Figure_07_01_006" class="small"><media id="fs-id516530" alt="Photo of international passports.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_01_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_01_006.jpg"/>
 </media>
 <caption>International passports and travel documents</caption></figure><para id="fs-id2479925">In espionage movies, we see international spies with multiple passports, each claiming a different identity. However, we know that each of those passports represents the same person. The trigonometric identities act in a similar manner to multiple passports—there are many ways to represent the same trigonometric expression. Just as a spy will choose an Italian passport when traveling to Italy, we choose the identity that applies to the given scenario when solving a trigonometric equation.</para>
 <para id="fs-id1186261">In this section, we will begin an examination of the fundamental trigonometric identities, including how we can verify them and how we can use them to simplify trigonometric expressions.</para>
@@ -778,7 +778,7 @@
 
 <figure id="Figure_07_01_002" class="small">
 <media id="fs-id1491023" alt="Graph of y=sin(theta) from -2pi to 2pi, showing in particular that it is symmetric about the origin. Points given are (pi/2, 1) and (-pi/2, -1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_01_002-5135.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_01_002-5135.jpg"/>
 </media>
 <caption>Graph of  <m:math>
 <m:mrow>
@@ -901,7 +901,7 @@ For example, consider corresponding inputs <m:math>
 
 <figure id="Figure_07_01_003" class="small">
 <media id="fs-id1157926" alt="Graph of y=cos(theta) from -2pi to 2pi, showing in particular that it is symmetric about the y-axis. Points given are (-pi/4, .707) and (pi/4, .707). ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_01_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_01_003.jpg"/>
 </media>
 <caption>Graph of  <m:math>
 <m:mrow>
@@ -1489,7 +1489,7 @@ For example, consider corresponding inputs <m:math>
 
 <figure id="Figure_07_01_007" class="small">
 <media id="fs-id1353869" alt="Graph of y = cot(theta) and y=1/tan(theta) from -2pi to 2pi. They are the same!">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_01_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_01_007.jpg"/>
 </media>
 </figure></solution>
 <commentary id="fs-id1581724">

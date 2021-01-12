@@ -18,7 +18,7 @@
 <item>Dividing polynomials using synthetic division (IA 5.4.4)</item>
 </list></section><section id="eip-980"><title>Objective 1: Dividing polynomials using long division (IA 5.4.3)</title><para id="eip-171">To divide a polynomial by a binomial, we follow a procedure very similar to long division of numbers. So, let’s look carefully at the steps we take when we divide a 3-digit number, 875, by a 2-digit number, 25.
 </para><example id="eip-420"><exercise id="eip-idm259840400"><problem id="eip-idm259840272"><title>Long division of numbers</title><media id="eip-idm417771872" alt="This figure shows the long division of 875 divided by 25. 875 is labeled dividend and 25 is labeled divisor. The result of 35 is labeled quotient. The 3 in 35 is determined from the number of times we can divide 25 into 87. Multiplying 25 and 3 results in 75. 75 is subtracted from 87 to get 12. The 5 from 875 is dropped down to make 12 into 125. The 5 in 35 is determined from the number of times was can divide 25 into 125. Since 25 goes into 125 evenly there is no remainder. The result of subtracting 125 from 125 is 0 which is labeled remainder.">
-    <image mime-type="image/jpeg" src="CNX_IntAlg_Figure_05_04_001_img_new.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_05_04_001_img_new.jpg"/>
 </media>
 <para id="eip-125">When we divided 875 by 25, we had no remainder. But sometimes division of numbers does leave a remainder.
 </para>
@@ -39,35 +39,35 @@
 <tbody>
 <row valign="top">
 <entry valign="top" align="left"/>
-<entry valign="top" align="left"><media id="fs-id1167835356577" alt="."><image mime-type="image/jpeg" src="5_4_1.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835356577" alt="."><image mime-type="image/jpeg" src="../../media/5_4_1.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Write it as a long division problem.<newline/>Be sure the dividend is written in descending order of powers, with no missing terms.</entry>
-<entry valign="top" align="left"><media id="fs-id1167835343759" alt="."><image mime-type="image/jpeg" src="5_4_2.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835343759" alt="."><image mime-type="image/jpeg" src="../../media/5_4_2.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Divide <m:math><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> by <m:math><m:mrow><m:mi>x</m:mi><m:mo>.</m:mo></m:mrow></m:math> It may help to ask yourself, “What do I need<newline/>to multiply <m:math><m:mi>x</m:mi></m:math> by to get <m:math><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> ?”</entry>
-<entry valign="top" align="left"><media id="fs-id1167830701188" alt="."><image mime-type="image/jpeg" src="5_4_3.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167830701188" alt="."><image mime-type="image/jpeg" src="../../media/5_4_3.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Put the answer, <m:math><m:mrow><m:mi>x</m:mi><m:mo>,</m:mo></m:mrow></m:math> in the quotient over the <m:math><m:mi>x</m:mi></m:math> term.<newline/>Multiply <m:math><m:mi>x</m:mi></m:math> times <m:math><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>5</m:mn><m:mo>.</m:mo></m:mrow></m:math> Line up the like terms under the dividend.</entry>
-<entry valign="top" align="left"><media id="fs-id1167835325737" alt="."><image mime-type="image/jpeg" src="5_4_4.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835325737" alt="."><image mime-type="image/jpeg" src="../../media/5_4_4.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Subtract <m:math><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>5</m:mn><m:mi>x</m:mi></m:mrow></m:math> from <m:math><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn><m:mi>x</m:mi><m:mo>.</m:mo></m:mrow></m:math> <newline/>You may find it easier to change the signs and then add.<newline/>Then bring down the last term, 20.</entry>
-<entry valign="top" align="left"><media id="fs-id1167835327295" alt="."><image mime-type="image/jpeg" src="5_4_5.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835327295" alt="."><image mime-type="image/jpeg" src="../../media/5_4_5.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left"><newline/>Divide <m:math><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi></m:mrow></m:math> by <m:math><m:mrow><m:mi>x</m:mi><m:mo>.</m:mo></m:mrow></m:math> It may help to ask yourself, “What do I<newline/>need to multiply <m:math><m:mi>x</m:mi></m:math> by to get <m:math><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi></m:mrow></m:math> ?”<newline/>Put the answer, <m:math><m:mn>4</m:mn></m:math> , in the quotient over the constant term.</entry>
-<entry valign="top" align="left"><media id="fs-id1167828421672" alt="."><image mime-type="image/jpeg" src="5_4_6.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167828421672" alt="."><image mime-type="image/jpeg" src="../../media/5_4_6.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Multiply 4 times <m:math><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>5</m:mn><m:mo>.</m:mo></m:mrow></m:math> </entry>
-<entry valign="top" align="left"><media id="fs-id1167835254539" alt="."><image mime-type="image/jpeg" src="5_4_7.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167835254539" alt="."><image mime-type="image/jpeg" src="../../media/5_4_7.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Subtract <m:math><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>20</m:mn></m:mrow></m:math> from <m:math><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>20</m:mn><m:mo>.</m:mo></m:mrow></m:math> </entry>
-<entry valign="top" align="left"><media id="fs-id1167830757353" alt="."><image mime-type="image/jpeg" src="5_4_8.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167830757353" alt="."><image mime-type="image/jpeg" src="../../media/5_4_8.jpg"/></media></entry>
 </row>
 <row>
 <entry valign="top" align="left">Check:<newline/>Multiply the quotient by the divisor. <m:math><m:mrow><m:mrow><m:mspace width="1em"/><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <newline/>You should get the dividend. <m:math><m:mrow><m:mspace width="4em"/><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>20</m:mn><m:mo>✓</m:mo></m:mrow></m:math> </entry>
@@ -101,7 +101,7 @@ Divide using long division of polynomials: <m:math><m:mo>(</m:mo><m:msup><m:mi>x
   <para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-214">Notice, this polynomial is not in descending order and it is missing <m:math><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup></m:math> term. We need to write it in the correct order and add <m:math><m:mn>0</m:mn><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup></m:math> as a placeholder.
   </para><figure id="eip-idm297568864">
   <media id="eip-idm218694400" alt=".">
-    <image mime-type="image/jpeg" src="5_4_9.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/5_4_9.jpg"/>
   </media>
 </figure>
 <para id="eip-idm203465312">To check, multiply divisor by the quotient and add remainder <m:math><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>)</m:mo><m:mo>(</m:mo><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mo>-</m:mo><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>)</m:mo><m:mo>-</m:mo><m:mn>4</m:mn></m:math> </para>
@@ -127,7 +127,7 @@ Dividing polynomials using long division.
 <figure id="eip-idm309800592">
 
   <media id="eip-idm309800336" alt=".">
-    <image mime-type="image/jpeg" src="5_4_10.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/5_4_10.jpg"/>
   </media>
 
 </figure>
@@ -146,7 +146,7 @@ The polynomial <m:math><m:msup><m:mi>x</m:mi><m:mn>4</m:mn></m:msup><m:mo>-</m:m
 
 <figure id="fs-idm241293040">
   <media id="fs-idm247036368" alt=".">
-    <image mime-type="image/jpeg" src="5_4_11.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/5_4_11.jpg"/>
   </media>
 </figure>
 
@@ -172,7 +172,7 @@ Let <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:m
 </list><para id="eip-idm604375376">What is the connection between <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>c</m:mi><m:mo>)</m:mo></m:math> and the remainder when <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:math> is divided by <m:math><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mi>c</m:mi><m:mo>)</m:mo></m:math> ? Summarize your findings.
 </para></problem>
 </exercise></section></section></section><figure id="Figure_03_05_001" class="small"><media id="fs-id1165137831283" alt="Lincoln Memorial.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_05_001.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_05_001.jpg"/>
    </media>
   <caption>Lincoln Memorial, Washington, D.C. (credit: Ron Cogswell, Flickr)</caption></figure><para id="fs-id1165135382145">The exterior of the Lincoln Memorial in Washington, D.C., is a large rectangular solid with length 61.5 meters (m), width 40 m, and height 30 m.<footnote id="fs-id1165135149061">National Park Service. "Lincoln Memorial Building Statistics." http://www.nps.gov/linc/historyculture/lincoln-memorial-building-statistics.htm. Accessed 4/3/2014</footnote> We can easily find the volume using elementary geometry.</para>
 <equation id="eip-435" class="unnumbered"><label/>
@@ -257,7 +257,7 @@ Let <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:m
 
 
     <media id="fs-id1165137564295" alt="Steps of long division for intergers." display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_05_002.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_05_002.jpg"/>
     </media>
 
    <para id="fs-id1165134170235">Another way to look at the solution is as a sum of parts. This should look familiar, since it is the same method used to check division in elementary arithmetic.</para>
@@ -308,7 +308,7 @@ Let <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:m
      </m:mrow>
     </m:math>     using the long division algorithm, it would look like this:</para>
 <media id="fs-id1678300" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_05_01_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_05_01_001.jpg"/>
 </media>
 <para id="fs-id1165135191694">We have found</para>
    <equation id="eip-334" class="unnumbered"><label/> <m:math display="block">
@@ -370,7 +370,7 @@ Let <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:m
 
 
     <media id="fs-id1165134164979" alt="Identifying the dividend, divisor, quotient and remainder of the polynomial 2x^3-3x^2+4x+5, which is the dividend." display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_05_003.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_05_003.jpg"/>
     </media>
 
 
@@ -488,7 +488,7 @@ Let <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:m
      </problem>
      <solution id="fs-id1165135196885">
 <media id="fs-id1446862" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_05_01_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_05_01_002.jpg"/>
 </media>
 <para id="fs-id1165137639118">The quotient is <m:math>
       <m:mrow>
@@ -563,7 +563,7 @@ by <m:math>
      <solution id="fs-id1165135503914">
 
 <media id="fs-id1952791" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_05_01_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_05_01_003.jpg"/>
 </media>
 
 <para id="fs-id1165135639821">There is a remainder of 1. We can express the result as:</para>
@@ -727,19 +727,19 @@ using the long division algorithm.</para>
     <para id="fs-id1165135170412">The final form of the process looked like this:</para>
 
 <media id="fs-id2502523" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_05_01_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_05_01_004.jpg"/>
 </media>
 
 <para id="fs-id1165137932377">There is a lot of repetition in the table. If we don’t write the variables but, instead, line up their coefficients in columns under the division sign and also eliminate the partial products, we already have a simpler version of the entire problem.</para>
 
      <media id="fs-id1165134305375" alt="Synthetic division of the polynomial 2x^3-3x^2+4x+5 by x+2 in which it only contains the coefficients of each polynomial." display="block">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_05_004.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_05_004.jpg"/>
      </media>
 
     <para id="fs-id1165134305388">Synthetic division carries this simplification even a few more steps. Collapse the table by moving each of the rows up to fill any vacant spots. Also, instead of dividing by 2, as we would in division of whole numbers, then multiplying and subtracting the middle product, we change the sign of the “divisor” to –2, multiply and add. The process starts by bringing down the leading coefficient.</para>
 
 <media id="fs-id1165137696374" alt="Synthetic division of the polynomial 2x^3-3x^2+4x+5 by x+2 in which it only contains the coefficients of each polynomial." display="block">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_05_011.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_05_011.jpg"/>
      </media>
 <para id="fs-id1165137696388">We then multiply it by the “divisor” and add, repeating this process column by column, until there are no entries left. The bottom row represents the coefficients of the quotient; the last entry of the bottom row is the remainder. In this case, the quotient is <m:math>
  <m:mrow>
@@ -828,7 +828,7 @@ and the coefficients.</para>
 
 
        <media id="fs-id1165135177629" alt="A collapsed version of the previous synthetic division." display="block">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_05_005.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_05_005.jpg"/>
        </media>
 
 
@@ -840,7 +840,7 @@ and the coefficients.</para>
 </para>
 
        <media id="fs-id1165135439966" alt="The set-up of the synthetic division for the polynomial 5x^2-3x-36 by x-3, which renders {5, -3, -36} by 3." display="block">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_05_006.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_05_006.jpg"/>
        </media>
       <para id="fs-id1165135179942">Continue by adding the numbers in the second column. Multiply the resulting number by <m:math>
  <m:mrow>
@@ -850,7 +850,7 @@ and the coefficients.</para>
 Write the result in the next column. Then add the numbers in the third column.</para>
 
        <media id="fs-id1165135179966" alt="Multiplied by the lead coefficient, 5, in the second column, and the lead coefficient is brought down to the second row. " display="block">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_05_007.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_05_007.jpg"/>
        </media>
 
       <para id="fs-id1165135628639">The result is <m:math>
@@ -915,7 +915,7 @@ so <m:math>
  </m:mrow>
 </m:math>
 Add each column, multiply the result by –2, and repeat until the last column is reached.</para><media id="fs-id1165134176031" display="block" alt="Synthetic division of 4x^3+10x^2-6x-20 divided by x+2.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_05_008-c129.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_05_008-c129.jpg"/>
        </media>
 
       <para id="fs-id1165134433356">The result is <m:math>
@@ -987,7 +987,7 @@ is a factor of <m:math>
 </m:math>
 </para><figure id="Figure_03_05_009" class="small">
         <media id="fs-id1165133260451" alt="Synthetic division of 4x^3+10x^2-6x-20 divided by x+2.">
-         <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_05_009.jpg"/>
+         <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_05_009.jpg"/>
         </media>
        </figure>
 </commentary>
@@ -1021,7 +1021,7 @@ by <m:math>
       <solution id="fs-id1165135571792">
        <para id="fs-id1165135571794">Notice there is no <emphasis effect="italics">x</emphasis>-term. We will use a zero as the coefficient for that term.<newline count="2"/></para>
 <media id="Figure_05_04_001" alt="..">
-  <image mime-type="image/jpeg" src="CNX_CAT_Figure_05_04_001.jpg"/>
+  <image mime-type="image/jpeg" src="../../media/CNX_CAT_Figure_05_04_001.jpg"/>
 </media>
 <para id="fs-id1165135341342">The result is <m:math>
  <m:mrow>
@@ -1137,7 +1137,7 @@ Find the height, <m:math>
 
      <figure id="Figure_03_05_010" class="small">
       <media id="fs-id1165137843218" alt="Graph of f(x)=4x^3+10x^2-6x-20 with a close up on x+2.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_05_010.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_05_010.jpg"/>
       </media>
      </figure>
      <para id="fs-id1165137843229">We can now write an equation by substituting the known values into the formula for the volume of a rectangular solid.</para>
@@ -1290,7 +1290,7 @@ using synthetic division.</para>
 </equation>
 
 <media id="fs-id1349001" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_05_01_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_05_01_005.jpg"/>
 </media>
 
 <para id="fs-id1165134152722">The quotient is <m:math>
@@ -2503,7 +2503,7 @@ is divided by a binomial of degree 1, what is the degree of the quotient?</para>
 </m:math>
 </para>
 <media id="fs-id1165135436654" alt="Graph of a polynomial that has a x-intercept at -1.">
-      <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_05_201.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_05_201.jpg"/>
      </media>
 </problem></exercise><exercise id="fs-id1165135423510"><problem id="fs-id1165135423511"><para id="fs-id1165135423512">Factor is <m:math>
  <m:mrow>
@@ -2516,7 +2516,7 @@ is divided by a binomial of degree 1, what is the degree of the quotient?</para>
 </m:math>
 </para>
 <media id="fs-id1165134197955" alt="Graph of a polynomial that has a x-intercept at 1.">
-      <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_05_202.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_05_202.jpg"/>
      </media>
 </problem>
      <solution id="fs-id1165134197969"><para id="fs-id1165134197970"> <m:math>
@@ -2539,7 +2539,7 @@ is divided by a binomial of degree 1, what is the degree of the quotient?</para>
 </m:math>
 </para>
 <media id="fs-id1165135176349" alt="Graph of a polynomial that has a x-intercept at 2.">
-      <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_05_203.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_05_203.jpg"/>
      </media>
 </problem></exercise><exercise id="fs-id1165135176362"><problem id="fs-id1165135176363"><para id="fs-id1165135176364">Factor is <m:math>
  <m:mrow>
@@ -2552,7 +2552,7 @@ is divided by a binomial of degree 1, what is the degree of the quotient?</para>
 </m:math>
 </para>
 <media id="fs-id1165134164936" alt="Graph of a polynomial that has a x-intercept at 5.">
-      <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_05_204.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_05_204.jpg"/>
      </media>
 </problem>
     <solution id="fs-id1165134164949"><para id="fs-id1165134164950"> <m:math>
@@ -2575,7 +2575,7 @@ is divided by a binomial of degree 1, what is the degree of the quotient?</para>
 </m:math>
 </para>
 <media id="fs-id1165137888963" alt="Graph of a polynomial that has a x-intercept at -3.">
-      <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_05_205-028b.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_05_205-028b.jpg"/>
      </media>
 </problem></exercise><para id="fs-id1165137888975">For the following exercises, use synthetic division to find the quotient and remainder.</para>
     <exercise id="fs-id1165137888978"><problem id="fs-id1165137888979"><para id="fs-id1165137888980"> <m:math>

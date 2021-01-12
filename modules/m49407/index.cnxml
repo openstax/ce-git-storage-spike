@@ -30,7 +30,7 @@
 </m:math> as the planet’s angular bearing, or its direction from a fixed point on the sun. In this section, we will focus on the polar system and the graphs that are generated directly from polar coordinates.</para>
 <figure id="Figure_08_04_001" class="medium">
 <media id="fs-id1165135245564" alt="Illustration of the solar system with the sun at the center and orbits of the planets Mercury, Venus, Earth, and Mars shown.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_001.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_001.jpg"/>
     </media>
 
   <caption>Planets follow elliptical paths as they orbit around the Sun. (credit: modification of work by NASA/JPL-Caltech)</caption></figure><section id="fs-id1165135673928">
@@ -317,7 +317,7 @@ to determine the graph of a polar equation.</para><para id="fs-id1165135299187">
 
       <para id="fs-id1112103">A <term>polar equation</term> describes a curve on the polar grid. The graph of a polar equation can be evaluated for three types of symmetry, as shown in <link target-id="Figure_08_04_002"/>.</para>
       <figure id="Figure_08_04_002"><media id="fs-id1165137434022" alt="3 graphs side by side. (A) shows a ray extending into Q 1 and its symmetric version in Q 2. (B) shows a ray extending into Q 1 and its symmetric version in Q 4. (C) shows a ray extending into Q 1 and its symmetric version in Q 3. See caption for more information.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_002new.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_002new.jpg"/>
         </media>
 
 <caption>(a) A graph is symmetric with respect to the line <m:math>
@@ -628,7 +628,7 @@ to determine the graph of a polar equation.</para><para id="fs-id1165135299187">
   <m:mo>.</m:mo>
  </m:mrow>
 </m:math> We can also see that the graph is not symmetric with the polar axis or the pole. See <link target-id="Figure_08_04_003"/>.</para><figure id="Figure_08_04_003" class="small"><media id="fs-id1165137646895" alt="Graph of the given circle on the polar coordinate grid. Center is at (0,1), and it has radius 1.">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_003.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_003.jpg"/>
             </media>
           </figure></commentary>
       </exercise></example><note id="fs-id1165137535453" class="precalculus try">
@@ -1209,7 +1209,7 @@ into a <term class="no-emphasis">polar equation</term> and calculate <m:math>
 
 </tgroup>
 </table><figure id="Figure_08_04_004"><media id="fs-id1165137676064" alt="Graph of circle on the polar coordinate grid. The center is at (0,1), and it has radius 1. Six points along the circumference are marked: (0,0), (1, pi/6), (1.3, pi/3), (2, pi/2), (1.73, 2pi/3), and (1, 5pi/6).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_004.jpg"/>
 </media>
 </figure></commentary>
   </exercise>
@@ -1308,7 +1308,7 @@ into a <term class="no-emphasis">polar equation</term> and calculate <m:math>
   <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo>
  </m:mrow>
 </m:math> <link target-id="Figure_08_04_005"/> shows the graphs of these four circles.</para><figure id="Figure_08_04_005"><media id="fs-id1165137473386" alt="Four graphs side by side. All have radius absolute value of a / 2. First is r=acos(theta), a&gt;0. The center is at (a/2,0). Second is r=acos(theta), a&lt;0. The center is at (a/2,0).  Third is r=asin(theta), a&gt;0. The center is at (a/2, pi). Fourth is r=asin(theta), a&lt;0. The center is at (a/2, pi).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_005new.png"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_005new.png"/>
 </media>
 </figure></note>
 
@@ -1538,7 +1538,7 @@ into a <term class="no-emphasis">polar equation</term> and calculate <m:math>
 
 </tgroup>
 </table><figure id="Figure_08_04_006" class="small"><media id="fs-id1165137548019" alt="Graph of 4=4cos(theta) in polar coordinates. Points (0, pi/2), (-2, 2pi/3), (4,0), and (2, pi/3) are marked on the circumference.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_006.jpg"/>
 </media>
 </figure></solution>
 </exercise></example></section>
@@ -1570,7 +1570,7 @@ into a <term class="no-emphasis">polar equation</term> and calculate <m:math>
   <m:mo>=</m:mo><m:mn>1.</m:mn>
  </m:mrow>
 </m:math> The cardioid graph passes through the pole, as we can see in <link target-id="Figure_08_04_007"/>.</para><figure id="Figure_08_04_007"><media id="fs-id1165137452387" alt="Graph of four cardioids. (A) is r = a + bcos(theta). Cardioid extending to the right. (B) is r=a-bcos(theta). Cardioid extending to the left. (C) is r=a+bsin(theta). Cardioid extending up. (D) is r=a-bsin(theta). Cardioid extending down.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_007new.png"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_007new.png"/>
 </media>
 </figure></note>
 <note id="fs-id1165135259648" class="how-to-notitle">
@@ -1760,7 +1760,7 @@ into a <term class="no-emphasis">polar equation</term> and calculate <m:math>
 
 
 <figure id="Figure_08_04_008" class="small"><media id="fs-id1165135160116" alt="Graph of r=2+2cos(theta). Cardioid extending to the right. Points on the edge (0,pi), (4,0),(3.4, pi/4), (2,pi/2), and (1, 2pi/3) are shown.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_008.jpg"/>
 </media>
 </figure></solution>
 </exercise></example></section>
@@ -1800,7 +1800,7 @@ into a <term class="no-emphasis">polar equation</term> and calculate <m:math>
   <m:mo>&lt;</m:mo><m:mn>2.</m:mn>
  </m:mrow>
 </m:math> All four graphs are shown in <link target-id="Figure_08_04_009"/>.</para><figure id="Figure_08_04_009"><media id="fs-id1165133299066" alt="Four dimpled limaçons side by side. (A) is r=a+bcos(theta). Extending to the right. (B) is r=a-bcos(theta). Extending to the left. (C) is r=a+bsin(theta). Extending up. (D) is r=a-bsin(theta). Extending down. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_009new.png"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_009new.png"/>
 </media>
 
 <caption>Dimpled limaçons</caption></figure></note>
@@ -2104,7 +2104,7 @@ into the equation and solve for <m:math>
 </table><para id="fs-id1165137640806">The graph is shown in <link target-id="Figure_08_04_010"/>.</para>
 
 <figure id="Figure_08_04_010" class="small"><media id="fs-id1165135695027" alt="Graph of the limaçon r=4-3sin(theta). Extending down. Points on the edge are shown: (1,pi/2), (4,0), (4,pi), and (7, 3pi/2). ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_010.jpg"/>
 </media>
 
 <caption>One-loop limaçon</caption></figure></solution>
@@ -2131,7 +2131,7 @@ into the equation and solve for <m:math>
 </m:math>
 </para></problem>
 <solution id="fs-id1165135159863"><media id="fs-id1165137736618" alt="Graph of the limaçon r=3-2cos(theta). Extending to the left.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_011.jpg"/>
 </media></solution>
 </exercise></note>
 <para id="fs-id1165137726507">Another type of limaçon, the <emphasis>inner-loop limaçon</emphasis>, is named for the loop formed inside the general limaçon shape. It was discovered by the German artist Albrecht <term class="no-emphasis">Dürer</term>(1471-1528), who revealed a method for drawing the inner-loop limaçon in his 1525 book <emphasis effect="italics">Underweysung der Messing</emphasis>. A century later, the father of mathematician Blaise <term class="no-emphasis">Pascal</term>, Étienne Pascal(1588-1651), rediscovered it.</para><note id="fs-id1165137482991"><title>Formulas for Inner-Loop Limaçons</title>
@@ -2152,7 +2152,7 @@ into the equation and solve for <m:math>
  <m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mi>b</m:mi><m:mo>.</m:mo>
  </m:mrow>
 </m:math> The graph of the inner-loop limaçon passes through the pole twice: once for the outer loop, and once for the inner loop. See <link target-id="Figure_08_04_012"/> for the graphs.</para><figure id="Figure_08_04_012"><media id="fs-id1165137637941" alt="Graph of four inner loop limaçons side by side. (A) is r=a+bcos(theta),a&lt;b. Extended to the right. (B) is a-bcos(theta), a&lt;b. Extends to the left. (C) is r=a+bsin(theta), a&lt;b. Extends up. (D) is r=a-bsin(theta), a&lt;b. Extends down.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_012new.png"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_012new.png"/>
 </media>
 </figure></note>
 
@@ -2369,7 +2369,7 @@ The maximum <m:math>
   <m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>π</m:mi><m:mo>.</m:mo>
  </m:mrow>
 </m:math> The graph is shown in <link target-id="Figure_08_04_013"/>.</para><figure id="Figure_08_04_013" class="small"><media id="fs-id1165135510850" alt="Graph of inner loop limaçon r=2+5cos(theta). Extends to the right. Points on edge plotted are (7,0), (4.5, pi/3), (2, pi/2), and (-3, pi).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_013.jpg"/>
 </media>
 
 <caption>Inner-loop limaçon</caption></figure></solution>
@@ -2444,7 +2444,7 @@ The maximum <m:math>
   <m:mo>,</m:mo>
  </m:mrow>
 </m:math> and the polar axis. See <link target-id="Figure_08_04_014"/> for the graphs.</para><figure id="Figure_08_04_014"><media id="fs-id1165137806628" alt="Four graphs of lemniscates side by side. (A) is r^2 = a^2 * cos(2theta). Horizonatal figure eight, on x-axis. (B) is r^2 = - a^2 * cos(2theta). Vertical figure eight, on y axis. (C) is r^2 = a^2 * sin(2theta). Diagonal figure eight on line y=x. (D) is r^2 = -a^2 *sin(2theta). Diagonal figure eight on line y=-x.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_014new.png"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_014new.png"/>
 </media>
 </figure></note>
 <example id="Example_08_04_07"><exercise id="fs-id1165137413783"><problem id="fs-id1165134090129">
@@ -2642,7 +2642,7 @@ The maximum <m:math>
       <m:mi>r</m:mi><m:mo>=</m:mo><m:mo>±</m:mo><m:msqrt>
        <m:mn>4</m:mn>
       </m:msqrt>
-      <m:mspace width="0.3em"/><m:mo>=</m:mo><m:mn>2</m:mn>
+      <m:mspace width="0.3em"/><m:mo>±</m:mo><m:mn>2</m:mn>
      </m:mrow>
     </m:mtd>
    </m:mtr>
@@ -2660,17 +2660,17 @@ The maximum <m:math>
  </m:mrow>
 </m:math>  and the polar axis, we only need to plot points in the first quadrant.</para><para id="fs-id1165135347413">Make a table similar to <link target-id="Table_08_04_06"/>.</para>
 
-  <table id="Table_08_04_06" summary="Two rows and six columns. First row is labeled theta and second row is labeled r. The table has ordered pairs of each of these column values: (0,2), (pi/6, rad2), (pi/4,0), (pi/3, rad2), (pi/2,0).">
+<table id="Table_08_04_06" summary="Two rows and six columns. First row is labeled theta and second row is labeled r. The table has ordered pairs of each of these column values: (0,2), (pi/6, rad2), (pi/4,0), (pi/3, rad2), (pi/2,0).">
 <tgroup cols="6"><colspec colnum="1" colname="c1"/>
-      <colspec colnum="2" colname="c2"/>
-      <colspec colnum="3" colname="c3"/>
-      <colspec colnum="4" colname="c4"/>
-      <colspec colnum="5" colname="c5"/>
-      <colspec colnum="6" colname="c6"/>
-      <tbody>
-        <row>
-          <entry align="center"><emphasis> <m:math>
- <m:mi>θ</m:mi>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <colspec colnum="5" colname="c5"/>
+    <colspec colnum="6" colname="c6"/>
+    <tbody>
+      <row>
+        <entry align="center"><emphasis> <m:math>
+<m:mi>θ</m:mi>
 </m:math> </emphasis>
 </entry>
           <entry align="center">0</entry>
@@ -2694,56 +2694,26 @@ The maximum <m:math>
  </m:mrow>
 </m:math>
 </entry>
-          <entry align="center"> <m:math>
- <m:mrow>
-  <m:mfrac>
-   <m:mi>π</m:mi>
-   <m:mn>3</m:mn>
-  </m:mfrac>
-
- </m:mrow>
-</m:math>
-</entry>
-          <entry align="center"> <m:math>
- <m:mrow>
-  <m:mfrac>
-   <m:mi>π</m:mi>
-   <m:mn>2</m:mn>
-  </m:mfrac>
-
- </m:mrow>
-</m:math>
-</entry>
         </row>
 
-        <row>
-          <entry align="center"><emphasis> <m:math>
- <m:mi>r</m:mi>
+      <row>
+        <entry align="center"><emphasis> <m:math>
+<m:mi>r</m:mi>
 </m:math> </emphasis>
 </entry>
-          <entry align="center">2</entry>
+          <entry align="center"><m:math><m:mo>±</m:mo><m:mn>2</m:mn></m:math></entry>
           <entry align="center"> <m:math>
- <m:mrow>
+ <m:mrow><m:mo>±</m:mo>
   <m:msqrt>
    <m:mn>2</m:mn>
   </m:msqrt>
 
- </m:mrow>
+</m:mrow>
 </m:math>
 </entry>
-          <entry align="center">0</entry>
-          <entry align="center"> <m:math>
- <m:mrow>
-  <m:msqrt>
-   <m:mn>2</m:mn>
-  </m:msqrt>
-
- </m:mrow>
-</m:math>
-</entry>
-          <entry align="center">0</entry>
-        </row>
-      </tbody>
+        <entry align="center">0</entry>
+      </row>
+    </tbody>
 
 </tgroup>
 </table>
@@ -2752,7 +2722,7 @@ The maximum <m:math>
   <para id="fs-id1165137641110">Plot the points on the graph, such as the one shown in <link target-id="Figure_08_04_015"/>.</para>
 
 <figure id="Figure_08_04_015" class="small"><media id="fs-id1165137406811" alt="Graph of r^2 = 4cos(2theta). Horizontal lemniscate, along x-axis. Points on edge plotted are (2,0), (rad2, pi/6), (rad2 7pi/6).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_015.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_015.jpg"/>
 </media>
 
 <caption>Lemniscate</caption></figure></solution>
@@ -2815,7 +2785,7 @@ are complex numbers because there is a negative number under the radical.</para>
   <m:mi>n</m:mi>
  </m:mrow>
 </m:math> petals. See <link target-id="Figure_08_04_016"/>.</para><figure id="Figure_08_04_016" class="medium"><media id="fs-id1165135319448" alt="Graph of two rose curves side by side. (A) is r=acos(ntheta), where n is even. Eight petals extending from origin, equally spaced. (B) is r=asin(ntheta) where n is odd. Three petals extending from the origin, equally spaced.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_016new.png"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_016new.png"/>
 </media>
 </figure></note><example id="Example_08_04_08"><exercise id="fs-id1165133365583"><problem id="fs-id1165137805103">
 <title>Sketching the Graph of a Rose Curve (<emphasis effect="italics">n</emphasis> Even)</title>
@@ -3124,7 +3094,7 @@ are complex numbers because there is a negative number under the radical.</para>
   <m:mn>2</m:mn><m:mi>n</m:mi>
  </m:mrow>
 </m:math> times for a total of eight petals. See the graph in <link target-id="Figure_08_04_017"/>.</para><figure id="Figure_08_04_017" class="small"><media id="fs-id1165134347404" alt="Sketch of rose curve r=2*cos(4 theta). Goes out distance of 2 for each petal 2n times (here 2*4=8 times).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_017.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_017.jpg"/>
 </media>
 
 <caption>Rose curve, <m:math>
@@ -3156,7 +3126,7 @@ are complex numbers because there is a negative number under the radical.</para>
  </m:mrow>
 </m:math> even
 <newline/><media id="fs-id1165134243136" alt="Graph of rose curve r=4 sin(2 theta). Even - four petals equally spaced, each of length 4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_025.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_025.jpg"/>
 </media></para></solution>
 </exercise>
 </note>
@@ -3299,7 +3269,7 @@ are complex numbers because there is a negative number under the radical.</para>
  </m:mrow>
 </m:math> there will be five petals on the graph. See <link target-id="Figure_08_04_019"/>.</para>
 <figure id="Figure_08_04_019" class="small"><media id="fs-id1165137758612" alt="Graph of rose curve r=2sin(5theta). Five petals equally spaced around origin. Point (2, pi/2) on edge is marked.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_019.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_019.jpg"/>
 </media>
 
 <caption>Rose curve, <m:math>
@@ -3413,7 +3383,7 @@ are complex numbers because there is a negative number under the radical.</para>
 </m:math>
 </para></problem>
 <solution id="fs-id1165135245746"><media id="fs-id1165137589073" alt="Graph of rose curve r=3cos(3theta). Three petals equally spaced from origin. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_018.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_018.jpg"/>
 </media>
 
 <para id="eip-id1166350057194">Rose curve, <m:math>
@@ -3446,7 +3416,7 @@ for <m:math>
 increases at a constant rate in an ever-widening, never-ending, spiraling path. See <link target-id="Figure_08_04_020"/>.</para>
 
 <figure id="Figure_08_04_020" class="medium"><media id="fs-id1165137940602" alt="Two graphs side by side of Archimedes' spiral. (A) is r= theta, [0, 2pi]. (B) is r=theta, [0, 4pi]. Both start at origin and spiral out counterclockwise. The second has two spirals out while the first has one.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_020new.png"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_020new.png"/>
 </media>
 </figure></note><note id="fs-id1165137582354" class="how-to-notitle">
 <label>How To</label>
@@ -3579,7 +3549,7 @@ increases at a constant rate in an ever-widening, never-ending, spiraling path. 
 
 </tgroup>
 </table><para id="fs-id1165135437738">Notice that the <emphasis effect="italics">r</emphasis>-values are just the decimal form of the angle measured in radians. We can see them on a graph in <link target-id="Figure_08_04_021"/>.</para><figure id="Figure_08_04_021" class="small"><media id="fs-id1165135329752" alt="Graph of Archimedes' spiral r=theta over [0,2pi]. Starts at origin and spirals out in one loop counterclockwise. Points (pi/4, pi/4), (pi/2,pi/2), (pi,pi), (5pi/4, 5pi/4), (7pi/4, pi/4), and (2pi, 2pi) are marked.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_021F.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_021F.jpg"/>
 </media>
 
 <caption>Archimedes’ spiral</caption></figure></solution>
@@ -3616,16 +3586,16 @@ increases at a constant rate in an ever-widening, never-ending, spiraling path. 
 </m:math> </para></problem>
 <solution id="fs-id1165134338802">
 <media id="fs-id1165137827921" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_022.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_022.jpg"/>
 </media></solution></exercise></note></section>
 </section>
   <section id="fs-id1165134301472">
     <title>Summary of Curves</title>
     <para id="fs-id1165133192927">We have explored a number of seemingly complex polar curves in this section. <link target-id="Figure_08_04_023"/> and <link target-id="Figure_08_04_024"/> summarize the graphs and equations for each of these curves.</para><figure id="Figure_08_04_023"><media id="fs-id1165135641462" alt="Four graphs side by side - a summary. (A) is a circle: r=asin(theta) or r=acos(theta). (B) is a cardioid: r= a + or - bcos(theta), or r = a + or - b sin(theta). a&gt;0, b&gt;0, a/b=1. (C) is one-loop limaçons. r= a + or - bcos(theta), or r= a + or - bsin(theta). a&gt;0, b&gt;0, 1&lt;a/b&lt;2. (D) is inner-loop limaçons. R = a + or - bcos(theta), or r = a + or - bsin(theta). A&gt;0, b&gt;0, a&lt;b.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_023n.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_023n.jpg"/>
       </media>
     </figure><figure id="Figure_08_04_024"><media id="fs-id1165137419023" alt="Four graphs side by side - a summary. (A) is lemniscates. R^2 = a^2cos(2theta), or r^2=a^2sin(2theta). a is not equal to 0. (B) is a rsose curve (n even). R = acos(ntheta), or r=asin(ntheta). N is even, and there are 2n petals. (C) is a rose curve (n odd). R = acos(ntheta), or r=asin(theta). N is odd, and there are n petals. (D) is an Archimedes's spiral. R=theta, and theta &gt;=0.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_024n.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_024n.jpg"/>
       </media>
     </figure><note id="fs-id1165135193264" class="precalculus media media-notitle">
       <label>Media</label>
@@ -3961,7 +3931,7 @@ See <link target-id="Example_08_04_06"/>.</item>
 </para></problem>
       <solution id="fs-id1165137921554"><para id="fs-id1165137921555">circle <newline/>
     <media id="fs-id1165133064407" alt="Graph of given circle.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_202.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_202.jpg"/>
         </media></para></solution></exercise><exercise id="fs-id1165137427204"><problem id="fs-id1165137427205"><para id="fs-id1165137427206"> <m:math>
  <m:mrow>
   <m:mi>r</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>cos</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi>
@@ -3976,7 +3946,7 @@ See <link target-id="Example_08_04_06"/>.</item>
 </para></problem>
       <solution id="fs-id1165131797286"><para id="fs-id1165131797287">cardioid
       <newline/><media id="fs-id1165135702623" alt="Graph of given cardioid.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_204.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_204.jpg"/>
         </media></para></solution></exercise>
       <exercise id="fs-id1165135553508"><problem id="fs-id1165135553509"><para id="fs-id1165135553510"> <m:math>
  <m:mrow>
@@ -3993,7 +3963,7 @@ See <link target-id="Example_08_04_06"/>.</item>
       <solution id="fs-id1165135697823"><para id="fs-id1165135697824">cardioid
       <newline/>
         <media id="fs-id1165135416517" alt="Graph of given cardioid.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_206.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_206.jpg"/>
         </media></para></solution></exercise><exercise id="fs-id1165135421533"><problem id="fs-id1165135421534"><para id="fs-id1165135421535"> <m:math>
  <m:mrow>
   <m:mi>r</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>sin</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi>
@@ -4008,7 +3978,7 @@ See <link target-id="Example_08_04_06"/>.</item>
 </para></problem>
       <solution id="fs-id1165137644805"><para id="fs-id1165137644806">one-loop/dimpled limaçon</para>
      <media id="fs-id1165132935064" alt="Graph of given one-loop/dimpled limaçon ">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_208.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_208.jpg"/>
         </media></solution></exercise><exercise id="fs-id1165135698489"><problem id="fs-id1165135698490"><para id="fs-id1165135698491"> <m:math>
  <m:mrow>
   <m:mi>r</m:mi><m:mo>=</m:mo><m:mn>4</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>cos</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi>
@@ -4023,7 +3993,7 @@ See <link target-id="Example_08_04_06"/>.</item>
 </para></problem>
       <solution id="fs-id1165134272124"><para id="fs-id1165135581136">one-loop/dimpled limaçon
       <newline/><media id="fs-id1165135581142" alt="Graph of given one-loop/dimpled limaçon ">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_210.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_210.jpg"/>
         </media></para></solution></exercise>
       <exercise id="fs-id1165135686595"><problem id="fs-id1165135365828"><para id="fs-id1165135365829"> <m:math>
  <m:mrow>
@@ -4040,7 +4010,7 @@ See <link target-id="Example_08_04_06"/>.</item>
 
       <solution id="fs-id1165134196056"><para id="fs-id1165134196057">inner loop/two-loop limaçon</para>
 <media id="fs-id1165134196063" alt="Graph of given inner loop/two-loop limaçon ">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_212.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_212.jpg"/>
         </media></solution>
       </exercise><exercise id="fs-id1165135662512"><problem id="fs-id1165135662513"><para id="fs-id1165135662514"> <m:math>
  <m:mrow>
@@ -4056,7 +4026,7 @@ See <link target-id="Example_08_04_06"/>.</item>
 </para></problem>
       <solution id="fs-id1165137663724"><para id="fs-id1165137663725">inner loop/two-loop limaçon</para>
 <media id="fs-id1165135440314" alt="Graph of given inner loop/two-loop limaçon ">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_214.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_214.jpg"/>
         </media></solution></exercise><exercise id="fs-id1165137823082"><problem id="fs-id1165137823083"><para id="fs-id1165137823084"> <m:math>
  <m:mrow>
   <m:mi>r</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>cos</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi>
@@ -4071,7 +4041,7 @@ See <link target-id="Example_08_04_06"/>.</item>
 </para></problem>
       <solution id="fs-id1165137855231"><para id="fs-id1165137855232">inner loop/two-loop limaçon
       <newline/><media id="fs-id1165137911685" alt="Graph of given inner loop/two-loop limaçon ">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_216.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_216.jpg"/>
         </media></para></solution></exercise>
 
  <exercise id="fs-id1165135160274"><problem id="fs-id1165135160275"><para id="fs-id1165135160276"> <m:math>
@@ -4104,7 +4074,7 @@ See <link target-id="Example_08_04_06"/>.</item>
     </m:math>
     </para></problem>
 <solution id="fs-id1165134279859"><para id="fs-id1165134279860">lemniscate</para><media id="fs-id1165137767568" alt="Graph of given lemniscate (along horizontal axis)">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_218.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_218.jpg"/>
       </media></solution></exercise><exercise id="fs-id1165135175180"><problem id="fs-id1165135175181"><para id="fs-id1165135175182"> <m:math>
       <m:mrow>
         <m:msup>
@@ -4134,7 +4104,7 @@ See <link target-id="Example_08_04_06"/>.</item>
     </m:math>
     </para></problem>
 <solution id="fs-id1165137514792"><para id="fs-id1165135436583">lemniscate</para> <media id="fs-id1165135436590" alt="Graph of given lemniscate (along y=x)">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_220.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_220.jpg"/>
   </media></solution></exercise><exercise id="fs-id1165137724753"><problem id="fs-id1165137724754"><para id="fs-id1165137724755"> <m:math>
  <m:mrow>
   <m:mi>r</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mtext>sin</m:mtext><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mi>θ</m:mi><m:mo stretchy="false">)</m:mo>
@@ -4149,7 +4119,7 @@ See <link target-id="Example_08_04_06"/>.</item>
 </para></problem>
 <solution id="fs-id1165135628620"><para id="fs-id1165135628621">rose curve</para>
  <media id="CNX_Precalc_Figure_08_04_222.jpg" alt="Graph of given rose curve - four petals.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_222.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_222.jpg"/>
   </media></solution>
 </exercise><exercise id="fs-id1165137854736"><problem id="fs-id1165137854738"><para id="fs-id1165137854739"> <m:math>
  <m:mrow>
@@ -4165,7 +4135,7 @@ See <link target-id="Example_08_04_06"/>.</item>
 </para></problem>
 <solution id="fs-id1165135639747"><para id="fs-id1165135639748">rose curve</para>
 <media id="fs-id1165135437722" alt="Graph of given rose curve - eight petals.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_224.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_224.jpg"/>
   </media></solution></exercise><exercise id="fs-id1165137788987"><problem id="fs-id1165137788988"><para id="fs-id1165137788989"> <m:math>
  <m:mrow>
   <m:mi>r</m:mi><m:mo>=</m:mo><m:mn>4</m:mn><m:mtext>sin</m:mtext><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mi>θ</m:mi><m:mo stretchy="false">)</m:mo>
@@ -4180,7 +4150,7 @@ See <link target-id="Example_08_04_06"/>.</item>
     </para></problem>
 <solution id="fs-id1165135436311"><para id="fs-id1165135436312">Archimedes’ spiral</para>
 <media id="fs-id1165134113726" alt="Graph of given Archimedes' spiral">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_226.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_226.jpg"/>
   </media></solution></exercise><exercise id="fs-id1165135499361"><problem id="fs-id1165135499362"><para id="fs-id1165135499364"> <m:math>
       <m:mrow>
         <m:mi>r</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mi>θ</m:mi>
@@ -4195,7 +4165,7 @@ See <link target-id="Example_08_04_06"/>.</item>
     </para></problem>
 <solution id="fs-id1165135664929"><para id="fs-id1165135664930">Archimedes’ spiral</para>
 <media id="fs-id1165137874855" alt="Graph of given Archimedes' spiral">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_228.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_228.jpg"/>
   </media></solution></exercise></section>
     <section id="fs-id1165137437103">
       <title>Technology</title>
@@ -4226,7 +4196,7 @@ See <link target-id="Example_08_04_06"/>.</item>
 </m:math>
 </para></problem>
             <solution id="fs-id1165137434346"><media id="fs-id1165137767506" alt="Graph of given equation.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_231.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_231.jpg"/>
         </media></solution></exercise><exercise id="fs-id1165137652746"><problem id="fs-id1165137652747"><para id="fs-id1165137678589"> <m:math>
  <m:mrow>
   <m:mi>r</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mi>sin</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi><m:mi>tan</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi><m:mo>,</m:mo>
@@ -4249,7 +4219,7 @@ See <link target-id="Example_08_04_06"/>.</item>
  </m:mrow>
 </m:math>, a hippopede</para></problem>
             <solution id="fs-id1165137600616"><media id="fs-id1165137469547" alt="Graph of given hippopede (two circles that are centered along the x-axis and meet at the origin)">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_233.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_233.jpg"/>
         </media></solution></exercise><exercise id="fs-id1165137641550"><problem id="fs-id1165137597150"><para id="fs-id1165137597151"> <m:math>
  <m:mrow>
   <m:mi>r</m:mi><m:mo>=</m:mo><m:mn>5</m:mn><m:mo>+</m:mo><m:mi>cos</m:mi><m:mrow><m:mo>(</m:mo>
@@ -4271,7 +4241,7 @@ See <link target-id="Example_08_04_06"/>.</item>
 </m:math>
 </para></problem>
             <solution id="fs-id1165137888097"><media id="fs-id1165134211332" alt="Graph of given equation.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_235.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_235.jpg"/>
         </media></solution></exercise><exercise id="fs-id1165133103922"><problem id="fs-id1165133103924"><para id="fs-id1165133103925"> <m:math>
  <m:mrow>
   <m:mi>r</m:mi><m:mo>=</m:mo><m:msup>
@@ -4289,7 +4259,7 @@ See <link target-id="Example_08_04_06"/>.</item>
 </m:math>
 </para></problem>
             <solution id="fs-id1165137584082"><media id="fs-id1165134108637" alt="Graph of given equation. Similar to original Archimedes' spiral.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_237.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_237.jpg"/>
         </media></solution></exercise><exercise id="fs-id1165135188802"><problem id="fs-id1165135188803"><para id="fs-id1165135188804"> <m:math>
  <m:mrow>
   <m:mi>r</m:mi><m:mo>=</m:mo><m:mi>θ</m:mi><m:mi>sin</m:mi><m:mspace width="0.3em"/><m:mi>θ</m:mi>
@@ -4304,7 +4274,7 @@ See <link target-id="Example_08_04_06"/>.</item>
 </m:math>
 </para></problem>
             <solution id="fs-id1165137583981"><media id="fs-id1165135417818" alt="Graph of given equation.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_04_239.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_04_239.jpg"/>
         </media></solution></exercise><para id="fs-id1165137652872">For the following exercises, use a graphing utility to graph each pair of polar equations on a domain of <m:math>
  <m:mrow>
   <m:mrow><m:mo>[</m:mo> <m:mrow>

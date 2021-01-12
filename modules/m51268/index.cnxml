@@ -20,7 +20,7 @@
 <item>Determine whether a function is one-to-one (IA 10.1.2).</item></list></section>
 <section id="eip-idm365605792"><title>Objective 1: Find and evaluate composite functions (IA 10.1.1).</title><para id="eip-idm365605280">A <term>composite</term> function is a two-step function and can have numerical or variable inputs.</para>
 <media id="fs-id1167836294921" alt="This figure shows x as the input to a box denoted as function g with g of x as the output of the box. Then, g of x is the input to a box denoted as function f with f of g of x as the output of the box.">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_01_001_img-a3d4.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_10_01_001_img-a3d4.jpg"/>
 </media><para id="eip-131"> <m:math><m:mfenced><m:mrow><m:mi>f</m:mi><m:mi>o</m:mi><m:mi>g</m:mi></m:mrow></m:mfenced><m:mfenced><m:mi>x</m:mi></m:mfenced><m:mo>=</m:mo><m:mi>f</m:mi><m:mfenced><m:mrow><m:mi>g</m:mi><m:mfenced><m:mi>x</m:mi></m:mfenced></m:mrow></m:mfenced></m:math> is read as “f of g of x”.</para><para id="eip-193">To evaluate a composite function, we always start by evaluating the inner function and then evaluate the outer function in terms of the inner function.</para><example id="eip-470"><title>Find and evaluate composite functions.</title><exercise id="eip-345"><problem id="eip-265">
   <para id="eip-869">For functions <m:math><m:mi>f</m:mi><m:mfenced><m:mi>x</m:mi></m:mfenced><m:mo>=</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>7</m:mn></m:math> , <m:math><m:mi>g</m:mi><m:mfenced><m:mi>x</m:mi></m:mfenced><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>7</m:mn></m:mrow><m:mn>2</m:mn></m:mfrac></m:math> , find:
   </para>
@@ -68,7 +68,7 @@ Find and evaluate composite functions.
 <para id="eip-idm240115136">
 <span class="token">ⓒ</span> Graph the functions f(x) and g(x) on the same coordinate system below
 <media id="eip-idm347313372" alt="blank graph">
-    <image mime-type="image/png" src="blankplot5.5.png"/>
+    <image mime-type="image/png" src="../../media/blankplot5.5.png"/>
   </media>
 </para>
 <para id="eip-idm517661072">
@@ -89,7 +89,7 @@ Find and evaluate composite functions.
 <para id="eip-idm540871888"><span class="token">ⓒ</span> Graph the functions f(x) and g(x) on the same coordinate system below
      <newline/>
 <media id="eip-7343072" alt="blank graph">
-    <image mime-type="image/png" src="blankplot5.5.png"/>
+    <image mime-type="image/png" src="../../media/blankplot5.5.png"/>
   </media>
 </para>
 
@@ -110,7 +110,7 @@ whether each graph is the graph of a function and, if so,
 whether it is one-to-one.
 </para>
 <media id="fs-id1167836514026" alt="This first graph shows a straight line passing through (0, 2) and (3, 0). This second shows a parabola opening up with vertex at (0, negative 1).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_01_009_img-36c9.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_10_01_009_img-36c9.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1167836685332">
@@ -122,16 +122,16 @@ whether it is one-to-one.
 Determine whether each graph is the graph of a function and, if so, whether it is one-to-one.
 </para><exercise id="eip-772"><problem id="eip-199">
 <media id="fs-id1167829701994" alt="This figure shows a straight line segment decreasing from (negative 4, 6) to (2, 0), after which it increases from (2, 0) to (6, 4).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_01_207_img-86a2.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_10_01_207_img-86a2.jpg"/>
 </media>
 
 </problem></exercise><exercise id="eip-846"><problem id="eip-856">
 <media id="fs-id1167823012136" alt="This figure shows a graph of a curve that starts at (negative 6 negative 2) increases to the origin and then continues increasing slowly to (6, 2).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_01_205_img-a075.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_10_01_205_img-a075.jpg"/>
 </media>
 </problem></exercise><exercise id="eip-227"><problem id="eip-521">
 <media id="fs-id1167829787690" alt="This figure shows a graph of a circle with center at the origin and radius 3.">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_01_201_img-ace2.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_10_01_201_img-ace2.jpg"/>
 </media>
 </problem></exercise></section></section></section><para id="fs-id1165135358875">A reversible heat pump is a climate-control system that is an air conditioner and a heater in a single device. Operated in one direction, it pumps heat out of a house to provide cooling. Operating in reverse, it pumps heat into the building from the outside, even in cool weather, to provide heating. As a heater, a heat pump is several times more efficient than conventional electrical resistance heating.</para>
 
@@ -139,7 +139,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <figure id="Figure_01_07_001" class="medium">
   <media id="fs-id1165134394601" alt="Diagram of a function and would be its inverse.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_001.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_001.jpg"/>
   </media>
   <caption>Can a function “machine” operate in reverse?</caption>
   </figure>
@@ -173,7 +173,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <figure id="Figure_01_07_002" class="medium">
   <media id="fs-id1165137414400" alt="A forecast of Monday’s through Thursday’s weather.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_002.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_002.jpg"/>
   </media>
   </figure>
 
@@ -1192,7 +1192,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <figure id="Figure_01_07_003" class="small">
   <media id="fs-id1165137640784" alt="Domain and range of a function and its inverse.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_003.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_003.jpg"/>
   </media>
   <caption>Domain and range of a function and its inverse</caption>
   </figure>
@@ -1505,7 +1505,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <title>Analysis </title>
   <para id="fs-id1165137742302">We can see that these functions (if unrestricted) are not one-to-one by looking at their graphs, shown in <link target-id="Figure_01_07_004"/>. They both would fail the horizontal line test. However, if a function is restricted to a certain domain so that it passes the horizontal line test, then in that restricted domain, it can have an inverse.</para><figure id="Figure_01_07_004">
   <media id="fs-id1165137641391" alt="Graph of an absolute function.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_004ab-00bd.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_004ab-00bd.jpg"/>
   </media>
   <caption>(a) Absolute value (b) Reciprocal square</caption>
   </figure>
@@ -1808,7 +1808,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   </m:math>
   </para><figure id="Figure_01_07_006" class="small">
   <media id="fs-id1165137731128" alt="Graph of g(x).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_006.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_006.jpg"/>
   </media>
   </figure>
 
@@ -1865,7 +1865,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>5.</m:mn></m:mrow>
   </m:math> See <link target-id="Figure_01_07_007"/>.</para><figure id="Figure_01_07_007" class="small">
   <media id="fs-id1165137726254" alt="Graph of g(x).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_007.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_007.jpg"/>
   </media>
   </figure>
   </solution>
@@ -2554,7 +2554,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <m:mrow>
  <m:mo stretchy="false">[</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>∞</m:mi><m:mo stretchy="false">)</m:mo><m:mtext>,</m:mtext></m:mrow>
   </m:math> on which this function is one-to-one, and graph it as in <link target-id="Figure_01_07_008"/>.</para><figure id="Figure_01_07_008" class="small"><media id="fs-id1165137451652" alt="Graph of f(x).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_008.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_008.jpg"/>
   </media>
 
   <caption>Quadratic function with domain restricted to [0, ∞).</caption></figure><para id="fs-id1165137419977"><term class="no-emphasis">Restricting the domain</term> to <m:math>
@@ -2613,7 +2613,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <figure id="Figure_01_07_009" class="small">
   <media id="fs-id1165137451052" alt="Graph of f(x) and f^(-1)(x).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_009.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_009.jpg"/>
   </media>
   <caption>Square and square-root functions on the non-negative domain</caption>
   </figure>
@@ -2638,7 +2638,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <figure id="Figure_01_07_010" class="small">
   <media id="fs-id1165135252252" alt="Graph of f^(-1)(x).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_010-89e5.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_010-89e5.jpg"/>
   </media>
   </figure>
 
@@ -2702,7 +2702,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <figure id="Figure_01_07_011" class="small">
   <media id="fs-id1165135177758" alt="Graph of f(x) and f^(-1)(x).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_011-f058.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_011-f058.jpg"/>
   </media>
   <caption>The function and its inverse, showing reflection about the identity line</caption>
   </figure>
@@ -2728,7 +2728,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
 
   <media id="fs-id1165137539140" alt="Graph of f(x) and f^(-1)(x).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_012.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_012.jpg"/>
   </media>
 
   </solution>
@@ -3302,7 +3302,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <exercise id="fs-id1165137528559"><problem id="fs-id1165135251340">
   <media id="fs-id1165135341390" alt="Graph of a parabola." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_201.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_201.jpg"/>
   </media>
   </problem>
   <solution id="fs-id1165137612243">
@@ -3311,7 +3311,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   </exercise><exercise id="fs-id1165135192971"><problem id="fs-id1165135192973">
 
   <media id="fs-id1165134379457" alt="Graph of a step-function." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_202.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_202.jpg"/>
   </media>
 
   </problem>
@@ -3321,7 +3321,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   </m:math> shown in <link target-id="Figure_01_07_203"/>.</para>
   <figure id="Figure_01_07_203" class="small">
   <media id="fs-id1165137855139" alt="Graph of a line.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_203-7622.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_203-7622.jpg"/>
   </media>
   </figure>
 
@@ -3393,7 +3393,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <para id="fs-id1165135639868">For the following exercises, use the graph of the one-to-one function shown in <link target-id="Figure_01_07_204"/>.</para><figure id="Figure_01_07_204" class="small">
   <media id="fs-id1165137611817" alt="Graph of a square root function.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_204.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_204.jpg"/>
   </media>
   </figure>
 
@@ -3411,7 +3411,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   </problem>
   <solution id="fs-id1165134113897">
   <media id="fs-id1165137939427" alt="Graph of a square root function and its inverse.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_205.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_205.jpg"/>
   </media>
   </solution>
   </exercise><exercise id="fs-id1165137892244">
@@ -3805,7 +3805,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   </m:math>
   </para>
   <media id="fs-id1165134057534" alt="Graph of a cubic function and its inverse.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_207.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_207.jpg"/>
   </media>
   </solution>
   </exercise><exercise id="fs-id1165137419353">
@@ -3969,7 +3969,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <exercise id="fs-id1165137464340"><problem id="fs-id1165137464343">
   <para id="fs-id1165137828359">Is the graph in <link target-id="Figure_01_07_208"/> a function?</para><figure id="Figure_01_07_208" class="small">
   <media id="fs-id1165135154408" alt="Graph of a parabola.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_208.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_208.jpg"/>
   </media>
   </figure>
   </problem>
@@ -4068,7 +4068,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <exercise id="fs-id1165134324955" class="material-set-2"><problem id="fs-id1165134324957">
 
   <media id="fs-id1165137416484" alt="Graph of a cubic function." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_209.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_209.jpg"/>
   </media>
 
   </problem>
@@ -4079,7 +4079,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <exercise id="fs-id1165135541845" class="material-set-2"><problem id="fs-id1165135541847">
 
   <media id="fs-id1165137612052" alt="Graph of a relation." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_210.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_210.jpg"/>
   </media>
 
   </problem>
@@ -4087,7 +4087,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <exercise id="fs-id1165137653012" class="material-set-2"><problem id="fs-id1165137427968">
 
   <media id="fs-id1165135168455" alt="Graph of a relation." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_211.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_211.jpg"/>
   </media>
 
   </problem>
@@ -4122,7 +4122,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <solution id="fs-id1165137441682">
 
   <media id="fs-id1165137641445" alt="Graph of f(x).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_213.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_213.jpg"/>
   </media>
 
   </solution>
@@ -4130,7 +4130,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <figure id="Figure_01_07_215" class="small">
   <media id="fs-id1165137536184" alt="Graph of a parabola.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_215.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_215.jpg"/>
   </media>
   </figure>
 
@@ -4341,7 +4341,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <solution id="fs-id1165133437266">
 
   <media id="fs-id1165137803119" alt="Graph of f(x).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_214.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_214.jpg"/>
   </media>
 
   </solution>
@@ -4408,7 +4408,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <exercise id="fs-id1165137527205" class="material-set-2"><problem id="fs-id1165137527207">
 
   <media id="fs-id1165137734838" alt="Graph of a parabola." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_216.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_216.jpg"/>
   </media>
 
   </problem>
@@ -4428,14 +4428,14 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   </para></solution></exercise><exercise id="fs-id1165137575929" class="material-set-2"><problem id="fs-id1165137768455">
 
   <media id="fs-id1165135169395" alt="Graph of a cubic function." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_217.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_217.jpg"/>
   </media>
 
   </problem>
   </exercise><exercise id="fs-id1165135153146" class="material-set-2"><problem id="fs-id1165135153148">
 
   <media id="fs-id1165137640124" alt="Graph of a function." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_218.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_218.jpg"/>
   </media>
 
   </problem>
@@ -4496,7 +4496,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <figure id="Figure_01_07_219">
   <media id="fs-id1165137441761" alt="Graph of a cubic function." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_219-89de.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_219-89de.jpg"/>
   </media>
   </figure>
 
@@ -4850,7 +4850,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <solution id="fs-id1165137665486">
 
   <media id="fs-id1165135416583" alt="Graph of f(x)">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_220.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_220.jpg"/>
   </media>
   </solution>
   </exercise><exercise id="fs-id1165137419235">
@@ -4879,7 +4879,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   </problem>
   <solution id="fs-id1165137442696">
   <media id="fs-id1165137768206" alt="Graph of f(x)">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_222.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_222.jpg"/>
   </media>
   </solution>
   </exercise><exercise id="fs-id1165137638654">
@@ -4910,7 +4910,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <solution id="fs-id1165137771419">
 
   <media id="fs-id1165135255841" alt="Graph of f(x)">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_224.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_224.jpg"/>
   </media>
   </solution>
   </exercise><exercise id="fs-id1165137619832">
@@ -4937,7 +4937,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   </problem>
   <solution id="fs-id1165137651999">
   <media id="fs-id1165137599946" alt="Graph of f(x)" display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_226.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_226.jpg"/>
   </media>
   </solution>
   </exercise><exercise id="fs-id1165137628681">
@@ -4965,7 +4965,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <figure id="Figure_01_07_247" class="medium">
   <media id="fs-id1165137460564" alt="Graph of f(x)">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_247.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_247.jpg"/>
   </media>
   </figure>
 
@@ -4978,7 +4978,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   </problem>
   <solution id="fs-id1165137415538">
   <media id="fs-id1165137442236" alt="Graph of a half circle.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_228.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_228.jpg"/>
   </media>
   </solution></exercise><exercise id="fs-id1165135543526">
   <problem id="fs-id1165137742527">
@@ -4994,7 +4994,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <exercise id="fs-id1165137562807"><problem id="fs-id1165137562809">
   <media id="fs-id1165137446970" alt="Graph of an absolute function." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_230.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_230.jpg"/>
   </media>
 
   </problem>
@@ -5010,7 +5010,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   </exercise><exercise id="fs-id1165137570135"><problem id="fs-id1165137570137">
 
   <media id="fs-id1165135524458" alt="Graph of a half circle." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_231.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_231.jpg"/>
   </media>
 
   </problem>
@@ -5067,13 +5067,13 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <exercise id="fs-id1165137565968"><problem id="fs-id1165134148336">
   <media id="fs-id1165137534178" alt="Graph of a parabola." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_232.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_232.jpg"/>
   </media>
   </problem>
   </exercise><exercise id="fs-id1165137643328"><problem id="fs-id1165137643331">
 
   <media id="fs-id1165137836434" alt="Graph of a parabola." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_233.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_233.jpg"/>
   </media>
 
   </problem>
@@ -5083,7 +5083,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   </exercise><exercise id="fs-id1165135471211"><problem id="fs-id1165135471213">
 
   <media id="fs-id1165135538487" alt="Graph of a cubic function." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_234.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_234.jpg"/>
   </media>
 
   </problem>
@@ -5097,7 +5097,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <exercise id="fs-id1165137725549"><problem id="fs-id1165137470719">
 
   <media id="fs-id1165137597393" alt="Graph of f(x)." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_235.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_235.jpg"/>
   </media>
 
   </problem>
@@ -5116,14 +5116,14 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   </exercise><exercise id="fs-id1165137836804"><problem id="fs-id1165137836807">
 
   <media id="fs-id1165137849182" alt="Graph of f(x)." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_236.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_236.jpg"/>
   </media>
 
   </problem>
   </exercise><exercise id="fs-id1165137737661"><problem id="fs-id1165134224080">
 
   <media id="fs-id1165137656022" alt="Graph of f(x)." display="block">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_237.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_237.jpg"/>
   </media>
 
   </problem>
@@ -5157,7 +5157,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <solution id="fs-id1165134151182">
 
   <media id="fs-id1165135256168" alt="Graph of f(x).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_239.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_239.jpg"/>
   </media>
 
   </solution>
@@ -5367,7 +5367,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   <solution id="eip-845">
     <para id="eip-366">The function is one-to-one.<newline/></para>
   <media id="eip-id2073954" alt="">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_248.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_248.jpg"/>
   </media>
   </solution>
   </exercise><exercise id="eip-642"><problem id="eip-85">
@@ -5698,7 +5698,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
   </problem>
   <solution id="fs-id1165137400919">
   <media id="fs-id1165137454070" alt="Graph of f(x).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_242.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_242.jpg"/>
   </media>
   </solution>
   </exercise><exercise id="fs-id1165137748677">
@@ -5846,7 +5846,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
  <m:mi>g</m:mi></m:mrow>
   </m:math> shown in <link target-id="Figure_01_07_245"/>.</para><figure id="Figure_01_07_245" class="small">
   <media id="fs-id1165137456874" alt="Graph of a cubic function.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_245-716f.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_245-716f.jpg"/>
   </media>
   </figure>
 
@@ -5890,7 +5890,7 @@ Determine whether each graph is the graph of a function and, if so, whether it i
 
   <para id="fs-id1165137933195">For the following exercises, use the graph of the piecewise function shown in <link target-id="Figure_01_07_246"/>.</para><figure id="Figure_01_07_246" class="small">
   <media id="fs-id1165135529085" alt="Graph of absolute function and step function.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_07_246-7a44.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_07_246-7a44.jpg"/>
   </media>
   </figure>
 

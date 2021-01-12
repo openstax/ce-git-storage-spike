@@ -556,7 +556,7 @@
  </m:mrow>
 </m:math> corresponding to quadrants I and III of the unit circle.</para><figure id="Figure_06_02_001" class="small">
 <media id="fs-id1081768" alt="A graph of y=tangent of x. Asymptotes at -pi over 2 and pi over 2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_001.jpg"/>
 </media>
  <caption>Graph of the tangent function</caption>
 </figure>
@@ -883,7 +883,7 @@
 
 
 <media id="fs-id1654424" alt="An illustration of equations showing that A is the coefficient of tangent and B is the coefficient of x, which is within the tangent function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_002.jpg"/>
 </media>
 
 <para id="fs-id1701807">Because <m:math>
@@ -987,7 +987,7 @@
  </m:mrow>
 </m:math> The only inflection point is at the origin. <link target-id="Figure_06_02_003"/> shows the graph of one period of the function.</para><figure id="Figure_06_02_003" class="small">
 <media id="fs-id864145" alt="A graph of one period of a modified tangent function, with asymptotes at x=-1 and x=1.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_003.jpg"/>
 </media>
 </figure>
 </solution>
@@ -1010,7 +1010,7 @@
 </m:math> </para></problem>
 <solution id="fs-id1354903">
 <media id="fs-id1439999" alt="A graph of two periods of a modified tangent function, with asymptotes at x=-3 and x=3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_004.jpg"/>
 </media>
 </solution></exercise></note>
 </section><section id="fs-id1464435"><title>Graphing One Period of a Shifted Tangent Function </title><para id="fs-id1406087">Now that we can graph a <term class="no-emphasis">tangent function</term> that is stretched or compressed, we will add a vertical and/or horizontal (or phase) shift. In this case, we add <m:math>
@@ -1286,7 +1286,7 @@
         </m:math> The graph is shown in <link target-id="Figure_06_02_005"/>.
             <figure id="Figure_06_02_005" class="small">
             <media id="fs-id1306930" alt="A graph of one period of a shifted tangent function, with vertical asymptotes at x=-1.5 and x=-0.5.">
-                <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_005.jpg"/>
+                <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_005.jpg"/>
             </media>
             </figure>
         </item>
@@ -1360,7 +1360,7 @@
 
 <figure id="Figure_06_02_006" class="small">
 <media id="fs-id1459219" alt="A graph of two periods of a modified tangent function, with asymptotes at x=-4 and x=4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_006.jpg"/>
 </media>
  <caption>A stretched tangent function</caption>
 </figure>
@@ -1480,7 +1480,7 @@
  <problem id="fs-id1563795"><para id="fs-id1563796">Find a formula for the function in <link target-id="Figure_06_02_007"/>.</para>
 <figure id="Figure_06_02_007" class="small">
 <media id="fs-id1692621" alt="A graph of four periods of a modified tangent function, Vertical asymptotes at -3pi/4, -pi/4, pi/4, and 3pi/4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_007.jpg"/>
 </media>
 </figure>
 </problem>
@@ -1537,7 +1537,7 @@
  </m:mrow>
 </m:math> </para><figure id="Figure_06_02_008" class="small">
 <media id="fs-id1705176" alt="A graph of cosine of x and secant of x. Asymptotes for secant of x shown at -3pi/2, -pi/2, pi/2, and 3pi/2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_008.jpg"/>
 </media>
 <caption>Graph of the secant function, <m:math>
  <m:mrow>
@@ -1656,7 +1656,7 @@
  </m:mrow>
 </m:math> </para><para id="eip-610">The graph of cosecant, which is shown in <link target-id="Figure_06_02_009"/>, is similar to the graph of secant.</para><figure id="Figure_06_02_009" class="small">
 <media id="fs-id1678069" alt="A graph of cosecant of x and sin of x. Five vertical asymptotes shown at multiples of pi.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_009.jpg"/>
 </media>
 <caption>The graph of the cosecant function, <m:math>
  <m:mrow>
@@ -2051,7 +2051,7 @@
         </m:math> <link target-id="Figure_06_02_010"/> shows the graph.
             <figure id="Figure_06_02_010" class="small">
             <media id="fs-id1674156" alt="A graph of one period of a modified secant function, which looks like an upward facing prarbola and a downward facing parabola.">
-                <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_010.jpg"/>
+                <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_010.jpg"/>
             </media>
             </figure>
         </item>
@@ -2070,7 +2070,7 @@
  </m:mrow>
 </m:math> is negative.</para>
 <media id="fs-id1380832" alt="A graph of one period of a modified secant function, which looks like an downward facing prarbola and a upward facing parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_011.jpg"/>
 </media>
 </solution></exercise></note>
 
@@ -2401,7 +2401,7 @@
     </item>
 </list><figure id="Figure_06_02_012" class="small">
 <media id="fs-id1679337" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_012.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_012.jpg"/>
 </media>
 </figure>
 </solution>
@@ -2421,7 +2421,7 @@
 <solution id="fs-id1439474">
 
 <media id="fs-id1673799" alt="A graph of one period of a modified secant function. There are two vertical asymptotes, one at approximately x=-pi/20 and one approximately at 3pi/16.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_013.jpg"/>
 </media>
 </solution>
 </exercise></note>
@@ -2615,7 +2615,7 @@
 
         <figure id="Figure_06_02_023" class="small">
             <media id="fs-id1601380" alt="A graph of one period of a cosecant function. There are vertical asymptotes at x=0, x=pi/4, and x=pi/2.">
-                <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_023.jpg"/>
+                <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_023.jpg"/>
             </media>
         </figure>
             </item>
@@ -2629,7 +2629,7 @@
  </para></problem>
 <solution id="fs-id1150397">
   <media id="fs-id1696881" alt="A graph of one period of a modified secant function, which looks like an downward facing prarbola and a upward facing parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_023b.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_023b.jpg"/>
 </media>
  </solution></exercise></note>
 
@@ -2824,7 +2824,7 @@
 </list><para id="fs-id869117">The graph for this function is shown in <link target-id="Figure_06_02_014"/>.</para>
 
         <figure id="Figure_06_02_014" class="small"><media id="fs-id1425312" alt="A graph of 3 periods of a modified cosecant function, with 3 vertical asymptotes, and a dotted sinusoidal function that has local maximums where the cosecant function has local minimums and local minimums where the cosecant function has local maximums.">
-                <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_014F.jpg"/>
+                <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_014F.jpg"/>
             </media>
 
         <caption>A transformed cosecant function</caption></figure></solution>
@@ -2867,12 +2867,12 @@
  </m:math> on the same axes.</para>
 
 <figure id="Figure_06_02_015" class="small"><media id="fs-id1457171" alt="A graph of two periods of a modified cosine function. Range is [-1,3], graphed from x=-4 to x=4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_015.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_015.jpg"/>
 </media>
 
 </figure></problem>
 <solution id="fs-id1528623"><media id="fs-id1662489" alt="A graph of two periods of both a secant and consine function. Grpah shows that cosine function has local maximums where secant function has local minimums and vice versa.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_016.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_016.jpg"/>
 </media></solution>
 </exercise></note>
 </section><section id="fs-id1232916"><title>Analyzing the Graph of <emphasis effect="italics">y</emphasis> = cot <emphasis effect="italics">x</emphasis></title><para id="fs-id1585113">The last trigonometric function we need to explore is <term class="no-emphasis">cotangent</term>. The cotangent is defined by the <term class="no-emphasis">reciprocal identity</term> <m:math>
@@ -2915,7 +2915,7 @@
    <m:mi>tan</m:mi><m:mspace width="0.3em"/><m:mi>x</m:mi></m:mrow>
   </m:math> has its vertical asymptotes.</para><figure id="Figure_06_02_017" class="small">
    <media id="fs-id942243" alt="A graph of cotangent of x, with vertical asymptotes at multiples of pi.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_017.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_017.jpg"/>
    </media>
    <caption>The cotangent function</caption>
   </figure>
@@ -3217,7 +3217,7 @@
 
         <figure id="Figure_06_02_019" class="small">
             <media id="fs-id1702654" alt="A graph of two periods of a modified tangent function and a modified cotangent function. Vertical asymptotes at x=-pi/4 and pi/4.">
-                <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_019.jpg"/>
+                <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_019.jpg"/>
             </media>
         </figure>
     </solution>
@@ -3458,7 +3458,7 @@
             </list><para id="fs-id1445913">The graph is shown in <link target-id="Figure_06_02_020"/>.</para>
 
         <figure id="Figure_06_02_020" class="small"><media id="fs-id1404816" alt="A graph of one period of a modified cotangent function. Vertical asymptotes at x=4 and x=12.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_020.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_020.jpg"/>
         </media>
 
             <caption>One period of a modified cotangent function</caption></figure></solution>
@@ -3522,7 +3522,7 @@
      </m:math> is the period.
     <figure id="Image_06_02_022" class="small">
      <media id="fs-id1653469" alt="A graph showing that variable A is the coefficient of the tangent function and variable B is the coefficient of x, which is within that tangent function.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_022.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_022.jpg"/>
      </media>
     </figure>
     <para id="fs-id887356">We see that the stretching factor is 5. This means that the beam of light will have moved 5 ft after half the period.</para>
@@ -3553,7 +3553,7 @@
     <m:mi>t</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow>
      </m:math> and use the stretching factor and period. See <link target-id="Image_06_02_021"/>
      <figure id="Image_06_02_021" class="small"><media id="fs-id1451826" alt="A graph of one period of a modified tangent function, with a vertical asymptote at x=4.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_021n.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_021n.jpg"/>
       </media>
      </figure></item>
      <item><span class="token">ⓒ</span> period: <m:math>
@@ -3815,7 +3815,7 @@
   <section id="fs-id1608979"><title>Algebraic</title><para id="fs-id1608984">For the following exercises, match each trigonometric function with one of the following graphs.</para>
 <figure id="fs-idm479076032">
 <media id="Figure_06_02_201combined" alt="">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_201combined.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_201combined.jpg"/>
     </media>
 </figure>
 
@@ -4055,7 +4055,7 @@
    <solution id="fs-id1570678">
 
     <media id="fs-id1644075" alt="A graph of two periods of a modified tangent function. There are two vertical asymptotes.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_202.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_202.jpg"/>
     </media>
 
     <para id="fs-id1656875">stretching factor: 2; period: <m:math>
@@ -4124,7 +4124,7 @@
    <solution id="fs-id1366142">
 
     <media id="fs-id1375745" alt="A graph of two periods of a modified cosecant function. Vertical Asymptotes at x= -6, -3, 0, 3, and 6.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_204.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_204.jpg"/>
     </media>
 
     <para id="fs-id1512258">stretching factor: 6; period: 6; asymptotes: <m:math>
@@ -4168,7 +4168,7 @@
    <solution id="fs-id1439706">
 
     <media id="fs-id1365984" alt="A graph of two periods of a modified tangent function. Vertical asymptotes at multiples of pi.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_206.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_206.jpg"/>
     </media>
 
     <para id="fs-id1419808">stretching factor: 1; period: <m:math>
@@ -4207,7 +4207,7 @@
    <solution id="fs-id1354976">
 
     <media id="fs-id1354983" alt="A graph of two periods of a modified tangent function. Three vertical asymptiotes shown.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_208.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_208.jpg"/>
     </media>
 
     <para id="fs-id1528080">Stretching factor: 1; period: <m:math>
@@ -4250,7 +4250,7 @@
     <solution id="fs-id1429724">
 
       <media id="fs-id1455973" alt="A graph of two periods of a modified cosecant function. Vertical asymptotes at multiples of pi.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_210.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_210.jpg"/>
       </media>
 
      <para id="fs-id1489928">stretching factor: 2; period: <m:math>
@@ -4293,7 +4293,7 @@
     <solution id="fs-id1704364">
 
       <media id="fs-id1704371" alt="A graph of two periods of a modified secant function. Vertical asymptotes at x=-pi/2, -pi/6, pi/6, and pi/2.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_212.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_212.jpg"/>
       </media>
 
      <para id="fs-id1583862">stretching factor: 4; period: <m:math>
@@ -4341,7 +4341,7 @@
     <solution id="fs-id1429972">
 
       <media id="fs-id1429978" alt="A graph of two periods of a modified secant function. There are four vertical asymptotes all pi/5 apart.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_214.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_214.jpg"/>
       </media>
 
      <para id="fs-id1582375">stretching factor: 7; period: <m:math>
@@ -4400,7 +4400,7 @@
     <solution id="fs-id1404596">
 
       <media id="fs-id1404603" alt="A graph of two periods of a modified cosecant function. Three vertical asymptotes, each pi apart.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_216.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_216.jpg"/>
       </media>
 
      <para id="fs-id1361638">stretching factor: 2; period: <m:math>
@@ -4453,7 +4453,7 @@
     <solution id="fs-id1392291">
 
       <media id="fs-id1446559" alt="A graph of a modified cosecant function. Four vertical asymptotes.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_218.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_218.jpg"/>
       </media>
 
      <para id="fs-id1375388">stretching factor: <m:math>
@@ -4545,7 +4545,7 @@
     </para>
 
     <media id="fs-id1649707" alt="A graph of two periods of a modified tangent function. Vertical asymptotes at x=-pi/4 and pi/12.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_220.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_220.jpg"/>
     </media>
 
     </solution>
@@ -4581,7 +4581,7 @@
    <para id="fs-id1588386">For the following exercises, find an equation for the graph of each function.</para>
    <exercise id="fs-id1588389" class="material-set-2"><problem id="fs-id1588390">
     <media id="fs-id1513948" alt="A graph of two periods of a modified cosecant function, with asymptotes at multiples of pi/2.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_222.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_222.jpg"/>
     </media>
  </problem>
     <solution id="fs-id1706413"><para id="fs-id1706414"> <m:math>
@@ -4596,11 +4596,11 @@
     </para></solution></exercise><exercise id="fs-id1464236" class="material-set-2"><problem id="fs-id1464237">
 
    	 <media id="fs-id1537949" alt="A graph of a modified cotangent function. Vertical asymptotes at x=-1 and x=0 and x=1.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_223.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_223.jpg"/>
     </media>
 </problem></exercise><exercise id="fs-id1409010" class="material-set-2"><problem id="fs-id1409012">
     <media id="fs-id1409017" alt="A graph of a modified cosecant function. Vertical asymptotes at multiples of pi/4.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_224.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_224.jpg"/>
     </media>
 </problem>
     <solution id="fs-id1649185"><para id="fs-id1405484"> <m:math>
@@ -4615,12 +4615,12 @@
     </para></solution></exercise><exercise id="fs-id1465129" class="material-set-2"><problem id="fs-id1465130">
 
     <media id="fs-id1465137" alt="A graph of a modified tangent function. Vertical asymptotes at -pi/8 and 3pi/8.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_225.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_225.jpg"/>
     </media>
 </problem></exercise><exercise id="fs-id1653766" class="material-set-2"><problem id="fs-id1653767">
 
     <media id="fs-id1445558" alt="A graph of a modified cosecant function. Vertical asymptotyes at multiples of pi.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_226.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_226.jpg"/>
     </media>
 </problem>
     <solution id="fs-id705620"><para id="fs-id705621"> <m:math>
@@ -4631,12 +4631,12 @@
     </m:math>
     </para></solution></exercise><exercise id="fs-id1530295" class="material-set-2"><problem id="fs-id1530296">
     <media id="fs-id1695827" alt="A graph of a modified secant function. Four vertical asymptotes.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_227.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_227.jpg"/>
     </media>
 </problem></exercise><exercise id="fs-id1664599" class="material-set-2"><problem id="fs-id1664600">
 
     <media id="fs-id1664606" alt="graph of two periods of a modified tangent function. Vertical asymptotes at x=-0.005 and x=0.005.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_228.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_228.jpg"/>
     </media>
 </problem>
     <solution id="fs-id1432037"><para id="fs-id1460872"> <m:math>
@@ -4688,7 +4688,7 @@
    <solution id="fs-id1656302">
 
     <media id="fs-id1656308" alt="A graph of the absolute value of the cotangent function. Range is 0 to infinity.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_230.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_230.jpg"/>
     </media>
 
    </solution>
@@ -4727,7 +4727,7 @@
     </problem>
     <solution id="fs-id1420323">
 <media id="fs-id1420330" alt="A graph of tangent of x.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_232.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_232.jpg"/>
       </media>
 </solution>
    </exercise><exercise id="fs-id1521332">
@@ -4765,7 +4765,7 @@
 
 
       <media id="fs-id1586282" alt="A graph of two periods of a modified secant function. Vertical asymptotes at multiples of 500pi.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_234.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_234.jpg"/>
     </media>
 
 
@@ -4801,7 +4801,7 @@
     </problem>
     <solution id="fs-id1631004">
 <media id="fs-id1631010" alt="A graph of y=1.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_241.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_241.jpg"/>
       </media>
 </solution>
    </exercise></section>
@@ -4925,7 +4925,7 @@
 
    <figure id="Figure_06_02_237" class="medium">
     <media id="fs-id1420140" alt="An illustration of a man and the distance he is away from a boat.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_237.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_237.jpg"/>
     </media>
    </figure>
     </problem>
@@ -4948,7 +4948,7 @@
     </item>
    <item><span class="token">ⓑ</span>
     <media id="fs-id1532106" alt="A graph of a half period of a secant function. Vertical asymptotes at x=-pi/2 and pi/2.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_238.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_238.jpg"/>
     </media>
 </item>
     <item><span class="token">ⓒ</span> <m:math>
@@ -5127,7 +5127,7 @@
     </item>
    <item>
     <media id="fs-id1601972" alt="An exponentially increasing function with a vertical asymptote at x=60.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_02_240.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_02_240.jpg"/>
     </media>
 </item>
     <item> <m:math>

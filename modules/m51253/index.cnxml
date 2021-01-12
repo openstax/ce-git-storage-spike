@@ -45,23 +45,23 @@
 <tbody>
 <row valign="top">
 <entry valign="top" align="left"/>
-<entry valign="top" align="center"><media id="fs-id1167829694073" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_01_01_010a_img.jpg"/></media></entry>
+<entry valign="top" align="center"><media id="fs-id1167829694073" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_010a_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Are there any parentheses (or other<newline/>grouping symbols)? Yes.</entry>
-<entry valign="top" align="center"><media id="fs-id1167829694118" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_01_01_010b_img.jpg"/></media></entry>
+<entry valign="top" align="center"><media id="fs-id1167829694118" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_010b_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Focus on the parentheses that are inside the<newline/>brackets. Subtract.</entry>
-<entry valign="top" align="center"><media id="fs-id1167836418416" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_01_01_010c_img.jpg"/></media></entry>
+<entry valign="top" align="center"><media id="fs-id1167836418416" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_010c_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Continue inside the brackets and multiply.</entry>
-<entry valign="top" align="center"><media id="fs-id1167836418442" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_01_01_010d_img.jpg"/></media></entry>
+<entry valign="top" align="center"><media id="fs-id1167836418442" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_010d_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Continue inside the brackets and subtract.</entry>
-<entry valign="top" align="center"><media id="fs-id1167836533805" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_01_01_010f_img.jpg"/></media></entry>
+<entry valign="top" align="center"><media id="fs-id1167836533805" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_010f_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">The expression inside the brackets requires<newline/>no further simplification.</entry>
@@ -69,7 +69,7 @@
 </row>
 <row valign="top">
 <entry valign="top" align="left">Are there any exponents? Yes. Simplify exponents.</entry>
-<entry valign="top" align="center"><media id="fs-id1167836533832" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_01_01_010g_img.jpg"/></media></entry>
+<entry valign="top" align="center"><media id="fs-id1167836533832" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_010g_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Is there any multiplication or division? Yes.</entry>
@@ -77,7 +77,7 @@
 </row>
 <row valign="top">
 <entry valign="top" align="left">Multiply.</entry>
-<entry valign="top" align="center"><media id="fs-id1167836627134" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_01_01_010h_img.jpg"/></media></entry>
+<entry valign="top" align="center"><media id="fs-id1167836627134" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_010h_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Is there any addition of subtraction? Yes.</entry>
@@ -85,11 +85,11 @@
 </row>
 <row valign="top">
 <entry valign="top" align="left">Add.</entry>
-<entry valign="top" align="center"><media id="fs-id1167836627175" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_01_01_010i_img.jpg"/></media></entry>
+<entry valign="top" align="center"><media id="fs-id1167836627175" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_010i_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Add.</entry>
-<entry valign="top" align="center"><media id="fs-id1167829693866" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_01_01_010j_img.jpg"/></media></entry>
+<entry valign="top" align="center"><media id="fs-id1167829693866" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_010j_img.jpg"/></media></entry>
 </row>
 </tbody>
 </tgroup>
@@ -272,7 +272,7 @@ Substitute the solution into the original equation to make sure the result is a 
 </problem>
 </exercise></section></section></section><para id="fs-id1402487">Caroline is a full-time college student planning a spring break vacation. To earn enough money for the trip, she has taken a part-time job at the local bank that pays $15.00/hr, and she opened a savings account with an initial deposit of $400 on January 15. She arranged for direct deposit of her payroll checks. If spring break begins March 20 and the trip will cost approximately $2,500, how many hours will she have to work to earn enough to pay for her vacation? If she can only work 4 hours per day, how many days per week will she have to work? How many weeks will it take? In this section, we will investigate problems like this and others, which generate graphs like the line in <link target-id="Figure_02_02_001"/>.</para>
 <figure id="Figure_02_02_001" class="medium"><media id="fs-id1294390" alt="Coordinate plane where the x-axis ranges from 0 to 200 in intervals of 20 and the y-axis ranges from 0 to 3,000 in intervals of 500.  The x-axis is labeled Hours Worked and the y-axis is labeled Savings Account Balance.  A linear function is plotted with a y-intercept of 400 with a slope of 15.  A dotted horizontal line extends from the point (0,2500).">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_02_001N.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_02_001N.jpg"/>
 </media>
 </figure><section id="fs-id2454936">
 <title>Solving Linear Equations in One Variable</title>
@@ -976,7 +976,7 @@ Our goal is to perform algebraic operations so that the variables appear in the 
 </equation>
 <para id="fs-id914245">We can use another method of solving the equation without finding the LCD: cross-multiplication. We multiply terms by crossing over the equal sign.</para>
 <media id="fs-id2119795" alt="">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_02_009n.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_02_009n.jpg"/>
  </media>
 <para id="fs-id2639399">Multiply <m:math>
  <m:mrow>
@@ -2130,7 +2130,7 @@ Our goal is to perform algebraic operations so that the variables appear in the 
  </m:mrow>
 </m:math> </para><figure id="Figure_02_02_002" class="small">
 <media id="fs-id1939377" alt="Coordinate plane with the x and y axes ranging from negative 10 to 10.  Three linear functions are plotted: y = negative 3 times x minus 2; y = 2 times x plus 1; and y = x over 3 plus 2.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_02_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_02_002.jpg"/>
 </media>
 </figure>
 <note id="fs-id1467947">
@@ -3147,7 +3147,7 @@ Our goal is to perform algebraic operations so that the variables appear in the 
 </m:math> Notice that all of the <emphasis effect="italics">y-</emphasis>coordinates are the same. See <link target-id="Figure_02_02_003"/>.</para>
 
 <figure id="Figure_02_02_003" class="small"><media id="fs-id1336884" alt="Coordinate plane with the x-axis ranging from negative 7 to 4 and the y-axis ranging from negative 4 to 4.  The function y = negative 2 and the line x = negative 3 are plotted.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_02_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_02_003.jpg"/>
 </media>
 <caption>The line <emphasis effect="italics">x</emphasis> = −3 is a vertical line. The line <emphasis effect="italics">y</emphasis> = −2 is a horizontal line.</caption></figure><example id="Example_02_02_12">
 <exercise id="fs-id2797158">
@@ -3216,7 +3216,7 @@ Our goal is to perform algebraic operations so that the variables appear in the 
 </m:math> </para>
 
 <figure id="Figure_02_02_004" class="small"><media id="fs-id1847446" alt="Coordinate plane with the x-axis ranging from negative 8 to 8 in intervals of 2 and the y-axis ranging from negative 7 to 7.  Three functions are graphed on the same plot: y = 2 times x minus 3; y = 2 times x plus 1 and y = 2 times x plus 5.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_02_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_02_004.jpg"/>
 </media>
 <caption> Parallel lines</caption></figure><para id="fs-id1929226">All of the lines shown in the graph are parallel because they have the same slope and different <emphasis effect="italics">y-</emphasis>intercepts.</para>
 <para id="fs-id1955734">Lines that are <term class="no-emphasis">perpendicular</term> intersect to form a <m:math>
@@ -3269,7 +3269,7 @@ Our goal is to perform algebraic operations so that the variables appear in the 
 </m:math>
 </equation>
 <figure id="Figure_02_02_005" class="small"><media id="fs-id1388109" alt="Coordinate plane with the x-axis ranging from negative 3 to 6 and the y-axis ranging from negative 2 to 5.  Two functions are graphed on the same plot: y = 3 times x minus 1 and y = negative x/3 minus 2.  Their intersection is marked by a box to show that it is a right angle. ">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_02_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_02_005.jpg"/>
 </media>
 <caption> Perpendicular lines</caption></figure>
 <example id="Example_02_02_13">
@@ -3342,7 +3342,7 @@ Our goal is to perform algebraic operations so that the variables appear in the 
 
 <figure id="Figure_02_02_006" class="small">
 <media id="fs-id1712745" alt="Coordinate plane with the x-axis ranging from negative 4 to 5 and the y-axis ranging from negative 4 to 4.  Two functions are graphed on the same plot: y = negative 4 times x/3 plus 1 and y = 3 times x/4 minus 2.  A box is placed at the intersection to note that it forms a right angle.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_02_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_02_006.jpg"/>
 </media>
 </figure>
 <para id="fs-id2433538">From the graph, we can see that the lines appear perpendicular, but we must compare the slopes.</para>
@@ -3447,7 +3447,7 @@ Our goal is to perform algebraic operations so that the variables appear in the 
 <solution id="fs-id3035549">
 <para id="fs-id2403402">Parallel lines: equations are written in slope-intercept form.</para>
 <media id="fs-id2385491" alt="Coordinate plane with the x-axis ranging from negative 5 to 5 and the y-axis ranging from negative 1 to 6.  Two functions are graphed on the same plot: y = x/2 plus 5 and y = x/2 plus 2.  The lines do not cross.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_02_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_02_007.jpg"/>
 </media>
 </solution></exercise></note>
 </section>
@@ -3619,7 +3619,7 @@ Our goal is to perform algebraic operations so that the variables appear in the 
 </m:math> See <link target-id="Figure_02_02_008"/><emphasis>.</emphasis></para>
 <figure id="Figure_02_02_008" class="small">
 <media id="fs-id2377310" alt="Coordinate plane with the x-axis ranging from negative 8 to 8 in intervals of 2 and the y-axis ranging from negative 2 to 12 in intervals of 2.  Two functions are graphed on the same plot: y = negative 5 times x/3 plus 1/3 and y = negative 5 times x/3 plus 10.  The lines do not cross.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_02_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_02_008.jpg"/>
 </media>
 </figure>
 </solution>
@@ -4500,7 +4500,7 @@ Write all the final equations using the slope-intercept form.</para><exercise id
 <solution id="fs-id1334828">
 <para id="fs-id1355513"><newline/>
 <media id="fs-id1355516" alt="Coordinate plane with the x and y axes ranging from negative 10 to 10.  The functions 3 times x minus 2 times y = 5 and 6 times y minus 9 times x = 6 are graphed on the same plot.  The lines do not cross.">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_02_202.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_02_202.jpg"/>
  </media>
 </para>
 <para id="fs-id2736409">Parallel</para></solution>
@@ -4550,7 +4550,7 @@ Write all the final equations using the slope-intercept form.</para><exercise id
 <solution id="fs-id3061027">
 <para id="fs-id1570411"><newline/>
 <media id="fs-id1570414" alt="Coordinate plane with the x and y axes ranging from negative 10 to 10.  The function y = negative 3 and the line x = 4 are graphed on the same plot.  These lines cross at a 90 degree angle.">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_02_204.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_02_204.jpg"/>
  </media>
 </para>
 <para id="fs-id1831316">Perpendicular</para>
@@ -4868,7 +4868,7 @@ Write all the final equations using the slope-intercept form.</para><exercise id
   <m:mo>.</m:mo> </m:mrow>
 </m:math> If the vertical distance from the ground to the door bottom is 2.5 ft, find the distance the ramp has to extend from the home in order to comply with the needed slope.</para>
 <media id="fs-id1471955" alt="">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_02_205.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_02_205.jpg"/>
  </media>
 </problem>
 <solution id="fs-id2787115"><para id="fs-id2787116">30 ft</para></solution></exercise>

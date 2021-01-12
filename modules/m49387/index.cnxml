@@ -13,7 +13,7 @@
 
 <content>
 <figure id="Figure_06_01_001" class="small"><media id="fs-id1165135160648" alt="A photo of a rainbow colored beam of light stretching across the floor.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_001.jpg"/>
 </media>
 <caption>Light can be separated into colors because of its wavelike properties. (credit: "wonderferret"/ Flickr)</caption></figure><para id="fs-id1165135329803">White light, such as the light from the sun, is not actually white at all. Instead, it is a composition of all the colors of the rainbow in the form of waves. The individual colors can be seen only when white light passes through an optical prism that separates the waves according to their wavelengths to form a rainbow.</para>
 <para id="fs-id1165134544966">Light waves can be represented graphically by the sine function. In the chapter on <link document="m49369">Trigonometric Functions</link>, we examined trigonometric functions such as the sine function. In this section, we will interpret and create graphs of sine and cosine functions.</para><section id="fs-id1165135169322">
@@ -208,7 +208,7 @@
 
 </tgroup>
 </table><para id="fs-id1165137694159">Plotting the points from the table and continuing along the <emphasis effect="italics">x</emphasis>-axis gives the shape of the sine function. See <link target-id="Figure_06_01_002"/>.</para><figure id="Figure_06_01_002" class="small"><media id="fs-id1165135385050" alt="A graph of sin(x). Local maximum at (pi/2, 1). Local minimum at (3pi/2, -1). Period of 2pi.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_002.jpg"/>
 </media>
 <caption>The sine function</caption></figure><para id="fs-id1165137410832">Notice how the sine values are positive between 0 and <m:math>
  <m:mrow>
@@ -225,7 +225,7 @@
 </m:math> which correspond to the values of the sine function in quadrants III and IV on the unit circle. See <link target-id="Figure_06_01_003"/>.</para>
 
 <figure id="Figure_06_01_003" class="small"><media id="fs-id1165134360899" alt="A side-by-side graph of a unit circle and a graph of sin(x). The two graphs show the equivalence of the coordinates.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_003.jpg"/>
 </media>
 <caption>Plotting values of the sine function</caption></figure><para id="fs-id1165137849285">Now let’s take a similar look at the <term class="no-emphasis">cosine function</term>. Again, we can create a table of values and use them to sketch a graph. <link target-id="Table_06_01_02"/> lists some of the values for the cosine function on a unit circle.</para>
 
@@ -425,7 +425,7 @@
 </table><para id="fs-id1165135531416">As with the sine function, we can plots points to create a graph of the cosine function as in <link target-id="Figure_06_01_004"/>.</para>
 
 <figure id="Figure_06_01_004" class="medium"><media id="fs-id1165135536490" alt="A graph of cos(x). Local maxima at (0,1) and (2pi, 1). Local minimum at (pi, -1). Period of 2pi.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_004.jpg"/>
 </media>
 <caption>The cosine function</caption></figure><para id="fs-id1165135628668">Because we can evaluate the sine and cosine of any real number, both of these functions are defined for all real numbers. By thinking of the sine and cosine values as coordinates of points on a unit circle, it becomes clear that the range of both functions must be the interval <m:math>
  <m:mrow>
@@ -468,7 +468,7 @@
 
 <figure id="Figure_06_01_005" class="small">
 <media id="fs-id1165137627720" alt="Side-by-side graphs of sin(x) and cos(x). Graphs show period lengths for both functions, which is 2pi.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_005.jpg"/>
 </media>
 </figure>
 
@@ -478,7 +478,7 @@
  </m:mrow>
 </m:math>
 Now we can clearly see this property from the graph.</para><figure id="Figure_06_01_006" class="small"><media id="fs-id1165137588091" alt="A graph of sin(x) that shows that sin(x) is an odd function due to the odd symmetry of the graph.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_006.jpg"/>
 </media>
 <caption>Odd symmetry of the sine function</caption></figure><para id="fs-id1165135484164"><link target-id="Figure_06_01_007"/> shows that the cosine function is symmetric about the <emphasis effect="italics">y</emphasis>-axis. Again, we determined that the cosine function is an even function. Now we can see from the graph that <m:math>
  <m:mrow>
@@ -486,7 +486,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
  </m:mrow>
 </m:math>
 </para><figure id="Figure_06_01_007" class="small"><media id="fs-id1165131958299" alt="A graph of cos(x) that shows that cos(x) is an even function due to the even symmetry of the graph.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_007.jpg"/>
 </media>
 <caption>Even symmetry of the cosine function</caption></figure><note id="fs-id1165135187674">
 <label>A General Note label</label>
@@ -665,7 +665,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
 </m:math>
 </para><figure id="Figure_06_01_008" class="small">
 <media id="fs-id1165137583924" alt="A graph with three items. The x-axis ranges from 0 to 2pi. The y-axis ranges from -1 to 1. The first item is the graph of sin(x) for one full period. The second is the graph of sin(2x) over two periods. The third is the graph of sin(x/2) for one half of a period.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_008.jpg"/>
 </media>
 </figure>
 
@@ -884,7 +884,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
  </m:mrow>
 </m:math> the function is compressed. <link target-id="Figure_06_01_009"/> compares several sine functions with different amplitudes.</para><figure id="Figure_06_01_009">
 <media id="fs-id1165137482990" alt="A graph with four items. The x-axis ranges from -6pi to 6pi. The y-axis ranges from -4 to 4. The first item is the graph of sin(x), which has an amplitude of 1. The second is a graph of 2sin(x), which has amplitude of 2. The third is a graph of 3sin(x), which has an amplitude of 3. The fourth is a graph of 4 sin(x) with an amplitude of 4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_009.jpg"/>
 </media>
 </figure>
 
@@ -963,7 +963,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
  </m:mrow>
 </m:math> results in a reflection across the <emphasis effect="italics">x</emphasis>-axis of the <term class="no-emphasis">sine function</term>, as shown in <link target-id="Figure_06_01_010"/>.</para><figure id="Figure_06_01_010" class="small">
 <media id="fs-id1165137425512" alt="A graph of -4sin(x). The function has an amplitude of 4. Local minima at (-3pi/2, -4) and (pi/2, -4). Local maxima at (-pi/2, 4) and (3pi/2, 4). Period of 2pi.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_010.jpg"/>
 </media>
 </figure>
 
@@ -1128,7 +1128,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
  </m:mrow>
 </m:math> units.</para><figure id="Figure_06_01_011" class="small">
 <media id="fs-id1165137425737" alt="A graph with three items. The first item is a graph of sin(x). The second item is a graph of sin(x-pi/4), which is the same as sin(x) except shifted to the right by pi/4. The third item is a graph of sin(x-pi), which is the same as sin(x) except shifted to the right by pi.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_011.jpg"/>
 </media>
 </figure>
 
@@ -1154,7 +1154,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
 
 <figure id="Figure_06_01_012" class="small">
 <media id="fs-id1165135353057" alt="A graph of y=Asin(x)+D. Graph shows the midline of the function at y=D.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_012.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_012.jpg"/>
 </media>
 </figure>
 
@@ -1172,7 +1172,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
  </m:mrow>
 </m:math> which is shifted 2 units up on a graph.</para><figure id="Figure_06_01_013" class="small">
 <media id="fs-id1165135536497" alt="A graph with two items. The first item is a graph of sin(x). The second item is a graph of sin(x)+2, which is the same as sin(x) except shifted up by 2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_013.jpg"/>
 </media>
 </figure>
 
@@ -1549,7 +1549,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
  </m:mrow>
 </m:math> and the amplitude is 3. See <link target-id="Figure_06_01_014"/>.</para><figure id="Figure_06_01_014" class="small">
 <media id="fs-id1165135185294" alt="A graph of y=3sin(2x)+1. The graph has an amplitude of 3. There is a midline at y=1. There is a period of pi. Local maximum at (pi/4, 4) and local minimum at (3pi/4, -2).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_014.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_014.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -1622,7 +1622,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
 
 <figure id="Figure_06_01_015" class="small">
 <media id="fs-id1165137772064" alt="A graph of -0.5cos(x)+0.5. The graph has an amplitude of 0.5. The graph has a period of 2pi. The graph has a range of [0, 1]. The graph is also reflected about the x-axis from the parent function cos(x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_015.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_015.jpg"/>
 </media>
 </figure>
 </problem>
@@ -1718,7 +1718,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
 
 <figure id="Figure_06_01_016" class="small">
 <media id="fs-id1165134224521" alt="A graph of sin(x)+2. Period of 2pi, amplitude of 1, and range of [1, 3].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_016.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_016.jpg"/>
 </media>
 </figure></problem>
  <solution id="fs-id1165137526465"><para id="fs-id1165137526466"> <m:math>
@@ -1735,7 +1735,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
 <title>Identifying the Equation for a Sinusoidal Function from a Graph</title>
 <para id="fs-id1165134059763">Determine the equation for the sinusoidal function in <link target-id="Figure_06_01_017"/>.</para><figure id="Figure_06_01_017" class="medium">
 <media id="fs-id1165135253132" alt="A graph of 3cos(pi/3x-pi/3)-2. Graph has amplitude of 3, period of 6, range of [-5,1].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_017.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_017.jpg"/>
 </media>
 </figure>
 
@@ -1867,7 +1867,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
 <exercise id="ti_06_01_07"><problem id="fs-id1165137436869"><para id="fs-id1165137436870">Write a formula for the function graphed in <link target-id="Figure_06_01_018"/>.</para>
 
 <figure id="Figure_06_01_018" class="medium"><media id="fs-id1165137647462" alt="A graph of 4sin((pi/5)x-pi/5)+4. Graph has period of 10, amplitude of 4, range of [0,8].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_018n-0a72.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_018n-0a72.jpg"/>
 </media>
 </figure></problem>
 
@@ -2165,7 +2165,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
  </m:mrow>
 </m:math> <link target-id="Figure_06_01_019"/> shows the graph of the function.</para><figure id="Figure_06_01_019" class="small">
 <media id="fs-id1165137414262" alt="A graph of -2sin((pi/2)x). Graph has range of [-2,2], period of 4, and amplitude of 2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_019.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_019.jpg"/>
 </media>
 </figure>
 </solution>
@@ -2183,7 +2183,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
  </m:mrow>
 </m:math> Determine the midline, amplitude, period, and phase shift. </para></problem>
 <solution id="fs-id1165135342790"><media id="fs-id1165135397949" alt="A graph of -0.8cos(2x). Graph has range of [-0.8, 0.8], period of pi, amplitude of 0.8, and is reflected about the x-axis compared to it's parent function cos(x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_020.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_020.jpg"/>
 </media>
 <para id="eip-id1165137938401">midline: <m:math>
  <m:mrow>
@@ -2408,7 +2408,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
             <item><emphasis effect="italics">Step 5.</emphasis> <link target-id="Figure_06_01_021"/> shows the graph of the function.
                 <figure id="Figure_06_01_021" class="small">
                     <media id="fs-id1165137693945" alt="A graph of 3sin(*(pi/4)x-pi/4). Graph has amplitude of 3, period of 8, and a phase shift of 1 to the right.">
-                        <image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_021.jpg"/>
+                        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_021.jpg"/>
                     </media>
                     <caption>A horizontally compressed, vertically stretched, and horizontally shifted sinusoid</caption>
                 </figure>
@@ -2436,7 +2436,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
 </m:math> Determine the midline, amplitude, period, and phase shift.</para></problem>
 <solution id="fs-id1165137480594">
 <media id="fs-id1165137442771" alt="A graph of -2cos((pi/3)x+(pi/6)). Graph has amplitude of 2, period of 6, and has a phase shift of 0.5 to the left.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_022.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_022.jpg"/>
 </media>
 <para id="fs-id1165137627836">midline: <m:math>
  <m:mrow>
@@ -2599,7 +2599,7 @@ Now we can clearly see this property from the graph.</para><figure id="Figure_06
 
 <figure id="Figure_06_01_028" class="small">
 <media id="fs-id1165137794283" alt="A graph of -2cos((pi/2)x+pi)+3. Graph shows an amplitude of 2, midline at y=3, and a period of 4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_028.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_028.jpg"/>
 </media>
 </figure>
 </solution>
@@ -2623,7 +2623,7 @@ so in this case, we get the equation <m:math>
 </m:math>
 The constant 3 causes a vertical stretch of the <emphasis effect="italics">y</emphasis>-values of the function by a factor of 3, which we can see in the graph in <link target-id="Figure_06_01_023"/>.</para><figure id="Figure_06_01_023" class="small">
 <media id="fs-id1165137603461" alt="A graph of 3sin(x). Graph has period of 2pi, amplitude of 3, and range of [-3,3].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_023.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_023.jpg"/>
 </media>
 </figure>
 </solution>
@@ -2672,7 +2672,7 @@ The constant 3 causes a vertical stretch of the <emphasis effect="italics">y</em
 <solution id="fs-id1165137534006"><para id="fs-id1165137534008">7</para>
 
 <media id="fs-id1165134187242" alt="A graph of 7cos(x). Graph has amplitude of 7, period of 2pi, and range of [-7,7].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_024.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_024.jpg"/>
 </media>
 </solution>
 </exercise></note>
@@ -2688,7 +2688,7 @@ The constant 3 causes a vertical stretch of the <emphasis effect="italics">y</em
 
 <figure id="Figure_06_01_025" class="small">
 <media id="fs-id1165137597150" alt="An illustration of a circle lifted 4 feet off the ground. Circle has radius of 3 ft. There is a point P labeled on the circle's circumference.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_025.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_025.jpg"/>
 </media>
 </figure>
 
@@ -2699,7 +2699,7 @@ The constant 3 causes a vertical stretch of the <emphasis effect="italics">y</em
 
 <figure id="Figure_06_01_026" class="small">
 <media id="fs-id1165137618998" alt="A graph of -3cox(x)+4. Graph has midline at y=4, amplitude of 3, and period of 2pi.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_026.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_026.jpg"/>
 </media>
 </figure>
 
@@ -2753,7 +2753,7 @@ The constant 3 causes a vertical stretch of the <emphasis effect="italics">y</em
  </m:mrow>
 </m:math> </para><figure id="Figure_06_01_029" class="small">
 <media id="fs-id1165137811089" alt="An illustration of a spring with length y.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_029.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_029.jpg"/>
 </media>
 </figure>
 </problem>
@@ -2766,7 +2766,7 @@ The constant 3 causes a vertical stretch of the <emphasis effect="italics">y</em
  </m:mrow>
 </m:math> </para>
 <media id="fs-id1165137786551" alt="A cosine graph with range [-1,-7]. Period is 2 pi. Local maximums at (0,-1), (2pi,-1), and (4pi, -1). Local minimums at (pi,-7) and (3pi, -7).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_027.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_027.jpg"/>
 </media>
 </solution>
 </exercise></note>
@@ -3090,7 +3090,7 @@ to obtain <m:math>
 <solution id="fs-id1165135456747">
 
 <media id="fs-id1165137871371" alt="A graph of (2/3)cos(x). Graph has amplitude of 2/3, period of 2pi, and range of [-2/3, 2/3].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_202.jpg"/>
 </media>
 
 <para id="fs-id1165137817435">amplitude: <m:math>
@@ -3158,7 +3158,7 @@ to obtain <m:math>
 <solution id="fs-id1165137407212">
 
 <media id="fs-id1165135151296" alt="A graph of 4sin(x). Graph has amplitude of 4, period of 2pi, and range of [-4, 4].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_204.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_204.jpg"/>
 </media>
 
 <para id="fs-id1165137535655">amplitude: 4; period: <m:math>
@@ -3226,7 +3226,7 @@ to obtain <m:math>
 <solution id="fs-id1165137871346">
 
 <media id="fs-id1165135386486" alt="A graph of cos(2x). Graph has amplitude of 1, period of pi, and range of [-1,1].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_206.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_206.jpg"/>
 </media>
 
 <para id="fs-id1165137827174">amplitude: 1; period: <m:math>
@@ -3291,7 +3291,7 @@ to obtain <m:math>
 </para></problem>
 <solution id="fs-id1165137804069">
 <media id="fs-id1165137874893" alt="A graph of 4cos(pi*x). Grpah has amplitude of 4, period of 2, and range of [-4, 4].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_208.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_208.jpg"/>
 </media>
 
 <para id="fs-id1165137434223">amplitude: 4; period: 2; midline: <m:math>
@@ -3341,7 +3341,7 @@ to obtain <m:math>
 <solution id="fs-id1165137843946">
 
 <media id="fs-id1165137424209" alt="A graph of 3sin(8(x+4))+5. Graph has amplitude of 3, range of [2, 8], and period of pi/4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_210.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_210.jpg"/>
 </media>
 
 <para id="fs-id1165134107350">amplitude: 3; period: <m:math>
@@ -3407,7 +3407,7 @@ to obtain <m:math>
 <solution id="fs-id1165134284471">
 
 <media id="fs-id1165135487190" alt="A graph of 5sin(5x+20)-2. Graph has an amplitude of 5, period of 2pi/5, and range of [-7,3].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_212.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_212.jpg"/>
 </media>
 
 <para id="fs-id1165137862366">amplitude: 5; period: <m:math>
@@ -3507,7 +3507,7 @@ to obtain <m:math>
 <solution id="fs-id1165134541171">
 
 <media id="fs-id1165135411369" alt="A graph of -cos(t+pi/3)+1. Graph has amplitude of 1, period of 2pi, and range of [0,2]. Phase shifted pi/3 to the left.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_214.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_214.jpg"/>
 </media>
 
 <para id="fs-id1165137911368">amplitude: 1 ; period: <m:math>
@@ -3604,7 +3604,7 @@ to obtain <m:math>
 </m:math> </para></problem>
 <solution id="fs-id1165137541180">
 <media id="fs-id1165135349231" alt="A graph of -sin((1/2)*t + 5pi/3). Graph has amplitude of 1, range of [-1,1], period of 4pi, and a phase shift of -10pi/3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_216.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_216.jpg"/>
 </media>
 <para id="fs-id1165135511335">amplitude: 1; period: <m:math>
  <m:mrow>
@@ -3666,7 +3666,7 @@ to obtain <m:math>
 <exercise id="fs-id1165137658354" class="media-set-2"><problem id="fs-id1165137658356"><para id="fs-id1165137823542">Determine the amplitude, midline, period, and an equation involving the sine function for the graph shown in <link target-id="Figure_06_01_218"/>.</para>
 <figure id="Figure_06_01_218" class="small">
 <media id="fs-id1165134378625" alt="A sinusoidal graph with amplitude of 2, range of [-5, -1], period of 4, and midline at y=-3." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_218.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_218.jpg"/>
 </media>
 </figure>
 </problem>
@@ -3690,7 +3690,7 @@ to obtain <m:math>
 </exercise><exercise id="fs-id1165137705148" class="media-set-2"><problem id="fs-id1165135169261"><para id="fs-id1165135169262">Determine the amplitude, period, midline, and an equation involving cosine for the graph shown in <link target-id="Figure_06_01_219"/>.</para>
 <figure id="Figure_06_01_219" class="small">
 <media id="fs-id1165135192938" alt="A graph with a cosine parent function, with amplitude of 3, period of pi, midline at y=-1, and range of [-4,2]" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_219.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_219.jpg"/>
 </media>
 </figure>
 </problem>
@@ -3698,7 +3698,7 @@ to obtain <m:math>
 <problem id="fs-id1165135688800"><para id="fs-id1165135688801">Determine the amplitude, period, midline, and an equation involving cosine for the graph shown in <link target-id="Figure_06_01_220"/>.</para>
 <figure id="Figure_06_01_220" class="small">
 <media id="fs-id1165134045717" alt="A graph with a cosine parent function with an amplitude of 2, period of 5, midline at y=3, and a range of [1,5].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_220.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_220.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165134378700"><para id="fs-id1165134378701">amplitude: 2; period: 5; midline: <m:math>
@@ -3725,7 +3725,7 @@ to obtain <m:math>
 <problem id="fs-id1165135333826"><para id="fs-id1165135333827">Determine the amplitude, period, midline, and an equation involving sine for the graph shown in <link target-id="Figure_06_01_221"/>.</para>
 <figure id="Figure_06_01_221" class="small">
 <media id="fs-id1165134262487" alt="A sinusoidal graph with amplitude of 4, period of 10, midline at y=0, and range [-4,4].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_221.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_221.jpg"/>
 </media>
 </figure>
 </problem>
@@ -3734,7 +3734,7 @@ to obtain <m:math>
 <problem id="fs-id1165134389954"><para id="fs-id1165134389955">Determine the amplitude, period, midline, and an equation involving cosine for the graph shown in <link target-id="Figure_06_01_222"/>.</para>
 <figure id="Figure_06_01_222" class="small">
 <media id="fs-id1165137676946" alt="A graph with cosine parent function, range of function is [-4,4], amplitude of 4, period of 2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_222.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_222.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165135534972"><para id="fs-id1165135534973">amplitude: 4; period: 2; midline: <m:math>
@@ -3763,7 +3763,7 @@ to obtain <m:math>
 <problem id="fs-id1165137425688"><para id="fs-id1165137425689">Determine the amplitude, period, midline, and an equation involving sine for the graph shown in <link target-id="Figure_06_01_223"/>.</para>
 <figure id="Figure_06_01_223" class="small">
 <media id="fs-id1165137445238" alt="A graph with sine parent function. Amplitude 2, period 2, midline y=0">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_223.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_223.jpg"/>
 </media>
 </figure></problem>
 </exercise>
@@ -3771,7 +3771,7 @@ to obtain <m:math>
 <problem id="fs-id1165137588538"><para id="fs-id1165137588539">Determine the amplitude, period, midline, and an equation involving cosine for the graph shown in <link target-id="Figure_06_01_224"/>.</para>
 <figure id="Figure_06_01_224" class="small">
 <media id="fs-id1165135252106" alt="A graph with cosine parent function. Amplitude 2, period 2, midline y=1">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_224.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_224.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165137600948"><para id="fs-id1165137600949">amplitude: 2; period: 2; midline <m:math>
@@ -3795,7 +3795,7 @@ to obtain <m:math>
 
 <figure id="Figure_06_01_225" class="small">
 <media id="fs-id1165133362029" alt="A graph with a sine parent function. Amplitude 1, period 4 and midline y=0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_06_01_225.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_01_225.jpg"/>
 </media>
 </figure></problem>
 </exercise>
@@ -4133,7 +4133,7 @@ and
 
 because sine oscillates between −1 and 1.
 
-<media id="eip-idm358410368" alt=""><image mime-type="jpeg" src="CNX_Precalc_Figure_06_01_226.jpg"/></media></para></solution></exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165137736577"><problem id="fs-id1165137736579"><para id="fs-id1165137637316">Graph <m:math>
+<media id="eip-idm358410368" alt=""><image mime-type="jpeg" src="../../media/CNX_Precalc_Figure_06_01_226.jpg"/></media></para></solution></exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165137736577"><problem id="fs-id1165137736579"><para id="fs-id1165137637316">Graph <m:math>
  <m:mrow>
   <m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>sin</m:mi><m:mspace width="0.3em"/><m:mi>x</m:mi>
  </m:mrow>
@@ -4174,7 +4174,7 @@ because sine oscillates between −1 and 1.
 </m:math> </para></problem>
 <solution id="eip-idm304745008">
 <para id="eip-idm451079760">There is no amplitude because the function is not bounded.
-<media id="eip-idm586629920" alt=""><image mime-type="jpeg" src="CNX_Precalc_Figure_06_01_228.jpg"/></media></para></solution>
+<media id="eip-idm586629920" alt=""><image mime-type="jpeg" src="../../media/CNX_Precalc_Figure_06_01_228.jpg"/></media></para></solution>
 </exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165133085093"><problem id="fs-id1165133085095"><para id="fs-id1165133085096">Graph <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>x</m:mi><m:mspace width="0.3em"/><m:mi>sin</m:mi><m:mspace width="0.3em"/><m:mi>x</m:mi>
@@ -4225,7 +4225,7 @@ grows. There appears to be a horizontal asymptote at
 <m:mi>y</m:mi><m:mo>=</m:mo><m:mn>0</m:mn>
 </m:math>
 .
-<media id="eip-idm1385291856" alt=""><image mime-type="jpeg" src="CNX_Precalc_Figure_06_01_230.jpg"/></media>
+<media id="eip-idm1385291856" alt=""><image mime-type="jpeg" src="../../media/CNX_Precalc_Figure_06_01_230.jpg"/></media>
 </para></solution></exercise></section>
 
 <section id="fs-id1165135333770">

@@ -58,7 +58,7 @@ Drawing a card:
 <exercise id="eip-450"><problem id="eip-401">
 <para id="eip-idm388337072">Spinning a dial:
 </para>
-<media id="eip-idm213642992" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_07_001.jpg"/></media>
+<media id="eip-idm213642992" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_07_001.jpg"/></media>
 <list id="eip-idm414862864" list-type="labeled-item"><item><span class="token">ⓐ</span>
 
 Describe the sample space in set notation.
@@ -108,7 +108,7 @@ Find the probability of “Drawing a black queen.”
 
 
 </exercise></section></section></section><figure id="CNX_Precalc_Figure_11_07_001"><media id="fs-id1585419" alt="Spaghetti map of the possible paths for a hurricane over the Southeastern United States">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_07_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_07_001.jpg"/>
 </media>
 
 <caption>An example of a “spaghetti model,” which can be used to predict possible paths of a tropical storm.<footnote id="eip-id1165135209268">The figure is for illustrative purposes only and does not model any particular storm.</footnote></caption></figure><para id="fs-id1648117">Residents of the Southeastern United States are all too familiar with charts, known as spaghetti models, such as the one in <link target-id="CNX_Precalc_Figure_11_07_001"/>. They combine a collection of weather data to predict the most likely path of a hurricane. Each colored line represents one possible path. The group of squiggly lines can begin to resemble strands of spaghetti, hence the name. In this section, we will investigate methods for making these types of predictions.</para>
@@ -443,7 +443,7 @@ Find the probability of “Drawing a black queen.”
   <m:mi>b</m:mi><m:mo>.</m:mo>
  </m:mrow>
 </m:math> </para><figure id="Figure_11_07_002" class="small"><media id="fs-id1327158" alt="A pie chart with six pieces with two a's colored orange, one b colored orange and another b colored red, one d colored blue, and one c colored green.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_07_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_07_002.jpg"/>
 </media>
 </figure><para id="fs-id1432292">There are a total of 6 sections, and 3 of them are orange. So the probability of spinning orange is <m:math>
  <m:mrow>
@@ -1780,7 +1780,7 @@ Find the probability of “Drawing a black queen.”
 
 <section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1655573"><title>Numeric</title><para id="fs-id1210672">For the following exercises, use the spinner shown in <link target-id="CNX_Precalc_Figure_11_07_201"/> to find the probabilities indicated.</para>
 <figure id="CNX_Precalc_Figure_11_07_201" class="small"><media id="fs-id1460534" alt="A pie chart with eight pieces with one A colored blue, one B colored purple, once C colored orange, one D colored blue, one E colored red, one F colored green, one I colored green, and one O colored yellow.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_07_201n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_07_201n.jpg"/>
 </media>
 </figure><exercise id="fs-id1356038">
 <problem id="fs-id1530026">
@@ -4486,7 +4486,7 @@ have?</para>
 
 <figure id="CNX_Precalc_Figure_11_07_202" class="small">
 <media id="fs-id1403150" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_07_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_07_202.jpg"/>
 </media>
 </figure>
 

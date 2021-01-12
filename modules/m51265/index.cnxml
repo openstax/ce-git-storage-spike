@@ -317,7 +317,7 @@ Use the table below showing values of <m:math><m:mi>f</m:mi><m:mo stretchy="fals
 </m:math>
 </para>
 <media id="fs-id1165137424478" alt="Explanation of C(T(5)), which is the cost for the temperature and T(5) is the temperature on day 5." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_04_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_04_006.jpg"/>
 </media>
 
 
@@ -941,7 +941,7 @@ Use the table below showing values of <m:math><m:mi>f</m:mi><m:mo stretchy="fals
 
 
 <media id="fs-id1165135310687" alt="Explanation of the composite function." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_04_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_04_001.jpg"/>
 </media>
 
 
@@ -1793,7 +1793,7 @@ Use the table below showing values of <m:math><m:mi>f</m:mi><m:mo stretchy="fals
 </m:math>
 </para><figure id="Figure_01_04_002">
 <media id="fs-id1165134060392" alt="Explanation of the composite function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_04_002ab.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_04_002ab.jpg"/>
 </media>
 </figure>
 </problem>
@@ -1803,7 +1803,7 @@ Use the table below showing values of <m:math><m:mi>f</m:mi><m:mo stretchy="fals
 <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo></m:mrow>
 </m:math> we start with the inside evaluation. See <link target-id="Figure_01_04_004"/>.</para><figure id="Figure_01_04_004">
 <media id="fs-id1165137644158" alt="Two graphs of a positive parabola (g(x)) and a negative parabola (f(x)). The following points are plotted: g(1)=3 and f(3)=6.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_04_004-1a4f.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_04_004-1a4f.jpg"/>
 </media>
 </figure>
 
@@ -1847,7 +1847,7 @@ Use the table below showing values of <m:math><m:mi>f</m:mi><m:mo stretchy="fals
 <title>Analysis </title>
 <para id="fs-id1165137602379"><link target-id="Figure_01_04_005"/> shows how we can mark the graphs with arrows to trace the path from the input value to the output value.</para><figure id="Figure_01_04_005">
 <media id="fs-id1165135500730" alt="Two graphs of a positive and negative parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_04_005-1e36.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_04_005-1e36.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -4420,13 +4420,13 @@ since the radicand of a square root must be positive. Since square roots are pos
 </m:math> shown in <link target-id="Figure_01_04_202"/>, to evaluate the expressions.</para>
 <figure id="Figure_01_04_201" class="small">
 <media id="fs-id1165134263075" alt="Graph of a function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_04_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_04_201.jpg"/>
 </media>
 </figure>
 
 <figure id="Figure_01_04_202" class="small">
 <media id="fs-id1165135496557" alt="Graph of a function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_04_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_04_202.jpg"/>
 </media>
 </figure>
 
@@ -4554,17 +4554,17 @@ since the radicand of a square root must be positive. Since square roots are pos
 </m:math> shown in <link target-id="Figure_01_04_205"/>, to evaluate the expressions.</para>
 <figure id="Figure_01_04_203" class="small">
 <media id="fs-id1165137894613" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_04_203.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_04_203.jpg"/>
 </media>
 </figure>
 <figure id="Figure_01_04_204" class="small">
 <media id="fs-id1165134558626" alt="Graph of a parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_04_204.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_04_204.jpg"/>
 </media>
 </figure>
 <figure id="Figure_01_04_205" class="small">
 <media id="fs-id1165135349122" alt="Graph of a square root function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_04_205.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_04_205.jpg"/>
 </media>
 </figure>
 

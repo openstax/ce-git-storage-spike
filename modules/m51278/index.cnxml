@@ -51,7 +51,7 @@ Solve quadratic and higher order equations by factoring.
 
 <figure id="eip-idm372236624" class="unnumbered"><label/>
   <media id="eip-idm357532992" alt="a blank coordinate graph ranging from -10 to 10">
-    <image mime-type="image/png" src="blankplot5.5.png"/>
+    <image mime-type="image/png" src="../../media/blankplot5.5.png"/>
   </media>
 </figure>
 
@@ -72,7 +72,7 @@ Solve quadratic and higher order equations by factoring.
 <item><span class="token">ⓑ</span> Use your graphing calculator to graph <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>6</m:mn><m:mi>x</m:mi></m:math> below.<newline/>
 <figure id="eip-idm408240496" class="unnumbered"><label/>
   <media id="eip-idm397345552" alt="a blank coordinate graph ranging from -10 to 10">
-    <image mime-type="image/png" src="blankplot5.5.png"/>
+    <image mime-type="image/png" src="../../media/blankplot5.5.png"/>
   </media>
 </figure></item>
 <item><span class="token">ⓒ</span> What are the x-intercepts of this function?</item>
@@ -82,7 +82,7 @@ Solve quadratic and higher order equations by factoring.
 <list id="eip-idm382924336" list-type="bulleted" bullet-style="bullet" class="circled"><item><span class="token">ⓐ</span> Use factoring to find the zeros of the function. These are the x-intercepts of f(x). Plot these points by hand on the graph below.<newline/>
 <figure id="eip-idm1063262096">
   <media id="eip-idm302458528" alt="a blank coordinate graph ranging from -10 to 10">
-    <image mime-type="image/png" src="blankplot5.5.png"/>
+    <image mime-type="image/png" src="../../media/blankplot5.5.png"/>
   </media>
 </figure></item>
 <item><span class="token">ⓑ</span> What is the end behavior of this polynomial function?</item>
@@ -240,7 +240,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
      </para>
 
 <media id="fs-id2085138" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_05_01_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_05_01_006.jpg"/>
 </media>
 
 <para id="fs-id1165137932598">The remainder is 25. Therefore, <m:math>
@@ -473,7 +473,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
      </m:math> is a factor of the polynomial.<newline count="1"/></para>
 
 <media id="fs-id1527484" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_05_01_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_05_01_007.jpg"/>
 </media>
 
 <para id="fs-id1165134261634">The remainder is zero, so <m:math>
@@ -551,7 +551,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
    By the Factor Theorem, these zeros have factors associated with them. Let us set each factor equal to 0, and then construct the original quadratic function absent its stretching factor.</para>
 
   <para id="eip-300"><media id="eip-id1165135315549" alt="" display="block">
-<image mime-type="image/png" src="CNX_CAT_Figure_05_05_001.jpg"/>
+<image mime-type="image/png" src="../../media/CNX_CAT_Figure_05_05_001.jpg"/>
 </media></para><para id="fs-id1165135485170">Notice that two of the factors of the constant term, 6, are the two numerators from the original rational roots: 2 and 3. Similarly, two of the factors from the leading coefficient, 20, are the two denominators from the original rational roots: 5 and 4.</para>
   <para id="fs-id1165137761317">We can infer that the numerators of the rational roots will always be factors of the constant term and the denominators will be factors of the leading coefficient. This is the essence of the Rational Zero Theorem; it is a means to give us a pool of possible rational zeros.</para>
   <note id="fs-id1165137737069">
@@ -1173,7 +1173,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
       </m:math>
       These are the possible rational zeros for the function. We will use synthetic division to evaluate each possible zero until we find one that gives a remainder of 0. Let’s begin with 1.</para>
 <media id="fs-id1164451031904" alt="">
-          <image mime-type="image/jpg" src="xCNX_CAT_Figure_05_01_012.jpg"/>
+          <image mime-type="image/jpg" src="../../media/xCNX_CAT_Figure_05_01_012.jpg"/>
         </media>
 <para id="fs-id1165137934395">Dividing by <m:math>
       <m:mrow>
@@ -1250,7 +1250,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
       </m:math>
      </para><figure id="Figure_03_06_001" class="small">
       <media id="fs-id1165137932462" alt="Graph of a polynomial that have its local maximum at (-0.5, 0) labeled as “Bounce” and its x-intercept at (1, 0) labeled, “Cross”.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_06_001.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_06_001.jpg"/>
       </media>
      </figure>
     </commentary>
@@ -1449,7 +1449,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
         <m:mo>.</m:mo></m:mrow>
       </m:math> We will use synthetic division to evaluate each possible zero until we find one that gives a remainder of 0. Let’s begin with –3.</para>
 <media id="fs-id1164451006413" alt="">
-          <image mime-type="image/jpg" src="xCNX_CAT_Figure_05_01_013.jpg"/>
+          <image mime-type="image/jpg" src="../../media/xCNX_CAT_Figure_05_01_013.jpg"/>
         </media>
 <para id="fs-id1165135675242">Dividing by <m:math>
       <m:mrow>
@@ -1564,7 +1564,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
         <m:mi>x</m:mi><m:mo>=</m:mo><m:mn>−3</m:mn></m:mrow>
       </m:math> is three. Either way, our result is correct. </para><figure id="Figure_03_06_002" class="small">
      <media id="fs-id1165135372087" alt="Graph of a polynomial with its x-intercept at (-3, 0) labeled as “Cross”.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_06_002.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_06_002.jpg"/>
       </media>
     </figure>
     </commentary>
@@ -1957,7 +1957,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
     <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow>
   </m:math> and the number of positive real zeros. For example, the polynomial function below has one sign change.</para>
    <media id="fs-id1165134378690" alt="The function, f(x)=x^4+x^3+x^2+x-1, has one sign change between x and -1.`" display="block">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_06_003.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_06_003.jpg"/>
    </media>
 
   <para id="fs-id1165135206081">This tells us that the function must have 1 positive real zero.</para>
@@ -1965,7 +1965,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
    <m:mrow>
     <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>−</m:mi><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow>
   </m:math> and the number of negative real zeros.</para><media id="fs-id1165135152070" alt="The function, f(-x)=(-x)^4+(-x)^3+(-x)^2+(-x)-1=+ x^4-x^3+x^2-x-1, has three sign changes between x^4 and x^3, x^3 and x^2, and x^2 and x.`" display="block">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_06_004.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_06_004.jpg"/>
    </media>
 
 
@@ -2040,7 +2040,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
 
 
      <figure id="eip-idm621546272"><media id="fs-id1165135547276" alt="The function, f(x)=-x^4-3x^3+6x^2-4x-12, has two sign change between -3x^3 and 6x^2, and 6x^2 and -4x.`">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_06_005.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_06_005.jpg"/>
      </media></figure>
 
     <para id="fs-id1165135547290">There are two sign changes, so there are either 2 or 0 positive real roots. Next, we examine <m:math>
@@ -2108,7 +2108,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
 </m:math>
 </equation>
      <figure id="eip-idm408470768"><media id="fs-id1165134234614" alt="The function, f(-x)=-x^4+3x^3+6x^2+4x-12, has two sign change between -x^4 and 3x^3, and 4x and -12.`">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_06_006.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_06_006.jpg"/>
      </media></figure>
 
     <para id="fs-id1165135383099">Again, there are two sign changes, so there are either 2 or 0 negative real roots.</para>
@@ -2165,7 +2165,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
      <title>Analysis </title>
      <para id="fs-id1165135628642">We can confirm the numbers of positive and negative real roots by examining a graph of the function. See <link target-id="Figure_03_06_007"/>. We can see from the graph that the function has 0 positive real roots and 2 negative real roots.</para><figure id="Figure_03_06_007" class="small">
       <media id="fs-id1165135628652" alt="Graph of f(x)=-x^4-3x^3+6x^2-4x-12 with x-intercepts at -4.42 and -1.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_06_007.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_06_007.jpg"/>
       </media>
      </figure>
     </commentary>
@@ -2373,7 +2373,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
        <m:mrow>
         <m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1.</m:mn></m:mrow>
       </m:math> </para><media id="fs-id2384268" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_05_01_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_05_01_008.jpg"/>
 </media>
 
 <para id="fs-id1165135693719">Since 1 is not a solution, we will check <m:math>
@@ -2383,7 +2383,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
      </para>
 
 <media id="fs-id2384297" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_05_01_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_05_01_009.jpg"/>
 </media>
 
 <para id="fs-id1165134037580">Since 3 is not a solution either, we will test <m:math>
@@ -2393,7 +2393,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
      </para>
 
 <media id="fs-id2384328" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_05_01_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_05_01_010.jpg"/>
 </media>
 
 <para id="fs-id1165135238389">Synthetic division gives a remainder of 0, so 9 is a solution to the equation. We can use the relationships between the width and the other dimensions to determine the length and height of the sheet cake pan.</para>
@@ -3293,7 +3293,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
    </para></problem>
    <solution id="fs-id1165135333191"><para id="fs-id1165135333192">1 positive, 1 negative</para>
    <media id="fs-id1165135333198" alt="Graph of f(x)=x^4-x^2-1.">
-     <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_06_202.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_06_202.jpg"/>
     </media></solution></exercise><exercise id="fs-id1165135333211"><problem id="fs-id1165135333212"><para id="fs-id1165135333213"> <m:math>
     <m:mrow>
      <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msup>
@@ -3322,7 +3322,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
    </para></problem>
   <solution id="fs-id1165134261851"><para id="fs-id1165134261852">3 or 1 positive, 0 negative</para>
    <media id="fs-id1165134261859" alt="Graph of f(x)=x^3-2x^2+x-1.">
-     <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_06_204.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_06_204.jpg"/>
     </media></solution></exercise><exercise id="fs-id1165134261871"><problem id="fs-id1165134261872"><para id="fs-id1165134261873"> <m:math>
     <m:mrow>
      <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msup>
@@ -3355,7 +3355,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
    </para></problem>
    <solution id="fs-id1165134570689"><para id="fs-id1165134570690">0 positive, 3 or 1 negative</para>
   <media id="fs-id1165134389888" alt="Graph of f(x)=2x^3+37x^2+200x+300.">
-     <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_06_206.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_06_206.jpg"/>
     </media></solution></exercise><exercise id="fs-id1165134389900"><problem id="fs-id1165134389901"><para id="fs-id1165134389902"> <m:math>
     <m:mrow>
      <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msup>
@@ -3388,7 +3388,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
    </para></problem>
   <solution id="fs-id1165134148447"><para id="fs-id1165134148448"> 2 or 0 positive, 2 or 0 negative</para>
    <media id="fs-id1165134148455" alt="Graph of f(x)=2x^4-5x^3-5x^2+5x+3.">
-     <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_06_208-6736.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_06_208-6736.jpg"/>
     </media></solution></exercise><exercise id="fs-id1165134148467"><problem id="fs-id1165134148468"><para id="fs-id1165134148469"> <m:math>
     <m:mrow>
      <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>2</m:mn><m:msup>
@@ -3421,7 +3421,7 @@ Find the zeros of the function algebraically. Check by graphing a function on a 
    </para></problem>
   <solution id="fs-id1165134243154"><para id="fs-id1165134243155"> 2 or 0 positive, 2 or 0 negative</para>
    <media id="fs-id1165134058369" alt="Graph of f(x)=10x^4-21x^2+11.">
-     <image mime-type="image/jpg" src="CNX_PreCalc_Figure_03_06_210-0178.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_03_06_210-0178.jpg"/>
     </media></solution></exercise></section>
   <section id="fs-id1165134058383">
    <title>Numeric</title>

@@ -52,20 +52,20 @@
     <entry><span class="token">ⓐ</span> Interchange rows 2 and 3.
 </entry>
     <entry> <media id="eip-idm626629280" alt="Two 3 by 4 matrices are shown. In the one on the left, the first row is 6, minus 5, 2, 3. The second row is 2, 1, minus 4, 5. The third row is 3, minus 3, 1, minus 1. The second matrix is similar except that rows 2 and 3 are interchanged.">
-    <image mime-type="image/jpeg" src="7_6_1.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/7_6_1.jpg"/>
   </media></entry>
   </row>
   <row>
     <entry><span class="token">ⓑ</span> Multiply row 2 by 5.</entry>
     <entry><media id="eip-idm628210528" alt="Two 3 by 4 matrices are shown. In the one on the left, the first row is 6, minus 5, 2, 3. The second row is 2, 1, minus 4, 5. The third row is 3, minus 3, 1, minus 1. The second matrix is similar to the first except that row 2, preceded by 5 R2, is 10, 5, minus 20, 25.">
-    <image mime-type="image/jpeg" src="7_6_2.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/7_6_2.jpg"/>
   </media></entry>
   </row>
   <row>
     <entry><span class="token">ⓒ</span> Multiply row 3 by −2 and  add to row 1.
 </entry>
     <entry><media id="eip-idm332177456" alt="In the 3 by 4 matrix, the first row is 6, minus 5, 2, 3. The second row is 2, 1, minus 4, 5. The third row is 3, minus 3, 1, minus 1. Performing the operation minus 2 R3 plus R1 on the first row, the first row becomes 6 plus minus 2 times 3, minus 5 plus minus 2 times minus 3, 2 plus minus 2 times 1 and 3 plus minus 2 times minus 1. This becomes 0, 1, 0, 5. The remaining 2 rows of the new matrix are the same.">
-    <image mime-type="image/jpeg" src="7_6_3.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/7_6_3.jpg"/>
   </media></entry>
   </row>
 </tbody>
@@ -89,7 +89,7 @@
 <solution id="fs-id1167836624582">
 <para id="fs-id1167829624231">To make the 4 a 0, we could multiply row 1 by <m:math><m:mrow><m:mn>−4</m:mn></m:mrow></m:math> and then add it to row 2.</para>
 <para id="fs-id1167829694692"><media id="fs-id1167833365764" alt="The 2 by 3 matrix is 1, minus 1, 2 and 4, minus 8, 0. Performing the operation minus 4R1 plus R2 on row 2, the second row of the new matrix becomes 0, minus 4, minus 8. The first row remains the same.">
-<image mime-type="image/jpeg" src="7_6_4.jpg"/>
+<image mime-type="image/jpeg" src="../../media/7_6_4.jpg"/>
 </media>
 </para>
 </solution>
@@ -102,7 +102,7 @@ Use the needed row operation that will get the first entry in row 2 to be zero i
  <m:math><m:mfenced open="[" close="]"><m:mtable columnalign="right center center" columnlines="none solid none"><m:mtr><m:mtd><m:mn>1</m:mn></m:mtd><m:mtd><m:mo>-</m:mo><m:mn>1</m:mn></m:mtd><m:mtd><m:mn>2</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>3</m:mn></m:mtd><m:mtd><m:mo>-</m:mo><m:mn>6</m:mn></m:mtd><m:mtd><m:mn>2</m:mn></m:mtd></m:mtr></m:mtable></m:mfenced></m:math>
 </para></problem></exercise></section></section><section id="fs-idm260532608"><title>Objective 2: Solve systems of equations using matrices (IA 4.5.3)</title><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-idm245759600">To solve a system of equations using matrices, we transform the augmented matrix into a matrix in <term>row-echelon form</term> using row operations. For a consistent and independent system of equations, the augmented matrix is in row-echelon form when to the left of the vertical line, each entry on the diagonal is a 1 and all entries below the diagonal are zeros.
 </para><media id="eip-idm204886640" alt="A 2 by 3 matrix is shown on the left. Its first row is 1, a, b. Its second row is 0, 1, c. An arrow points diagonally down and right, overlapping both the 1s in the matrix. A 3 by 4 matrix is shown on the right. Its first row is 1, a, b, d. Its second row is 0, 1, c, e. Its third row is 0, 0, 1, f. An arrow points diagonally down and right, overlapping all the 1s in the matrix. a, b, c, d, e, f are real numbers.">
-    <image mime-type="image/jpeg" src="7_6_5.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/7_6_5.jpg"/>
   </media>
 
 <para id="eip-idm207170928">
@@ -130,23 +130,23 @@ Once we get the augmented matrix into <emphasis>row-echelon form</emphasis>, we 
 <tbody>
 <row valign="top">
 <entry valign="top" align="left"/>
-<entry valign="top" align="left"><media id="fs-id1167836309310" alt="."><image mime-type="image/jpeg" src="7_6_6.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167836309310" alt="."><image mime-type="image/jpeg" src="../../media/7_6_6.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Write the augmented matrix for the system of equations.</entry>
-<entry valign="top" align="left"><media id="fs-id1167836520781" alt="."><image mime-type="image/jpeg" src="7_6_7.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167836520781" alt="."><image mime-type="image/jpeg" src="../../media/7_6_7.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Interchange row 1 and row 3 to get a 1 in the first row and first column.</entry>
-<entry valign="top" align="left"><media id="fs-id1167836329209" alt="."><image mime-type="image/jpeg" src="7_6_8.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167836329209" alt="."><image mime-type="image/jpeg" src="../../media/7_6_8.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Using row operations, get zeros in column 1 below the 1</entry>
-<entry valign="top" align="left"><media id="fs-id1167836531979" alt="."><image mime-type="image/jpeg" src="7_6_9.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167836531979" alt="."><image mime-type="image/jpeg" src="../../media/7_6_9.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left"/>
-<entry valign="top" align="left"><media id="fs-id1167836340874" alt="."><image mime-type="image/jpeg" src="7_6_10.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167836340874" alt="."><image mime-type="image/jpeg" src="../../media/7_6_10.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">The entry in row 2, column 2 is now 1.</entry>
@@ -154,31 +154,31 @@ Once we get the augmented matrix into <emphasis>row-echelon form</emphasis>, we 
 </row>
 <row valign="top">
 <entry valign="top" align="left">Continue the process until the matrix<newline/>is in row-echelon form.</entry>
-<entry valign="top" align="left"><media id="fs-id1167823026715" alt="."><image mime-type="image/jpeg" src="7_6_11.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167823026715" alt="."><image mime-type="image/jpeg" src="../../media/7_6_11.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left"/>
-<entry valign="top" align="left"><media id="fs-id1167829748610" alt="."><image mime-type="image/jpeg" src="7_6_12.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167829748610" alt="."><image mime-type="image/jpeg" src="../../media/7_6_12.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">The matrix is now in row-echelon form.</entry>
-<entry valign="top" align="left"><media id="fs-id1167829744236" alt="."><image mime-type="image/jpeg" src="7_6_13.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167829744236" alt="."><image mime-type="image/jpeg" src="../../media/7_6_13.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Write the corresponding system of equations.</entry>
-<entry valign="top" align="left"><media id="fs-id1167824852333" alt="."><image mime-type="image/jpeg" src="7_6_14.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167824852333" alt="."><image mime-type="image/jpeg" src="../../media/7_6_14.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Use substitution to find the remaining variables.</entry>
-<entry valign="top" align="left"><media id="fs-id1167824740544" alt="."><image mime-type="image/jpeg" src="7_6_15.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167824740544" alt="."><image mime-type="image/jpeg" src="../../media/7_6_15.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left"/>
-<entry valign="top" align="left"><media id="fs-id1167829624548" alt="."><image mime-type="image/jpeg" src="7_6_16.jpg"/></media><newline/><media id="fs-id1167836333804" alt="."><image mime-type="image/jpeg" src="CNX_IntAlg_Figure_04_05_017m_img.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167829624548" alt="."><image mime-type="image/jpeg" src="../../media/7_6_16.jpg"/></media><newline/><media id="fs-id1167836333804" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_04_05_017m_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Write the solution as an ordered pair or triple.</entry>
-<entry valign="top" align="left"><media id="fs-id1167836477846" alt="."><image mime-type="image/jpeg" src="7_6_17.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167836477846" alt="."><image mime-type="image/jpeg" src="../../media/7_6_17.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Check that the solution makes the original equations true.</entry>
@@ -198,7 +198,7 @@ Solve the system of equations using matrices
  <m:math><m:mfenced open="{" close=""><m:mtable columnalign="left"><m:mtr><m:mtd><m:mi>x</m:mi><m:mo>-</m:mo><m:mi>y</m:mi><m:mo>-</m:mo><m:mi>z</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mo>-</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>3</m:mn><m:mi>z</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>4</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>2</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>7</m:mn><m:mi>z</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mtd></m:mtr></m:mtable></m:mfenced></m:math>
 </para></problem></exercise></section></section></section>
 <figure id="Figure_09_06_001" class="small"><media id="fs-id1165137531821" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_06_001new.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_06_001new.jpg"/>
 </media>
 
 <caption>German mathematician Carl Friedrich Gauss (1777–1855).</caption></figure><para id="fs-id1165133141356">Carl Friedrich <term class="no-emphasis">Gauss</term> lived during the late 18th century and early 19th century, but he is still considered one of the most prolific mathematicians in history. His contributions to the science of mathematics and physics span fields such as algebra, number theory, analysis, differential geometry, astronomy, and optics, among others. His discoveries regarding matrix theory changed the way mathematicians have worked for the last two centuries.</para>

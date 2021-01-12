@@ -18,7 +18,7 @@
 
 <content>
   <figure id="Figure_07_02_001" class="small"><media id="fs-id3063401" alt="Photo of Mt. McKinley.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_02_001.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_02_001.jpg"/>
     </media>
 
   <caption>Mount McKinley, in Denali National Park, Alaska, rises 20,237 feet (6,168 m) above sea level. It is the highest peak in North America. (credit: Daniel A. Leifheit, Flickr)</caption></figure><para id="fs-id2463462">How can the height of a mountain be measured? What about the distance from Earth to the sun? Like many seemingly impossible problems, we rely on mathematical formulas to find the answers. The trigonometric identities, commonly used in mathematical proofs, have had real-world applications for centuries, including their use in calculating long distances.</para>
@@ -32,7 +32,7 @@
 
 
     <figure id="Figure_07_02_008"><media id="fs-id1617288" alt="Diagram of the unit circle with points labeled on its edge. P point is at an angle a from the positive x axis with coordinates (cosa, sina). Point Q is at an angle of B from the positive x axis with coordinates (cosb, sinb). Angle POQ is a - B degrees. Point A is at an angle of (a-B) from the x axis with coordinates (cos(a-B), sin(a-B)). Point B is just at point (1,0). Angle AOB is also a - B degrees. Radii PO, AO, QO, and BO are all 1 unit long and are the legs of triangles POQ and AOB. Triangle POQ is a rotation of triangle AOB, so the distance from P to Q is the same as the distance from A to B. ">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_01_004-93aa.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_01_004-93aa.jpg"/>
       </media>
     <caption>The Unit Circle</caption></figure><para id="fs-id2618307">We will begin with the <term class="no-emphasis">sum and difference formulas for cosine</term>, so that we can find the cosine of a given angle if we can break it up into the sum or difference of two of the special angles. See <link target-id="Table_07_02_01"/>.</para>
 
@@ -181,7 +181,7 @@
     </para>
 
     <figure id="Figure_07_02_002" class="small"><media id="fs-id1130636" alt="Diagram of the unit circle with points labeled on its edge. P point is at an angle a from the positive x axis with coordinates (cosa, sina). Point Q is at an angle of B from the positive x axis with coordinates (cosb, sinb). Angle POQ is a - B degrees. Point A is at an angle of (a-B) from the x axis with coordinates (cos(a-B), sin(a-B)). Point B is just at point (1,0). Angle AOB is also a - B degrees. Radii PO, AO, QO, and BO are all 1 unit long and are the legs of triangles POQ and AOB. Triangle POQ is a rotation of triangle AOB, so the distance from P to Q is the same as the distance from A to B.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_02_002.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_02_002.jpg"/>
       </media>
     </figure>
 <para id="fs-id2152546">We can find the distance from <m:math>
@@ -2978,7 +2978,7 @@
 
 </m:math>
 </equation><figure id="Figure_07_02_003" class="small"><media id="fs-id1669679" alt="Diagram of a triangle in the x,y plane. The vertices are at the origin, (4,0), and (4,3). The angle at the origin is alpha degrees, The angle formed by the x-axis and the side from (4,3) to (4,0) is a right angle. The side opposite the right angle has length 5.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_02_003-e4a8.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_02_003-e4a8.jpg"/>
           </media>
         </figure><para id="fs-id1342733">Since <m:math>
               <m:mrow>
@@ -3087,7 +3087,7 @@
               </m:mrow>
             </m:math>
             </para><figure id="Figure_07_02_004" class="small"><media id="fs-id2153543" alt="Diagram of a triangle in the x,y plane. The vertices are at the origin, (-5,0), and (-5, -12). The angle at the origin is Beta degrees. The angle formed by the x axis and the side from (-5, -12) to (-5,0) is a right angle. The side opposite the right angle has length 13.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_02_004.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_02_004.jpg"/>
       </media>
         </figure><para id="fs-id1155212">The next step is finding the cosine of <m:math>
               <m:mrow>
@@ -3779,7 +3779,7 @@
        <m:mi>θ</m:mi><m:mo>.</m:mo>
       </m:mrow>
     </m:math> Similarly, tangent and cotangent are cofunctions, and secant and cosecant are cofunctions.</para><figure id="Figure_07_02_007" class="small"><media id="fs-id2872065" alt="Image of a right triangle. The remaining angles are labeled theta and pi/2 - theta.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_02_007.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_02_007.jpg"/>
       </media>
     </figure><para id="fs-id2338660">From these relationships, the <term class="no-emphasis">cofunction identities</term> are formed.</para>
 
@@ -4517,7 +4517,7 @@
               <m:mo>.</m:mo>
             </m:mrow>
           </m:math> )</para><figure id="Figure_07_02_005" class="small"><media id="fs-id1568187" alt="Diagram of two non-vertical intersecting lines L1 and L2 also intersecting the x-axis. The acute angle formed by the intersection of L1 and L2 is theta. The acute angle formed by L2 and the x-axis is theta 1, and the acute angle formed by the x-axis and L1 is theta 2. ">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_02_005.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_02_005.jpg"/>
             </media>
           </figure></problem>
         <solution id="fs-id2260059">
@@ -4628,7 +4628,7 @@
           </m:math> between the wires. See <link target-id="Figure_07_02_006"/>.</para>
 
           <figure id="Figure_07_02_006" class="small"><media id="fs-id1386435" alt="Two right triangles. Both share the same base, 50 feet. The first has a height of 40 ft and hypotenuse S. The second has height 47 ft and hypotenuse R. The height sides of the triangles are overlapping. There is a B degree angle between R and the base, and an a degree angle between the two hypotenuses within the B degree angle.  ">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_02_006.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_02_006.jpg"/>
             </media>
           </figure></problem>
         <solution id="fs-id2136275">
@@ -5987,7 +5987,7 @@
         </para>
 
         <media id="fs-id1615462" alt="Graph of y=sin(x) from -2pi to 2pi." display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_02_201-c02d.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_02_201-c02d.jpg"/>
         </media>
 
 
@@ -6028,7 +6028,7 @@
         </para>
 
         <media id="fs-id2233832" alt="Graph of y=cot(pi/6 - x) from -2pi to pi - in comparison to the usual y=cot(x) graph, this one is reflected across the x-axis and shifted by pi/6." display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_02_203-d60a.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_02_203-d60a.jpg"/>
         </media>
 
 
@@ -6077,7 +6077,7 @@
         </para>
 
         <media id="fs-id1877975" alt="Graph of y=cot(pi/4 + x) - in comparison to the usual y=cot(x) graph, this one is shifted by pi/4. " display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_02_205.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_02_205.jpg"/>
         </media>
 
 
@@ -6141,7 +6141,7 @@
         </para>
 
         <media id="fs-id2199923" alt="Graph of y = sin(x) / rad2 + cos(x) / rad2 - it looks like the sin curve shifted by pi/4." display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_02_207.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_02_207.jpg"/>
         </media>
 
 

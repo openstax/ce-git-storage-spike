@@ -20,7 +20,7 @@
 
 <content>
 <figure id="Figure_07_05_001"><media id="fs-id2249164" alt="Photo of the Egyptian pyramids near a modern city.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_05_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_05_001.jpg"/>
 </media>
 
 <caption>Egyptian pyramids standing near a modern city. (credit: Oisin Mulvihill)</caption></figure><para id="fs-id2261754">Thales of Miletus (circa 625–547 BC) is known as the founder of geometry. The legend is that he calculated the height of the Great Pyramid of Giza in Egypt using the theory of <emphasis effect="italics">similar triangles</emphasis>, which he developed by measuring the shadow of his staff. Based on proportions, this theory has applications in a number of areas, including fractal geometry, engineering, and architecture. Often, the angle of elevation and the angle of depression are found using similar triangles.</para>
@@ -1287,7 +1287,7 @@
   <m:mi>θ</m:mi><m:mo>≈</m:mo><m:mtext>1</m:mtext><m:mtext>.8235</m:mtext><m:mtext>  </m:mtext>
  </m:mrow>
 </m:math> is in quadrant II. Cosine is also negative in quadrant III. Note that a calculator will only return an angle in quadrants I or II for the cosine function, since that is the range of the inverse cosine.  See <link target-id="Figure_07_05_005"/>.</para><figure id="Figure_07_05_005" class="medium"><media id="fs-id2343074" alt="Graph of angles theta =approx 1.8235, theta prime =approx pi - 1.8235 = approx 1.3181, and then theta prime = pi + 1.3181 = approx 4.4597">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_05_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_05_005.jpg"/>
 </media>
 </figure>
 
@@ -2299,7 +2299,7 @@
   <m:mn>0</m:mn><m:mo>≤</m:mo><m:mi>θ</m:mi><m:mo>&lt;</m:mo><m:mn>2</m:mn><m:mi>π</m:mi><m:mo>,</m:mo>
  </m:mrow>
 </m:math> the graph crosses the <emphasis effect="italics">x-</emphasis>axis four times, at the solutions noted. Notice that trigonometric equations that are in quadratic form can yield up to four solutions instead of the expected two that are found with quadratic equations. In this example, each solution (angle) corresponding to a positive sine value will yield two angles that would result in that value.</para><figure id="Figure_07_05_004" class="medium"><media id="fs-id1859724" alt="Graph of 2*(sin(theta))^2 + sin(theta) from 0 to 2pi. Zeros are at 0, pi, 7pi/6, and 11pi/6.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_05_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_05_004.jpg"/>
 </media>
 </figure><para id="fs-id1836123">We can verify the solutions on the unit circle in <link document="m51289" target-id="Figure_07_02_008"/> as well.</para></commentary>
 </exercise></example>
@@ -3770,7 +3770,7 @@
 <para id="fs-id2638958">One of the cables that anchors the center of the London Eye Ferris wheel to the ground must be replaced. The center of the Ferris wheel is 69.5 meters above the ground, and the second anchor on the ground is 23 meters from the base of the Ferris wheel. Approximately how long is the cable, and what is the angle of elevation (from ground up to the center of the Ferris wheel)? See <link target-id="Figure_07_05_002"/>.</para>
 
 <figure id="Figure_07_05_002" class="small"><media id="fs-id1187455" alt="Basic diagram of a ferris wheel (circle) and its support cables (form a right triangle). One cable runs from the center of the circle to the ground (outside the circle), is perpendicular to the ground, and has length 69.5. Another cable of unknown length (the hypotenuse) runs from the center of the circle to the ground 23 feet away from the other cable at an angle of theta degrees with the ground. So, in closing, there is a right triangle with base 23, height 69.5, hypotenuse unknown, and angle between base and hypotenuse of theta degrees.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_05_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_05_002.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1187466">
@@ -3970,7 +3970,7 @@
 <para id="fs-id1739584">For any length of ladder, the base needs to be a distance from the wall equal to one fourth of the ladder’s length. Equivalently, if the base of the ladder is “<emphasis effect="italics">a”</emphasis> feet from the wall, the length of the ladder will be 4<emphasis effect="italics">a</emphasis> feet. See <link target-id="Figure_07_05_003"/>.</para>
 
 <figure id="Figure_07_05_003" class="small"><media id="fs-id1739605" alt="Diagram of a right triangle with base length a, height length b, hypotenuse length 4a. Opposite the height is an angle of theta degrees, and opposite the hypotenuse is an angle of 90 degrees.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_05_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_05_003.jpg"/>
 </media>
 </figure><para id="fs-id1739615">The side adjacent to <m:math>
  <m:mrow>
@@ -7975,7 +7975,7 @@
 
 
    <para id="fs-id1490815">For the following exercises, use <link target-id="Figure_07_07_201"/> to find the desired quantities.</para><figure id="Figure_07_07_201" class="small"><media id="fs-id1490825" alt="Image of a right triangle. The base is 24, the height is unknown, and the hypotenuse is 25. The angle opposite the base is labeled alpha, and the remaining acute angle is labeled beta.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_07_201.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_07_201.jpg"/>
     </media>
    </figure><exercise id="fs-id1490834"><problem id="fs-id1490835"><para id="fs-id1490836"> <m:math>
  <m:mrow>

@@ -23,7 +23,7 @@
 
 <note id="eip-idm507577792"><title>Properties of parabolas</title>
 <media id="eip-idm187538528" alt="This figure shows a parabola opening upwards. Below the parabola is a horizontal line labeled directrix. A vertical dashed line through the center of the parabola is labeled axis of symmetry. The point where the axis intersects the parabola is labeled vertex. A point on the axis, within the parabola is labeled focus. A line perpendicular to the directrix connects the directrix to a point on the parabola and another line connects this point to the focus. Both these lines are of the same length.">
-    <image mime-type="image/jpeg" src="7_3_1.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/7_3_1.jpg"/>
   </media></note>
 
 
@@ -78,7 +78,7 @@
   <title>Graphs of parabolas
 </title>
   <media id="eip-idm508729184" alt="This figure shows two parabolas with axis x equals h and vertex h, k. The one on the left opens up and A is greater than 0. The one on the right opens down. Here A is less than 0.">
-    <image mime-type="image/jpeg" src="7_3_2-6e63.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/7_3_2-6e63.jpg"/>
   </media>
 </note><note id="eip-662" class="how-to-notitle"><title>Graphing parabolas using properties.</title><list id="eip-idm239764464" list-type="enumerated" number-style="arabic" class="stepwise"><item>Determine whether the parabola opens upward or downward.</item>
 <item>Find the axis of symmetry.</item>
@@ -107,12 +107,12 @@
   <row>
     <entry>Step 1</entry>
     <entry>Since <m:math><m:mi>a</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>1</m:mn></m:math> the parabola opens downward </entry>
-    <entry><media id="eip-idm529541936" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_07_03_001.jpg"/></media></entry>
+    <entry><media id="eip-idm529541936" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_07_03_001.jpg"/></media></entry>
   </row>
   <row>
     <entry>Step 2</entry>
     <entry>The axis of symmetry is given by <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mfrac><m:mi>b</m:mi><m:mrow><m:mn>2</m:mn><m:mi>a</m:mi></m:mrow></m:mfrac></m:math> , <newline/> <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mfrac><m:mn>4</m:mn><m:mrow><m:mn>2</m:mn><m:mo>(</m:mo><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>2</m:mn></m:math> <newline/>The axis of symmetry is <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:math> </entry>
-    <entry><media id="eip-idm540073440" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_07_03_002.jpg"/></media></entry>
+    <entry><media id="eip-idm540073440" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_07_03_002.jpg"/></media></entry>
   </row>
   <row>
     <entry>Step 3</entry>
@@ -122,19 +122,19 @@
 
 <newline/>The vertex is the point (2, 1)
 </entry>
-    <entry><media id="eip-idm516945408" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_07_03_003.jpg"/></media></entry>
+    <entry><media id="eip-idm516945408" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_07_03_003.jpg"/></media></entry>
   </row>
   <row>
     <entry>Step 4</entry>
     <entry>To find y-intercept, substitute <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:math> into <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>3</m:mn></m:math> <newline/> <m:math><m:mtable><m:mtr><m:mtd><m:mi>y</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mn>0</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mo>(</m:mo><m:mn>0</m:mn><m:mo>)</m:mo><m:mo>-</m:mo><m:mn>3</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>y</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>3</m:mn></m:mtd></m:mtr></m:mtable></m:math> <newline/>The y-intercept is the point (0,  -3) and is it 2 units to the left of the vertex. The symmetric point is 2 units to the right of the vertex and is (4, -3)
 </entry>
-    <entry><media id="eip-idm540681632" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_07_03_004.jpg"/></media></entry>
+    <entry><media id="eip-idm540681632" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_07_03_004.jpg"/></media></entry>
   </row>
   <row>
     <entry>Step 5</entry>
     <entry>To find the x-intercepts, substitute <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:math> into <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>3</m:mn></m:math> and solve for <m:math><m:mi>x</m:mi></m:math> <newline/> <m:math><m:mtable><m:mtr><m:mtd><m:mn>0</m:mn><m:mo>=</m:mo><m:mo>-</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>3</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>0</m:mn><m:mo>=</m:mo><m:mo>-</m:mo><m:mo>(</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>0</m:mn><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>0</m:mn><m:mo>=</m:mo><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>)</m:mo><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mo> </m:mo><m:mi>o</m:mi><m:mi>r</m:mi><m:mo> </m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mtd></m:mtr></m:mtable></m:math> <newline/>The x-intercepts are
 (3, 0) <emphasis effect="italics">and</emphasis> (1, 0)</entry>
-    <entry><media id="eip-idm519829584" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_07_03_005.jpg"/></media></entry>
+    <entry><media id="eip-idm519829584" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_07_03_005.jpg"/></media></entry>
   </row>
   <row>
     <entry>Step 6</entry>
@@ -144,7 +144,7 @@ Vertex: (2,1)<newline/>
 y-intercept: (0, -3),  symmetric point: (4, -3)<newline/>
 x-intercepts: (3, 0) and (1, 0)
 </entry>
-    <entry><media id="eip-idm518268544" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_07_03_006.jpg"/></media></entry>
+    <entry><media id="eip-idm518268544" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_07_03_006.jpg"/></media></entry>
   </row>
 </tbody>
 
@@ -157,13 +157,13 @@ x-intercepts: (3, 0) and (1, 0)
 Graph the parabola <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:math>
   </para>
 <media id="eip-idm403444176" alt="A blank coordinate plot ranging from -10 to 10">
-    <image mime-type="image/jpeg" src="blankplot-62c9.png"/>
+    <image mime-type="image/jpeg" src="../../media/blankplot-62c9.png"/>
   </media>
 </problem>
 </exercise></section></section><section id="eip-66"><title>Objective 2: Graph a circle (IA 11.1.4)</title><para id="eip-59">Any equation of the form <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mi>h</m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mi>y</m:mi><m:mo>-</m:mo><m:mi>k</m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:msup><m:mi>r</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:math> is the standard form of the equation of a circle with center, (h,k) and radius. We can then graph the circle on a rectangular coordinate system using the center and radius.
 </para>
 <media id="eip-idm370284080" alt="Figure shows circle with center at (h, k) and a radius of r. A point on the circle is labeled x, y. The formula is open parentheses x minus h close parentheses squared plus open parentheses y minus k close parentheses squared equals r squared.">
-    <image mime-type="image/jpeg" src="7_3_3.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/7_3_3.jpg"/>
   </media><example xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-993"><exercise id="eip-837"><problem id="eip-342"><title>Graph a circle</title>
 
 <list id="eip-idm347068816" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> Find the center and radius and then graph the circle <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>4</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>4</m:mn></m:math> </item>
@@ -187,7 +187,7 @@ Radius: 2</entry>
   <row>
     <entry>Graph the circle</entry>
     <entry><media id="eip-idm408053056" alt=".">
-    <image mime-type="image/jpg" src="CNX_Coreq_Figure_07_03_007.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_07_03_007.jpg"/>
   </media></entry>
   </row>
 </tbody>
@@ -233,7 +233,7 @@ Radius: 4
     <entry>Step 5<newline/>
 Graph the circle.</entry>
     <entry><media id="eip-idm304201920" alt=".">
-    <image mime-type="image/jpg" src="CNX_Coreq_Figure_07_03_008.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_07_03_008.jpg"/>
   </media></entry>
   </row>
 </tbody>
@@ -256,7 +256,7 @@ Find the center and radius and then graph the circle <m:math><m:msup><m:mrow><m:
 </row>
 <row>
 <entry>Graph the circle</entry>
-<entry><media id="eip-idm165663536" alt="blank plot"><image mime-type="image/png" src="blankplot7.3.png"/></media></entry>
+<entry><media id="eip-idm165663536" alt="blank plot"><image mime-type="image/png" src="../../media/blankplot7.3.png"/></media></entry>
 </row>
 </tbody>
 </tgroup>
@@ -300,7 +300,7 @@ Radius: ________
     <entry>Step 5<newline/>
 Graph the circle.</entry>
     <entry><media id="eip-idm222155152" alt=".">
-    <image mime-type="image/png" src="blankplot7.3.png"/>
+    <image mime-type="image/png" src="../../media/blankplot7.3.png"/>
   </media></entry>
   </row>
 </tbody>
@@ -315,7 +315,7 @@ Graph the circle.</entry>
 </exercise></section></section></section><para id="fs-id1165135558437">Halley’s Comet (<link target-id="Figure_09_03_001"/>) orbits the sun about once every 75 years. Its path can be considered to be a very elongated ellipse. Other comets follow similar paths in space. These orbital paths can be studied using systems of equations. These systems, however, are different from the ones we considered in the previous section because the equations are not linear.</para>
 
 <figure id="Figure_09_03_001" class="small"><media id="fs-id1165135586782" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_03_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_03_001.jpg"/>
 </media>
 <caption>Halley’s Comet (credit: "NASA Blueshift"/Flickr)</caption></figure><para id="fs-id1165134189118">In this section, we will consider the intersection of a parabola and a line, a circle and a line, and a circle and an ellipse. The methods for solving systems of nonlinear equations are similar to those for linear equations.</para>
 
@@ -342,7 +342,7 @@ Graph the circle.</entry>
 </list>
 
 <figure id="Figure_09_03_002"><media id="fs-id1165135606814" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_03_002n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_03_002n.jpg"/>
 </media>
 </figure></note>
 
@@ -644,7 +644,7 @@ Graph the circle.</entry>
 </m:mrow>
 </m:math> values into both of the original equations. See <link target-id="Figure_09_03_003"/>.</para><figure id="Figure_09_03_003" class="small">
 <media id="fs-id1165137838692" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_03_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_03_003.jpg"/>
 </media>
 </figure>
 </solution>
@@ -833,7 +833,7 @@ Graph the circle.</entry>
 </list>
 
 <figure id="Figure_09_03_004"><media id="fs-id1165134170686" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_03_004n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_03_004n.jpg"/>
 </media>
 </figure></note>
 
@@ -1069,7 +1069,7 @@ Graph the circle.</entry>
 </m:mrow>
 </m:math> values into both of the original equations. See <link target-id="Figure_09_03_005"/>.</para><figure id="Figure_09_03_005" class="small">
 <media id="fs-id1165134279701" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_03_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_03_005.jpg"/>
 </media>
 </figure>
 </solution>
@@ -1107,7 +1107,7 @@ Graph the circle.</entry>
 </list>
 
 <figure id="Figure_09_03_006"><media id="fs-id1165134368027" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_03_006n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_03_006n.jpg"/>
 </media>
 </figure></note><example id="Example_09_03_03">
 <exercise id="fs-id1165135650514"><problem id="fs-id1165134187242">
@@ -1412,7 +1412,7 @@ Graph the circle.</entry>
 </m:mrow>
 </m:math> See <link target-id="Figure_09_03_007"/>.</para><figure id="Figure_09_03_007" class="medium">
 <media id="fs-id1165134211324" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_03_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_03_007.jpg"/>
 </media>
 </figure>
 </solution>
@@ -1471,7 +1471,7 @@ Graph the circle.</entry>
 <m:mi>y</m:mi><m:mo>≤</m:mo><m:mi>a</m:mi><m:mo>,</m:mo>
 </m:mrow>
 </m:math> the graph is drawn with a solid line. The graphs will create regions in the plane, and we will test each region for a solution. If one point in the region works, the whole region works. That is the region we shade. See <link target-id="Figure_09_03_009"/>.</para><figure id="Figure_09_03_009"><media id="fs-id1165134324251" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_03_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_03_009.jpg"/>
 </media>
 <caption>(a) an example of <m:math>
  <m:mrow>
@@ -1663,7 +1663,7 @@ Graph the circle.</entry>
 
 <figure id="Figure_09_03_010" class="small">
 <media id="fs-id1165132162779" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_03_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_03_010.jpg"/>
 </media>
 </figure>
 </solution>
@@ -2002,7 +2002,7 @@ Graph the circle.</entry>
   </m:mrow>
  </m:math> on the bottom.</para><figure id="Figure_09_03_011">
 <media id="fs-id1165132986194" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_03_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_03_011.jpg"/>
 </media>
 </figure>
 </solution>
@@ -2036,7 +2036,7 @@ Graph the circle.</entry>
 </m:math>
 </equation></problem>
 <solution id="fs-id1165132005102"><media id="fs-id1165134492345" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_03_012.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_03_012.jpg"/>
 </media>
 
   </solution>
@@ -3770,7 +3770,7 @@ Graph the circle.</entry>
 
 
     <media id="fs-id1165131924504" alt="">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_09_03_201.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_03_201.jpg"/>
     </media>
 
 </solution></exercise><exercise id="fs-id1165131924514"><problem id="fs-id1165131924515"><para id="fs-id1165131924516"> <m:math>
@@ -3813,7 +3813,7 @@ Graph the circle.</entry>
 
 
     <media id="fs-id1165134544640" alt="">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_09_03_204.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_03_204.jpg"/>
     </media>
 
 </solution></exercise><exercise id="fs-id1165134544651"><problem id="fs-id1165134544652"><para id="fs-id1165134544653"> <m:math>
@@ -3872,7 +3872,7 @@ Graph the circle.</entry>
 
 
     <media id="fs-id1165135364044" alt="">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_09_03_207.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_03_207.jpg"/>
     </media>
 
 
@@ -3943,7 +3943,7 @@ Graph the circle.</entry>
    <solution id="fs-id1165133045164">
 
     <media id="fs-id1165135680020" alt="">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_09_03_209.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_03_209.jpg"/>
     </media>
 </solution></exercise></section>
   <section id="fs-id1165135680032">
@@ -4002,7 +4002,7 @@ Graph the circle.</entry>
    </para></problem>
    <solution id="fs-id1165135366840">
 <media id="fs-id1165134185303" alt="">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_09_03_210.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_03_210.jpg"/>
     </media>
 </solution></exercise><para id="fs-id1165134185314">For the following exercises, find the solutions to the nonlinear equations with two variables.</para>
    <exercise id="fs-id1165134185317"><problem id="fs-id1165134185318"><para id="fs-id1165134185319"> <m:math>
