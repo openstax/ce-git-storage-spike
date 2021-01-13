@@ -66,14 +66,14 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
 
 <figure id="Figure_07_02_001" class="small">
 <media id="fs-id2382285" alt="Graph of quarter circle with radius of 1. Inscribed triangle with an angle of t. Point of (x,y) is at intersection of terminal side of angle and edge of circle.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_001.jpg"/>
 </media>
 </figure>
 
 <para id="fs-id1634674">We can define the trigonometric functions in terms an angle <emphasis effect="italics">t</emphasis> and the lengths of the sides of the triangle. The <term>adjacent side</term> is the side closest to the angle, <emphasis effect="italics">x</emphasis>. (Adjacent means “next to.”) The <term>opposite side</term> is the side across from the angle, <emphasis effect="italics">y</emphasis>. The <term>hypotenuse</term> is the side of the triangle opposite the right angle, 1. These sides are labeled in <link target-id="Figure_07_02_002"/>.</para>
 
 <figure id="Figure_07_02_002" class="small"><media id="fs-id1561570" alt="A right triangle with hypotenuse, opposite, and adjacent sides labeled.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_002.jpg"/>
 </media>
 
 <caption>The sides of a right triangle in relation to angle <m:math>
@@ -240,7 +240,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
 </m:math>
 
 </para><figure id="Figure_07_02_003" class="small"><media id="fs-id1724219" alt="A right triangle with side lengths of 8, 15, and 17. Angle alpha also labeled which is opposite to the side labeled 8.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_003.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id2108722">
@@ -298,7 +298,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
   <m:mtext>sin</m:mtext><m:mspace width="0.3em"/><m:mi>t</m:mi><m:mo>.</m:mo></m:mrow>
 </m:math>
 </para><figure id="Figure_07_02_004" class="small"><media id="fs-id2196780" alt="A right triangle with sides of 7, 24, and 25. Also labeled is angle t which is opposite the side labeled 7.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_004.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1590112"><para id="fs-id1632957"> <m:math>
@@ -507,7 +507,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
 
 <figure id="Figure_07_02_005" class="small">
 <media id="fs-id1585661" alt="Right triangle with angles alpha and beta. Sides are labeled hypotenuse, adjacent to alpha/opposite to beta, and adjacent to beta/opposite alpha.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_005.jpg"/>
 </media>
 <caption>The side adjacent to one angle is opposite the other angle.</caption>
 </figure>
@@ -544,7 +544,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
 
 </para><figure id="Figure_07_02_006" class="small">
 <media id="fs-id1603496" alt="Right triangle with sides of 3, 4, and 5. Angle alpha is also labeled which is opposite the side labeled 4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_006.jpg"/>
 </media>
 </figure>
 
@@ -789,7 +789,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
 
 </para><figure id="Figure_07_02_007" class="small">
 <media id="fs-id1633379" alt="Right triangle with sides 33, 56, and 65. Angle t is also labeled which is opposite to the side labeled 33. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_007.jpg"/>
 </media>
 </figure>
 </problem>
@@ -978,7 +978,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
 </m:mrow>
 </m:math> These relations are shown in <link target-id="Figure_07_02_008"/>.</para><figure id="Figure_07_02_008">
 <media id="fs-id2085477" alt="Two side-by-side graphs of circles with inscribed angles. First circle has angle of pi/3 inscribed, radius of 2s, base of length s and height of length . Second circle has angle of pi/4 inscribed with radius , base of length s and height of length s.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_008.jpg"/>
 </media>
 <caption>Side lengths of special triangles</caption>
 </figure>
@@ -1585,7 +1585,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
 </m:math> </equation><para id="fs-id1477160">See <link target-id="Figure_07_02_009"/>.</para>
 
 <figure id="Figure_07_02_009" class="small"><media id="fs-id2093822" alt="A graph of circle with angle pi/3 inscribed with a radius of 2s, a base with length s and a height of.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_009.jpg"/>
 </media>
 
 <caption>The sine of <m:math>
@@ -1737,7 +1737,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
 
 <figure id="Figure_07_02_010" class="small">
 <media id="fs-id1711669" alt="Right triangle with angles alpha and beta. Equivalence between sin alpha and cos beta. Equivalence between sin beta and cos alpha.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_010.jpg"/>
 </media>
 <caption>Cofunction identity of sine and cosine of complementary angles</caption>
 </figure>
@@ -2026,7 +2026,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
 
           <figure id="Figure_07_02_011" class="small">
             <media id="fs-id1416312" alt="A right triangle with sides a, c, and 7. Angle of 30 degrees is also labeled which is opposite the side labeled 7. ">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_011.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_011.jpg"/>
             </media>
           </figure>
 
@@ -2170,7 +2170,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
 <para id="fs-id2054797">Similarly, we can form a triangle from the top of a tall object by looking downward. The <term>angle of depression</term> of an object below an observer relative to the observer is the angle between the horizontal and the line from the object to the observer's eye. See <link target-id="Figure_07_02_013"/>.</para>
 
 <figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="Figure_07_02_013" class="small"><media id="fs-id1695773" alt="Diagram of a radio tower with line segments extending from the top and base of the tower to a point on the ground some distance away. The two lines and the tower form a right triangle. The angle near the top of the tower is the angle of depression. The angle on the ground at a distance from the tower is the angle of elevation.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_013.jpg"/>
 </media>
 </figure><note id="fs-id1416497" class="precalculus howto">
 <label>How To</label>
@@ -2195,7 +2195,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
 </m:mrow>
 </m:math> between a line of sight to the top of the tree and the ground, as shown in <link target-id="Figure_07_02_012"/>. Find the height of the tree.</para><figure id="Figure_07_02_012" class="small">
 <media id="fs-id2178515" alt="A tree with angle of 57 degrees from vantage point. Vantage point is 30 feet from tree.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_012.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_012.jpg"/>
 </media>
 </figure>
 </problem>
@@ -2614,14 +2614,14 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
 <para id="fs-id1376367">For the given right triangle, label the adjacent side, opposite side, and hypotenuse for the indicated angle.</para>
 <para id="eip-id2193708"><newline/>
 <media id="fs-id1702764" alt="A right triangle.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_201.jpg"/>
 </media>
 </para>
 </problem>
 <solution id="fs-id1411763">
 <para id="fs-id2133705"><newline/>
 <media id="fs-id1571740" alt="A right triangle with side opposite, adjacent, and hypotenuse labeled.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_202.jpg"/>
 </media>
 </para>
 </solution>
@@ -2888,7 +2888,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
   </para>
 <figure id="Figure_07_04_203" class="small">
   <media id="fs-id1691840" alt="A right triangle with sides 4 and 10 and angle of A labeled which is opposite the side labeled 10.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_203-fe74.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_203-fe74.jpg"/>
   </media>
 </figure>
 <exercise id="fs-id1582486">
@@ -2995,7 +2995,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
 
 <figure id="Figure_07_04_204" class="small">
   <media id="fs-id1679873" alt="A right triangle with sides of 10 and 8 and angle of A labeled which is opposite the side labeled 10.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_204-a997.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_204-a997.jpg"/>
 </media>
 </figure>
 
@@ -3099,7 +3099,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
   <exercise id="fs-id2281076">
     <problem id="fs-id2281078">
       <media id="fs-id1544838" alt="A right triangle with sides of 7, b, and c labeled. Angles of B and 30 degrees also labeled.  The 30 degree angle is opposite the side labeled 7.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_205.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_205.jpg"/>
       </media>
     </problem>
     <solution id="fs-id2160700"><para id="fs-id1504623"> <m:math>
@@ -3114,14 +3114,14 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
   </exercise>
   <exercise id="fs-id2674199"><problem id="fs-id2134218">
       <media id="fs-id1284526" alt="A right triangle with sides of 10, a, and c. Angles of 60 degrees and A also labeled.  The 60 degree angle is opposite the side labeled 10.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_206.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_206.jpg"/>
       </media>
     </problem>
 
   </exercise><exercise id="fs-id1555858">
     <problem id="fs-id1760911">
       <media id="fs-id2374683" alt="A right triangle with corners labeled A, B, and C. Hypotenuse has length of 15 times square root of 2. Angle B is 45 degrees.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_207.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_207.jpg"/>
       </media>
     </problem>
     <solution id="fs-id2240072"><para id="fs-id2240073"> <m:math>
@@ -3139,7 +3139,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
   <exercise id="fs-id2247530">
     <problem id="fs-id2247532">
       <media id="fs-id2242544" alt="A right triangle with sides of 10, a, and c. Angles of A and 62 degrees are also labeled.  The 62 degree angle is opposite the side labeled 10.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_208-d641.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_208-d641.jpg"/>
       </media>
     </problem>
     </exercise>
@@ -3147,7 +3147,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
   <exercise id="fs-id1622924">
     <problem id="fs-id1622926">
       <media id="fs-id2216886" alt="A right triangle with sides of 7, b, and c. Angles of 35 degrees and B are also labeled.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_209.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_209.jpg"/>
       </media>
     </problem>
     <solution id="fs-id2566187"><para id="fs-id2566188"> <m:math>
@@ -3161,7 +3161,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
   <exercise id="fs-id2510471">
     <problem id="fs-id1703985">
       <media id="fs-id1703987" alt="A right triangle with sides of a, b, and 10 labeled. Angles of 65 degrees and B are also labeled.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_210-d14b.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_210-d14b.jpg"/>
       </media>
     </problem>
   </exercise>
@@ -3170,7 +3170,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
   <exercise id="fs-id1735342">
     <problem id="fs-id1735344">
       <media id="fs-id1855773" alt="A right triangle with sides a, b, and 12. Angles of 10 degrees and B are also labeled.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_211.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_211.jpg"/>
       </media>
     </problem>
     <solution id="fs-id2513968"><para id="fs-id2513969"> <m:math>
@@ -3184,7 +3184,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
   <exercise id="fs-id1828944">
     <problem id="fs-id2257689">
       <media id="fs-id2257692" alt="A right triangle with corners labeled A, B, and C. Sides labeled b, c, and 16.5. Angle of 81 degrees also labeled.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_212.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_212.jpg"/>
       </media>
     </problem>
   </exercise>
@@ -3254,7 +3254,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
   </para>
 <para id="eip-id1167336881735"><newline/>
   <media id="fs-id2077116" alt="A triangle with angles of 63 degrees and 39 degrees and side x. Bisector in triangle with length of 82.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_213.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_213.jpg"/>
   </media></para>
 </problem>
 </exercise><exercise id="fs-id1684158"><problem id="fs-id1680038"><para id="fs-id1684159">Find <m:math>
@@ -3265,7 +3265,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
   </para>
 <para id="eip-id1164448533822"><newline/>
     <media id="fs-id2673672" alt="A triangle with angles of 36 degrees and 50 degrees and side x. Bisector in triangle with length of 85.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_214.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_214.jpg"/>
     </media></para>
 </problem>
     <solution id="fs-id1451845"><para id="fs-id2084785"> 188.3159</para></solution>
@@ -3277,7 +3277,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
   </para>
 <para id="eip-id1164450898301"><newline/>
     <media id="fs-id2595719" alt="A right triangle with side of 115 and angle of 35 degrees. Within right triangle there is another right triangle with angle of 56 degrees. Side length difference between two triangles is x.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_215.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_215.jpg"/>
     </media></para>
 </problem>
   </exercise><exercise id="fs-id1577489"><problem id="fs-id2218066"><para id="fs-id2257380">Find <m:math>
@@ -3288,7 +3288,7 @@ Mt. Everest, which straddles the border between China and Nepal, is the tallest 
   </para>
 <para id="eip-id1164447436116"><newline/>
     <media id="fs-id2257422" alt="A right triangle with side of 119 and angle of 26 degrees. Within right triangle there is another right triangle with angle of 70 degrees instead of 26 degrees. Difference in side length between two triangles is x.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_216.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_216.jpg"/>
     </media>
 </para>
 </problem>

@@ -3,9 +3,8 @@
 <title>Modeling with Trigonometric Equations</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
   <md:content-id>m49399</md:content-id>
-  <md:title>Modeling with Trigonometric Functions</md:title>
-  <md:abstract><para>In this section, you will:</para>
-<list>
+  <md:title>Modeling with Trigonometric Equations</md:title>
+  <md:abstract><para>In this section, you will:</para><list>
 <item>Determine the amplitude and period of sinusoidal functions.</item>
 <item>Model equations and graph sinusoidal functions.</item>
 <item>Model periodic behavior.</item>
@@ -17,7 +16,7 @@
 
 <content>
 <figure id="Figure_07_06_001" class="small"><media id="fs-id1478255" alt="Photo of the top part of a clock.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_06_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_06_001.jpg"/>
 </media>
 
 <caption>The hands on a clock are periodic: they repeat positions every twelve hours. (credit: “zoutedrop”/Flickr)</caption></figure><para id="fs-id1334861">Suppose we charted the average daily temperatures in New York City over the course of one year. We would expect to find the lowest temperatures in January and February and highest in July and August. This familiar cycle repeats year after year, and if we were to extend the graph over multiple years, it would resemble a periodic function.</para>
@@ -139,7 +138,7 @@
 <para id="fs-id1161847">Consider the series of graphs in <link target-id="Figure_07_06_010"/> and the way each change to the equation changes the image.</para>
 
 <figure id="Figure_07_06_010"><media id="fs-id1542557" alt="Five graphs, side by side, each showing a manipulation to the former. (A) has y=sin(x). (B) has y=2sin(x), which has double the amplitude. (C) has y=2sin(4x), which quadrupled the frequency (or quartered the period). (D) has y=2sin(4x-pi/2), which shifted it on the x-axis by pi/2. (E) has y=2sin(4x-pi/2) + 2, which shifted it on the y-axis by 2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_06_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_06_010.jpg"/>
 </media>
 
 <caption>(a) The basic graph of <m:math>
@@ -337,7 +336,7 @@
 <para id="fs-id1290632">See the graph in <link target-id="Figure_07_06_002"/>.</para>
 
 <figure id="Figure_07_06_002" class="small"><media id="fs-id1079211" alt="Graph of y=2sin(1/4 x) from 0 to 8pi, which is one cycle. The amplitude is 2, and the period is 8pi.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_06_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_06_002.jpg"/>
 </media>
 </figure></item>
 <item><span class="token">ⓑ</span> <m:math>
@@ -430,7 +429,7 @@
 </m:math> units. See <link target-id="Figure_07_06_003"/>.</para>
 
 <figure id="Figure_07_06_003" class="small"><media id="fs-id1634678" alt="Graph of y=-3sin(2x+pi/2) from -pi/4 to 3pi/2, one cycle. The amplitude is 3, and the period is pi.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_06_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_06_003.jpg"/>
 </media>
 </figure></item>
 <item><span class="token">ⓒ</span> <m:math>
@@ -455,7 +454,7 @@
   <m:mn>2</m:mn><m:mi>π</m:mi><m:mo>.</m:mo>
  </m:mrow>
 </m:math> See <link target-id="Figure_07_06_004"/>. This is the standard cosine function shifted up three units.</para><figure id="Figure_07_06_004" class="small"><media id="fs-id1286075" alt="Graph of y=cos(x) + 3 from -pi/2 to 5pi/2. The amplitude and period are the same as the normal y=cos(x), but the whole graph is shifted up on the y-axis by 3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_06_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_06_004.jpg"/>
 </media>
 </figure></item>
 </list></solution>
@@ -613,7 +612,7 @@
 
 </tgroup>
 </table><figure id="Figure_07_07_002" class="small"><media id="fs-id2177508" alt="Graph of y=cos(x) from -pi/2 to 5pi/2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_07_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_07_002.jpg"/>
 </media>
 </figure><example id="Example_07_06_03"><exercise id="fs-id2478628">
 <problem id="fs-id1173784">
@@ -764,7 +763,7 @@ The period is <m:math>
 
 </tgroup>
 </table><figure id="Figure_07_07_003" class="small"><media id="fs-id1743270" alt="Graph of y=-4cos(pi*x) using the five key points: intervals of equal length representing 1/4 of the period. Here, the points are at 0, 1/2, 1, 3/2, and 2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_07_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_07_003.jpg"/>
 </media>
 </figure></solution>
 </exercise>
@@ -863,7 +862,7 @@ The period is <m:math>
 
 </tgroup>
 </table><media id="fs-id2710496" alt="Graph of y=3sin(3x) using the five key points: intervals of equal length representing 1/4 of the period. Here, the points are at 0, pi/6, pi/3, pi/2, and 2pi/3. " display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_07_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_07_004.jpg"/>
 </media>
 
 </solution>
@@ -1245,7 +1244,7 @@ The period is <m:math>
      </m:math> See the graph in <link target-id="Figure_07_06_011"/>.</para>
 
 <figure id="Figure_07_06_011" class="small"><media id="fs-id2175688" alt="Graph of the equation y=13.3sin(pi/6 x - 2pi/3) + 55.8. The average value is a dotted horizontal line y=55.8, and the amplitude is 13.3">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_06_011.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_06_011.jpg"/>
      </media>
     </figure></solution>
    </exercise>
@@ -1523,7 +1522,7 @@ The period is <m:math>
      </equation><para id="fs-id1556363">See <link target-id="Figure_07_06_013"/>.</para>
 
     <figure id="Figure_07_06_013" class="small"><media id="fs-id2035235" alt="Graph of the function y=-24cos(pi/6 x)+54 using the five key points: (0,30), (3,54), (6,78), (9,54), (12,30).">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_06_013.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_06_013.jpg"/>
      </media>
     </figure></solution>
    </exercise>
@@ -1640,7 +1639,7 @@ The period is <m:math>
      </equation><para id="fs-id1698026">See <link target-id="Figure_07_06_015"/>.</para>
 
     <figure id="Figure_07_06_015" class="small"><media id="fs-id1343710" alt="Graph of the function y=4cos(pi/6 t) + 11 from 0 to 12. The midline is y=11, three key points are (0,15), (6,7), and (12, 15).">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_06_015.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_06_015.jpg"/>
      </media>
     </figure></solution>
    </exercise>
@@ -1684,7 +1683,7 @@ The period is <m:math>
       <newline/>
    The temperature reaches freezing at noon and at midnight.</para>
   <media id="fs-id2322911" alt="Graph of the function y=8sin(pi/12 t) + 32 for temperature. The midline is at 32. The times when the temperature is at 32 are midnight and noon.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_06_016.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_06_016.jpg"/>
       </media></solution></exercise></note>
 
   <example id="Example_07_06_08">
@@ -1797,7 +1796,7 @@ The period is <m:math>
     <para id="fs-id2296975">See the graph in <link target-id="Figure_07_06_017"/>.</para>
 
     <figure id="Figure_07_06_017" class="small"><media id="fs-id1760753" alt="Graph of the function f(t) = 20sin(160 * pi * t) + 100 for blood pressure. The midline is at 100.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_06_017.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_06_017.jpg"/>
      </media>
 
     <caption>The blood pressure reading on the graph is <m:math>
@@ -2009,7 +2008,7 @@ The period is <m:math>
 <item>See <link target-id="Figure_07_07_006"/>. The graph indicates the five key points.
 
 <figure id="Figure_07_07_006" class="small"><media id="fs-id1910295" alt="Graph of the function y=5sin(3t) from 0 to 2pi/3. The five key points are (0,0), (pi/6, 5), (pi/3, 0), (pi/2, -5), (2pi/3, 0). ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_07_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_07_006.jpg"/>
 </media>
 </figure>
 </item></list></item>
@@ -2073,7 +2072,7 @@ The period is <m:math>
 <item>See <link target-id="Figure_07_07_007"/>.
 
 <figure id="Figure_07_07_007" class="small"><media id="fs-id2242237" alt="Graph of the function y=6cos(pi t) from 0 to 3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_07_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_07_007.jpg"/>
 </media>
 </figure></item>
 </list></item>
@@ -2135,7 +2134,7 @@ The period is <m:math>
 <item>See <link target-id="Figure_07_07_008"/>.
 
  <figure id="Figure_07_07_008" class="small"><media id="fs-id1968516" alt="Graph of the function y=5cos(pi/2 t) from 0 to 4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_07_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_07_008.jpg"/>
 </media>
  </figure></item>
 </list></item>
@@ -2291,7 +2290,7 @@ The period is <m:math>
 <para id="fs-id1743104"><link target-id="Figure_07_07_009"/> models the motion of the first spring system.</para>
 
 <figure id="Figure_07_07_009" class="small"><media id="fs-id1693953" alt="Graph of the first spring system, f(t) = 10(e^(-.5t))cos(pi*t), which begins with a high amplitude and quickly decreases.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_07_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_07_009.jpg"/>
 </media>
 </figure><para id="fs-id1406939">The second spring system has a damping factor of <m:math>
   <m:mrow>
@@ -2319,7 +2318,7 @@ The period is <m:math>
 <para id="fs-id2244434"><link target-id="Figure_07_07_010"/> models the motion of the second spring system.</para>
 
 <figure id="Figure_07_07_010" class="small"><media id="fs-id1880700" alt="Graph of f(t) = 10(e^(-.1t))cos(pi*t), which begins with a high amplitude and slowly decreases (but has a high frequency).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_07_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_07_010.jpg"/>
 </media>
 </figure></solution>
 <commentary id="fs-id697870">
@@ -2419,7 +2418,7 @@ The period is <m:math>
  </m:math> See <link target-id="Figure_07_07_011"/>.
 
 <figure id="Figure_07_07_011" class="small"><media id="fs-id1817246" alt="Graph of f(t) = 20(e^(-.05t))cos(pi/2 * t), which begins with a high amplitude and slowly decreases.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_07_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_07_011.jpg"/>
 </media>
 </figure></item>
 
@@ -2440,7 +2439,7 @@ The period is <m:math>
   </m:math> See <link target-id="Figure_07_07_012"/>.
 
 <figure id="Figure_07_07_012" class="small"><media id="fs-id2465127" alt="Graph of f(t) = 2(e^(-1.5t))cos(6pi * t), which begins with a small amplitude and quickly decreases to almost a straight line.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_07_012.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_07_012.jpg"/>
 </media>
 </figure></item></list></solution>
  </exercise>
@@ -2592,7 +2591,7 @@ The period is <m:math>
   </m:math> See <link target-id="Figure_07_07_013"/>.</para>
 
 <figure id="Figure_07_07_013" class="small"><media id="fs-id2757480" alt="Graph of f(t) = 7(e^(-10t))sin(12t), which spikes close to t=0 and quickly becomes almost a straight line.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_07_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_07_013.jpg"/>
 </media>
 </figure></item>
   <item><span class="token">ⓑ</span> As frequency is <m:math>
@@ -2655,7 +2654,7 @@ The period is <m:math>
    </m:math> See <link target-id="Figure_07_07_014"/>.</para>
 
 <figure id="Figure_07_07_014" class="small"><media id="fs-id1506062" alt="Graph of f(t) = .3e^(-.2t)sin(40pi*t), which has a small amplitude but quickly decreases to the appearance of a straight line. The frequency is so high that, in this scaling, the function looks like a solid shape. The zoom in cut out of the graph shows the actual sinusoidal image of the function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_07_014.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_07_014.jpg"/>
 </media>
 </figure></item></list></solution>
 <commentary id="fs-id1980962">
@@ -3007,7 +3006,7 @@ The period is <m:math>
 <para id="fs-id1218295">See the graph in <link target-id="Figure_07_06_018"/>.</para>
 
 <figure id="Figure_07_06_018" class="small"><media id="fs-id2301076" alt="Graph of the function y = -5e^(-.35t)cos(2pi/3 t) + 10 from 0 to 24. It starts out as waves with a high amplitude and decreases to almost a straight line very quickly.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_06_018.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_06_018.jpg"/>
 </media>
 </figure></solution>
 </exercise>
@@ -3318,10 +3317,10 @@ The period is <m:math>
  </m:math> plus a bounding function (see <link target-id="Figure_07_07_016"/>. The graphs look quite different.</para>
 
 <figure id="Figure_07_07_015" class="small"><media id="fs-id1152766" alt="Graph of f(x) = cos(2pi*x)cos(16pi*x), a sinusoidal function that increases and decreases its amplitude periodically.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_07_015.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_07_015.jpg"/>
 </media>
 </figure><figure id="Figure_07_07_016" class="small"><media id="fs-id1675994" alt="Graph of f(x) = cos(2pi*x)cos(16pi*x), a sinusoidal function that increases and decreases its amplitude periodically. There is also a bonding function drawn over it in red, which makes the whole image look like a DNA (double helix) piece stretched along the x-axis.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_07_07_016.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_07_016.jpg"/>
 </media>
 </figure></solution>
 <commentary id="fs-id3042059">
@@ -4337,7 +4336,7 @@ The period is <m:math>
 </para></problem>
 <solution id="eip-idm313965008">
 <media id="fs-id1122766" alt="">
-<image mime-type="image/jpg" src="Precalculus_Graphing_13.png"/>
+<image mime-type="image/jpg" src="../../media/Precalculus_Graphing_13.png"/>
 </media></solution></exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1364332"><problem id="fs-id1364334" class="material-set-2"><para id="fs-id1364335"> <m:math>
   <m:mrow>
    <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>−</m:mo><m:mn>18</m:mn><m:mspace width="0.3em"/><m:mi>cos</m:mi><m:mrow><m:mo>(</m:mo>
@@ -4413,7 +4412,7 @@ The period is <m:math>
  </para></problem>
 <solution id="eip-idm312965008">
 <media id="fs-id1422766" alt="">
-<image mime-type="image/jpg" src="Precalculus_Graphing_15.png"/>
+<image mime-type="image/jpg" src="../../media/Precalculus_Graphing_15.png"/>
 </media></solution></exercise></section>
 <section id="fs-id2196277">
 <title>Technology</title>
@@ -6630,7 +6629,7 @@ Spring 2 comes to rest first after 7.3 seconds.
 
 
    <para id="fs-id1490815">For the following exercises, use <link target-id="Figure_07_07_201"/> to find the desired quantities.</para><figure id="Figure_07_07_201" class="small"><media id="fs-id1490825" alt="Image of a right triangle. The base is 24, the height is unknown, and the hypotenuse is 25. The angle opposite the base is labeled alpha, and the remaining acute angle is labeled beta.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_07_07_201.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_07_07_201.jpg"/>
     </media>
    </figure><exercise id="fs-id1490834"><problem id="fs-id1490835"><para id="fs-id1490836"> <m:math>
  <m:mrow>

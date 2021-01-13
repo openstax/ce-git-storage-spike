@@ -53,7 +53,7 @@
 
 <figure id="CNX_Precalc_Figure_12_04_001" class="small">
 <media id="fs-id1165135203518" alt="Graph of f(x) = x^3 - 4x with tangent lines at x = -2 with a slope of 8, at x = -3 with a slope of -1, and at x=2 with a slope of 8.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_12_04_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_12_04_001.jpg"/>
 </media>
 
 <caption>Graph showing tangents to curve at –2, –1, and 2.</caption></figure><para id="fs-id1165135173335">Let’s imagine a point on the curve of function <m:math>
@@ -91,7 +91,7 @@
   <m:mi>h</m:mi><m:mo>.</m:mo>
  </m:mrow>
 </m:math> </para><figure id="CNX_Precalc_Figure_12_04_002" class="small"><media id="fs-id1165134108271" alt="Graph of an increasing function that demonstrates the rate of change of the function by drawing a line between the two points, (a, f(a)) and (a, f(a+h)).">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_12_04_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_12_04_002.jpg"/>
 </media>
 
 <caption>Connecting point <m:math>
@@ -481,7 +481,7 @@
  </m:mrow>
 </m:math> See <link target-id="CNX_Precalc_Figure_12_04_003"/>.</para><figure id="CNX_Precalc_Figure_12_04_003" class="small">
 <media id="fs-id1165134047678" alt="Graph of an increasing function that contains a point, P, at (a, f(a)). At the point, there is a tangent line and two secant lines where one secant line is connected to Q1 and another secant line is connected to Q2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_003.jpg"/>
 </media>
 <caption>The connecting line between two points moves closer to being a tangent line at <m:math>
  <m:mrow>
@@ -2253,7 +2253,7 @@
  </m:mrow>
 </m:math> is measured in feet. We know the path is that of a parabola. The derivative will tell us how the height is changing at any given point in time. The height of the ball is shown in <link target-id="CNX_Precalc_Figure_12_04_004"/> as a function of time. In physics, we call this the “<emphasis effect="italics">s</emphasis>-<emphasis effect="italics">t</emphasis> graph.”</para><figure id="CNX_Precalc_Figure_12_04_004" class="small">
 <media id="fs-id1165135671968" alt="Graph of a negative parabola with a vertex at (2, 70) and two points at (1, 55) and (3, 55).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_004.jpg"/>
 </media>
 </figure>
 
@@ -2667,7 +2667,7 @@
 
 <figure id="CNX_Precalc_Figure_12_04_005" class="small">
 <media id="fs-id1165135486012" alt="Graph of an odd function with multiplicity of two and with two points at (0, 1) and (2, 1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_005.jpg"/>
 </media>
 </figure>
 </problem>
@@ -2702,7 +2702,7 @@
  </m:mrow>
 </m:math> and estimate the slope of that tangent line. See <link target-id="CNX_Precalc_Figure_12_04_006"/>.</para><figure id="CNX_Precalc_Figure_12_04_006" class="small">
 <media id="fs-id1165137871752" alt="Graph of the previous function with tangent lines at the two points (0, 1) and (2, 1). The graph demonstrates the slopes of the tangent lines. The slope of the tangent line at x = 0 is 0, and the slope of the tangent line at x = 2 is 4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_006.jpg"/>
 </media>
 </figure>
 
@@ -2844,7 +2844,7 @@
 
 <figure id="CNX_Precalc_Figure_12_04_007" class="small">
 <media id="fs-id1165134065242" alt="Graph of the function f(x) = x^3-3x with a viewing window of [-4. 4] by [-5, 7">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_007.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165134065252">
@@ -3408,7 +3408,7 @@
 
 <figure id="CNX_Precalc_Figure_12_04_008" class="small">
 <media id="fs-id1165134037627" alt="Graph of a negative parabola that is zoomed in on a point to show that the curve becomes linear the closer it is zoomed in.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_008.jpg"/>
 </media>
 </figure>
 
@@ -3425,7 +3425,7 @@
   <m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0.</m:mn>
  </m:mrow>
 </m:math> As we zoom in close to 0 in <link target-id="CNX_Precalc_Figure_12_04_009"/>, the graph does not approach a straight line. No matter how close we zoom in, the graph maintains its sharp corner.</para><figure id="CNX_Precalc_Figure_12_04_009" class="small"><media id="fs-id1165135186769" alt="Graph of an absolute function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_009.jpg"/>
 </media>
 
 <caption>Graph of the function <m:math>
@@ -3439,7 +3439,7 @@
 </m:math> </para>
 
 <figure id="CNX_Precalc_Figure_12_04_010" class="small"><media id="fs-id1165135151271" alt="Graph of an absolute function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_010.jpg"/>
 </media>
 
 <caption>Graph of the function <m:math>
@@ -3510,7 +3510,7 @@
 
 <figure id="CNX_Precalc_Figure_12_04_011" class="small">
 <media id="fs-id1165134061335" alt="Graph of a piecewise function where from negative infinity to (2, 4) is a positive parabola and from (2, 6) to positive infinity is a linear line.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_011.jpg"/>
 </media>
 <caption>The graph of <m:math>
  <m:mrow>
@@ -3537,7 +3537,7 @@
 
 <figure id="CNX_Precalc_Figure_12_04_012" class="small">
 <media id="fs-id1165134061659" alt="Graph of an absolute function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_012.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_012.jpg"/>
 </media>
 <caption>The graph of <m:math>
  <m:mrow>
@@ -3574,7 +3574,7 @@
 
 <figure id="CNX_Precalc_Figure_12_04_013" class="small">
 <media id="fs-id1165134079831" alt="Graph of f(x) = x^(2/3) with a viewing window of [-3, 3] by [-2, 3].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_013.jpg"/>
 </media>
 <caption>The graph of <m:math>
  <m:mrow>
@@ -3619,7 +3619,7 @@
 
 <figure id="CNX_Precalc_Figure_12_04_014" class="small">
 <media id="fs-id1165134042879" alt="Graph of f(x) = x^(1/3) with a viewing window of [-3, 3] by [-3, 3].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_014.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_014.jpg"/>
 </media>
 <caption>The graph of <m:math>
  <m:mrow>
@@ -3716,7 +3716,7 @@
 
 <figure id="CNX_Precalc_Figure_12_04_015" class="small">
 <media id="fs-id1165134079646" alt="Graph of a piecewise function that has a removable discontinuity at (-2, -1) and is discontinuous when x =1.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_015.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_015.jpg"/>
 </media>
 </figure>
 </problem>
@@ -3759,7 +3759,7 @@
  </m:mrow>
 </m:math> See <link target-id="CNX_Precalc_Figure_12_04_016"/>.</para><figure id="CNX_Precalc_Figure_12_04_016" class="small">
 <media id="fs-id1165134042784" alt="Graph of the previous function that shows the intervals of continuity.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_016.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_016.jpg"/>
 </media>
 <caption>Three intervals where the function is continuous</caption>
 </figure>
@@ -3802,7 +3802,7 @@
  <m:mrow>
   <m:mi>x</m:mi><m:mo>=</m:mo><m:mn>2</m:mn>
  </m:mrow></m:math> because of a sharp corner. See <link target-id="CNX_Precalc_Figure_12_04_017"/>.</para><figure id="CNX_Precalc_Figure_12_04_017" class="small"><media id="fs-id1165135698016" alt="Graph of the previous function that not only shows the intervals of continuity but also labels the parts of the graph that has sharp corners and discontinuities. The sharp corners are at (-1, -1) and (2, 3), and the discontinuities are at (-2, -1) and (1, 1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_017.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_017.jpg"/>
 </media>
 
 <caption>Five intervals where the function is differentiable</caption></figure></solution>
@@ -3819,7 +3819,7 @@
 </m:math> shown in <link target-id="CNX_Precalc_Figure_12_04_018"/> is continuous and differentiable from the graph.</para>
 <figure id="CNX_Precalc_Figure_12_04_018" class="small">
 <media id="fs-id1165134057696" alt="Graph of a piecewise function with three pieces.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_018.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_018.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165134057708"><para id="fs-id1165134057709">The graph of <m:math>
@@ -3945,7 +3945,7 @@
 
 
 <media id="fs-id1165134085702" display="block" alt="The point-slope formula that demonstrates that m = f(a), x1 = a, and y_1 = f(a).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_019.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_019.jpg"/>
 </media>
 
 
@@ -4417,7 +4417,7 @@
 
 <figure id="CNX_Precalc_Figure_12_04_020" class="small">
 <media id="fs-id1165135682872" alt="Graph of f(x) = x^2-4x with a tangent line at x = 3 which has the equation of y = 2x - 9.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_020.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_020.jpg"/>
 </media>
 <caption>Graph confirms the point of tangency at <m:math>
  <m:mrow>
@@ -5723,7 +5723,7 @@
 <para id="eip-id1275704">
 <newline/>
 <media id="fs-id1165135513657" alt="Graph of a piecewise function with three segments. The first segment goes from negative infinity to (-3, -2), an open point; the second segment goes from (-3, 1) to (2, 3), which are both open points; the final segment goes from (2, 2), an open point, to positive infinity." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_201.jpg"/>
 </media>
 </para>
 </problem>
@@ -5731,7 +5731,7 @@
 <para id="eip-id1275594">
 <newline/>
 <media id="fs-id1165135698643" alt="Graph of a piecewise function with three segments. The first segment goes from negative infinity to (-2, -1), an open point; the second segment goes from (-2, -4), an open point, to (0, 0), a closed point; the final segment goes from (0, 1), an open point, to positive infinity." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_202.jpg"/>
 </media>
 </para>
 </problem>
@@ -5748,7 +5748,7 @@
 <problem id="fs-id1165135698695">
 
 <media id="fs-id1165135698701" alt="Graph of a piecewise function with two segments and an asymptote at x = 3. The first segment, which has a removable discontinuity at x = -2, goes from negative infinity to the asymptote, and the final segment goes from the asymptote to positive infinity.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_203.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_203.jpg"/>
 </media>
 
 </problem>
@@ -5758,7 +5758,7 @@
 <problem id="fs-id1165135698720">
 
 <media id="fs-id1165135698726" alt="Graph of a piecewise function with two segments. The first segment goes from (-4, 0), an open point to (5, -2), and the final segment goes from (5, 3), an open point, to positive infinity.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_204.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_204.jpg"/>
 </media>
 
 </problem>
@@ -5777,7 +5777,7 @@
  <m:mi>x</m:mi>
 <m:mo>,</m:mo></m:math> as indicated.</para><figure id="CNX_Precalc_Figure_12_04_205" class="small">
 <media id="fs-id1165135698785" alt="Graph of an odd function with multiplicity of 2 with a turning point at (0, -2) and (2, -6).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_205.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_205.jpg"/>
 </media>
 </figure>
 
@@ -6473,7 +6473,7 @@
  <section id="fs-id2345532">
   <title><link document="m49452"> Finding Limits: A Numerical and Graphical Approach</link></title><para id="fs-id1165134093953">For the following exercises, use <link target-id="CNX_Precalc_Figure_12_04_207"/>.</para><figure id="CNX_Precalc_Figure_12_04_207" class="small">
 <media id="fs-id1165134093965" alt="Graph of a piecewise function with two segments. The first segment goes from (-1, 2), a closed point, to (3, -6), a closed point, and the second segment goes from (3, 5), an open point, to (7, 9), a closed point.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_207.jpg"/>
 </media>
 </figure>
 
@@ -7824,7 +7824,7 @@
  <m:mi>f</m:mi>
 </m:math> in <link target-id="CNX_Precalc_Figure_12_04_208"/>.</para><figure id="CNX_Precalc_Figure_12_04_208" class="small">
 <media id="fs-id1165134060560" alt="Graph of a piecewise function with two segments. The first segment goes from negative infinity to (-1, 0), an open point, and the second segment goes from (-1, 3), an open point, to positive infinity.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_208.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_208.jpg"/>
 </media>
 </figure>
 
@@ -8394,7 +8394,7 @@ Removable discontinuity at
 
 <figure id="CNX_Precalc_Figure_12_04_209" class="small">
 <media id="fs-id1165135680851" alt="Graph of a piecewise function with three segments. The first segment goes from negative infinity to (-2, -1), an open point; the second segment goes from (-2, -4), an open point, to (0, 0), a closed point; the final segment goes from (0, 1), an open point, to positive infinity.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_209.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_209.jpg"/>
 </media>
 </figure>
 </problem>
@@ -8746,7 +8746,7 @@ The average velocity from
 </para>
 </solution></exercise><para id="fs-id1165135681849">For the following exercises, consider the function whose graph appears in <link target-id="CNX_Precalc_Figure_12_04_210"/>.</para><figure id="CNX_Precalc_Figure_12_04_210" class="small">
 <media id="fs-id1165135681860" alt="Graph of a positive parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_04_210.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_04_210.jpg"/>
 </media>
 </figure>
 

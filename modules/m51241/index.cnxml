@@ -7647,7 +7647,7 @@ Creating your Semester Calendar- complete the following weekly schedule being su
 <para id="fs-id1167339229869">For example, consider the number 2,780,418. Move the decimal left until it is to the right of the first nonzero digit, which is 2.</para>
 
   <media id="fs-id1167339229873" alt="The number 2,780,418 is written with an arrow extending to another number: 2.780418. An arrow tracking the movement of the decimal point runs underneath the number. Above the number a label on the number reads: 6 places left.">
-    <image mime-type="image/jpg" src="CNX_CAT_Figure_01_02_001.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_01_02_001.jpg"/>
   </media>
 
 
@@ -7663,7 +7663,7 @@ Creating your Semester Calendar- complete the following weekly schedule being su
 </m:math>
 </equation><para id="fs-id1167339229920">Working with small numbers is similar. Take, for example, the radius of an electron, 0.00000000000047 m. Perform the same series of steps as above, except move the decimal point to the right.</para>
   <media id="fs-id1167339229925" alt="The number 0.00000000000047 is written with an arrow extending to another number: 00000000000004.7. An arrow tracking the movement of the decimal point runs underneath the number. Above the number a label on the number reads: 13 places right.">
-    <image mime-type="image/jpg" src="CNX_CAT_Figure_01_02_002.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_01_02_002.jpg"/>
   </media>
 <para id="fs-id1167339229938">Be careful not to include the leading 0 in your count. We move the decimal point 13 places to the right, so the exponent of 10 is 13. The exponent is negative because we moved the decimal point to the right. This is what we should expect for a small number.</para>
   <equation id="fs-id1167339229944" class="unnumbered"><label/> <m:math>
@@ -10700,15 +10700,12 @@ Creating your Semester Calendar- complete the following weekly schedule being su
   </para></problem></exercise>
   <exercise id="fs-id1167339211180"><problem id="fs-id1167339211182"><para id="fs-id1167339211183"> <m:math>
     <m:mrow>
-      <m:msup>
-        <m:mn>5</m:mn>
-        <m:mn>2</m:mn>
-      </m:msup>
-      <m:mi>m</m:mi><m:mo>÷</m:mo><m:msup>
-        <m:mn>5</m:mn>
+      <m:mo stretchy="false">(</m:mo><m:mn>25</m:mn>
+      <m:mi>m</m:mi><m:mo stretchy="false">)</m:mo><m:mo>÷</m:mo><m:msup>
+        <m:mo stretchy="false">(</m:mo><m:mn>5</m:mn>
         <m:mn>0</m:mn>
       </m:msup>
-      <m:mi>m</m:mi>
+      <m:mi>m</m:mi><m:mo stretchy="false">)</m:mo>
     </m:mrow>
   </m:math>
   </para></problem>

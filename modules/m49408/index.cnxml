@@ -61,7 +61,7 @@
 
 
 <figure id="Figure_08_05_001" class="small"><media id="fs-id1165132034236" alt="Plot of 2-3i in the complex plane (2 along the real axis, -3 along the imaginary axis).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_05_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_05_001.jpg"/>
 </media>
 </figure></solution>
 </exercise>
@@ -77,7 +77,7 @@
 <solution id="fs-id1165134167302">
 
 <media id="fs-id1165137938804" alt="Plot of 1+5i in the complex plane (1 along the real axis, 5 along the imaginary axis)." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_05_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_05_002.jpg"/>
 </media>
 
 </solution>
@@ -95,7 +95,7 @@
   <m:mrow><m:mo>|</m:mo> <m:mi>z</m:mi> <m:mo>|</m:mo></m:mrow><m:mo>.</m:mo></m:mrow>
 </m:math>
 </para><figure id="Figure_08_05_003" class="small"><media id="fs-id1165134293070" alt="Plot of 2+4i in the complex plane and its magnitude, |z| = rad 20.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_05_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_05_003.jpg"/>
 </media>
 </figure><note id="fs-id1165134541127">
 
@@ -231,7 +231,7 @@
   </m:mtable></m:mrow>
 </m:math>
 </equation><para id="fs-id1165133324050">See <link target-id="Figure_08_05_004"/>.</para><figure id="Figure_08_05_004" class="small"><media id="fs-id1165135333398" alt="Plot of z=(rad5 - i) in the complex plane and its magnitude rad6.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_05_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_05_004.jpg"/>
 </media>
 </figure></solution>
 </exercise>
@@ -347,7 +347,7 @@
  <m:mrow>
   <m:mrow><m:mi>z</m:mi></m:mrow></m:mrow>
 </m:math> is 5. See <link target-id="Figure_08_05_005"/>. </para><figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="Figure_08_05_005" class="small"><media id="fs-id1165135194751" alt="Plot of (3-4i) in the complex plane and its magnitude |z| =5.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_05_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_05_005.jpg"/>
 </media>
 </figure></solution>
 </exercise>
@@ -431,7 +431,7 @@
 </equation><para id="fs-id1165135161485">We review these relationships in <link target-id="Figure_08_05_006"/>.</para>
 
 <figure id="Figure_08_05_006" class="small"><media id="fs-id1165135508549" alt="Triangle plotted in the complex plane (x axis is real, y axis is imaginary). Base is along the x/real axis, height is some y/imaginary value in Q 1, and hypotenuse r extends from origin to that point (x+yi) in Q 1. The angle at the origin is theta. There is an arc going through (x+yi).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_05_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_05_006.jpg"/>
 </media>
 </figure><para id="fs-id1165135245777">We use the term <emphasis>modulus</emphasis> to represent the absolute value of a complex number, or the distance from the origin to the point <m:math>
  <m:mrow>
@@ -698,7 +698,7 @@
     </m:mrow>
   <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow>
 </m:math> See <link target-id="Figure_08_05_007"/>.</para><figure id="Figure_08_05_007" class="small"><media id="fs-id1165137460482" alt="Plot of z=4i in the complex plane, also shows that the in polar coordinate it would be (4,pi/2).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_05_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_05_007.jpg"/>
 </media>
 </figure></solution>
 </exercise>
@@ -4448,7 +4448,7 @@ is a positive integer.</para>
 </para>
 </problem>
 <solution id="fs-id1165133221775"><media id="fs-id1165133221780" alt="Plot of -3 -3i in the complex plane (-3 along real axis, -3 along imaginary axis).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_05_202.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_05_202.jpg"/>
   </media></solution>
 </exercise><exercise id="fs-id1165135457049">
 <problem id="fs-id1165135457051">
@@ -4467,7 +4467,7 @@ is a positive integer.</para>
 </para>
 </problem>
 <solution id="fs-id1165133260388"><media id="fs-id1165133260393" alt="Plot of -1 -5i in the complex plane (-1 along real axis, -5 along imaginary axis).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_05_204.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_05_204.jpg"/>
   </media></solution>
 </exercise><exercise id="fs-id1165135664876">
 <problem id="fs-id1165135664878">
@@ -4486,7 +4486,7 @@ is a positive integer.</para>
 </para>
 </problem>
 <solution id="fs-id1165135702570"><media id="fs-id1165135702576" alt="Plot of 2i in the complex plane (0 along the real axis, 2 along the imaginary axis).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_05_206.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_05_206.jpg"/>
   </media></solution>
 </exercise><exercise id="fs-id1165134254413">
 <problem id="fs-id1165134254415">
@@ -4505,7 +4505,7 @@ is a positive integer.</para>
 </para>
 </problem>
 <solution id="fs-id1165135672734"><media id="fs-id1165135672739" alt="Plot of 6-2i in the complex plane (6 along the real axis, -2 along the imaginary axis).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_05_208.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_05_208.jpg"/>
   </media></solution>
 </exercise><exercise id="fs-id1165135672751">
 <problem id="fs-id1165135672753">
@@ -4525,7 +4525,7 @@ is a positive integer.</para>
 </problem>
 <solution id="fs-id1165137580704">
 <media id="fs-id1165132949966" alt="Plot of 1-4i in the complex plane (1 along the real axis, -4 along the imaginary axis).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_05_210.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_05_210.jpg"/>
   </media></solution></exercise></section>
   <section id="fs-id1165132949979">
   <title>Technology</title>

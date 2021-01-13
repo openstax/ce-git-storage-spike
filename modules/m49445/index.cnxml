@@ -19,7 +19,7 @@
 <item>Find the general term (nth term) of an arithmetic sequence (IA 12.2.2)</item>
 </list></section><section id="eip-52"><title>Objective 1: Determine if a sequence is arithmetic (IA 12.2.1)</title><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-607">An <term>arithmetic sequence</term> is a sequence where the difference between consecutive terms is always the same.
 </para><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-853">The difference between consecutive terms, <emphasis effect="italics">d</emphasis>, and is called the <term>common difference</term>, for n greater than or equal to two.</para><equation id="eip-236" class="unnumbered"><label/> <m:math><m:mi>d</m:mi><m:mo>=</m:mo><m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub><m:mo>-</m:mo><m:msub><m:mi>a</m:mi><m:mrow><m:mi>n</m:mi><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msub></m:math> </equation><para id="eip-37"><media id="eip-idm282265120" alt="This figure has two rows and three columns. The first row reads “7”, “10”,”13”, “16”, “19”, “22”, and an ellipsis, “10 minus 7, divided by 3”, “13 minus 10, divided by 3”, “16 minus 13, divided by 3”, nth term equals nth term minus 1 divided by d”">
-    <image mime-type="image/jpeg" src="9_2_1.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/9_2_1.jpg"/>
   </media></para><example id="eip-939"><exercise id="fs-id1167832041539">
 <problem id="fs-id1167835326267">
 <para id="fs-id1167831959293">Determine if each sequence is arithmetic. If so, indicate the common difference.</para>
@@ -106,7 +106,7 @@
 <para id="fs-id1167834063240">Let’s write the first few terms of a sequence where the first term is <m:math><m:mrow><m:msub><m:mi>a</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:math> and the common difference is <emphasis effect="italics">d</emphasis>. We will then look for a pattern.</para>
 <para id="fs-id1167834423838">As we look for a pattern we see that each term starts with <m:math><m:mrow><m:msub><m:mi>a</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:math> .</para>
 <media id="fs-id1167835340070" alt="This figures shows an image of a sequence.">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_12_02_002_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_12_02_002_img.jpg"/>
 </media>
 <para id="fs-id1167835346003">The first term adds 0<emphasis effect="italics">d</emphasis> to the <m:math><m:mrow><m:msub><m:mi>a</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:math> , the second term adds 1<emphasis effect="italics">d</emphasis>, the third term adds 2<emphasis effect="italics">d</emphasis>, the fourth term adds 3<emphasis effect="italics">d</emphasis>, and the fifth term adds 4<emphasis effect="italics">d</emphasis>. The number of <emphasis effect="italics">d</emphasis>s that were added to <m:math><m:mrow><m:msub><m:mi>a</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:math> is one less than the number of the term. We then have the formula for the general term of an arithmetic sequence.</para>
 <note id="eip-772"><title>General term (nth term) of an arithmetic sequence</title>The general term of an arithmetic sequence with first term <m:math><m:msub><m:mi>a</m:mi><m:mn>1</m:mn></m:msub></m:math> and the common difference <m:math><m:mi>d</m:mi></m:math> is<newline/> <m:math><m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:msub><m:mi>a</m:mi><m:mn>1</m:mn></m:msub><m:mo>+</m:mo><m:mo>(</m:mo><m:mi>n</m:mi><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>)</m:mo><m:mi>d</m:mi></m:math>
@@ -225,10 +225,10 @@ Find the 19th term of a sequence where the 5th term is 1 and the common differen
 
 <section id="fs-id1165137417740"><title>Finding Common Differences</title><para id="fs-id1165137823944">The values of the truck in the example are said to form an <emphasis>arithmetic sequence</emphasis> because they change by a constant amount each year. Each term increases or decreases by the same constant value called the <emphasis>common difference</emphasis> of the sequence. For this sequence, the common difference is –3,400.</para>
 <media id="fs-id1165135541598" alt="A sequence, {25000, 21600, 18200, 14800, 8000}, that shows the terms differ only by -3400." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_02_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_02_001.jpg"/>
 </media><para id="fs-id1165137639689">The sequence below is another example of an arithmetic sequence. In this case, the constant difference is 3. You can choose any <term class="no-emphasis">term</term> of the <term class="no-emphasis">sequence</term>, and add 3 to find the subsequent term.</para>
 <media id="fs-id1165137644646" alt="A sequence {3, 6, 9, 12, 15, ...} that shows the terms only differ by 3." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_02_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_02_002.jpg"/>
 </media><note id="fs-id1165137855317">
 
 <title>Arithmetic Sequence</title>
@@ -291,11 +291,11 @@ Find the 19th term of a sequence where the 5th term is 1 and the common differen
 <list id="fs-id1165137558244" list-type="enumerated" number-style="arabic" class="circled">
 <item><span class="token">ⓐ</span>The sequence is not arithmetic because there is no common difference.
 <para id="eip-id1165132959073"><media id="fs-id1165137767692" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Coreq_Figure_09_03_001-01.png"/>
+<image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_03_001-01.png"/>
 </media></para></item>
 <item><span class="token">ⓑ</span>The sequence is arithmetic because there is a common difference. The common difference is 4.
 <para id="eip-id1165135674049"><media id="eip-id1165137580124" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Coreq_Figure_09_03_001-02.png"/>
+<image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_03_001-02.png"/>
 </media></para></item>
 </list></solution>
 <commentary id="fs-id1165137677499">
@@ -305,7 +305,7 @@ Find the 19th term of a sequence where the 5th term is 1 and the common differen
 </m:math> is not linear whereas <m:math>
 <m:mi>b</m:mi>
 </m:math> is linear. Arithmetic sequences have a constant rate of change so their graphs will always be points on a line.</para><figure id="CNX_Precalculus_Figure_11_02_003"><media id="fs-id1165137925319" alt="Two graphs of arithmetic sequences. Graph (a) grows exponentially while graph (b) grows linearly.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_02_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_02_003.jpg"/>
 </media>
 </figure></commentary>
 </exercise></example>
@@ -415,7 +415,7 @@ Find the 19th term of a sequence where the 5th term is 1 and the common differen
 <para id="fs-id1165137474702">As expected, the graph of the sequence consists of points on a line as shown in <link target-id="CNX_Precalculus_Figure_11_02_004"/>.</para>
 
 <figure id="CNX_Precalculus_Figure_11_02_004"><media id="fs-id1165137574001" alt="Graph of the arithmetic sequence. The points form a negative line.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_02_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_02_004.jpg"/>
 </media>
 </figure></commentary>
 </exercise>
@@ -900,7 +900,7 @@ Find the 19th term of a sequence where the 5th term is 1 and the common differen
 <para id="fs-id1165137640097">We see that the common difference is the slope of the line formed when we graph the terms of the sequence, as shown in <link target-id="CNX_Precalculus_Figure_11_02_005"/>. The growth pattern of the sequence shows the constant difference of 11 units.</para>
 
 <figure id="CNX_Precalculus_Figure_11_02_005"><media id="fs-id1165137603859" alt="Graph of the arithmetic sequence. The points form a positive line.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_02_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_02_005.jpg"/>
 </media>
 </figure></commentary>
 </exercise></example>
@@ -1000,7 +1000,7 @@ Find the 19th term of a sequence where the 5th term is 1 and the common differen
 <para id="fs-id1165137767412">To find the <emphasis effect="italics">y</emphasis>-intercept of the function, we can subtract the common difference from the first term of the sequence. Consider the following sequence.</para>
 <para id="eip-id2247141">
 <media id="fs-id1165135701477" alt="A sequence, {200, 150, 100, 50, 0, ...}, that shows the terms differ only by -50." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_02_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_02_006.jpg"/>
 </media></para>
 <para id="fs-id1165135543365">The common difference is <m:math>
 <m:mrow>
@@ -1025,7 +1025,7 @@ Find the 19th term of a sequence where the 5th term is 1 and the common differen
 </m:math> -intercept by graphing the function and determining where a line that connects the points would intersect the vertical axis. The graph is shown in <link target-id="CNX_Precalculus_Figure_11_02_007"/>.</para>
 <figure id="CNX_Precalculus_Figure_11_02_007">
 <media id="fs-id1165135149213" alt="Graph of the arithmetic sequence. The points form a negative line.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_02_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_02_007.jpg"/>
 </media>
 </figure><para id="fs-id1165137553505">Recall the slope-intercept form of a line is <m:math>
  <m:mrow>
@@ -1234,7 +1234,7 @@ Find the 19th term of a sequence where the 5th term is 1 and the common differen
 <m:mo>−</m:mo><m:mn>8</m:mn>
 </m:mrow>
 </m:math> .</para><figure id="CNX_Precalculus_Figure_11_02_008"><media id="fs-id1165137461154" alt="Graph of the arithmetic sequence. The points form a positive line.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_02_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_02_008.jpg"/>
 </media>
 </figure></commentary>
 </exercise></example>
@@ -3024,7 +3024,7 @@ Find the 19th term of a sequence where the 5th term is 1 and the common differen
 <problem id="fs-id1165137605908">
 
 <media id="fs-id1165137452753" alt="Graph of a scattered plot with labeled points: (1, -4), (2, -2), (3, 0), (4, 2), and (5, 4). The x-axis is labeled n and the y-axis is labeled a_n." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_02_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_02_201.jpg"/>
 </media>
 
 </problem>
@@ -3034,7 +3034,7 @@ Find the 19th term of a sequence where the 5th term is 1 and the common differen
 <problem id="fs-id1165137697191">
 
 <media id="fs-id1165137640848" alt="Graph of a scattered plot with labeled points: (1, 1.5), (2, 2.25), (3, 3.375), (4, 5.0625), and (5, 7.5938). The x-axis is labeled n and the y-axis is labeled a_n." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_02_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_02_202.jpg"/>
 </media>
 
 </problem>
@@ -3083,7 +3083,7 @@ Find the 19th term of a sequence where the 5th term is 1 and the common differen
 <solution id="fs-id1165137532662">
 
 <media id="fs-id1165134065142" alt="Graph of a scattered plot with labeled points: (1, 9), (2, -1), (3, -11), (4, -21), and (5, -31). The x-axis is labeled n and the y-axis is labeled a_n.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_02_204.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_02_204.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165135185958">
@@ -3203,7 +3203,7 @@ Find the 19th term of a sequence where the 5th term is 1 and the common differen
 </m:math> Then press <emphasis>[GRAPH]</emphasis>. Graph the sequence as it appears on the graphing calculator.</para></problem>
 <solution id="fs-id1165137828039">
 <media id="fs-id1165137831199" alt="Graph of a scattered plot with labeled points: (1, 1), (2, 4), (3, 7), (4, 10), and (5, 13). The x-axis is labeled n and the y-axis is labeled a_n.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_02_206.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_02_206.jpg"/>
 </media>
 </solution>
 </exercise><para id="fs-id1165137754896">For the following exercises, follow the steps given above to work with the arithmetic sequence <m:math>
@@ -3232,7 +3232,7 @@ Find the 19th term of a sequence where the 5th term is 1 and the common differen
 </problem>
 <solution id="fs-id1165135307896">
 <media id="fs-id1165137473103" alt="Graph of a scattered plot with labeled points: (1, 5.5), (2, 6), (3, 6.5), (4, 7), and (5, 7.5). The x-axis is labeled n and the y-axis is labeled a_n.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_02_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_02_207.jpg"/>
 </media>
 </solution>
 </exercise></section><section id="fs-id1165137697185">

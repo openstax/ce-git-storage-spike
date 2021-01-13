@@ -146,15 +146,15 @@ At (0, 0):
 <tgroup cols="2"><tbody>
   <row>
     <entry align="left">If the lines intersect, identify the point of intersection. This is the solution to the system.</entry>
-    <entry><media id="eip-idm447026784" alt="."><image mime-type="image/jpg" src="CNX_IntAlg_Figure_04_01_008a_img.jpg"/></media></entry>
+    <entry><media id="eip-idm447026784" alt="."><image mime-type="image/jpg" src="../../media/CNX_IntAlg_Figure_04_01_008a_img.jpg"/></media></entry>
   </row>
   <row>
     <entry align="left">If the lines are parallel, the system has no solutions.</entry>
-    <entry><media id="eip-idm483836912" alt="."><image mime-type="image/jpg" src="CNX_IntAlg_Figure_04_01_008b_img.jpg"/></media></entry>
+    <entry><media id="eip-idm483836912" alt="."><image mime-type="image/jpg" src="../../media/CNX_IntAlg_Figure_04_01_008b_img.jpg"/></media></entry>
   </row>
   <row>
     <entry align="left">If the lines are the same, the system has an infinite number of solutions.</entry>
-    <entry align="left"><media id="eip-idm676376128" alt="."><image mime-type="image/jpg" src="CNX_IntAlg_Figure_04_01_008c_img.jpg"/></media></entry>
+    <entry align="left"><media id="eip-idm676376128" alt="."><image mime-type="image/jpg" src="../../media/CNX_IntAlg_Figure_04_01_008c_img.jpg"/></media></entry>
   </row>
 </tbody>
 
@@ -179,7 +179,7 @@ Graph <m:math><m:mo>-</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>y</m:mi><m:mo>=</m
 We can use the slope intercept – form: <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:math> <newline/>
 Slope  = 1  <newline/>
 y-intercept: (0, 1)<newline/>
-<media id="eip-idm230081488" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_07_01_001.jpg"/></media>
+<media id="eip-idm230081488" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_07_01_001.jpg"/></media>
 </entry>
   </row>
   <row>
@@ -189,7 +189,7 @@ Graph <m:math><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>y</m:mi><m:mo>=</m
 We can use the slope intercept – form: <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>10</m:mn></m:math> <newline/>
 Slope  = –2  <newline/>
 y-intercept: (0, 10)<newline/>
-<media id="eip-idm506197872" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_07_01_002.jpg"/></media>
+<media id="eip-idm506197872" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_07_01_002.jpg"/></media>
 
 </entry>
   </row>
@@ -230,7 +230,7 @@ y-intercept = ________
     <entry>Step 2</entry>
     <entry>Graph <m:math><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>6</m:mn></m:math><newline/>
 Slope = ________<newline/>
-y-intercept = ________<newline/><media id="eip-idm511324656" alt="blank graph"><image mime-type="image/png" src="blankplot6.4-604f.png"/></media> </entry>
+y-intercept = ________<newline/><media id="eip-idm511324656" alt="blank graph"><image mime-type="image/png" src="../../media/blankplot6.4-604f.png"/></media> </entry>
 
   </row>
   <row>
@@ -260,10 +260,10 @@ Determine whether the ordered pair is a solution to the given system
 </exercise><exercise id="eip-106"><problem id="eip-771">
   <para id="eip-259">Solve the following system by graphing.
  <m:math><m:mfenced open="{" close=""><m:mtable columnalign="left"><m:mtr><m:mtd><m:mi>y</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>8</m:mn></m:mtd></m:mtr></m:mtable></m:mfenced></m:math><newline/>
-  <media id="eip-idm499810176" alt="blank graph"><image mime-type="image/png" src="blankplot6.4-604f.png"/></media></para></problem>
+  <media id="eip-idm499810176" alt="blank graph"><image mime-type="image/png" src="../../media/blankplot6.4-604f.png"/></media></para></problem>
 </exercise></section></section></section><figure id="Figure_09_01_001" class="small">
 <media id="fs-id1165137938552" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_01_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_01_001.jpg"/>
 </media>
 <caption>(credit: Thomas Sørenes)</caption>
 </figure>
@@ -334,7 +334,7 @@ Determine whether the ordered pair is a solution to the given system
 
 <para id="fs-id1165134540073"><link target-id="Figure_09_01_002"/> compares graphical representations of each type of system.</para>
 <figure id="Figure_09_01_002"><media id="fs-id1165134137725" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_01_002n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_01_002n.jpg"/>
 </media>
 </figure></note><note id="fs-id1165137838246" class="how-to-notitle">
 <label>How To</label>
@@ -449,7 +449,7 @@ Determine whether the ordered pair is a solution to the given system
 
 <figure id="Figure_09_01_003" class="small">
 <media id="fs-id1165135528468" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_01_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_01_003.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -575,7 +575,7 @@ Determine whether the ordered pair is a solution to the given system
 
 <figure id="Figure_09_01_012" class="small">
 <media id="fs-id1165135186614" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_01_012.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_01_012.jpg"/>
 </media>
 </figure>
 
@@ -686,7 +686,7 @@ Determine whether the ordered pair is a solution to the given system
 
 
 <media id="fs-id1165135330938" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_01_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_01_013.jpg"/>
 </media>
 </solution></exercise></note><note id="fs-id1165132036982" class="precalculus qa">
 <label>Q&amp;A</label>
@@ -1297,7 +1297,7 @@ Determine whether the ordered pair is a solution to the given system
 
 <figure id="Figure_09_01_004" class="small">
 <media id="fs-id1165133055135" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_01_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_01_004.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -1590,7 +1590,7 @@ Determine whether the ordered pair is a solution to the given system
 </m:math>
 </equation><figure id="Figure_09_01_005" class="small">
 <media id="fs-id1165137641223" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_01_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_01_005.jpg"/>
 </media>
 </figure>
 </solution>
@@ -1867,7 +1867,7 @@ Determine whether the ordered pair is a solution to the given system
 </m:math>
 </equation><para id="fs-id1165133276174">See <link class="small" target-id="Figure_09_01_006"/>.</para><figure id="Figure_09_01_006">
 <media id="fs-id1165134073788" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_01_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_01_006.jpg"/>
 </media>
 </figure>
 </solution>
@@ -2410,7 +2410,7 @@ Determine whether the ordered pair is a solution to the given system
 <title>Analysis </title>
 <para id="fs-id1165134176014">Writing the equations in slope-intercept form confirms that the system is inconsistent because all lines will intersect eventually unless they are parallel. Parallel lines will never intersect; thus, the two lines have no points in common. The graphs of the equations in this example are shown in <link target-id="Figure_09_01_007"/>.</para><figure id="Figure_09_01_007" class="small">
 <media id="fs-id1165134176028" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_01_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_01_007.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -2684,7 +2684,7 @@ Determine whether the ordered pair is a solution to the given system
  </m:mrow>
 </m:math>
 </para><figure id="Figure_09_01_008" class="small"><media id="fs-id1165135523321" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_01_008_revised.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_01_008_revised.jpg"/>
 </media>
 </figure></commentary>
 </exercise>
@@ -2754,7 +2754,7 @@ Determine whether the ordered pair is a solution to the given system
  </m:mrow>
 </m:math> -axis represents quantity in hundreds of units. The <emphasis effect="italics">y</emphasis>-axis represents either cost or revenue in hundreds of dollars.</para><figure id="Figure_09_01_009" class="small">
 <media id="fs-id1165134381431" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_01_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_01_009.jpg"/>
 </media>
 </figure>
 
@@ -2911,7 +2911,7 @@ Determine whether the ordered pair is a solution to the given system
 
 <figure id="Figure_09_01_010" class="small">
 <media id="fs-id1165137683020" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_01_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_01_010.jpg"/>
 </media>
 </figure>
 
@@ -2920,7 +2920,7 @@ Determine whether the ordered pair is a solution to the given system
   <m:mtext>  </m:mtext><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>50,000</m:mn><m:mo>,</m:mo>
  </m:mrow></m:math> when the graph crosses the <emphasis effect="italics">x</emphasis>-axis. Then, the graph emerges into positive <emphasis effect="italics">y</emphasis>-values and continues on this path as the profit function is a straight line. This illustrates that the break-even point for businesses occurs when the profit function is 0. The area to the left of the break-even point represents operating at a loss.</para><figure id="Figure_09_01_011">
 <media id="fs-id1165137480080" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_09_01_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_01_011.jpg"/>
 </media>
 </figure>
 </commentary>

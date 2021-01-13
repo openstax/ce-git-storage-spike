@@ -23,13 +23,13 @@ Find the domain and range of a relation and a function.</para><exercise id="eip-
 <problem id="eip-107"><list id="eip-idm252784256" list-type="enumerated" number-style="arabic" class="circled"><item>
           <span class="token">ⓐ</span>
   <media id="fs-id1165137526877" alt=".">
-<image mime-type="image/png" src="CNX_Coreq_Figure_06_04_001.jpg"/>
+<image mime-type="image/png" src="../../media/CNX_Coreq_Figure_06_04_001.jpg"/>
 </media>
 </item>
 <item>
           <span class="token">ⓑ</span>
  <media id="fs-id1165137526875" alt=".">
-<image mime-type="image/png" src="CNX_Coreq_Figure_06_04_002.jpg"/>
+<image mime-type="image/png" src="../../media/CNX_Coreq_Figure_06_04_002.jpg"/>
 </media>
 </item>
      <item>
@@ -68,12 +68,12 @@ Find the domain and range of a relation and a function.
 </para><exercise id="eip-2"><problem id="eip-64">
   <para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-436">Find the domain and range of a relation.
 <media id="fs-id1165137527877" alt="." class="unnumbered">
-<image mime-type="image/png" src="CNX_Coreq_Figure_06_04_003.jpg"/>
+<image mime-type="image/png" src="../../media/CNX_Coreq_Figure_06_04_003.jpg"/>
 </media>
   </para></problem></exercise><exercise id="eip-28"><problem id="eip-65">
   <para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-437">Find the domain and the range of the function graphed. Use interval notation.
 <media id="fs-id1165137527897" alt="." class="unnumbered">
-<image mime-type="image/png" src="CNX_Coreq_Figure_06_04_004.jpg"/>
+<image mime-type="image/png" src="../../media/CNX_Coreq_Figure_06_04_004.jpg"/>
 </media></para></problem></exercise><exercise id="eip-317"><problem id="eip-792">
   <para id="eip-57">
     Find the domain of the function <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msub><m:mi>log</m:mi><m:mn>2</m:mn></m:msub><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn><m:mo>)</m:mo></m:math> . Notice: this is the same function that was graphed in part b.
@@ -133,7 +133,7 @@ Graph Logarithmic functions.</para><exercise id="eip-798"><problem id="fs-id1167
 </tgroup>
 </table>
 <media id="fs-id1167835328463" alt="This figure shows the logarithmic curve going through the points (1 over 2, negative 1), (1, 0), and (2, 1).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_03_004_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_10_03_004_img.jpg"/>
 </media>
 </solution>
 </exercise>
@@ -225,7 +225,7 @@ Graph Logarithmic functions</para><exercise id="eip-496"><problem id="eip-645">
 </tgroup>
 </table>
 <media id="fs-id1165132437002" alt="A blank line graph" class="unnumbered">
-<image mime-type="image/jpg" src="blankplot5.5.png"/>
+<image mime-type="image/jpg" src="../../media/blankplot5.5.png"/>
 </media>
 </para></problem>
 </exercise><exercise id="eip-144"><problem id="eip-264">
@@ -280,13 +280,13 @@ Graph Logarithmic functions</para><exercise id="eip-496"><problem id="eip-645">
 </tgroup>
 </table>
 <media id="fs-id1165132437052" alt="A blank line graph">
-<image mime-type="image/jpg" src="blankplot5.5.png"/>
+<image mime-type="image/jpg" src="../../media/blankplot5.5.png"/>
 </media>
 </para></problem>
 
 </exercise><exercise id="eip-812"><problem id="eip-22">
   <para id="eip-877"><media id="fs-id1167835343501" alt="This figure shows the logarithmic curve going through the points (1 over a, negative 1), (1, 0), and (a, 1).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_03_005_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_10_03_005_img.jpg"/>
 </media><newline/>
 Do the graphs of <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:msub><m:mi>log</m:mi><m:mn>2</m:mn></m:msub><m:mi>x</m:mi></m:math> , <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:msub><m:mi>log</m:mi><m:mn>3</m:mn></m:msub><m:mi>x</m:mi></m:math> , and <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:msub><m:mi>log</m:mi><m:mn>5</m:mn></m:msub><m:mi>x</m:mi></m:math> have the shape we expect from a logarithmic function where <m:math><m:mi>a</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:math> ? (Remember a is the base of the log function)
   </para>
@@ -346,7 +346,7 @@ Do they all have the same range? Write the range in the interval notation.
 
 <figure id="CNX_Precalc_Figure_04_04_001">
 <media id="fs-id1165137437002" alt="A graph titled, “Logarithmic Model Showing Years as a Function of the Balance in the Account”. The x-axis is labeled, “Account Balance”, and the y-axis is labeled, “Years”. The line starts at $25,000 on the first year. The graph also notes that the balance reaches $5,000 near year 14.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_001.jpg"/>
 </media>
 </figure>
 
@@ -1297,7 +1297,7 @@ Do they all have the same range? Write the range in the interval notation.
 
 <figure id="CNX_Precalc_Figure_04_04_002" class="small">
 <media id="fs-id1165135207524" alt="Graph of two functions, f(x)=2^x and g(x)=log_2(x), with the line y=x denoting the axis of symmetry.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_002.jpg"/>
 </media>
 <caption>Notice that the graphs of <m:math>
 <m:mrow>
@@ -1493,7 +1493,7 @@ Do they all have the same range? Write the range in the interval notation.
 </list><para id="fs-id1165137464857">See <link target-id="CNX_Precalc_Figure_04_04_003"/>.</para>
 
 <figure id="CNX_Precalc_Figure_04_04_003"><media id="fs-id1165137550075" alt="Two graphs of the function f(x)=log_b(x) with points (1,0) and (b, 1). The first graph shows the line when b&gt;1, and the second graph shows the line when 0&lt;b&lt;1.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_003G.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_003G.jpg"/>
 </media>
 </figure><para id="fs-id1165137838178"><link target-id="CNX_Precalc_Figure_04_04_004"/> shows how changing the base <m:math>
 <m:mrow>
@@ -1523,7 +1523,7 @@ Do they all have the same range? Write the range in the interval notation.
 </m:mrow>
 </m:math> </para><figure id="CNX_Precalc_Figure_04_04_004" class="small">
 <media id="fs-id1165137855111" alt="Graph of three equations: y=log_2(x) in blue, y=ln(x) in orange, and y=log(x) in red. The y-axis is the asymptote.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_004.jpg"/>
 </media>
 <caption>The graphs of three logarithmic functions with different bases, all greater than 1.</caption>
 </figure>
@@ -1636,7 +1636,7 @@ Do they all have the same range? Write the range in the interval notation.
 <item>We draw and label the asymptote, plot and label the points, and draw a smooth curve through the points (see <link target-id="CNX_Precalc_Figure_04_04_005"/>).</item>
 </list><figure id="CNX_Precalc_Figure_04_04_005" class="small">
 <media id="fs-id1165135508394" alt="Graph of f(x)=log_5(x) with labeled points at (1, 0) and (5, 1). The y-axis is the asymptote.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_005.jpg"/>
 </media>
 </figure>
 <para id="fs-id1165135697920">The domain is <m:math>
@@ -1683,7 +1683,7 @@ Do they all have the same range? Write the range in the interval notation.
 <solution id="fs-id1165137407451">
 
 <media id="fs-id1165134377926" alt="Graph of f(x)=log_(1/5)(x) with labeled points at (1/5, 1) and (1, 0). The y-axis is the asymptote.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_006.jpg"/>
 </media>
 
 <para id="fs-id1165135509153">The domain is <m:math>
@@ -1791,7 +1791,7 @@ Do they all have the same range? Write the range in the interval notation.
 <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo>
 </m:mrow>
 </m:math> See <link target-id="Figure_04_04_007"/>.</para><figure id="Figure_04_04_007"><media id="eip-id1806109" alt="Graph of two functions. The parent function is f(x)=log_b(x), with an asymptote at x=0  and g(x)=log_b(x+c) is the translation function with an asymptote at x=-c. This shows the translation of shifting left.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_007n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_007n.jpg"/>
 </media></figure><note id="fs-id1165135296307"><title>Horizontal Shifts of the Parent Function <m:math> <m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msub> <m:mrow> <m:mi>log</m:mi> </m:mrow> <m:mi>b</m:mi> </m:msub> <m:mrow><m:mo>(</m:mo> <m:mrow> <m:mi>x</m:mi> </m:mrow> <m:mo>)</m:mo></m:mrow> </m:mrow> </m:math> </title>
 
 
@@ -2127,7 +2127,7 @@ Do they all have the same range? Write the range in the interval notation.
 
 <figure id="CNX_Precalc_Figure_04_04_008" class="small">
 <media id="fs-id1165135599035" alt="Graph of two functions. The parent function is y=log_3(x), with an asymptote at x=0 and labeled points at (1/3, -1), (1, 0), and (3, 1).The translation function f(x)=log_3(x-2) has an asymptote at x=2 and labeled points at (3, 0) and (5, 1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_008.jpg"/>
 </media>
 </figure>
 </solution>
@@ -2151,7 +2151,7 @@ Do they all have the same range? Write the range in the interval notation.
 <solution id="fs-id1165134373485">
 
 <media id="fs-id1165135209395" alt="Graph of two functions. The parent function is y=log_3(x), with an asymptote at x=0 and labeled points at (1, 0), and (3, 1).The translation function f(x)=log_3(x+4) has an asymptote at x=-4 and labeled points at (-3, 0) and (-1, 1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_009.jpg"/>
 </media>
 
 <para id="fs-id1165134240944">The domain is <m:math>
@@ -2240,7 +2240,7 @@ Do they all have the same range? Write the range in the interval notation.
 </m:math> See <link target-id="Figure_04_04_010"/>.</para>
 
 <figure id="Figure_04_04_010"><media id="eip-id2031632" alt="Graph of two functions. The parent function is f(x)=log_b(x), with an asymptote at x=0  and g(x)=log_b(x)+d is the translation function with an asymptote at x=0. This shows the translation of shifting up. Graph of two functions. The parent function is f(x)=log_b(x), with an asymptote at x=0  and g(x)=log_b(x)-d is the translation function with an asymptote at x=0. This shows the translation of shifting down." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_010F.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_010F.jpg"/>
 </media></figure><note id="fs-id1165137767601"><title>Vertical Shifts of the Parent Function <m:math> <m:mrow><m:mi>y</m:mi><m:mo>=</m:mo> <m:msub> 	<m:mrow> 		<m:mi>log</m:mi> 	</m:mrow> 	<m:mrow> 		<m:mi>b</m:mi> 	</m:mrow> </m:msub> <m:mrow><m:mo>(</m:mo> <m:mi>x</m:mi> <m:mo>)</m:mo></m:mrow> </m:mrow> </m:math> </title>
 
 
@@ -2553,7 +2553,7 @@ Do they all have the same range? Write the range in the interval notation.
 </m:mrow>
 </m:math> </para><figure id="CNX_Precalc_Figure_04_04_011" class="small">
 <media id="fs-id1165134393856" alt="Graph of two functions. The parent function is y=log_3(x), with an asymptote at x=0 and labeled points at (1/3, -1), (1, 0), and (3, 1).The translation function f(x)=log_3(x)-2 has an asymptote at x=0 and labeled points at (1, 0) and (3, 1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_011.jpg"/>
 </media>
 </figure>
 <para id="fs-id1165137698285">The domain is <m:math>
@@ -2597,7 +2597,7 @@ Do they all have the same range? Write the range in the interval notation.
 <solution id="fs-id1165137874464" class="small">
 
 <media id="fs-id1165137874471" alt="Graph of two functions. The parent function is y=log_2(x), with an asymptote at x=0 and labeled points at (1, 0), and (2, 1).The translation function f(x)=log_2(x)+2 has an asymptote at x=0 and labeled points at (0.25, 0) and (0.5, 1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_012.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_012.jpg"/>
 </media>
 
 <para id="fs-id1165137874474">The domain is <m:math>
@@ -2685,7 +2685,7 @@ Do they all have the same range? Write the range in the interval notation.
 </m:mrow>
 </m:math> See <link target-id="Figure_04_04_013"/>.</para><figure id="Figure_04_04_013">
 <media id="eip-id2046734" alt="Graph of two functions. The parent function is f(x)=log_b(x), with an asymptote at x=0  and g(x)=alog_b(x) when a&gt;1 is the translation function with an asymptote at x=0. The graph note the intersection of the two lines at (1, 0). This shows the translation of a vertical stretch." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_013n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_013n.jpg"/>
 </media></figure>
 
 <note id="fs-id1165137433996"><title>Vertical Stretches and Compressions of the Parent Function <m:math> <m:mrow><m:mi>y</m:mi><m:mo>=</m:mo> <m:msub> 	<m:mrow> 		<m:mi>log</m:mi> 	</m:mrow> 	<m:mrow> 		<m:mi>b</m:mi> 	</m:mrow> </m:msub> <m:mrow><m:mo>(</m:mo> <m:mi>x</m:mi> <m:mo>)</m:mo></m:mrow> </m:mrow> </m:math> </title>
@@ -3014,7 +3014,7 @@ Do they all have the same range? Write the range in the interval notation.
 </m:mrow>
 </m:math> See <link target-id="CNX_Precalc_Figure_04_04_014"/><emphasis>.</emphasis></para><figure id="CNX_Precalc_Figure_04_04_014" class="small">
 <media id="fs-id1165134059742" alt="Graph of two functions. The parent function is y=log_4(x), with an asymptote at x=0 and labeled points at (1, 0), and (4, 1).The translation function f(x)=2log_4(x) has an asymptote at x=0 and labeled points at (1, 0) and (2, 1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_014.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_014.jpg"/>
 </media>
 </figure>
 <para id="fs-id1165135566827">The domain is <m:math>
@@ -3061,7 +3061,7 @@ Do they all have the same range? Write the range in the interval notation.
 <solution id="fs-id1165137778952">
 
 <media id="fs-id1165135332505" alt="Graph of two functions. The parent function is y=log_4(x), with an asymptote at x=0 and labeled points at (1, 0), and (4, 1).The translation function f(x)=(1/2)log_4(x) has an asymptote at x=0 and labeled points at (1, 0) and (16, 1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_015.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_015.jpg"/>
 </media>
 
 <para id="fs-id1165137768488">The domain is <m:math>
@@ -3137,7 +3137,7 @@ Do they all have the same range? Write the range in the interval notation.
 
 <figure id="CNX_Precalc_Figure_04_04_016" class="small">
 <media id="fs-id1165135641650" alt="Graph of three functions. The parent function is y=log(x), with an asymptote at x=0. The first translation function y=5log(x+2) has an asymptote at x=-2. The second translation function y=log(x+2) has an asymptote at x=-2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_016.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_016.jpg"/>
 </media>
 </figure>
 <para id="fs-id1165137874883">The domain is <m:math>
@@ -3175,7 +3175,7 @@ Do they all have the same range? Write the range in the interval notation.
 <solution id="fs-id1165137437228">
 
 <media id="fs-id1165135177663" alt="Graph of f(x)=3log(x-2)+1 with an asymptote at x=2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_017.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_017.jpg"/>
 </media>
 
 <para id="fs-id1165135516923">The domain is <m:math>
@@ -3266,7 +3266,7 @@ Do they all have the same range? Write the range in the interval notation.
 </m:math> </para>
 
 <figure id="Figure_04_04_018"><media id="eip-id2123624" alt="Graph of two functions. The parent function is f(x)=log_b(x), with an asymptote at x=0  and g(x)=-log_b(x) when b&gt;1 is the translation function with an asymptote at x=0. The graph note the intersection of the two lines at (1, 0). This shows the translation of a reflection about the x-axis." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_018n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_018n.jpg"/>
 </media></figure><note id="fs-id1165135190744"><title>Reflections of the Parent Function <m:math> <m:mrow><m:mi>y</m:mi><m:mo>=</m:mo> <m:msub> 	<m:mrow> 		<m:mi>log</m:mi> 	</m:mrow> 	<m:mrow> 		<m:mi>b</m:mi> 	</m:mrow> </m:msub> <m:mrow><m:mo>(</m:mo> <m:mi>x</m:mi> <m:mo>)</m:mo></m:mrow> </m:mrow> </m:math> </title>
 
 
@@ -3577,7 +3577,7 @@ Do they all have the same range? Write the range in the interval notation.
 <item>We draw and label the asymptote, plot and label the points, and draw a smooth curve through the points.</item>
 </list>
 <figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="CNX_Precalc_Figure_04_04_019" class="small"><media id="fs-id1165134042188" alt="Graph of two functions. The parent function is y=log(x), with an asymptote at x=0 and labeled points at (1, 0), and (10, 1).The translation function f(x)=log(-x) has an asymptote at x=0 and labeled points at (-1, 0) and (-10, 1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_019.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_019.jpg"/>
 </media>
 </figure><para id="fs-id1165134042202">The domain is <m:math>
 <m:mrow>
@@ -3614,7 +3614,7 @@ Do they all have the same range? Write the range in the interval notation.
 <solution id="fs-id1165137836698">
 
 <media id="fs-id1165137855148" alt="Graph of f(x)=-log(-x) with an asymptote at x=0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_020.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_020.jpg"/>
 </media>
 
 <para id="fs-id1165137855161">The domain is <m:math>
@@ -4022,7 +4022,7 @@ Do they all have the same range? Write the range in the interval notation.
 
 <figure id="CNX_Precalc_Figure_04_04_021" class="small">
 <media id="fs-id1165134328932" alt="Graph of a logarithmic function with a vertical asymptote at x=-2, has been vertically reflected, and passes through the points (-1, 1) and (2, -1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_021.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_021.jpg"/>
 </media>
 </figure>
 </problem>
@@ -4245,7 +4245,7 @@ Do they all have the same range? Write the range in the interval notation.
 <para id="fs-id1165137665487">Give the equation of the natural logarithm graphed in <link target-id="CNX_Precalc_Figure_04_04_022"/>.</para>
 <figure id="CNX_Precalc_Figure_04_04_022" class="small">
 <media id="fs-id1165137436420" alt="Graph of a logarithmic function with a vertical asymptote at x=-3, has been vertically stretched by 2, and passes through the points (-1, -1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_022.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_022.jpg"/>
 </media>
 </figure>
 </problem>
@@ -5303,7 +5303,7 @@ See <link target-id="Example_04_04_08"/>.
 </section>
 
 <section id="fs-id1165137422264"><title>Graphical</title><para id="fs-id1165137422269">For the following exercises, match each function in <link target-id="CNX_Precalc_Figure_04_04_201"/> with the letter corresponding to its graph.</para><figure id="CNX_Precalc_Figure_04_04_201" class="small"><media id="fs-id1165134032260" alt="Graph of five logarithmic functions.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_04_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_04_201.jpg"/>
 </media>
 </figure><exercise id="fs-id1165134032273">
 <problem id="fs-id1165134032275">
@@ -5390,7 +5390,7 @@ See <link target-id="Example_04_04_08"/>.
 </exercise>
 
 <para id="eip-312">For the following exercises, match each function in <link target-id="CNX_Precalc_Figure_04_04_202"/> with the letter corresponding to its graph.</para><figure id="CNX_Precalc_Figure_04_04_202" class="small"><media id="fs-id1165134380376" alt="Graph of three logarithmic functions.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_04_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_04_202.jpg"/>
 </media>
 </figure><exercise id="fs-id1165134380389">
 <problem id="fs-id1165135400154">
@@ -5509,7 +5509,7 @@ See <link target-id="Example_04_04_08"/>.
 </problem>
 <solution id="fs-id1165137740775">
 <media id="fs-id1165137740781" alt="Graph of two functions, g(x) = log_(1/2)(x) in orange and f(x)=log(x) in blue.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_04_204.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_04_204.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165135180056">
@@ -5549,11 +5549,11 @@ See <link target-id="Example_04_04_08"/>.
 </problem>
 <solution id="fs-id1165135496605">
 <media id="fs-id1165135496611" alt="Graph of two functions, g(x) = ln(1/2)(x) in orange and f(x)=e^(x) in blue.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_04_206.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_04_206.jpg"/>
 </media>
 </solution>
 </exercise><para id="fs-id1165135496626">For the following exercises, match each function in <link target-id="CNX_Precalc_Figure_04_04_207"/> with the letter corresponding to its graph.</para><figure id="CNX_Precalc_Figure_04_04_207" class="small"><media id="fs-id1165135496634" alt="Graph of three logarithmic functions.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_207.jpg"/>
 </media>
 </figure><exercise id="fs-id1165135189876">
 <problem id="fs-id1165135189878">
@@ -5634,7 +5634,7 @@ See <link target-id="Example_04_04_08"/>.
 </m:math> </para></problem>
 <solution id="eip-id2073097">
 <media id="fs-id1165137849057" alt="Graph of f(x)=log_2(x+2)." display="block">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_04_208.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_04_208.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165137849072">
@@ -5655,7 +5655,7 @@ See <link target-id="Example_04_04_08"/>.
 </problem>
 <solution id="fs-id1165134032402">
 <media id="fs-id1165134032408" alt="Graph of f(x)=ln(-x)." display="block">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_04_210.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_04_210.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165134032422">
@@ -5685,7 +5685,7 @@ See <link target-id="Example_04_04_08"/>.
 </problem>
 <solution id="fs-id1165137705397">
 <media id="fs-id1165137705402" alt="Graph of g(x)=log(6-3x)+1." display="block">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_04_212.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_04_212.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165137705417">
@@ -5721,7 +5721,7 @@ See <link target-id="Example_04_04_08"/>.
 </m:mrow>
 </m:math> as the parent function.</para>
 <media id="fs-id1165135443953" alt="The graph y=log_2(x) has been reflected over the y-axis and shifted to the right by 1." display="block">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_04_214.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_04_214.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165134360851">
@@ -5750,7 +5750,7 @@ See <link target-id="Example_04_04_08"/>.
 </m:mrow>
 </m:math> as the parent function.</para>
 <media id="fs-id1165137674237" alt="The graph y=log_3(x) has been reflected over the x-axis, vertically stretched by 3, and shifted to the left by 4." display="block">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_04_215.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_04_215.jpg"/>
 </media>
 </problem>
 </exercise><exercise id="fs-id1165137674252"><problem id="fs-id1165137674255">
@@ -5766,7 +5766,7 @@ See <link target-id="Example_04_04_08"/>.
 </m:mrow>
 </m:math> as the parent function.</para>
 <media id="fs-id1165134086070" alt="The graph y=log_4(x) has been vertically stretched by 3, and shifted to the left by 2." display="block">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_04_216.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_04_216.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165134086084">
@@ -5794,7 +5794,7 @@ See <link target-id="Example_04_04_08"/>.
 </m:mrow>
 </m:math> as the parent function.</para>
 <media id="fs-id1165137705189" alt="The graph y=log_3(x) has been reflected over the x-axis and y-axis, vertically stretched by 2, and shifted to the right by 5." display="block">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_04_217.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_04_217.jpg"/>
 </media>
 </problem>
 </exercise></section><section id="fs-id1165137705205">
@@ -6131,7 +6131,7 @@ See <link target-id="Example_04_04_08"/>.
 </m:mrow>
 </m:math> </para>
 <media id="fs-id1165137838643" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_04_219.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_04_219.jpg"/>
 </media>
 
 </solution>

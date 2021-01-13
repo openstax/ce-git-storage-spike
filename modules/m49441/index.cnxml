@@ -67,7 +67,7 @@ from the positive
 </m:math>
 </para>
 <media id="rotation" alt="rotation of axes definitional graph">
-<image mime-type="image/png" src="CNX_Coreq_Figure_08_04_001.jpg"/>
+<image mime-type="image/png" src="../../media/CNX_Coreq_Figure_08_04_001.jpg"/>
 </media>
 
 <para id="eip-829">The following rotations of axes formulas define the relationship between (<emphasis effect="italics">x</emphasis>,<emphasis effect="italics">y</emphasis>) and (<emphasis effect="italics">x</emphasis>’,<emphasis effect="italics">y</emphasis>’):</para><equation id="thetatime" class="unnumbered"><label/><m:math><m:mfenced open="{" close=""><m:mtable columnalign="left"><m:mtr><m:mtd><m:mi>x</m:mi><m:mo>=</m:mo><m:mi>x</m:mi><m:mo>'</m:mo><m:mtext>cos</m:mtext><m:mi>θ</m:mi><m:mo>-</m:mo><m:mi>y</m:mi><m:mo>'</m:mo><m:mtext>sin</m:mtext><m:mi>θ</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>x</m:mi><m:mo>'</m:mo><m:mtext>sin</m:mtext><m:mi>θ</m:mi><m:mo>+</m:mo><m:mi>y</m:mi><m:mo>'</m:mo><m:mtext>cos</m:mtext><m:mi>θ</m:mi></m:mtd></m:mtr></m:mtable></m:mfenced></m:math> </equation>
@@ -511,11 +511,11 @@ Identify conic sections by their equations.
 </problem></exercise><exercise id="eip-432"><problem id="eip-960">
   <para id="eip-949"> <m:math><m:mn>16</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>36</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>576</m:mn></m:math>
   </para></problem></exercise></section></section></section><para id="fs-id1141495">As we have seen, conic sections are formed when a plane intersects two right circular cones aligned tip to tip and extending infinitely far in opposite directions, which we also call a <emphasis effect="italics">cone</emphasis>. The way in which we slice the cone will determine the type of conic section formed at the intersection. A circle is formed by slicing a cone with a plane perpendicular to the axis of symmetry of the cone. An ellipse is formed by slicing a single cone with a slanted plane not perpendicular to the axis of symmetry. A parabola is formed by slicing the plane through the top or bottom of the double-cone, whereas a hyperbola is formed when the plane slices both the top and bottom of the cone. See <link target-id="Figure_10_04_001"/>.</para><figure id="Figure_10_04_001"><media id="fs-id1471958" alt="">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_001.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_001.jpg"/>
    </media>
 
   <caption>The nondegenerate conic sections</caption></figure><para id="fs-id2467642">Ellipses, circles, hyperbolas, and parabolas are sometimes called the <term>nondegenerate conic sections</term>, in contrast to the <term>degenerate conic sections</term>, which are shown in <link target-id="Figure_10_04_002"/>. A degenerate conic results when a plane intersects the double cone and passes through the apex. Depending on the angle of the plane, three types of degenerate conic sections are possible: a point, a line, or two intersecting lines. </para><figure id="Figure_10_04_002"><media id="fs-id2295508" alt="">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_002n.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_002n.jpg"/>
    </media>
 
   <caption>Degenerate conic sections</caption></figure><section id="fs-id1741499"><title>Identifying Nondegenerate Conics in General Form</title><para id="fs-id2726428">In previous sections of this chapter, we have focused on the standard form equations for nondegenerate conic sections. In this section, we will shift our focus to the general form equation, which can be used for any conic. The general form is set equal to zero, and the terms and coefficients are given in a particular order, as shown below. </para><equation id="fs-id1264739" class="unnumbered"><label/> <m:math>
@@ -1009,7 +1009,7 @@ when A and B are positive does not represent a graph at all, since there are no 
     <list id="fs-id1582186" list-type="labeled-item"><item><span class="token">ⓐ</span> Rewriting the general form, we have
 
 <media id="eq1" alt="" display="block">
-    <image mime-type="image/png" src="CNX_Coreq_Figure_08_04_002-01.png"/>
+    <image mime-type="image/png" src="../../media/CNX_Coreq_Figure_08_04_002-01.png"/>
    </media>
 
 
@@ -1033,7 +1033,7 @@ when A and B are positive does not represent a graph at all, since there are no 
 
 <item><span class="token">ⓑ</span> Rewriting the general form, we have
     <media id="eq2" alt="" display="block">
-    <image mime-type="image/png" src="CNX_Coreq_Figure_08_04_002-02.png"/>
+    <image mime-type="image/png" src="../../media/CNX_Coreq_Figure_08_04_002-02.png"/>
    </media>
      <para id="fs-id1459350"> <m:math>
       <m:mrow>
@@ -1050,7 +1050,7 @@ when A and B are positive does not represent a graph at all, since there are no 
      </m:math> is zero.</para></item>
 
 <item><span class="token">ⓒ</span> Rewriting the general form, we have <media id="eq3" alt="" display="block">
-    <image mime-type="image/png" src="CNX_Coreq_Figure_08_04_002-03.png"/>
+    <image mime-type="image/png" src="../../media/CNX_Coreq_Figure_08_04_002-03.png"/>
    </media>
 
      <para id="fs-id1154673"> <m:math>
@@ -1069,7 +1069,7 @@ when A and B are positive does not represent a graph at all, since there are no 
 
 <item><span class="token">ⓓ</span> Rewriting the general form, we have
 <media id="eq4" alt="" display="block">
-    <image mime-type="image/png" src="CNX_Coreq_Figure_08_04_002-04.png"/>
+    <image mime-type="image/png" src="../../media/CNX_Coreq_Figure_08_04_002-04.png"/>
    </media>
 
      <para id="fs-id2587849"> <m:math>
@@ -1171,7 +1171,7 @@ when A and B are positive does not represent a graph at all, since there are no 
   <m:mo>)</m:mo></m:mrow></m:mrow>
 </m:math> on the new plane defined by the new, rotated axes, called the <emphasis effect="italics">x'</emphasis>-axis and <emphasis effect="italics">y'</emphasis>-axis. See <link target-id="Figure_10_04_003"/>.</para><figure id="Figure_10_04_003" class="small">
     <media id="fs-id1547134" alt="">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_003.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_003.jpg"/>
     </media>
     <caption>The graph of the rotated ellipse <m:math>
      <m:mrow>
@@ -1216,7 +1216,7 @@ when A and B are positive does not represent a graph at all, since there are no 
    </m:math> on the new rotated plane. See <link target-id="Figure_10_04_004"/>.</para>
 
    <figure id="Figure_10_04_004" class="small"><media id="fs-id1213511" alt="">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_004.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_004.jpg"/>
     </media>
 
    <caption>The Cartesian plane with <emphasis effect="italics">x</emphasis>- and <emphasis effect="italics">y</emphasis>-axes and the resulting <emphasis effect="italics">x</emphasis>′− and <emphasis effect="italics">y</emphasis>′−axes formed by a rotation by an angle <m:math>
@@ -1283,7 +1283,7 @@ when A and B are positive does not represent a graph at all, since there are no 
 </m:math>
 </equation><figure id="Figure_10_04_005" class="small">
     <media id="fs-id1203427" alt="">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_005.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_005.jpg"/>
     </media>
     <caption>Relationship between the old and new coordinate planes.</caption>
    </figure>
@@ -2696,7 +2696,7 @@ when A and B are positive does not represent a graph at all, since there are no 
 
      <figure id="Figure_10_04_006" class="small">
       <media id="fs-id1194819" alt="">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_006.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_006.jpg"/>
       </media>
      </figure>
      </solution>
@@ -3103,7 +3103,7 @@ when A and B are positive does not represent a graph at all, since there are no 
 </m:math>
 </equation><figure id="Figure_10_04_007" class="small">
      <media id="fs-id2590360" alt="A right triangle in the first quadrant of the x y plane. The horizontal side is length 3 and is on the x-axis. The vertical side is length 4. The hypotenuse is length h and originates at the Origin. The acute angle at the origin is 2 theta.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_007.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_007.jpg"/>
      </media>
     </figure>
     <equation id="fs-id1901664" class="unnumbered"><label/> <m:math display="block">
@@ -4160,7 +4160,7 @@ when A and B are positive does not represent a graph at all, since there are no 
 
     <figure id="Figure_10_04_008" class="small">
      <media id="fs-id1419508" alt="">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_008.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_008.jpg"/>
      </media>
     </figure>
 </solution>
@@ -4372,7 +4372,7 @@ when A and B are positive does not represent a graph at all, since there are no 
 
 <figure id="Figure_10_04_009" class="small">
      <media id="fs-id2637714" alt="A line with positive slope passing through the origin of the x y pane is shown. The x value of 5 is shown on the x-axis. The y value of 12 is shown on the y-axis. The angle the line makes with the x-axis is 2theta. The line is labeled cotangent (2 theta) = 5/12.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_009.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_009.jpg"/>
      </media>
     </figure>
 
@@ -5462,7 +5462,7 @@ when A and B are positive does not represent a graph at all, since there are no 
 
     <figure id="Figure_10_04_010" class="small">
      <media id="fs-id2011757" alt="">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_010.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_010.jpg"/>
      </media>
     </figure>
 
@@ -7042,7 +7042,7 @@ when A and B are positive does not represent a graph at all, since there are no 
      </m:mrow>
     </m:math>
     </para><media id="fs-id2119635" alt="" display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_201.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_201.jpg"/>
     </media>
 
 </solution></exercise>
@@ -7151,7 +7151,7 @@ when A and B are positive does not represent a graph at all, since there are no 
     </para>
 
     <media id="fs-id1232420" alt="" display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_203.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_203.jpg"/>
     </media>
 
 </solution></exercise>
@@ -7266,7 +7266,7 @@ when A and B are positive does not represent a graph at all, since there are no 
     </para>
 
     <media id="fs-id2245295" alt="" display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_205.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_205.jpg"/>
     </media>
 
 </solution></exercise>
@@ -7375,7 +7375,7 @@ when A and B are positive does not represent a graph at all, since there are no 
     </para>
 
     <media id="fs-id2322951" alt="" display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_207.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_207.jpg"/>
     </media>
 
 </solution></exercise>
@@ -7448,7 +7448,7 @@ when A and B are positive does not represent a graph at all, since there are no 
 
 
     <media id="fs-id1999314" alt="" display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_209.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_209.jpg"/>
     </media>
 
 </solution></exercise>
@@ -7484,7 +7484,7 @@ when A and B are positive does not represent a graph at all, since there are no 
 
 
     <media id="fs-id2061214" alt="" display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_211.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_211.jpg"/>
     </media>
 
 </solution></exercise>
@@ -7526,7 +7526,7 @@ when A and B are positive does not represent a graph at all, since there are no 
 
 
     <media id="fs-id2757262" alt="" display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_213.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_213.jpg"/>
     </media>
 
 </solution></exercise>
@@ -7568,7 +7568,7 @@ when A and B are positive does not represent a graph at all, since there are no 
 
 
     <media id="fs-id2020878" alt="" display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_215.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_215.jpg"/>
     </media>
 
 </solution></exercise>
@@ -7604,7 +7604,7 @@ when A and B are positive does not represent a graph at all, since there are no 
 
 
     <media id="fs-id2106831" alt="" display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_217.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_217.jpg"/>
     </media>
    </solution></exercise>
    <exercise id="fs-id2106842" class="material-set-2"><problem id="fs-id2106843"><para id="fs-id2106844"> <m:math>
@@ -7648,7 +7648,7 @@ when A and B are positive does not represent a graph at all, since there are no 
 
 
     <media id="fs-id2430882" alt="" display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_219.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_219.jpg"/>
     </media>
 
 </solution></exercise>
@@ -7703,7 +7703,7 @@ when A and B are positive does not represent a graph at all, since there are no 
     </para>
 
     <media id="fs-id1722842" alt="" display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_221.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_221.jpg"/>
     </media>
 
 
@@ -7757,7 +7757,7 @@ when A and B are positive does not represent a graph at all, since there are no 
     </para>
 
     <media id="fs-id2320706" alt="" display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_223.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_223.jpg"/>
     </media>
 
 
@@ -7805,7 +7805,7 @@ when A and B are positive does not represent a graph at all, since there are no 
     </para>
 
     <media id="fs-id1651881" alt="" display="block">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_04_225.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_04_225.jpg"/>
 
    </media>
 

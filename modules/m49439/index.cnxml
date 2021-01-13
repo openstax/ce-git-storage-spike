@@ -23,7 +23,7 @@
 </section><section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-883"><title>Objective 1: Use the Distance Formula. (IA 11.1.1)</title><note id="eip-idm473145248"><title>Distance Formula</title><para id="eip-906"><term>Distance Formula</term>: The distance <emphasis effect="italics">d</emphasis> between two points <m:math><m:mfenced><m:mrow><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:mo>,</m:mo><m:mo> </m:mo><m:msub><m:mi>y</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfenced></m:math> and <m:math><m:mfenced><m:mrow><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>,</m:mo><m:mo> </m:mo><m:msub><m:mi>y</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:mfenced></m:math> is <m:math><m:mi>d</m:mi><m:mo>=</m:mo><m:msqrt><m:msup><m:mfenced><m:mrow><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>-</m:mo><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfenced><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mfenced><m:mrow><m:msub><m:mi>y</m:mi><m:mn>2</m:mn></m:msub><m:mo>-</m:mo><m:msub><m:mi>y</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfenced></m:mrow><m:mn>2</m:mn></m:msup>
 </m:msqrt></m:math> .</para>
 <media id="fs-dist" alt="distance formula graph">
-<image mime-type="image/jpg" src="CNX_Coreq_Figure_08_02_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_08_02_001.jpg"/>
 </media></note><example id="eip-360"><exercise id="eip-idm783803120"><problem id="eip-idm783802992"><title>Use the Distance Formula</title><para id="eip-891">
 Use the distance formula to find the distance between the points (−5, −3) and (7,2).
 </para></problem>
@@ -59,7 +59,7 @@ Use the distance formula to find the distance between the points (−5, −3) an
   </para>
 </problem></exercise></section></section><section id="eip-318"><title>Objective 2: Graph a hyperbola with center at (0,0). (IA 11.4.1)</title><para id="eip-832">A <term>hyperbola</term> is all points in a plane where the difference of their distances from two fixed points is constant. Each of the fixed points is called a <term>focus</term> of the hyperbola.</para><para id="eip-819">The line through the foci is called the <term>transverse axis</term>. The two points where the transverse axis intersects the hyperbola are each a <term>vertex</term> of the hyperbola. The midpoint of the segment joining the foci is called the <term>center</term> of the hyperbola. The line perpendicular to the transverse axis that passes through the center is called the <term>conjugate axis</term>. Each piece of the graph is called a <term>branch</term> of the hyperbola.</para>
 <media id="fs-hypdefgraph" alt="hyperbola definitional label graph">
-<image mime-type="image/png" src="hyperboladefgraph.png"/>
+<image mime-type="image/png" src="../../media/hyperboladefgraph.png"/>
 </media><table id="eip-331" summary="."><title>The standard form of the equation of a hyperbola with center (0,0)</title>
 <tgroup cols="3"><tbody>
   <row>
@@ -105,7 +105,7 @@ Opens up and down.
 </tgroup>
 </table>
 <media id="fs-hyp" alt="hyperbola graph">
-<image mime-type="image/png" src="hyperbolagraph.png"/>
+<image mime-type="image/png" src="../../media/hyperbolagraph.png"/>
 </media><para id="eip-241"><emphasis>Notice</emphasis> that, unlike the equation of an ellipse, the denominator of <m:math><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:math> is not always <m:math><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup></m:math> and the denominator of <m:math><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:math> is not always <m:math><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:math> . </para><para id="eip-439"><term>Notice</term> that when the <m:math><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:math> term is positive, the transverse axis is on the x-axis. When the <m:math><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:math> term is positive, the transverse axis is on the y-axis. </para>
 
 <note id="eip-684" class="how-to-notitle"><label/><title>How To Graph a hyperbola with center at (0, 0).</title>
@@ -151,22 +151,22 @@ Graph
 </problem>
 <solution id="fs-id1163873603471">
 <media id="fs-id1163873603473" alt="Step 1 is to write the equation in standard form. The the quantity x squared divided by 25 end quantity minus the quantity y squared divided by 4 end quantity is equal to 1 is already in standard form.">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_04_006a_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_04_006a_img.jpg"/>
 </media>
 <media id="fs-id1163873814884" alt="Step 2 is to determine whether the transverse axis is horizontal or vertical. Since the x squared term is positive, the transverse axis is horizontal.">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_04_006b_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_04_006b_img.jpg"/>
 </media>
 <media id="fs-id1163873606120" alt="Step 3 is to find the vertices. Since a squared is equal to 25, then a is equal to plus or minus 5. The vertices lie on the x-axis and are (negative 5, 0) and (5, 0).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_04_006c_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_04_006c_img.jpg"/>
 </media>
 <media id="fs-id1163873899041" alt="Step 4 is to sketch the rectangle centered at the origin, intersecting one axis at plus or minus a and the other at plus or minus b. Since a is equal to plus or minus 5, the rectangle will intersect the x-axis at the vertices. Since b is equal to plus or minus 2, the rectangle will intersect the y-axis at (0, negative 2) and (0, 2). The rectangle is shown on a coordinate plane with the points (0, 2), (0, negative 2), (negative 5, 0), and (5, 0) labeled.">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_04_006d_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_04_006d_img.jpg"/>
 </media>
 <media id="fs-id1163873508574" alt="Step 5 is to sketch the asymptotes, the lines through the diagonals of the rectangle. The asymptotes have the equations y is equal to five-halves times x and y is equal to negative five-halves x. The coordinate plane shows the rectangle with the points (0, 2), (0, negative 2), (negative 5, 0), and (5, 0) labeled and the lines that represent the asymptotes.">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_04_006e_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_04_006e_img.jpg"/>
 </media>
 <media id="fs-id1163873676691" alt="Step 6 is to draw the two branches of the hyperbola. Start at each vertex and use the asymptotes as a guide. The coordinate plane shows the rectangle with the points (0, 2), (0, negative 2), (negative 5, 0), and (5, 0) labeled, the lines that represent the asymptotes, y is equal to plus or minus five-halves times x, and the branches that pass through (plus or minus 5, 0) and open left and right.">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_04_006f_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_04_006f_img.jpg"/>
 </media>
 </solution>
 </exercise></example><example id="eip-482"><exercise id="fs-id1163873557621">
@@ -463,7 +463,7 @@ Draw the two branches of the hyperbola.
 </entry>
 <entry valign="top" align="left">
 <media id="fs-id1163869153025" alt=".">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_11_04_007a_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_11_04_007a_img.jpg"/>
 </media>
 </entry>
 </row>
@@ -488,7 +488,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 </para></problem></exercise></section></section></section><para id="fs-id1976461">What do paths of comets, supersonic booms, ancient Grecian pillars, and natural draft cooling towers have in common? They can all be modeled by the same type of <term class="no-emphasis">conic</term>. For instance, when something moves faster than the speed of sound, a shock wave in the form of a cone is created. A portion of a conic is formed when the wave intersects the ground, resulting in a sonic boom. See <link target-id="Figure_10_02_001"/>.</para>
 <figure id="Figure_10_02_001" class="small">
 <media id="fs-id1573713" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_001.jpg"/>
 </media>
 <caption>A shock wave intersecting the ground forms a portion of a conic and results in a sonic boom.</caption>
 </figure>
@@ -497,7 +497,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 <section id="fs-id2590621"><title>Locating the Vertices and Foci  of a Hyperbola</title><para id="fs-id1337006">In analytic geometry, a <term>hyperbola</term> is a conic section formed by intersecting a right circular cone with a plane at an angle such that both halves of the cone are intersected. This intersection produces two separate unbounded curves that are mirror images of each other. See <link target-id="Figure_10_02_002"/>.</para>
 <figure id="Figure_10_02_002" class="small">
 <media id="fs-id1087332" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_002.jpg"/>
 </media>
 <caption>A hyperbola</caption>
 </figure>
@@ -520,7 +520,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
  </m:mrow>
 </m:math> and the foci is a positive constant.</para><para id="fs-id1673987">Notice that the definition of a hyperbola is very similar to that of an ellipse. The distinction is that the hyperbola is defined in terms of the <emphasis effect="italics">difference</emphasis> of two distances, whereas the ellipse is defined in terms of the <emphasis effect="italics">sum</emphasis> of two distances.</para><para id="fs-id2467740">As with the ellipse, every hyperbola has two <term class="no-emphasis">axes of symmetry</term>. The <term>transverse axis</term> is a line segment that passes through the center of the hyperbola and has vertices as its endpoints. The foci lie on the line that contains the transverse axis. The <term>conjugate axis</term> is perpendicular to the transverse axis and has the co-vertices as its endpoints. The <term>center of a hyperbola</term> is the midpoint of both the transverse and conjugate axes, where they intersect. Every hyperbola also has two <term>asymptotes</term> that pass through its center. As a hyperbola recedes from the center, its branches approach these asymptotes. The <term>central rectangle</term> of the hyperbola is centered at the origin with sides that pass through each vertex and co-vertex; it is a useful tool for graphing the hyperbola and its asymptotes. To sketch the asymptotes of the hyperbola, simply sketch and extend the diagonals of the central rectangle. See <link target-id="Figure_10_02_003"/>.</para><figure id="Figure_10_02_003" class="medium">
 <media id="fs-id2190177" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_003.jpg"/>
 </media>
 <caption>Key features of the hyperbola</caption>
 </figure>
@@ -561,7 +561,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 </m:math> to the foci is constant. See <link target-id="Figure_10_02_013"/>.</para>
 <figure id="Figure_10_02_013" class="small">
 <media id="fs-id1829223" alt="A horizontal hyperbola in the x y coordinate system centered at (0, 0) with Vertices at (negative a, 0) and (a, 0) and Foci at (negative c, 0) and (c, 0), with lines of length d1 and d2 connecting a point on the right branch of the hyperbola to the foci.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_013.jpg"/>
 </media>
 </figure>
 <para id="fs-id2066704">If <m:math>
@@ -1802,7 +1802,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 </m:math> When we are given the equation of a hyperbola, we can use this relationship to identify its vertices and foci.</para>
 </note><figure id="Figure_10_02_004">
 <media id="fs-id1569134" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_004.jpg"/>
 </media>
 <caption>(a) Horizontal hyperbola with center <m:math>
  <m:mrow>
@@ -2818,7 +2818,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
   <m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo>
  </m:mrow>
 </m:math> as shown in <link target-id="Figure_10_02_014"/>.</para><figure id="Figure_10_02_014" class="small"><media id="fs-id2092250" alt="A horizontal hyperbola centered at (0, 0) in the x y coordinate system with Vertices at (negative 6, 0) and (6, 0).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_014.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_014.jpg"/>
 </media>
 </figure></solution>
 </exercise></example>
@@ -3213,7 +3213,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
   <m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mi>k</m:mi><m:mo>.</m:mo>
  </m:mrow>
 </m:math> See <link target-id="Figure_10_02_005"/><emphasis>b</emphasis>.</para></note><figure id="Figure_10_02_005"><media id="fs-id1953174" alt="This is a horizontal parabola opening to the right with Vertex (0, 0), Focus (6, 0), and Directrix x = negative 6. The Latus Rectum is shown, a vertical line passing through the Focus and terminating on the parabola at (6, 12) and (6, negative 12).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_005n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_005n.jpg"/>
 </media>
 
 <caption>(a) Horizontal hyperbola with center <m:math>
@@ -4416,7 +4416,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 </m:math>
 </para><para id="fs-id2123504">Plot and label the vertices and co-vertices, and then sketch the central rectangle. Sides of the rectangle are parallel to the axes and pass through the vertices and co-vertices. Sketch and extend the diagonals of the central rectangle to show the asymptotes. The central rectangle and asymptotes provide the framework needed to sketch an accurate graph of the hyperbola. Label the foci and asymptotes, and draw a smooth curve to form the hyperbola, as shown in <link target-id="Figure_10_02_006"/>.</para><figure id="Figure_10_02_006" class="medium">
 <media id="fs-id2123518" alt="A vertical hyperbola centered at (0, 0) in the x y coordinate system with Vertices at (0, 8) and (0, negative 8) and Foci at (0, negative 10) and (0, 10). Also shown are the slant asymptotes, y = (4/3)x and y = (negative 4/3)x. The points (negative 6, 0) (6, 0) and (0, 0) are labeled.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_006.jpg"/>
 </media>
 </figure>
 </solution>
@@ -4487,7 +4487,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 </para>
 
 <media id="fs-id2208468" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_007.jpg"/>
 </media>
 
 </solution>
@@ -5257,7 +5257,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 </para>
 <para id="fs-id1943328">Next, we plot and label the center, vertices, co-vertices, foci, and asymptotes and draw smooth curves to form the hyperbola, as shown in <link target-id="Figure_10_02_008"/>.</para><figure id="Figure_10_02_008" class="small">
 <media id="fs-id1943339" alt="A horizontal hyperbola centered at (2, negative 5) with Vertices at (negative 4, negative 5) and (8, 5) and Foci at (2 minus 3 square root of 13, negative 5) and (2 + 3 square root of 13, negative 5). Also shown are the slant asymptotes, y = (3/2) times (x minus 2) minus 5 and y = (negative 3/2)times (x minus 2) minus 5. The points (2, negative 14), (2, 4) and (0, 0) are labeled.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_008.jpg"/>
 </media>
 </figure>
 </solution>
@@ -5388,7 +5388,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 </para>
 
 <media id="fs-id1673146" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_009.jpg"/>
 </media>
 
 </solution>
@@ -5399,7 +5399,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 <title>Solving Applied Problems Involving Hyperbolas</title>
 <para id="fs-id1673163">As we discussed at the beginning of this section, hyperbolas have real-world applications in many fields, such as astronomy, physics, engineering, and architecture. The design efficiency of hyperbolic cooling towers is particularly interesting. Cooling towers are used to transfer waste heat to the atmosphere and are often touted for their ability to generate power efficiently. Because of their hyperbolic form, these structures are able to withstand extreme winds while requiring less material than any other forms of their size and strength. See <link target-id="Figure_10_02_010"/>. For example, a 500-foot tower can be made of a reinforced concrete shell only 6 or 8 inches wide!</para><figure id="Figure_10_02_010" class="small">
 <media id="fs-id1673178" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_010.jpg"/>
 </media>
  <caption>Cooling towers at the Drax power station in North Yorkshire, United Kingdom (credit: Les Haines, Flickr)</caption>
 </figure>
@@ -5408,7 +5408,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 <exercise id="fs-id1673201"><problem id="fs-id1673203">
 <title>Solving Applied Problems Involving Hyperbolas </title>
 <para id="fs-id1673209">The design layout of a cooling tower is shown in <link target-id="Figure_10_02_011"/>. The tower stands 179.6 meters tall. The diameter of the top is 72 meters. At their closest, the sides of the tower are 60 meters apart.</para><figure id="Figure_10_02_011" class="small"><media id="fs-id1673220" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_011n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_011n.jpg"/>
 </media>
 
 <caption>Project design for a natural draft cooling tower</caption></figure><para id="fs-id1673233">Find the equation of the hyperbola that models the sides of the cooling tower. Assume that the center of the <term class="no-emphasis">hyperbola</term>—indicated by the intersection of dashed perpendicular lines in the figure—is the origin of the coordinate plane. Round final values to four decimal places.</para>
@@ -5817,7 +5817,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 <note id="fs-id1669673" class="precalculus try">
 <label>Try It</label>
 <exercise id="ti_10_02_06"><problem id="fs-id1669683"><para id="fs-id1669684">A design for a cooling tower project is shown in <link target-id="Figure_10_02_012"/>. Find the equation of the hyperbola that models the sides of the cooling tower. Assume that the center of the hyperbola—indicated by the intersection of dashed perpendicular lines in the figure—is the origin of the coordinate plane. Round final values to four decimal places.</para><figure id="Figure_10_02_012" class="small"><media id="fs-id1669699" alt="Project design for a natural draft cooling tower. The overall height is 167.082 meters. The diameter at the top is 60 meters, and at their closest, 79.6 meters from the top, the sides are 60 meters apart.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_012n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_012n.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1669710"><para id="fs-id1669711"> The sides of the tower can be modeled by the hyperbolic equation. <m:math>
@@ -7638,7 +7638,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 
 <solution id="fs-id1741219">
 <media id="fs-id1741223" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_201.jpg"/>
 </media>
 </solution></exercise>
 
@@ -7701,7 +7701,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 
 <solution id="fs-id1741352">
 <media id="fs-id1741357" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_203.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_203.jpg"/>
 </media>
 </solution></exercise>
 
@@ -7763,7 +7763,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 
 <solution id="fs-id2465308">
 <media id="fs-id2465312" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_205.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_205.jpg"/>
 </media>
 </solution></exercise>
 
@@ -7849,7 +7849,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 
 <solution id="fs-id2342989">
 <media id="fs-id2342994" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_207.jpg"/>
 </media>
 </solution></exercise>
 
@@ -7885,7 +7885,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 
 <solution id="fs-id2343121">
 <media id="fs-id2343126" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_209.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_209.jpg"/>
 </media>
 </solution></exercise>
 
@@ -7920,7 +7920,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 <solution id="fs-id1743280">
 
 <media id="fs-id1743286" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_211.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_211.jpg"/>
 </media>
 </solution></exercise>
 
@@ -7956,7 +7956,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 
 <solution id="fs-id1743413">
 <media id="fs-id1743418" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_213.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_213.jpg"/>
 </media>
 </solution></exercise>
 
@@ -8262,7 +8262,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 <para id="fs-id1926817">For the following exercises, given the graph of the hyperbola, find its equation.</para>
 <exercise id="fs-id1926820"><problem id="fs-id1926821">
 <media id="fs-id1926826" alt="A vertical hyperbola centered at (0, 0) with vertices at (0, negative 4) and (0, 4). The slant asymptotes are shown but not labeled." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_215n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_215n.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1926836"><para id="fs-id1926837"> <m:math>
@@ -8296,11 +8296,11 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 </m:math>
 </para></solution></exercise><exercise id="fs-id1926898"><problem id="fs-id1926899">
 <media id="fs-id1926904" alt="A horizontal hyperbola centered at (1, 1) with  vertices at (1 minus square root of 2, 1) and (1 + square root of 2, 1) and foci at (1 minus square root of 5, 1) and (1 + square root of 5, 1)" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_216n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_216n.jpg"/>
 </media>
 </problem></exercise><exercise id="fs-id1926914"><problem id="fs-id1926915">
 <media id="fs-id1926919" alt="A vertical hyperbola centered at (negative 1, 0) with vertices at (negative 1, negative 3) and (negative 1, 3) and foci at (negative 1, negative 3 square root of 2) and (negative 1, 3 square root of 2)." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_217n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_217n.jpg"/>
 </media>
 </problem>
 
@@ -8337,11 +8337,11 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 </m:math>
 </para></solution></exercise><exercise id="fs-id1928057"><problem id="fs-id1928058">
 <media id="fs-id1928063" alt="A vertical hyperbola centered at (3, 1) with vertices at (3, 1 minus square root of 2) and (3, 1 + square root of 2) and foci at (3, 1 minus square root of 7) and (3, 1 + square root of 7)." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_218n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_218n.jpg"/>
 </media>
 </problem></exercise><exercise id="fs-id1928073"><problem id="fs-id1928074">
 <media id="fs-id1928078" alt="A horizontal hyperbola centered at (negative 3, negative 3) with vertices at (negative 8, negative 3) and (2, negative 3) and foci at (negative 3 minus 5 square root of 2, negative 3) and (negative 3 + 5 square root of 2, negative 3)." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_219.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_219.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1928088"><para id="fs-id1928090"> <m:math>
@@ -8480,7 +8480,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 </para>
 
 <media id="fs-id1949961" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_226.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_226.jpg"/>
 </media>
 </solution></exercise>
 <exercise id="fs-id1949971"><problem id="fs-id1949972"><para id="fs-id1949973"> <m:math>
@@ -8569,7 +8569,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 </para>
 
 <media id="fs-id1944714" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_228.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_228.jpg"/>
 </media>
 </solution></exercise>
 <exercise id="fs-id1944724"><problem id="fs-id1944725"><para id="fs-id1944726"> <m:math>
@@ -8629,7 +8629,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 </para>
 
 <media id="fs-id1925711" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_220.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_220.jpg"/>
 </media>
 </solution></exercise>
 
@@ -8687,7 +8687,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 </para>
 
 <media id="fs-id1274620" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_222.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_222.jpg"/>
 </media>
 </solution></exercise>
 
@@ -8756,7 +8756,7 @@ Graph <m:math><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>
 </para>
 
 <media id="fs-id1274822" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_10_02_224.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_02_224.jpg"/>
 </media>
 </solution></exercise>
 

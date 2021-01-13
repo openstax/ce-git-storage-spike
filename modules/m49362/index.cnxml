@@ -23,11 +23,11 @@
 <para id="fs-id1167833310422">We will use point plotting to graph the functions.</para>
 <para id="fs-id1167833086912">
 <media id="fs-id1167836305912" alt="This table has seven rows and five columns. The first row is header row and reads x, f of x equals 2 to the x power, (x, f of x), g of x equals 2 to the x plus 1 power, and (x, g of x). The second row reads negative 2, 2 to the negative 2 power equals 1 divided by 2 squared which equals 1 over 4, (negative 2, 1 over 4), 2 to the negative 2 plus 1 power equals 1 divided by 2 to the first power which equals 1 over 2, (negative 2, 1 over 2). The third row reads negative 1, 2 to the negative 1 power equals 1 divided by 2 to the first power which equals 1 over 2, (negative 1, 1 over 2), 2 to the negative 1 plus 1 power equals 2 to the 0 power which equals 1, (negative 1, 1). The fourth row reads 0, 2 to the 0 power equals 1, (0, 1), 2 to the 0 plus 1 power equals 2 to the 1 power which equals 2, (0, 2). The fifth row reads 1, 2 to the 1 power equals 2, (1, 2), 2 to the 1 plus 1 power equals 2 to the second power which equals 4, (1, 4). The sixth row reads 2, 2 to the 2 power equals 4, (2, 4), 2 to the 2 plus 1 power equals 2 to the third power which equals 8, (2, 8). The seventh row reads 3, 2 to the 3 power equals 8, (3, 8), 2 to the 3 plus 1 power equals 2 to the fourth power which equals 16, (3, 16).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_02_008_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_10_02_008_img.jpg"/>
 </media>
 </para>
 <para id="fs-id1167836309292"><media id="fs-id1167829811741" alt="This figure shows two curves. The first curve is marked in blue and passes through the points (negative 1, 1 over 2), (0, 1) and (1, 2). The second curve is marked in red and passes through the points (negative 1, 1), (0, 2) and (1, 4).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_02_009_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_10_02_009_img.jpg"/>
 </media><newline/> Looking at the graphs of the functions
  <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mn>2</m:mn><m:mi>x</m:mi></m:msup></m:math> and <m:math><m:mi>g</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mn>2</m:mn><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> above, we see that adding one in the exponent caused a horizontal shift of one unit to the left. We can use this pattern to graph other functions using horizontal shifts.
 </para></solution>
@@ -38,23 +38,23 @@
 <para id="fs-id1167836533399">We will use point plotting to graph the functions.</para>
 <para id="fs-id1167836310307">
 <media id="fs-id1167836493232" alt="This table has five rows and six columns. The first row is header row and reads x, f of x equals 3 to the x power, (x, f of x), g of x equals 3 to the x power minus 2, and (x, g of x). The second row reads negative 2, 3 to the negative 2 power equals 1 over 9, (negative 2, 1 over 9), 3 to the negative 2 power minus 2 equals 1 over 9 minus 2 which equals negative 17 over 9, (negative 2, negative 17 over 9). The third row reads negative 1, 3 to the negative 1 power equals 1 over 3, (negative 1, 1 over 3), 3 to the negative 1 power minus 2 equals 1 over 3 minus 2 which equals negative 5 over 3, (negative 1, negative 5 over 3). The fourth row reads 0, 3 to the 0 power equals 1, (0, 1), 3 to the 0 power minus 2 equals 1 minus 2 which equals negative 1, (0, negative 1). The fifth row reads 1, 3 to the 1 power equals 3, (1, 3), 3 to the 1 power minus 2 equals 3 minus 2 which equals 1, (1, 1). The sixth row reads 2, 3 squared equals 9, (2, 9), 3 squared minus 2 equals 9 minus 2 which equals 7, (2, 7).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_02_010_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_10_02_010_img.jpg"/>
 </media>
 </para>
 <para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1167829747830"><media id="fs-id1167836313236" alt="This figure shows two curves. The first curve is marked in blue and passes through the points (negative 1, 1 over 3), (0, 1), and (1, 3). The second curve is marked in red and passes through the points (negative 1, negative 5 over 3), (0, negative 1), and (1, 1).">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_02_011_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_10_02_011_img.jpg"/>
 </media><newline/> Looking at the graphs of the functions <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mn>3</m:mn><m:mi>x</m:mi></m:msup></m:mrow></m:math> and <m:math><m:mrow><m:mi>g</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mn>3</m:mn><m:mi>x</m:mi></m:msup><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow></m:math>, we see that subtracting 2 caused
 vertical shift of down two units. Notice that the horizontal asymptote also shifted down 2 units. We can
 use this pattern to help graph other functions with a vertical shift.
 </para></solution></exercise></example><section id="eip-730" class="practice-perfect"><title>Practice Makes Perfect </title><exercise id="eip-339"><problem id="eip-411">
   <para id="eip-179">On the same coordinate system graph <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mn>3</m:mn><m:mi>x</m:mi></m:msup></m:mrow></m:math> and <m:math><m:mrow><m:mi>g</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mn>3</m:mn><m:mrow><m:mi>x</m:mi><m:mn>-1</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math>
   <media id="fs-id1167836312236" alt=".">
-<image mime-type="image/jpeg" src="blankplot6.4-01c0.png"/>
+<image mime-type="image/jpeg" src="../../media/blankplot6.4-01c0.png"/>
 </media></para></problem>
 </exercise><exercise id="eip-457"><problem id="eip-415">
   <para id="eip-579">On the same coordinate system graph <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mn>3</m:mn><m:mi>x</m:mi></m:msup></m:mrow></m:math> and <m:math><m:mrow><m:mi>g</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mn>3</m:mn><m:mrow><m:mi>x</m:mi></m:mrow></m:msup><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>.</m:mo></m:mrow></m:math>
   <media id="fs-id1167836512236" alt=".">
-<image mime-type="image/jpeg" src="blankplot6.4-01c0.png"/>
+<image mime-type="image/jpeg" src="../../media/blankplot6.4-01c0.png"/>
 </media></para></problem>
 </exercise></section></section><section id="eip-120"><title>Objective 2: Function transformations (exponential). (CA 3.5.1-3.5.5)</title><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-593"><title>Vertical and Horizontal Shifts: </title>Given a function <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:math> , a new function <m:math><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mi>k</m:mi></m:math> where <m:math><m:mi>k</m:mi></m:math> is a constant, is a <term>vertical shift</term> of the function <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:math>. All the output values change by <emphasis effect="italics">k</emphasis> units. If <emphasis effect="italics">k</emphasis> is a positive, the graph will shift up. If <emphasis effect="italics">k</emphasis> is negative, the graph will shift down. </para><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-949">Given a function <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:math> , a new function <m:math><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mi>h</m:mi><m:mo stretchy="false">)</m:mo></m:math> , where <emphasis effect="italics">h</emphasis> is a constant, is a <term>horizontal shift</term> of the function <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:math> . If <emphasis effect="italics">h</emphasis> is positive, the graph will shift right. If <emphasis effect="italics">h</emphasis> is negative, the graph will shift left. </para><note xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-525" class="how-to-notitle"><para id="eip-879"><emphasis effect="bold">Given a function and both a vertical and a horizontal shift, sketch the graph.</emphasis></para><list id="fs-id1163835417621" list-type="enumerated" number-style="arabic" class="stepwise">
 <item>Identify the vertical and horizontal shifts from the formula.</item>
@@ -74,7 +74,7 @@ Function transformations (exponential).
 <item>Two outside columns have the points for the new graph</item>
 </list>
   <media id="fs-id1127836512236" alt=".">
-<image mime-type="image/jpeg" src="CNX_Coreq_Figure_06_02_001.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_Coreq_Figure_06_02_001.jpg"/>
 </media>
 </para></solution>
 </exercise></example><note id="eip-414" class="how-to-notitle"><label>How To</label>
@@ -86,7 +86,7 @@ Function transformations (exponential).
   <para id="eip-979">Graph <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mn>2</m:mn><m:mrow><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:math>
 
   <media id="fs-id1167896312236" alt=".">
-<image mime-type="image/jpeg" src="blankplot6.4-01c0.png"/>
+<image mime-type="image/jpeg" src="../../media/blankplot6.4-01c0.png"/>
 </media></para></problem>
 </exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-497"><problem id="eip-448">
   <para id="eip-599"><list id="eip-idm351917840" list-type="bulleted" bullet-style="bullet" class="circled"><item> <span class="token">ⓐ</span> Given <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mn>3</m:mn><m:mi>x</m:mi></m:msup></m:math> , reflect it about y-axis and write an equation of a new function below.</item>
@@ -269,7 +269,7 @@ equation of a new function below.</item>
 
 
 <figure id="CNX_Precalc_Figure_04_02_001" class="small"><media id="fs-id1165137653850" alt="Graph of the exponential function, 2^(x), with labeled points at (-3, 1/8), (-2, ¼), (-1, ½), (0, 1), (1, 2), (2, 4), and (3, 8). The graph notes that the x-axis is an asymptote.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_02_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_02_001.jpg"/>
 </media>
 
 <caption>Notice that the graph gets close to the <emphasis effect="italics">x</emphasis>-axis, but never touches it.</caption></figure><para id="fs-id1165137459614">The domain of <m:math>
@@ -472,7 +472,7 @@ equation of a new function below.</item>
 
 <figure id="CNX_Precalc_Figure_04_02_002" class="small">
 <media id="fs-id1165137425223" alt="Graph of decreasing exponential function, (1/2)^x, with labeled points at (-3, 8), (-2, 4), (-1, 2), (0, 1), (1, 1/2), (2, 1/4), and (3, 1/8). The graph notes that the x-axis is an asymptote.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_02_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_02_002.jpg"/>
 </media>
 </figure>
 
@@ -567,7 +567,7 @@ equation of a new function below.</item>
 </m:math> </item>
 </list><para id="fs-id1165137471878"><link target-id="CNX_Precalc_Figure_04_02_003"/> compares the graphs of <term class="no-emphasis">exponential growth</term> and decay functions.</para>
 <figure id="CNX_Precalc_Figure_04_02_003" class="medium"><media id="fs-id1165137748447" alt="Graph of two functions where the first graph is of a function of f(x) = b^x when b&gt;1 and the second graph is of the same function when b is 0&lt;b&lt;1. Both graphs have the points (0, 1) and (1, b) labeled.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_02_003new.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_02_003new.jpg"/>
 </media>
 </figure></note><note id="fs-id1165134195243" class="how-to-notitle">
 <label>How To</label>
@@ -763,7 +763,7 @@ equation of a new function below.</item>
 
 <figure id="CNX_Precalc_Figure_04_02_004" class="small">
 <media id="fs-id1165137940681" alt="Graph of the decaying exponential function f(x) = 0.25^x with labeled points at (-1, 4), (0, 1), and (1, 0.25).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_02_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_02_004.jpg"/>
 </media>
 </figure>
 
@@ -828,7 +828,7 @@ equation of a new function below.</item>
 </m:math> </para>
 
 <media id="fs-id1165137437648" alt="Graph of the increasing exponential function f(x) = 4^x with labeled points at (-1, 0.25), (0, 1), and (1, 4).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_02_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_02_005.jpg"/>
 </media>
 
 </solution>
@@ -891,7 +891,7 @@ equation of a new function below.</item>
 </m:mrow>
 </m:math> Both vertical shifts are shown in <link target-id="CNX_Precalc_Figure_04_02_006"/>.</para><figure id="CNX_Precalc_Figure_04_02_006" class="small">
 <media id="fs-id1165137724006" alt="Graph of three functions, g(x) = 2^x+3 in blue with an asymptote at y=3, f(x) = 2^x in orange with an asymptote at y=0, and h(x)=2^x-3 with an asymptote at y=-3. Note that each functions’ transformations are described in the text.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_02_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_02_006.jpg"/>
 </media>
 </figure>
 
@@ -1061,7 +1061,7 @@ equation of a new function below.</item>
 </m:mrow>
 </m:math> Both horizontal shifts are shown in <link target-id="CNX_Precalc_Figure_04_02_007"/>.</para><figure id="CNX_Precalc_Figure_04_02_007" class="medium">
 <media id="fs-id1165137697032" alt="Graph of three functions, g(x) = 2^(x+3) in blue, f(x) = 2^x in orange, and h(x)=2^(x-3). Each functions’ asymptotes are at y=0Note that each functions’ transformations are described in the text.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_02_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_02_007.jpg"/>
 </media>
 </figure>
 
@@ -1451,7 +1451,7 @@ equation of a new function below.</item>
 
 <figure id="CNX_Precalc_Figure_04_02_008" class="small">
 <media id="fs-id1165137591826" alt="Graph of the function, f(x) = 2^(x+1)-3, with an asymptote at y=-3. Labeled points in the graph are (-1, -2), (0, -1), and (1, 1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_02_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_02_008.jpg"/>
 </media>
 </figure>
 
@@ -1518,7 +1518,7 @@ equation of a new function below.</item>
 
 
 <media id="fs-id1165137628194" alt="Graph of the function, f(x) = 2^(x-1)+3, with an asymptote at y=3. Labeled points in the graph are (-1, 3.25), (0, 3.5), and (1, 4).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_02_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_02_009.jpg"/>
 </media>
 
 </solution>
@@ -1705,7 +1705,7 @@ equation of a new function below.</item>
 
 <figure id="CNX_Precalc_Figure_04_02_010">
 <media id="fs-id1165135512550" alt="Two graphs where graph a is an example of vertical stretch and graph b is an example of vertical compression.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_02_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_02_010.jpg"/>
 </media>
 <caption>(a) <m:math>
 <m:mrow>
@@ -2025,7 +2025,7 @@ equation of a new function below.</item>
 
 <figure id="CNX_Precalc_Figure_04_02_011" class="small">
 <media id="fs-id1165135453156" alt="Graph of the function, f(x) = 4(1/2)^(x), with an asymptote at y=0. Labeled points in the graph are (-1, 8), (0, 4), and (1, 2).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_02_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_02_011.jpg"/>
 </media>
 </figure>
 
@@ -2096,7 +2096,7 @@ equation of a new function below.</item>
 </m:math>
 <newline/>
 <media id="fs-id1165135417835" alt="Graph of the function, f(x) = (1/2)(4)^(x), with an asymptote at y=0. Labeled points in the graph are (-1, 0.125), (0, 0.5), and (1, 2)." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_02_012.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_02_012.jpg"/>
 </media>
 </para>
 </solution>
@@ -2151,7 +2151,7 @@ equation of a new function below.</item>
 </m:mrow>
 </m:math> is shown on the right side of <link target-id="CNX_Precalc_Figure_04_02_013"/>.</para><figure id="CNX_Precalc_Figure_04_02_013">
 <media id="fs-id1165137410094" alt="Two graphs where graph a is an example of a reflection about the x-axis and graph b is an example of a reflection about the y-axis.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_02_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_02_013.jpg"/>
 </media>
 <caption>(a) <m:math>
 <m:mrow>
@@ -2504,7 +2504,7 @@ equation of a new function below.</item>
 
 <figure id="CNX_Precalc_Figure_04_02_014" class="small">
 <media id="fs-id1165137736449" alt="Graph of the function, g(x) = -(0.25)^(x), with an asymptote at y=0. Labeled points in the graph are (-1, -4), (0, -1), and (1, -0.25).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_02_014.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_02_014.jpg"/>
 </media>
 </figure>
 
@@ -2574,7 +2574,7 @@ equation of a new function below.</item>
 </m:math> </para>
 
 <media id="fs-id1165137828034" alt="Graph of the function, g(x) = -(1.25)^(-x), with an asymptote at y=0. Labeled points in the graph are (-1, 1.25), (0, 1), and (1, 0.8).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_02_015.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_02_015.jpg"/>
 </media>
 
 </solution>
@@ -3570,7 +3570,7 @@ is shifted downward <m:math>
 <solution id="fs-id1165137693538">
 
 <media id="fs-id1165137693544" alt="Graph of two functions, g(-x)=-2(0.25)^(-x) in blue and g(x)=-2(0.25)^x in orange.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_02_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_02_202.jpg"/>
 </media>
 <para id="fs-id1165135581056"><emphasis effect="italics">y</emphasis>-intercept: <m:math>
 <m:mrow>
@@ -3650,7 +3650,7 @@ is shifted downward <m:math>
 <solution id="fs-id1165137639767">
 
 <media id="fs-id1165135500738" alt="Graph of three functions, g(x)=3(2)^(x) in blue, h(x)=3(4)^(x) in green, and f(x)=3(1/4)^(x) in orange.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_02_204.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_02_204.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165137610823" class="material-set-2">
@@ -3703,7 +3703,7 @@ is shifted downward <m:math>
 
 <figure id="CNX_Precalc_Figure_04_02_206" class="small">
 <media id="fs-id1165137761700" alt="Graph of six exponential functions.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_02_206.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_02_206.jpg"/>
 </media>
 </figure><exercise id="fs-id1165137758080">
 <problem id="fs-id1165137758082">
@@ -3859,7 +3859,7 @@ is shifted downward <m:math>
 </m:math> </para>
 <figure id="CNX_Precalc_Figure_04_02_207" class="small">
 <media id="fs-id1165135171593" alt="Graph of six exponential functions.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_02_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_02_207.jpg"/>
 </media>
 </figure><exercise id="fs-id1165137817442">
 <problem id="fs-id1165137817444">
@@ -3931,7 +3931,7 @@ is shifted downward <m:math>
 <solution id="fs-id1165135581221">
 
 <media id="fs-id1165137736410" alt="Graph of two functions, f(x)=(1/2)(4)^(x) in blue and -f(x)=(-1/2)(4)^x in orange.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_02_208.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_02_208.jpg"/>
 </media>
 
 </solution>
@@ -3973,7 +3973,7 @@ is shifted downward <m:math>
 <solution id="fs-id1165135187279">
 
 <media id="fs-id1165137806564" alt="Graph of two functions, -f(x)=(4)(2)^(x)-2 in blue and f(x)=(-4)(2)^x+1 in orange.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_02_210.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_02_210.jpg"/>
 </media>
 </solution>
 </exercise><para id="fs-id1165137736387">For the following exercises, graph the transformation of <m:math>
@@ -4018,7 +4018,7 @@ is shifted downward <m:math>
 <solution id="fs-id1165137704844">
 
 <media id="fs-id1165135188613" alt="Graph of h(x)=2^(x)+3.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_02_212.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_02_212.jpg"/>
 </media>
 <para id="fs-id1165135481142">Horizontal asymptote: <m:math>
  <m:mrow>
@@ -4268,7 +4268,7 @@ is shifted downward <m:math>
 <para id="eip-id1582799">
 <newline/>
 <media id="fs-id1165137838416" alt="Graph of f(x)=2^(x) with the following translations: vertical stretch of 4, a reflection about the x-axis, and a shift up by 1." display="block">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_02_214.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_02_214.jpg"/>
 </media>
 </para>
 </problem>
@@ -4276,7 +4276,7 @@ is shifted downward <m:math>
 <para id="eip-id2853461">
 <newline/>
 <media id="fs-id1165135536360" alt="Graph of f(x)=2^(x) with the following translations: a reflection about the x-axis, and a shift up by 3." display="block">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_02_215.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_02_215.jpg"/>
 </media>
 </para>
 </problem>
@@ -4295,7 +4295,7 @@ is shifted downward <m:math>
 <para id="eip-id1617146">
 <newline/>
 <media id="fs-id1165137408011" alt="Graph of f(x)=2^(x) with the following translations: vertical stretch of 2, a reflection about the x-axis and y-axis, and a shift up by 3." display="block">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_02_216.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_02_216.jpg"/>
 </media>
 </para>
 </problem>
@@ -4305,7 +4305,7 @@ is shifted downward <m:math>
 <para id="eip-id1792336">
 <newline/>
 <media id="fs-id1165137550975" alt="Graph of f(x)=3^(x) with the following translations: vertical stretch of 2, a reflection about the x-axis, and a shift up by 7." display="block">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_02_217.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_02_217.jpg"/>
 </media>
 </para>
 </problem>
@@ -4328,7 +4328,7 @@ is shifted downward <m:math>
 <para id="eip-id2261043">
 <newline/>
 <media id="fs-id1165135560715" alt="Graph of f(x)=(1/2)^(x) with the following translations: vertical stretch of 2, and a shift down by 4." display="block">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_02_218.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_02_218.jpg"/>
 </media>
 </para>
 </problem>

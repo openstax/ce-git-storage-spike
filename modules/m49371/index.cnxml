@@ -21,7 +21,7 @@
 
  <section id="fs-id1165134080949"><title>Drawing Angles in Standard Position </title><para id="fs-id1165135347489">Properly defining an angle first requires that we define a ray. A <term>ray</term> consists of one point on a line and all points extending in one direction from that point. The first point is called the <term class="no-emphasis">endpoint</term> of the ray. We can refer to a specific ray by stating its endpoint and any other point on it. The ray in <link target-id="Figure_05_01_001"/> can be named as ray EF, or in symbol form <m:math><m:mrow><m:mover accent="true"><m:mrow><m:mi>E</m:mi><m:mi>F</m:mi></m:mrow><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow></m:mover><m:mo>.</m:mo></m:mrow></m:math>
   </para><figure id="Figure_05_01_001" class="small"><media id="fs-id1165134170211" alt="Illustration of Ray EF, with point F and endpoint E.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_001.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_001.jpg"/>
    </media>
   </figure><para id="fs-id1165137843060">An <term>angle</term> is the union of two rays having a common endpoint. The endpoint is called the <term>vertex</term> of the angle, and the two rays are the sides of the angle. The angle in <link target-id="Figure_05_01_002"/> is formed from <m:math>
    <m:mrow>
@@ -46,7 +46,7 @@
     <m:mtext> ∠</m:mtext><m:mi>D</m:mi><m:mi>E</m:mi><m:mi>F</m:mi><m:mo>.</m:mo></m:mrow>
   </m:math> </para><figure id="Figure_05_01_002" class="small">
    <media id="fs-id1165137627024" alt="Illustration of Angle DEF, with vertex E and points D and F.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_002.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_002.jpg"/>
    </media>
   </figure>
 
@@ -106,7 +106,7 @@
 </tgroup>
 </table><figure id="Figure_05_01_003" class="small">
    <media id="fs-id1165135192939" alt="Illustration of angle theta.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_003.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_003.jpg"/>
    </media>
    <caption>Angle theta, shown as <m:math>
     <m:mrow>
@@ -118,7 +118,7 @@
   <para id="fs-id1165135168438">Angle creation is a dynamic process. We start with two rays lying on top of one another. We leave one fixed in place, and rotate the other. The fixed ray is the <term>initial side</term><emphasis effect="bold">, </emphasis>and the rotated ray is the <term>terminal side</term>. In order to identify the different sides, we indicate the rotation with a small arc and arrow close to the vertex as in <link target-id="Figure_05_01_004"/>.</para>
   <figure id="Figure_05_01_004" class="small">
    <media id="fs-id1165137737991" alt="Illustration of an angle with labels for initial side, terminal side, and vertex.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_004.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_004.jpg"/>
    </media>
   </figure>
 
@@ -131,7 +131,7 @@
      </m:mfrac>
      </m:mrow>
    </m:math> of a circular rotation, so a complete circular rotation contains 360 degrees. An angle measured in degrees should always include the unit “degrees” after the number, or include the degree symbol °. For example, 90 degrees = 90°.</para><para id="fs-id1165137705201">To formalize our work, we will begin by drawing angles on an <emphasis effect="italics">x</emphasis>-<emphasis effect="italics">y</emphasis> coordinate plane. Angles can occur in any position on the coordinate plane, but for the purpose of comparison, the convention is to illustrate them in the same position whenever possible. An angle is in <term>standard position</term> if its vertex is located at the origin, and its initial side extends along the positive <emphasis effect="italics">x</emphasis>-axis. See <link target-id="Figure_05_01_005"/>.</para><figure id="Figure_05_01_005" class="small"><media id="fs-id1165137804556" alt="Graph of an angle in standard position with labels for the initial side and terminal side.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_005.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_005.jpg"/>
    </media>
   </figure><para id="fs-id1165137472055">If the angle is measured in a counterclockwise direction from the initial side to the terminal side, the angle is said to be a <term>positive angle</term>. If the angle is measured in a clockwise direction, the angle is said to be a <term>negative angle</term>.</para>
    <para id="fs-id1165135205872">Drawing an angle in standard position always starts the same way—draw the initial side along the positive <emphasis effect="italics">x</emphasis>-axis. To place the terminal side of the angle, we must calculate the fraction of a full rotation the angle represents. We do that by dividing the angle measure in degrees by 360°. For example, to draw a 90° angle, we calculate that <m:math>
@@ -158,12 +158,12 @@
      <m:mo>=</m:mo><m:mn>1.</m:mn></m:mrow>
    </m:math> So the terminal side will be 1 complete rotation around the circle, moving counterclockwise from the positive <emphasis effect="italics">x</emphasis>-axis. In this case, the initial side and the terminal side overlap. See <link target-id="Figure_05_01_006"/>.</para><figure id="Figure_05_01_006" class="medium">
    <media id="fs-id1165134042853" alt="Side by side graphs. Graph on the left is a 90 degree angle and graph on the right is a 360 degree angle. Terminal side and initial side are labeled for both graphs.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_006.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_006.jpg"/>
    </media>
   </figure>
 
    <para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165137530771">Since we define an angle in <term class="no-emphasis">standard position</term> by its initial side, we have a special type of angle whose terminal side lies on an axis, a <emphasis effect="bold">quadrantal angle</emphasis>. This type of angle can have a measure of 0°, 90°, 180°, 270° or 360°. See <link target-id="Figure_05_01_018"/>.</para><figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="Figure_05_01_018"><media id="fs-id1165137450884" alt="Four side by side graphs. First graph shows angle of 0 degrees. Second graph shows an angle of 90 degrees. Third graph shows an angle of 180 degrees. Fourth graph shows an angle of 270 degrees.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_018.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_018.jpg"/>
    </media>
   <caption>Quadrantal angles are angles in standard position whose terminal side lies along an axis. Examples are shown.</caption></figure><note id="fs-id1165137400628">
 
@@ -231,7 +231,7 @@
        </m:math> </equation>
 <para id="fs-id1165135693728">One-twelfth equals one-third of a quarter, so by dividing a quarter rotation into thirds, we can sketch a line at 30° as in <link target-id="Figure_05_01_007"/>.</para><figure id="Figure_05_01_007" class="small">
      <media id="fs-id1165137784208" alt="Graph of a 30 degree angle.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_007.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_007.jpg"/>
      </media>
     </figure>
    </item>
@@ -273,7 +273,7 @@
  </m:mrow>
 </m:math> </equation><para id="fs-id1165137695129">Negative three-eighths is one and one-half times a quarter, so we place a line by moving clockwise one full quarter and one-half of another quarter, as in <link target-id="Figure_05_01_008"/>.</para><figure id="Figure_05_01_008" class="small">
      <media id="fs-id1165137833929" alt="Graph of a negative 135 degree angle.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_008.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_008.jpg"/>
      </media>
     </figure>
    </item>
@@ -286,7 +286,7 @@
    <exercise id="ti_05_01_01"><problem id="fs-id1165135370197"><para id="fs-id1165135370198">Show an angle of 240° on a circle in standard position.</para></problem>
     <solution id="fs-id1165135593145">
       <media id="fs-id1165135435637" alt="Graph of a 240 degree angle.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_009.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_009.jpg"/>
       </media>
      </solution>
    </exercise></note>
@@ -306,7 +306,7 @@
      <m:mn>2</m:mn><m:mi>π</m:mi><m:mo>≈</m:mo><m:mn>6.28</m:mn></m:mrow>
    </m:math> times the length of the radius. That means that if we took a string as long as the radius and used it to measure consecutive lengths around the circumference, there would be room for six full string-lengths and a little more than a quarter of a seventh, as shown in <link target-id="Figure_05_01_010"/>.</para><figure id="Figure_05_01_010" class="small">
    <media id="fs-id1165137769898" alt="Illustration of a circle showing the number of radians in a circle.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_010.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_010.jpg"/>
    </media>
   </figure>
 
@@ -398,7 +398,7 @@
 </m:math> </equation><para id="fs-id1165134196168">See <link target-id="Figure_05_01_011"/>. Note that when an angle is described without a specific unit, it refers to radian measure. For example, an angle measure of 3 indicates 3 radians. In fact, radian measure is dimensionless, since it is the quotient of a length (circumference) divided by a length (radius) and the length units cancel out.</para>
 
   <figure id="Figure_05_01_011" class="small"><media id="fs-id1165137832912" alt="Illustration of a circle with angle t, radius r, and an arc of r.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_011.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_011.jpg"/>
    </media>
 
   <caption>The angle <m:math>
@@ -445,7 +445,7 @@
      <m:mo>=</m:mo><m:mtext> 1 radian</m:mtext><m:mtext>.</m:mtext></m:mrow>
    </m:math>
    </para><figure id="Figure_05_01_013"><media id="fs-id1165135347607" alt="Three side by side graphs of circles. First graph has a circle with radius r and arc s, with an equivalence between r and s. The second graph shows a circle with radius r and an arc of length 2r. The third graph shows a circle with a full revolution, showing 6.28 radians.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_013abc.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_013abc.jpg"/>
     </media>
 
    <caption>(a) In an angle of 1 radian, the arc length <m:math>
@@ -473,7 +473,7 @@
 </m:mrow>
 </m:math>
 Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01_012"/>.</para><figure id="Figure_05_01_012" class="small"><media id="fs-id1165135440055" alt="Graph of a circle with a 45 degree angle and a label for pi/4 radians.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_012.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_012.jpg"/>
     </media>
 
    <caption>A 45° angle contains one-eighth of the circumference of a circle, regardless of the radius.</caption></figure><para id="fs-id1165134394605">Notice what happens if we find the ratio of the arc length divided by the radius of the circle.</para>
@@ -660,13 +660,13 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
    <para id="fs-id1165137924367">In addition to knowing the measurements in degrees and radians of a quarter revolution, a half  revolution, and a full revolution, there are other frequently encountered angles in one revolution of a circle with which we should be familiar. It is common to encounter multiples of 30, 45, 60, and 90 degrees. These values are shown in <link target-id="Figure_05_01_016"/>. Memorizing these angles will be very useful as we study the properties associated with angles.</para>
 
    <figure id="Figure_05_01_016" class="small"><media id="fs-id1165133434666" alt="A graph of a circle with angles of 0, 30, 45, 60, 90, 120, 135, 150, 180, 210, 225, 240, 270, 300, 315, and 330 degrees.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_016.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_016.jpg"/>
     </media>
 
    <caption>Commonly encountered angles measured in degrees</caption></figure><para id="fs-id1165134297659">Now, we can list the corresponding radian values for the common measures of a circle corresponding to those listed in <link target-id="Figure_05_01_016"/>, which are shown in <link target-id="Figure_05_01_017"/>. Be sure you can verify each of these measures.</para>
 
    <figure id="Figure_05_01_017" class="small"><media id="fs-id1165135706783" alt="A graph of a circle with angles of 0, 30, 45, 60, 90, 120, 135, 150, 180, 210, 225, 240, 270, 300, 315, and 330 degrees. The graph also shows the equivalent amount of radians for each angle of degrees. For example, 30 degrees is equal to pi/6 radians.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_017.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_017.jpg"/>
     </media>
 
    <caption>Commonly encountered angles measured in radians</caption></figure><example id="Example_05_01_02"><exercise id="fs-id1165135440086"><problem id="fs-id1165135440088">
@@ -1324,7 +1324,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
     <m:mrow>
      <m:mn>2</m:mn><m:mi>π</m:mi><m:mo>.</m:mo></m:mrow>
    </m:math> It would be convenient to replace those out-of-range angles with a corresponding angle within the range of a single revolution.</para><para id="fs-id1165134544984">It is possible for more than one angle to have the same terminal side. Look at <link target-id="Figure_05_01_020"/>. The angle of 140° is a <term class="no-emphasis">positive angle</term>, measured counterclockwise. The angle of –220° is a <term class="no-emphasis">negative angle</term>, measured clockwise. But both angles have the same terminal side. If two angles in standard position have the same terminal side, they are <term class="no-emphasis">coterminal angles</term>. Every angle greater than 360° or less than 0° is coterminal with an angle between 0° and 360°, and it is often more convenient to find the coterminal angle within the range of 0° to 360° than to work with an angle that is outside that range.</para><figure id="Figure_05_01_020" class="small"><media id="fs-id1165135513582" alt="A graph showing the equivalence between a 140 degree angle and a negative 220 degree angle.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_020.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_020.jpg"/>
    </media>
 
   <caption>An angle of 140° and an angle of –220° are coterminal angles.</caption></figure><para id="fs-id1165137901244">Any angle has infinitely many <term class="no-emphasis">coterminal angles</term> because each time we add 360° to that angle—or subtract 360° from it—the resulting value has a terminal side in the same location. For example, 100° and 460° are coterminal for this reason, as is −260°. Recognizing that any angle has infinitely many coterminal angles explains the repetitive shape in the graphs of trigonometric functions.</para><para id="fs-id1165135191896">An angle’s reference angle is the measure of the smallest, positive, acute angle <m:math>
@@ -1337,7 +1337,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
 
   <figure id="Figure_05_01_019">
    <media id="fs-id1165137542464" alt="Four side by side graphs. First graph shows an angle of t in quadrant 1 in it's normal position. Second graph shows an angle of t in quadrant 2 due to a rotation of pi minus t. Third graph shows an angle of t in quadrant 3 due to a rotation of t minus pi. Fourth graph shows an angle of t in quadrant 4 due to a rotation of two pi minus t.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_019-32db.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_019-32db.jpg"/>
    </media>
   </figure>
 
@@ -1381,7 +1381,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
  </m:mrow>
 </m:math> is coterminal with 800°. To put it another way, 800° equals 80° plus two full rotations, as shown in <link target-id="Figure_05_01_021"/>.</para><figure id="Figure_05_01_021" class="small">
      <media id="fs-id1165134224009" alt="A graph showing the equivalence between an 80 degree angle and an 800 degree angle.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_021.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_021.jpg"/>
      </media>
     </figure>
     </solution>
@@ -1431,7 +1431,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
 
     <figure id="Figure_05_01_022" class="small">
      <media id="fs-id1165135524480" alt="A graph showing the equivalence of a 315 degree angle and a negative 45 degree angle.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_022.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_022.jpg"/>
      </media>
     </figure>
     </solution>
@@ -1633,7 +1633,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
          <m:mo>,</m:mo></m:mrow>
        </m:math> as shown in <link target-id="Figure_05_01_023"/>.</para><figure id="Figure_05_01_023" class="small">
       <media id="fs-id1165137938595" alt="A graph showing a circle and the equivalence between angles of 3pi/4 radians and 19pi/4 radians.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_023.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_023.jpg"/>
       </media>
      </figure>
      </solution>
@@ -1704,7 +1704,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
     <m:mrow><m:mi>s</m:mi><m:mo>=</m:mo><m:mi>r</m:mi><m:mi>θ</m:mi></m:mrow>
    </m:math>
    </equation><figure id="Figure_05_01_024" class="small"><media id="fs-id1165135666693" alt="Illustration of circle with angle theta, radius r, and arc with length s.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_024F.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_024F.jpg"/>
     </media>
    </figure></note><note id="fs-id1165135154520" class="how-to-notitle">
    <label>How To</label>
@@ -1978,7 +1978,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
    </m:math>
    </equation>
 <para id="eip-id1165134332694">See <link target-id="Figure_05_01_026"/>.</para><figure id="Figure_05_01_026" class="small"><media id="fs-id1165131797295" alt="Graph showing a circle with angle theta and radius r, and the area of the slice of circle created by the initial side and terminal side of the angle.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_026F.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_026F.jpg"/>
     </media>
    <caption>The area of the sector equals half the square of the radius times the central angle measured in radians.</caption></figure></note><note id="fs-id1165135571940" class="how-to-notitle">
    <label>How To</label>
@@ -2019,7 +2019,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
      <para id="fs-id1165133289681">An automatic lawn sprinkler sprays a distance of 20 feet while rotating 30 degrees, as shown in <link target-id="Figure_05_01_027"/>. What is the area of the sector of grass the sprinkler waters?</para>
 
      <figure id="Figure_05_01_027" class="small"><media id="fs-id1165135581072" alt="Illustration of a 30 degree ange with a terminal and initial side with length of 20 feet.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_027.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_027.jpg"/>
       </media>
      <caption>The sprinkler sprays 20 ft within an arc of 30°.</caption></figure></problem>
     <solution id="fs-id1165137750058">
@@ -2335,7 +2335,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
 <para id="fs-id1165135640929">A water wheel, shown in <link target-id="Figure_05_01_028"/>, completes 1 rotation every 5 seconds. Find the angular speed in radians per second.</para>
 
 <figure id="Figure_05_01_028" class="small"><media id="fs-id1165131968041" alt="Illustration of a water wheel.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_028n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_028n.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165135256003">
@@ -2703,7 +2703,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
  </problem>
 <solution id="fs-id1165135469001">
  <media id="fs-id1165135469009" alt="Graph of a circle with an angle inscribed, showing the initial side, terminal side, and vertex.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_201.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165134042402">
@@ -2739,14 +2739,14 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
  <exercise id="fs-id1165134130081"><problem id="fs-id1165134130082"><para id="fs-id1165134130083">300°</para></problem>
 <solution id="fs-id1165134187273">
  <media id="fs-id1165134187279" alt="Graph of a circle with an angle inscribed.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_203.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_203.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165135449679"><problem id="fs-id1165135449680"><para id="fs-id1165135449681">−80°</para></problem></exercise>
  <exercise id="fs-id1165133402074"><problem id="fs-id1165133402075"><para id="fs-id1165133402076">135°</para></problem>
 <solution id="fs-id1165135457004">
  <media id="fs-id1165133277624" alt="Graph of a circle with an angle inscribed.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_205.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_205.jpg"/>
 </media>
 </solution>
   </exercise><exercise id="fs-id1165133277637"><problem id="fs-id1165135249180"><para id="fs-id1165135249181">−150°</para></problem></exercise>
@@ -2762,7 +2762,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
  </para></problem>
 <solution id="fs-id1165135453857">
  <media id="fs-id1165135628510" alt="Graph of a circle with an angle inscribed.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_207.jpg"/>
 </media>
 </solution>
   </exercise><exercise id="fs-id1165135628524">
@@ -2793,7 +2793,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
  </problem>
  <solution id="fs-id1165133277613">
  <media id="fs-id1165133277621" alt="Graph of a circle with an angle inscribed.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_209.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_209.jpg"/>
 </media>
  </solution>
 </exercise><exercise id="fs-id1165133023012">
@@ -2823,7 +2823,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
  </problem>
 <solution id="fs-id1165137733564">
  <media id="fs-id1165137733573" alt="Graph of a circle with an angle inscribed.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_211.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_211.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165135689540">
@@ -2838,7 +2838,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
 
 
  <media id="fs-id1165133402094" alt="Graph of a circle with an angle inscribed.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_213-789d.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_213-789d.jpg"/>
 </media>
 
 </solution>
@@ -2869,7 +2869,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
   </m:mrow>
  </m:math> </para>
  <media id="fs-id1165135628464" alt="Graph of a circle showing the equivalence of two angles.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_215.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_215.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165134381521">
@@ -2908,13 +2908,13 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
   </m:mrow>
  </m:math> </para>
  <media id="fs-id1165134374733" alt="Graph of a circle showing the equivalence of two angles.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_217.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_217.jpg"/>
 </media>
 </solution></exercise><para id="fs-id1165134374747">For the following exercises, refer to <link target-id="Figure_05_01_218"/>. Round to two decimal places.</para>
 
 <figure id="Figure_05_01_218" class="small">
  <media id="fs-id1165134381688" alt="Graph of a circle with radius of 3 inches and an angle of 140 degrees.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_218-3094.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_218-3094.jpg"/>
 </media>
 </figure>
 <exercise id="fs-id1165134347435">
@@ -2949,7 +2949,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
 
 <figure id="Figure_05_01_219" class="small">
  <media id="fs-id1165134129634" alt="Graph of a circle with angle of 2pi/5 and a radius of 4.5 cm.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_01_219-07be.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_01_219-07be.jpg"/>
 </media>
 </figure>
 
@@ -3491,7 +3491,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
 </exercise>
 <exercise id="fs-id1165137769711">
  <problem id="fs-id1165133320777">
-  <para id="fs-id1165133320779">A city is located at 40 degrees north latitude. Assume the radius of the earth is 3960 miles and the earth rotates once every 24 hours. Find the linear speed of a person who resides in this city.</para>
+  <para id="fs-id1165133320779">A city is located at 40 degrees north latitude. Assume the radius of the earth is 3960 miles and the earth rotates once every 24 hours. Find the linear speed of a person who resides in this city. Refer to <link target-id="fs-id1167829788421" document="m49372"/> for information on trigonometric functions.</para>
  </problem>
   <solution id="fs-id1165133320785">
    <para id="fs-id1165133320787">794 miles per hour</para>
@@ -3499,7 +3499,7 @@ Now we draw a 45° angle on the two circles, as in <link target-id="Figure_05_01
 </exercise>
 <exercise id="fs-id1165133320792">
  <problem id="fs-id1165133320795">
-  <para id="fs-id1165133320797">A city is located at 75 degrees north latitude. Assume the radius of the earth is 3960 miles and the earth rotates once every 24 hours. Find the linear speed of a person who resides in this city.</para>
+  <para id="fs-id1165133320797">A city is located at 75 degrees north latitude. Assume the radius of the earth is 3960 miles and the earth rotates once every 24 hours. Find the linear speed of a person who resides in this city. Refer to <link target-id="fs-id1167829788421" document="m49372"/> for information on trigonometric functions.</para>
  </problem>
 </exercise>
 <exercise id="fs-id1165132929643">

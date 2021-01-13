@@ -23,7 +23,7 @@
 </item>
 </list></section><section id="eip-17"><title>Objective 1: Simplify expressions using the properties of exponents (IA 5.2.1).</title><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-900">An <term>exponential expression</term> is an expression that has exponents (or powers). <newline/>
 <media id="eip-idm396048768" alt="A graphic pointing out the parts of an expression with a power of 3, where 2 is the coefficient, a is the base, and 3 is the power.">
-    <image mime-type="image/png" src="figure_05_02_001.png"/>
+    <image mime-type="image/png" src="../../media/figure_05_02_001.png"/>
   </media></para><note id="eip-idm635995584"><title>Properties of Exponents</title><table id="eip-453" summary="." class="unnumbered"><label/>
 <tgroup cols="3"><thead>
   <row>
@@ -312,12 +312,12 @@ Determine whether the following functions are power functions. If they are not, 
 </thead>
 <tbody>
   <row>
-    <entry><media id="fig52" alt="Graph of three functions, h(x)=x^2 in green, g(x)=x^4 in orange, and f(x)=x^6 in blue."><image mime-type="image/jpeg" src="even_power_functions.jpg"/></media>
+    <entry><media id="fig52" alt="Graph of three functions, h(x)=x^2 in green, g(x)=x^4 in orange, and f(x)=x^6 in blue."><image mime-type="image/jpeg" src="../../media/even_power_functions.jpg"/></media>
 
 <para id="eip-idm494710016">Graphs of <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>,</m:mo><m:mo> </m:mo><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>4</m:mn></m:msup><m:mo>,</m:mo><m:mo> </m:mo><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>6</m:mn></m:msup></m:math>
 </para>
 </entry>
-<entry><media id="fig53" alt="Graph of three functions, f(x)=x^3 in green, g(x)=x^5 in orange, and h(x)=x^7 in blue."><image mime-type="image/jpeg" src="odd_power_functions.jpg"/></media>
+<entry><media id="fig53" alt="Graph of three functions, f(x)=x^3 in green, g(x)=x^5 in orange, and h(x)=x^7 in blue."><image mime-type="image/jpeg" src="../../media/odd_power_functions.jpg"/></media>
 <para id="eip-idm451866352">
 Graphs of <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mo>,</m:mo><m:mo> </m:mo><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>5</m:mn></m:msup><m:mo>,</m:mo><m:mo> </m:mo><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>7</m:mn></m:msup></m:math>
 </para>
@@ -329,7 +329,7 @@ Graphs of <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>
 <para id="para-3"><span class="token">ⓐ</span> What are the similarities in the graphs of even power functions?<newline/>
 <span class="token">ⓑ</span> What are the similarities in the graphs of the odd power functions?<newline/>
 <span class="token">ⓒ</span> What are the differences between the graphs of the even power functions and the odd power functions?</para></section></section></section><figure id="CNX_Precalc_Figure_03_03_001.jpg" class="small"><media id="Figure_03_03_001" alt="Three birds on a cliff with the sun rising in the background.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_001.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_001.jpg"/>
     </media>
   <caption>(credit: Jason Bay, Flickr)</caption></figure><para id="fs-id1165134540133">Suppose a certain species of bird thrives on a small island. Its population over the last few years is shown in <link target-id="Table_03_03_01"/>.</para>
 
@@ -762,7 +762,7 @@ The other functions are not power functions.</para></solution>
   <m:mo>,</m:mo>
  </m:mrow>
 </m:math> which are all power functions with even, whole-number powers. Notice that these graphs have similar shapes, very much like that of the quadratic function in the toolkit. However, as the power increases, the graphs flatten somewhat near the origin and become steeper away from the origin.</para><figure id="Figure_03_03_002" class="small"><media id="fs-id1165137726509" alt="Graph of three functions, h(x)=x^2 in green, g(x)=x^4 in orange, and f(x)=x^6 in blue.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_002.jpg"/>
 </media>
 <caption>Even-power functions</caption></figure><para id="fs-id1165137911555">To describe the behavior as numbers become larger and larger, we use the idea of infinity. We use the symbol <m:math>
  <m:mrow><m:mi>∞</m:mi>
@@ -811,7 +811,7 @@ The other functions are not power functions.</para></solution>
   <m:mo>,</m:mo>
  </m:mrow>
 </m:math> which are all power functions with odd, whole-number powers. Notice that these graphs look similar to the cubic function in the toolkit. Again, as the power increases, the graphs flatten near the origin and become steeper away from the origin.</para><figure id="Figure_03_03_003" class="small"><media id="fs-id1165137824550" alt="Graph of three functions, f(x)=x^3 in green, g(x)=x^5 in orange, and h(x)=x^7 in blue.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_003-490c.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_003-490c.jpg"/>
 </media>
 <caption>Odd-power functions</caption></figure><para id="fs-id1165137730237">These examples illustrate that functions of the form <m:math>
  <m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo>
@@ -897,7 +897,7 @@ increases without bound. In symbolic form we write</para>
 </m:math> is a non-negative integer depending on the power and the constant.</para>
 
 <figure id="Figure_03_03_004abcd"><media id="eip-id1165133101746" alt="Graph of an even-powered function with a positive constant. As x goes to negative infinity, the function goes to positive infinity; as x goes to positive infinity, the function goes to positive infinity. Graph of an odd-powered function with a positive constant. As x goes to negative infinity, the function goes to positive infinity; as x goes to positive infinity, the function goes to negative infinity. Graph of an even-powered function with a negative constant. As x goes to negative infinity, the function goes to negative infinity; as x goes to positive infinity, the function goes to negative infinity. Graph of an odd-powered function with a negative constant. As x goes to negative infinity, the function goes to negative infinity; as x goes to positive infinity, the function goes to negative infinity.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_004abcd.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_004abcd.jpg"/>
 </media>
 </figure><note id="fs-id1165135161436" class="how-to-notitle"><label>How To</label>
 <para id="fs-id1165137415258"><emphasis>Given a power function <m:math>
@@ -944,7 +944,7 @@ increases without bound. In symbolic form we write</para>
   <m:mi>x</m:mi><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>−</m:mi><m:mi>∞</m:mi><m:mo>,</m:mo><m:mo> </m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">→</m:mo></m:mrow><m:mi>∞</m:mi><m:mo>.</m:mo>
  </m:mrow>
 </m:math> We can graphically represent the function as shown in <link target-id="Figure_03_03_008"/>.</para><figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="Figure_03_03_008" class="small"><media id="fs-id1165137653716" alt="Graph of f(x)=x^8.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_008.jpg"/>
 </media>
 </figure></solution>
 </exercise>
@@ -996,7 +996,7 @@ increases without bound. In symbolic form we write</para>
 
 </m:math>
 </equation><figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="Figure_03_03_009" class="small"><media id="fs-id1165137637423" alt="Graph of f(x)=-x^9.">
-<image mime-type="image/png" src="CNX_Precalc_Figure_03_03_009.png"/>
+<image mime-type="image/png" src="../../media/CNX_Precalc_Figure_03_03_009.png"/>
 </media>
 </figure></solution>
 
@@ -1373,7 +1373,7 @@ cannot be written in this form and is therefore not a polynomial function.</item
 <para id="fs-id1165137921667">We often rearrange polynomials so that the powers are descending.</para>
 
 <media id="fs-id1165137406148" display="block" alt="Diagram to show what the components of the leading term in a function are. The leading coefficient is a_n and the degree of the variable is the exponent in x^n. Both the leading coefficient and highest degree variable make up the leading term. So the function looks like f(x)=a_nx^n +…+a_2x^2+a_1x+a_0.">
-<image mime-type="image/png" src="CNX_Precalc_Figure_03_03_010n.jpg"/>
+<image mime-type="image/png" src="../../media/CNX_Precalc_Figure_03_03_010n.jpg"/>
 </media>
 
 <para id="fs-id1165137482568">When a polynomial is written in this way, we say that it is in general form.</para>
@@ -1608,7 +1608,7 @@ gets very large or very small, so its behavior will dominate the graph. For any 
    </entry>
    <entry align="center">
     <media id="fs-id1165137768814" alt="Graph of f(x)=5x^4+2x^3-x-4.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_011.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_011.jpg"/>
     </media>
 </entry>
   </row>
@@ -1647,7 +1647,7 @@ gets very large or very small, so its behavior will dominate the graph. For any 
    </entry>
    <entry align="center">
     <media id="fs-id1165137714206" alt="Graph of f(x)=-2x^6-x^5+3x^4+x^3.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_012.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_012.jpg"/>
     </media>
 </entry>
   </row>
@@ -1682,7 +1682,7 @@ gets very large or very small, so its behavior will dominate the graph. For any 
    </entry>
    <entry align="center">
     <media id="fs-id1165137540879" alt="Graph of f(x)=3x^5-4x^4+2x^2+1.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_013.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_013.jpg"/>
     </media>
 </entry>
   </row>
@@ -1713,7 +1713,7 @@ gets very large or very small, so its behavior will dominate the graph. For any 
    </entry>
    <entry align="center">
     <media id="fs-id1165137600670" alt="Graph of f(x)=-6x^3+7x^2+3x+1.">
-     <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_014.jpg"/>
+     <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_014.jpg"/>
     </media>
 </entry>
   </row>
@@ -1730,7 +1730,7 @@ gets very large or very small, so its behavior will dominate the graph. For any 
 
 <figure id="Figure_03_03_015" class="small">
 <media id="fs-id1165137566318" alt="Graph of an odd-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_015.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_015.jpg"/>
 </media>
 </figure>
 
@@ -1780,7 +1780,7 @@ get very small, the output values <m:math>
 <label>Try It</label>
 <exercise id="ti_03_03_04"><problem id="fs-id1165137732301"><para id="fs-id1165135460938">Describe the end behavior, and determine a possible degree of the polynomial function in <link target-id="Figure_03_03_016"/>.</para>
 <figure id="Figure_03_03_016" class="small"><media id="fs-id1165134042593" alt="Graph of an even-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_016n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_016n.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165134047710"><para id="fs-id1165134047711">As <m:math>
@@ -1961,7 +1961,7 @@ therefore, the degree of the polynomial is 4. The degree is even (4) and the lea
  </m:mrow>
 </m:math> The <emphasis effect="italics">x-</emphasis>intercepts occur at the input values that correspond to an output value of zero. It is possible to have more than one <emphasis effect="italics">x-</emphasis>intercept. See <link target-id="Figure_03_03_017"/><emphasis>.</emphasis></para><figure id="Figure_03_03_017">
 <media id="fs-id1165135511323" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_017.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_017.jpg"/>
 </media>
 </figure>
 
@@ -2078,7 +2078,7 @@ therefore, the degree of the polynomial is 4. The degree is even (4) and the lea
 
 <figure id="Figure_03_03_018" class="small">
 <media id="fs-id1165135155412" alt="Graph of f(x)=(x-2)(x+1)(x-4), which labels all the intercepts.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_018.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_018.jpg"/>
 </media>
 </figure>
 </solution>
@@ -2312,7 +2312,7 @@ therefore, the degree of the polynomial is 4. The degree is even (4) and the lea
 
 <figure id="Figure_03_03_019" class="small">
 <media id="fs-id1165137803348" alt="Graph of f(x)=x^4-4x^2-45, which labels all the intercepts at (-3, 0), (3, 0), and (0, -45).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_019.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_019.jpg"/>
 </media>
 </figure>
 </solution>
@@ -2457,7 +2457,7 @@ therefore, the degree of the polynomial is 4. The degree is even (4) and the lea
 
 <figure id="Figure_03_03_020" class="small">
 <media id="fs-id1165137758217" alt="Graph of an even-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_020.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_020.jpg"/>
 </media>
 </figure>
 
@@ -2467,7 +2467,7 @@ therefore, the degree of the polynomial is 4. The degree is even (4) and the lea
 
 <figure id="Figure_03_03_021" class="small">
 <media id="fs-id1165137883772" alt="Graph of an even-degree polynomial that denotes the turning points and intercepts.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_021.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_021.jpg"/>
 </media>
 </figure>
 <para id="fs-id1165135670389">The graph has 2 <emphasis effect="italics">x</emphasis>-intercepts, suggesting a degree of 2 or greater, and 3 turning points, suggesting a degree of 4 or greater. Based on this, it would be reasonable to conclude that the degree is even and at least 4.</para></solution>
@@ -2478,7 +2478,7 @@ therefore, the degree of the polynomial is 4. The degree is even (4) and the lea
 <problem id="fs-id1165137834183"><para id="fs-id1165137454180">What can we conclude about the polynomial represented by the graph shown in <link target-id="Figure_03_03_022"/> based on its intercepts and turning points?</para>
 <figure id="Figure_03_03_022">
 <media id="fs-id1165137405825" alt="Graph of an odd-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_022-9b31.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_022-9b31.jpg"/>
 </media>
 </figure>
 </problem>
@@ -3153,74 +3153,74 @@ and as <m:math>
 
 <exercise id="fs-id1165134486757"><problem id="fs-id1165134486758">
 <media id="fs-id1165137942457" alt="Graph of an odd-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_201.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165135388469"><para id="fs-id1165135388470">3</para></solution></exercise><exercise id="fs-id1165137823453"><problem id="fs-id1165137823454">
 <media id="fs-id1165135530394" alt="Graph of an even-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_202.jpg"/>
 </media>
 </problem></exercise><exercise id="fs-id1165135436619"><problem id="fs-id1165135436620">
 <media id="fs-id1165135543346" alt="Graph of an odd-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_203.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_203.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165135181683"><para id="fs-id1165135181684">5</para></solution></exercise><exercise id="fs-id1165137781545"><problem id="fs-id1165137781546">
 <media id="fs-id1165137433119" alt="Graph of an odd-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_204.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_204.jpg"/>
 </media>
 </problem></exercise><exercise id="fs-id1165135457734"><problem id="fs-id1165137833940">
 
 <media id="fs-id1165137833945" alt="Graph of an odd-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_205.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_205.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165135255942"><para id="fs-id1165135255943">3</para></solution></exercise><exercise id="fs-id1165137410264"><problem id="fs-id1165137410266">
 <media id="fs-id1165134323766" alt="Graph of an even-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_206.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_206.jpg"/>
 </media>
 </problem></exercise><exercise id="fs-id1165134129751"><problem id="fs-id1165134129752">
 <media id="fs-id1165137405932" alt="Graph of an odd-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_207.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165135191388"><para id="fs-id1165135191389">5</para></solution></exercise><exercise id="fs-id1165135191392"><problem id="fs-id1165135191393">
 <media id="fs-id1165137653349" alt="Graph of an even-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_208.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_208.jpg"/>
 </media>
 </problem></exercise><para id="fs-id1165134262467">For the following exercises, determine whether the graph of the function provided is a graph of a polynomial function. If so, determine the number of turning points and the least possible degree for the function.</para>
 
 <exercise id="fs-id1165135332833"><problem id="fs-id1165135332834">
 <media id="fs-id1165135678606" alt="Graph of an odd-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_209.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_209.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165137444866"><para id="fs-id1165137444867">Yes. Number of turning points is 2. Least possible degree is 3.</para></solution></exercise><exercise id="fs-id1165137444870"><problem id="fs-id1165137444871">
 <media id="fs-id1165135264631" alt="Graph of an equation.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_210.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_210.jpg"/>
 </media>
 </problem></exercise><exercise id="fs-id1165137704867"><problem id="fs-id1165137704868">
 <media id="fs-id1165134089461" alt="Graph of an even-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_211.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_211.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165137570516"><para id="fs-id1165137570517">Yes. Number of turning points is 1. Least possible degree is 2.</para></solution></exercise><exercise id="fs-id1165135191925"><problem id="fs-id1165135191926">
 <media id="fs-id1165135591035" alt="Graph of an odd-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_212.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_212.jpg"/>
 </media>
 </problem></exercise><exercise id="fs-id1165134313927"><problem id="fs-id1165137476631">
 <media id="fs-id1165135319603" alt="Graph of an odd-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_213.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_213.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165134042451"><para id="fs-id1165134042452">Yes. Number of turning points is 0. Least possible degree is 1.</para></solution></exercise><exercise id="fs-id1165137436429"><problem id="fs-id1165137436430">
 <media id="fs-id1165137772222" alt="Graph of an equation.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_214.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_214.jpg"/>
 </media>
 </problem>
 </exercise><exercise id="fs-id1165133310456"><problem id="fs-id1165135191886">
 <media id="fs-id1165137642864" alt="Graph of an odd-degree polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_03_215.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_03_215.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165137569703"><para id="fs-id1165137569704">Yes. Number of turning points is 0. Least possible degree is 1.</para></solution></exercise></section>
@@ -3409,7 +3409,7 @@ and as <m:math>
 </para></problem>
 <solution id="fs-id1165137629480">
 <media id="fs-id1165135168133" alt="Graph of f(x)=x^3(x-2).">
-<image mime-type="image/png" src="CNX_Precalc_Figure_03_03_216.png"/>
+<image mime-type="image/png" src="../../media/CNX_Precalc_Figure_03_03_216.png"/>
 </media>
 <para id="fs-id1165135168128">The <m:math>
  <m:mrow><m:mi>y</m:mi><m:mtext>-</m:mtext>
@@ -3456,7 +3456,7 @@ As <m:math>
 </para></problem>
 <solution id="fs-id1165135436598">
 <media id="fs-id1165137438048" alt="Graph of f(x)=x(14-2x)(10-2x).">
-<image mime-type="image/png" src="CNX_Precalc_Figure_03_03_218.png"/>
+<image mime-type="image/png" src="../../media/CNX_Precalc_Figure_03_03_218.png"/>
 </media>
 <para id="fs-id1165135436600">The <m:math>
  <m:mrow><m:mi>y</m:mi><m:mtext>-</m:mtext>
@@ -3517,7 +3517,7 @@ As <m:math>
 </para></problem>
 <solution id="fs-id1165137676496">
 <media id="fs-id1165137676502" alt="">
-<image mime-type="image/png" src="CNX_Precalc_Figure_03_03_220.png"/>
+<image mime-type="image/png" src="../../media/CNX_Precalc_Figure_03_03_220.png"/>
 </media>
 <para id="fs-id1165137676497">The <m:math>
  <m:mrow><m:mi>y</m:mi><m:mtext>-</m:mtext>
@@ -3577,7 +3577,7 @@ As <m:math>
 
 <solution id="fs-id1165131891798">
 <media id="fs-id1165135555475" alt="Graph of f(x)=x^3-27.">
-<image mime-type="image/png" src="CNX_Precalc_Figure_03_03_222.png"/>
+<image mime-type="image/png" src="../../media/CNX_Precalc_Figure_03_03_222.png"/>
 </media>
 <para id="fs-id1165131891799">The <m:math>
  <m:mrow><m:mi>y</m:mi><m:mtext>-</m:mtext>
@@ -3641,7 +3641,7 @@ As <m:math>
 </para></problem>
 <solution id="fs-id1165134381574">
 <media id="fs-id1165137401080" alt="Graph of f(x)=-x^3+x^2+2x.">
-<image mime-type="image/png" src="CNX_Precalc_Figure_03_03_224.png"/>
+<image mime-type="image/png" src="../../media/CNX_Precalc_Figure_03_03_224.png"/>
 </media>
 <para id="fs-id1165134381576">The <m:math>
  <m:mrow><m:mi>y</m:mi><m:mtext>-</m:mtext>

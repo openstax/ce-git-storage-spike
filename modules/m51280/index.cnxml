@@ -22,7 +22,7 @@ In order to check if relation is a <emphasis>function</emphasis> we can use ____
 <emphasis>Range</emphasis> of the relation is the set of all ________.
 </para></note>
 <section id="eip-idm259609984"><title>Inverse of a Function</title><para id="fs-id1167829784507">Let’s look at a one-to one function, <m:math><m:mi>f</m:mi></m:math> , represented by the ordered pairs <m:math><m:mrow><m:mrow><m:mo>{</m:mo><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>,</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>,</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>7</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>,</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>8</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>}</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math> For each <m:math><m:mi>x</m:mi></m:math> -value, <m:math><m:mi>f</m:mi></m:math> adds 5 to get the <m:math><m:mi>y</m:mi></m:math> -value. To ‘undo’ the addition of 5, we subtract 5 from each <m:math><m:mi>y</m:mi></m:math> -value and get back to the original <m:math><m:mi>x</m:mi></m:math> -value. We can call this “taking the inverse of <m:math><m:mi>f</m:mi></m:math> ” and name the function <m:math><m:mrow><m:msup><m:mi>f</m:mi><m:mrow><m:mn>−1</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math> </para><media id="fs-id1167836330596" alt="This figure shows the set (0, 5), (1, 6), (2, 7) and (3, 8) on the left side of an oval. The oval contains the numbers 0, 1, 2, and 3. There are black arrows from these numbers that point to the numbers 5, 6, 7, and 8, respectively in a second oval to the right of the first. Above this, there is a black arrow labeled “f add 5” coming from the left oval to the right oval. There are red arrows from the numbers 5, 6, 7, and 8 in the right oval to the numbers 0, 1, 2, and 3, respectively, in the left oval. Below this, we have a red arrow labeled “f with a superscript negative 1” and “subtract 5”. To the right of this, we have the set (5, 0), (6, 1), (7, 2) and (8, 3).">
-<image mime-type="image/jpeg" src="5_7_1.jpg"/>
+<image mime-type="image/jpeg" src="../../media/5_7_1.jpg"/>
 </media>
 
 <para id="fs-id1167836619718">Notice that that the ordered pairs of <m:math><m:mi>f</m:mi></m:math> and <m:math><m:mrow><m:msup><m:mi>f</m:mi><m:mrow><m:mn>−1</m:mn></m:mrow></m:msup></m:mrow></m:math> have their <m:math><m:mi>x</m:mi></m:math> -values and <m:math><m:mi>y</m:mi></m:math> -values reversed. The domain of <m:math><m:mi>f</m:mi></m:math> is the range of <m:math><m:mrow><m:msup><m:mi>f</m:mi><m:mrow><m:mn>−1</m:mn></m:mrow></m:msup></m:mrow></m:math> and the domain of <m:math><m:mrow><m:msup><m:mi>f</m:mi><m:mrow><m:mn>−1</m:mn></m:mrow></m:msup></m:mrow></m:math> is the range of <m:math><m:mrow><m:mi>f</m:mi><m:mo>.</m:mo></m:mrow></m:math> </para>
@@ -72,7 +72,7 @@ Given function, find the inverse function.
 
 <para id="eip-idm1013220560">If a point (a,b) is on the graph of a function <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:math> , then the ordered pair (b,a) is on the graph of <m:math><m:msup><m:mi>f</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:math> . </para><para id="eip-idm1013220048">Since every point on the graph of a function <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:math> is a mirror image of a point on the graph of <m:math><m:msup><m:mi>f</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:math> , we say the graphs are mirror images of each other through the line <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>x</m:mi></m:math> .  We can use this concept to graph the inverse of a function.</para><figure id="eip-idm393660432" class="unnumbered"><label/>
   <media id="eip-idm393660176" alt="This figure shows the line y equals x with points (3,1) and (1,3) on either side of the line. These two points are connected by a dashed blue line segment.">
-    <image mime-type="image/jpeg" src="5_7_2.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/5_7_2.jpg"/>
   </media>
 </figure>
 </problem>
@@ -83,7 +83,7 @@ Graph, on the same coordinate system, the inverse of the function shown below.
 
   </para>
 <figure id="eip-idm393660433" class="unnumbered"><label/><media id="eip-idm393660177" alt="The graph shows a line from (negative 3, negative 4) to (negative 2, negative 2) then to (0, negative 1), then to (1, 2) and then to (4, 3). The graph shows a line from (negative 3, 4) to (0, 3) then to (1, 2) and then to (4, 1).">
-    <image mime-type="image/jpeg" src="5_7_3.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/5_7_3.jpg"/>
   </media>
 </figure></problem>
 </exercise></section><note xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-292" class="how-to-notitle"><emphasis effect="bold">Find the inverse of a One-to-One Function when its given as an equation</emphasis>
@@ -100,19 +100,19 @@ Given function, find the inverse function
 </problem>
 <solution id="fs-id1167821865222">
 <media id="fs-id1167821865224" alt="Step 1 is to substitute y for f of x. To do so, we replace f of x with y. Hence, f of x equals 4 x plus 7 becomes y equals 4 x plus 7.">
-<image mime-type="image/jpeg" src="5_7_4.jpg"/>
+<image mime-type="image/jpeg" src="../../media/5_7_4.jpg"/>
 </media>
 <media id="fs-id1167821865234" alt="Step 2 is to interchange the variables x and y. To do so, we replace x with y and then y with x. Hence, we obtain x equals 4y plus 7.">
-<image mime-type="image/jpeg" src="5_7_5.jpg"/>
+<image mime-type="image/jpeg" src="../../media/5_7_5.jpg"/>
 </media>
 <media id="fs-id1167821865243" alt="Step 3 is to solve for y. To do so, we subtract 7 from each side and then divide by 4. Hence, we have x minus 7 equals 4y and then the quantity x minus 7 divided by 4 equals y.">
-<image mime-type="image/jpeg" src="5_7_6.jpg"/>
+<image mime-type="image/jpeg" src="../../media/5_7_6.jpg"/>
 </media>
 <media id="fs-id1167836495426" alt="Step 4 is to substitute f superscript negative 1 of x for y. To do so, we replace y with f superscript negative 1 of x. Hence, the quantity x minus 7 divided by 4 equals f superscript negative 1 of x.">
-<image mime-type="image/jpeg" src="5_7_7.jpg"/>
+<image mime-type="image/jpeg" src="../../media/5_7_7.jpg"/>
 </media>
 <media id="fs-id1167836495436" alt="Step 5 is to verify that the functions are inverses. To do so, we show that f superscript negative 1 of f of x equals x and that f of f superscript negative 1of x equals x. Hence, we ask whether f inverse of 4x plus 7 equals x. This becomes a question of whether 4 x plus 7 minus 7 all divided by 4 equals x. This becomes a question of whether 4x divided by 4 equals x. This is true. To show the other side, we examine whether f of f inverse of x equals x. This becomes a question of whether f of the quantity x minus 7 divided by 4 equals x. This becomes a question of whether 4 times the quantity x minus 7 divided by 4 equals x. This becomes a question of whether x minus 7 plus 7 equals x. This is true.">
-<image mime-type="image/jpeg" src="5_7_8.jpg"/>
+<image mime-type="image/jpeg" src="../../media/5_7_8.jpg"/>
 </media>
 </solution>
 </exercise>
@@ -193,7 +193,7 @@ The domain expressed in interval notation is <m:math><m:mo>[</m:mo><m:mfrac><m:m
 
 <figure id="Figure_03_08_001" class="small">
 <media id="fs-id1165137939558" alt="Gravel in the shape of a cone.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_001.jpg"/>
 </media>
 </figure>
 
@@ -310,7 +310,7 @@ The domain expressed in interval notation is <m:math><m:mo>[</m:mo><m:mfrac><m:m
 
 <figure id="Figure_03_08_002" class="small">
 <media id="fs-id1165137471735" alt="Diagram of a parabolic trough that is 18” in height, 3’ in length, and 12” in width.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_002-abf6.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_002-abf6.jpg"/>
 </media>
 </figure>
 
@@ -324,7 +324,7 @@ The domain expressed in interval notation is <m:math><m:mo>[</m:mo><m:mfrac><m:m
 
 <figure id="Figure_03_08_003" class="small">
 <media id="fs-id1165137727320" alt="Graph of a parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_003.jpg"/>
 </media>
 </figure>
 
@@ -1359,7 +1359,7 @@ and <m:math>
   <m:mo>.</m:mo> </m:mrow>
 </m:math> See <link target-id="Figure_03_08_004"/>.</para><figure id="Figure_03_08_004" class="small">
 <media id="fs-id1165137891279" alt="Graph of f(x)=5x^3+1 and its inverse, f^(-1)(x)=3sqrt((x-1)/(5)).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_004.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -1509,7 +1509,7 @@ and <m:math>
 
 <figure id="Figure_03_08_005" class="medium">
 <media id="fs-id1165137532798" alt="Two graphs of f(x)=(x-4)^2 where the first is when x&gt;=4 and the second is when x&lt;=4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_005.jpg"/>
 </media>
 </figure>
 
@@ -1777,7 +1777,7 @@ The domain of the original function was restricted to <m:math>
 
 <figure id="Figure_03_08_006">
 <media id="fs-id1165137471020" alt="Two graphs of a parabolic function with half of its inverse.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_006.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -2102,7 +2102,7 @@ The domain of the original function was restricted to <m:math>
 </para>
 <figure id="Figure_03_08_007" class="small">
 <media id="fs-id1165135194279" alt="Graph of a parabolic function with half of its inverse.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_007.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -2357,7 +2357,7 @@ with <m:math>
 
 <figure id="Figure_03_08_008" class="small">
 <media id="fs-id1165137803321" alt="Graph of f(x)=sqrt(x-4) and its inverse, f^(-1)(x)=x^2+4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_008.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -2672,7 +2672,7 @@ with <m:math>
 
 <figure id="Figure_03_08_009" class="medium">
 <media id="fs-id1165132950041" alt="Graph of a radical function that shows where the outputs are nonnegative.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_08_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_08_009.jpg"/>
 </media>
 </figure>
 
@@ -3871,7 +3871,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </m:math>
 </para></problem>
 <solution id="eip-idm331039808">
-<media id="eip-idm416455392" alt=""><image mime-type="image/jpeg" src="CNX_Precalc_Figure_05_07_231.jpg"/></media>
+<media id="eip-idm416455392" alt=""><image mime-type="image/jpeg" src="../../media/CNX_Precalc_Figure_05_07_231.jpg"/></media>
 <para id="eip-idm1228732128"> <m:math>
  <m:mrow>
   <m:msup>
@@ -3935,7 +3935,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </m:math>
 </para></problem>
 <solution id="eip-idm1216253088">
-<para id="eip-idm1216252832"><media id="eip-idm1062532016" alt=""><image mime-type="image/jpeg" src="CNX_Precalc_Figure_05_07_233.jpg"/></media>
+<para id="eip-idm1216252832"><media id="eip-idm1062532016" alt=""><image mime-type="image/jpeg" src="../../media/CNX_Precalc_Figure_05_07_233.jpg"/></media>
  <m:math>
  <m:mrow>
   <m:msup>
@@ -3997,7 +3997,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </m:math>
 </para></problem>
 <solution id="eip-idm462274096">
-<para id="eip-idm462273840"><media id="eip-idm331120544" alt=""><image mime-type="image/jpeg" src="CNX_Precalc_Figure_05_07_235.jpg"/></media>
+<para id="eip-idm462273840"><media id="eip-idm331120544" alt=""><image mime-type="image/jpeg" src="../../media/CNX_Precalc_Figure_05_07_235.jpg"/></media>
  <m:math>
  <m:mrow>
   <m:msup>
@@ -4057,7 +4057,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </m:math>
 </para></problem>
 <solution id="eip-idm605148368">
-<para id="eip-idm605148112"><media id="eip-idm1342686272" alt=""><image mime-type="image/jpeg" src="CNX_Precalc_Figure_05_07_237.jpg"/></media>
+<para id="eip-idm605148112"><media id="eip-idm1342686272" alt=""><image mime-type="image/jpeg" src="../../media/CNX_Precalc_Figure_05_07_237.jpg"/></media>
  <m:math>
  <m:mrow>
   <m:msup>
@@ -4114,7 +4114,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </m:math>
 </para></problem>
 <solution id="eip-idm1484821520">
-<media id="eip-idm351769168" alt=""><image mime-type="image/jpeg" src="CNX_Precalc_Figure_05_07_239.jpg"/></media>
+<media id="eip-idm351769168" alt=""><image mime-type="image/jpeg" src="../../media/CNX_Precalc_Figure_05_07_239.jpg"/></media>
 </solution></exercise><exercise id="fs-id1165137651509"><problem id="fs-id1165137651510"><para id="fs-id1165137651511"> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac>
@@ -4173,7 +4173,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </m:math>
 </para></problem>
 <solution id="eip-idm1173151920">
-<para id="eip-idm1216062048"><media id="eip-idm1469345680" alt=""><image mime-type="image/jpeg" src="CNX_Precalc_Figure_05_07_241.jpg"/></media>
+<para id="eip-idm1216062048"><media id="eip-idm1469345680" alt=""><image mime-type="image/jpeg" src="../../media/CNX_Precalc_Figure_05_07_241.jpg"/></media>
 
  <m:math>
 <m:mo>[</m:mo><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mo>)</m:mo><m:mo>∪</m:mo><m:mo>[</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mo>∞</m:mo><m:mo>)</m:mo>
@@ -4226,7 +4226,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </m:math>
 </para></problem>
 <solution id="eip-idm595846176">
-<para id="eip-idm558944672"><media id="eip-idm325566720" alt=""><image mime-type="image/jpeg" src="CNX_Precalc_Figure_05_07_243.jpg"/></media>
+<para id="eip-idm558944672"><media id="eip-idm325566720" alt=""><image mime-type="image/jpeg" src="../../media/CNX_Precalc_Figure_05_07_243.jpg"/></media>
 
  <m:math>
 <m:mo>[</m:mo><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mo>]</m:mo><m:mo>∪</m:mo><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mo>∞</m:mo><m:mo>)</m:mo>
@@ -4288,7 +4288,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </m:math>
 </para></problem>
 <solution id="eip-idm361887856">
-<para id="eip-idm361887600"><media id="eip-idm274248976" alt=""><image mime-type="image/jpeg" src="CNX_Precalc_Figure_05_07_245.jpg"/></media>
+<para id="eip-idm361887600"><media id="eip-idm274248976" alt=""><image mime-type="image/jpeg" src="../../media/CNX_Precalc_Figure_05_07_245.jpg"/></media>
 
  <m:math>
 <m:mo>[</m:mo><m:mo>-</m:mo><m:mn>∞</m:mn><m:mo>,</m:mo><m:mo>-</m:mo><m:mn>4</m:mn><m:mo>]</m:mo><m:mo>⋅</m:mo><m:mo>[</m:mo><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>]</m:mo>
@@ -4326,7 +4326,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </m:math>
 </para></problem>
 <solution id="eip-idm1216566624">
-<para id="eip-idm1216566368"><media id="eip-idm1329112784" alt=""><image mime-type="image/jpeg" src="CNX_Precalc_Figure_05_07_247.jpg"/></media>
+<para id="eip-idm1216566368"><media id="eip-idm1329112784" alt=""><image mime-type="image/jpeg" src="../../media/CNX_Precalc_Figure_05_07_247.jpg"/></media>
 
  <m:math>
  <m:mrow>
@@ -4363,7 +4363,7 @@ See <link target-id="Example_03_08_01"/>.</item>
 </m:math>
 </para></problem>
 <solution id="eip-idm1195130944">
-<para id="eip-idm1195130688"><media id="eip-idm1452472224" alt=""><image mime-type="image/jpeg" src="CNX_Precalc_Figure_05_07_249.jpg"/></media>
+<para id="eip-idm1195130688"><media id="eip-idm1452472224" alt=""><image mime-type="image/jpeg" src="../../media/CNX_Precalc_Figure_05_07_249.jpg"/></media>
 
  <m:math>
  <m:mrow>

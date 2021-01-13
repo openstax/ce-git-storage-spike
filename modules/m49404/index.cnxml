@@ -19,7 +19,7 @@
  <para id="fs-id1165137805976">Suppose two radar stations located 20 miles apart each detect an aircraft between them. The angle of elevation measured by the first station is 35 degrees, whereas the <term class="no-emphasis">angle of elevation</term> measured by the second station is 15 degrees. How can we determine the altitude of the aircraft? We see in <link target-id="Figure_08_01_001"/> that the triangle formed by the aircraft and the two stations is not a right triangle, so we cannot use what we know about right triangles. In this section, we will find out how to solve problems involving <term class="no-emphasis">non-right triangles</term>.</para>
 
  <figure id="Figure_08_01_001" class="small"><media id="fs-id1165134487538" alt="A diagram of a triangle where the vertices are the first ground station, the second ground station, and the airplane in the air between them. The angle between the first ground station and the plane is 15 degrees, and the angle between the second station and the airplane is 35 degrees. The side between the two stations is of length 20 miles. There is a dotted line perpendicular to the ground side connecting the airplane vertex with the ground - an altitude line.">
-   <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_001.jpg"/>
+   <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_001.jpg"/>
   </media>
  </figure><section id="fs-id1165137629477">
     <title>Using the Law of Sines to Solve Oblique Triangles</title><para id="fs-id1165132912724">In any triangle, we can draw an <term>altitude</term>, a perpendicular line from one vertex to the opposite side, forming two right triangles. It would be preferable, however, to have methods that we can apply directly to non-right triangles without first having to create right triangles.</para>
@@ -27,24 +27,24 @@
     <list xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135347529" list-type="enumerated" number-style="arabic"><item><emphasis>ASA (angle-side-angle)</emphasis> We know the measurements of two angles and the included side. See <link target-id="Figure_08_01_002"/>.
 
     <figure id="Figure_08_01_002" class="small"><media id="fs-id1165135342808" alt="An oblique triangle consisting of angles alpha, beta, and gamma. Alpha and gamma's values are known, as is the side opposite beta, between alpha and gamma.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_002.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_002.jpg"/>
       </media>
     </figure></item>
       <item><term>AAS (angle-angle-side)</term> We know the measurements of two angles and a side that is not between the known angles. See <link target-id="Figure_08_01_003"/>.
 
     <figure id="Figure_08_01_003" class="small"><media id="fs-id1165137612260" alt="An oblique triangle consisting of angles alpha, beta, and gamma. Alpha and gamma are known, as is the side opposite alpha, between beta and gamma.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_003.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_003.jpg"/>
       </media>
     </figure></item>
       <item><term>SSA (side-side-angle)</term> We know the measurements of two sides and an angle that is not between the known sides. See <link target-id="Figure_08_01_004"/>.
     <figure id="Figure_08_01_004" class="small"><media id="fs-id1165137637362" alt="An oblique triangle consisting of angles alpha, beta, and gamma. Alpha is the only angle known. Two sides are known. The first is opposite alpha, between beta and gamma, and the second is opposite gamma, between alpha and beta.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_004.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_004.jpg"/>
       </media>
     </figure></item>
     </list><para id="fs-id1165131837001">Knowing how to approach each of these situations enables us to solve oblique triangles without having to drop a perpendicular to form two right triangles. Instead, we can use the fact that the ratio of the measurement of one of the angles to the length of its opposite side will be equal to the other two ratios of angle measure to opposite side. Let’s see how this statement is derived by considering the triangle shown in <link target-id="Figure_08_01_005"/>.</para>
 
     <figure id="Figure_08_01_005" class="small"><media id="fs-id1165134325097" alt="An oblique triangle consisting of sides a, b, and c, and angles alpha, beta, and gamma. Side c is opposide angle gamma and is the horizontal base of the triangle. Side b is opposite angle beta, and side a is opposite angle alpha. There is a dotted perpendicular line - an altitude - from the gamma angle to the horizontal base c.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_005.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_005.jpg"/>
       </media>
     </figure><para id="fs-id1165135430238">Using the right triangle relationships, we know that <m:math>
  <m:mrow>
@@ -233,7 +233,7 @@
 <m:mi>c</m:mi><m:mo>.</m:mo></m:mrow>
     </m:math> See <link target-id="Figure_08_01_006"/>.</para>
     <para id="fs-id1165137935659">While calculating angles and sides, be sure to carry the exact values through to the final answer. Generally, final answers are rounded to the nearest tenth, unless otherwise specified.</para><figure id="Figure_08_01_006" class="small"><media id="fs-id1165135487150" alt="A triangle with standard labels.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_006.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_006.jpg"/>
       </media>
     </figure><note id="fs-id1165133141415">
 
@@ -287,7 +287,7 @@
           <para id="fs-id1165134554335">Solve the triangle shown in <link target-id="Figure_08_01_007"/> to the nearest tenth.</para>
 
           <figure id="Figure_08_01_007" class="small"><media id="fs-id1165134155184" alt="An oblique triangle with standard labels. Angle alpha is 50 degrees, angle gamma is 30 degrees, and side a is of length 10. Side b is the horizontal base.">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_007.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_007.jpg"/>
             </media>
           </figure></problem>
         <solution id="fs-id1165135441699">
@@ -622,7 +622,7 @@
         <problem id="fs-id1165135313600"><para id="fs-id1165135313601">Solve the triangle shown in <link target-id="Figure_08_01_008"/> to the nearest tenth.</para>
 
         <figure id="Figure_08_01_008" class="small"><media id="fs-id1165132957318" alt="An oblique triangle with standard labels. Angle alpha is 98 degrees, angle gamma is 43 degrees, and side b is of length 22. Side b is the horizontal base.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_008.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_008.jpg"/>
           </media>
         </figure></problem>
         <solution id="fs-id1165132912639">
@@ -676,14 +676,14 @@
       </para>
 
       <figure id="Figure_08_01_009" class="medium"><media id="fs-id1165134155097" alt="Four attempted oblique triangles are in a row, all with standard labels. Side c is the horizontal base. In the first attempted triangle, side a is less than the altitude height. Since side a cannot reach side c,  there is no triangle. In the second attempted triangle, side a is equal to the length of the altitude height, so side a forms a right angle with side c. In the third attempted triangle, side a is greater than the altitude height and less than side b, so side a can form either an acute or obtuse angle with side c. In the fourth attempted triangle, side a is greater than or equal to side b, so side a forms an acute angle with side c.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_009n.png"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_009n.png"/>
         </media>
       </figure></note><example id="Example_08_01_02"><exercise id="fs-id1165135547547"><problem id="fs-id1165131893624">
           <title>Solving an Oblique SSA Triangle</title>
           <para id="fs-id1165131893629">Solve the triangle in <link target-id="Figure_08_01_010"/> for the missing side and find the missing angle measures to the nearest tenth.</para>
 
           <figure id="Figure_08_01_010" class="small"><media id="fs-id1165135299841" alt="An oblique triangle with standard labels where side a is of length 6, side b is of length 8, and angle alpha is 35 degrees.">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_010.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_010.jpg"/>
             </media>
           </figure></problem>
 
@@ -799,7 +799,7 @@
             <m:mrow>
               <m:mi>γ</m:mi></m:mrow>
           </m:math> and viewing the triangle from a right angle perspective, we have <link target-id="Figure_08_01_011"/>. It appears that there may be a second triangle that will fit the given criteria.</para><figure id="Figure_08_01_011" class="small"><media id="fs-id1165135173349" alt="An oblique triangle built from the previous with standard prime labels. Side a is of length 6, side b is of length 8, and angle alpha prime is 35 degrees. An isosceles triangle is attached, using side a as one of its congruent legs and the angle supplementary to angle beta as one of its congruent base angles. The other congruent angle is called beta prime, and the entire new horizontal base, which extends from the original side c, is called c prime. There is a dotted altitude line from angle gamma prime to side c prime.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_011.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_011.jpg"/>
           </media>
         </figure><para id="fs-id1165135173358">The angle supplementary to <m:math>
             <m:mrow>
@@ -954,7 +954,7 @@
 </m:math>
 </equation><para id="fs-id1165134357379">To summarize, there are two triangles with an angle of 35°, an adjacent side of 8, and an opposite side of 6, as shown in <link target-id="Figure_08_01_012"/>.</para>
 <figure id="Figure_08_01_012" class="medium"><media id="fs-id1165137694956" alt="There are two triangles with standard labels. Triangle a is the orginal triangle. It has angles alpha of 35 degrees, beta of 130.1 degrees, and gamma of 14.9 degrees. It has sides a = 6, b = 8, and c is approximately 2.7. Triangle b is the extended triangle. It has angles alpha prime = 35 degrees, angle beta prime = 49.9 degrees, and angle gamma prime = 95.1 degrees. It has side a prime = 6, side b prime = 8, and side c prime is approximately 10.4.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_012ab.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_012ab.jpg"/>
           </media>
         </figure><para id="fs-id1165137694965">However, we were looking for the values for the triangle with an obtuse angle <m:math>
             <m:mrow>
@@ -1077,7 +1077,7 @@
           <para id="fs-id1165135510897">In the triangle shown in <link target-id="Figure_08_01_014"/>, solve for the unknown side and angles. Round your answers to the nearest tenth.</para>
 
           <figure id="Figure_08_01_014" class="small"><media id="fs-id1165134170053" alt="An oblique triangle with standard labels. Side b is 9, side c is 12, and angle gamma is 85. Angle alpha, angle beta, and side a are unknown.">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_014.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_014.jpg"/>
             </media>
           </figure></problem>
         <solution id="fs-id1165137893341">
@@ -1456,7 +1456,7 @@
  </m:mrow>
 </m:math>
 </equation><figure id="Figure_08_01_015" class="small"><media id="fs-id1165137701660" alt="An incomplete triangle. One side has length 4 opposite a 50 degree angle, and a second side has length 10 opposite angle a. The side of length 4 is too short to reach the side of length 10, so there is no third angle.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_015.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_015.jpg"/>
           </media>
         </figure><para id="fs-id1165135202531">We can stop here without finding the value of <m:math>
             <m:mrow>
@@ -1551,7 +1551,7 @@
 <m:mn>180</m:mn><m:mo>−</m:mo><m:mi>α</m:mi><m:mo>.</m:mo></m:mrow>
     </m:math>
       </para><figure id="Figure_08_01_016"><media id="fs-id1165134181795" alt="Two oblique triangles with standard labels. Both have a dotted altitude line h extended from angle beta to the horizontal base side b. In the first, which is an acute triangle, the altitude is within the triangle. In the second, which is an obtuse triangle, the altitude h is outside of the triangle. ">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_016.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_016.jpg"/>
       </media>
     </figure><para id="fs-id1165135546803">Thus,</para>
     <equation id="fs-id1165135546806" class="unnumbered"><label/> <m:math display="block">
@@ -1721,7 +1721,7 @@
           <para id="fs-id1165134041232">Find the altitude of the aircraft in the problem introduced at the beginning of this section, shown in <link target-id="Figure_08_01_017"/>. Round the altitude to the nearest tenth of a mile.</para>
 
           <figure id="Figure_08_01_017" class="small"><media id="fs-id1165134122936" alt="A diagram of a triangle where the vertices are the first ground station, the second ground station, and the airplane in the air between them. The angle between the first ground station and the plane is 15 degrees, and the angle between the second station and the airplane is 35 degrees. The side between the two stations is of length 20 miles. There is a dotted altitude line perpendicular to the ground side connecting the airplane vertex with the ground.">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_017.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_017.jpg"/>
             </media>
           </figure></problem>
         <solution id="fs-id1165132972747">
@@ -1891,7 +1891,7 @@
             <m:mrow>
               <m:mi>B</m:mi><m:mo>,</m:mo></m:mrow>
           </m:math> is 62°, and the distance between the viewing points of the two end zones is 145 yards.</para><figure id="Figure_08_01_018" class="small"><media id="fs-id1165137715412" alt="An oblique triangle formed from three vertices A, B, and C. Verticies A and B are points on the ground, and vertex C is the blimp in the air between them. The distance between A and B is 145 yards. The angle at vertex A is 70 degrees, and the angle at vertex B is 62 degrees.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_018.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_018.jpg"/>
           </media>
         </figure></problem>
         <solution id="fs-id1165134380826">
@@ -2517,7 +2517,7 @@
 <exercise id="fs-id1165135363188"><problem id="fs-id1165135363190">
 
 <media id="fs-id1165135363197" alt="A triangle with an angle of 50 degrees and opposite side of length 10. Another angle is 70 degrees with side opposite of length x.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_201.jpg"/>
 </media>
   </problem>
 <solution id="fs-id1165133199362">
@@ -2529,12 +2529,12 @@
 </solution>
 </exercise><exercise id="fs-id1165137765789"><problem id="fs-id1165137765791">
 <media id="fs-id1165137765797" alt="A triangle with one angle = 120 degrees. Another angle is 25 degrees with side opposite = x. The side adjacent to the 25 and 120 degree angles is of length 6.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_202.jpg"/>
 </media>
   </problem>
 </exercise><exercise id="fs-id1165134156060"><problem id="fs-id1165134156062">
 <media id="fs-id1165137529464" alt="A triangle. One angle is 45 degrees with side opposite = x. Another angle is 75 degrees. The side adjacent to the 45 and 75 degree angles = 15.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_203.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_203.jpg"/>
 </media>
   </problem>
 <solution id="fs-id1165137529474">
@@ -2546,12 +2546,12 @@
 </solution>
 </exercise><exercise id="fs-id1165137931158"><problem id="fs-id1165137931160">
 <media id="fs-id1165137931167" alt="A triangle. One angle is 40 degrees with opposite side = x. Another angle is 110 degrees with side opposite = 18.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_204.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_204.jpg"/>
 </media>
   </problem>
 </exercise><exercise id="fs-id1165133307610"><problem id="fs-id1165133307612">
 <media id="fs-id1165135641451" alt="A triangle. One angle is 50 degrees with opposite = x. Another angle is 42 degrees with opposite side = 14.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_205.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_205.jpg"/>
 </media>
   </problem>
 <solution id="fs-id1165135641462">
@@ -2563,14 +2563,14 @@
 </solution>
 </exercise><exercise id="fs-id1165135181103"><problem id="fs-id1165134149774">
 <media id="fs-id1165134149780" alt="A triangle. One angle is 111 degrees with opposite side = x. Another angle is 22 degrees. The side adjacent to the 111 and 22 degree angles = 8.6.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_206.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_206.jpg"/>
 </media>
   </problem>
 </exercise><para id="fs-id1165135246602">For the following exercises, find the measure of angle <m:math>
  <m:mrow>
   <m:mi>x</m:mi><m:mo>,</m:mo></m:mrow></m:math> if possible. Round to the nearest tenth.</para><exercise id="fs-id1165135246606"><problem id="fs-id1165135246608">
 <media id="fs-id1165135333725" alt="A triangle. One angles is 98 degrees with opposite side = 10. Another angle is x degrees with opposite side = 5.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_207.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165135333736">
@@ -2584,12 +2584,12 @@
 </solution>
 </exercise><exercise id="fs-id1165133249126"><problem id="fs-id1165133249129">
 <media id="fs-id1165134271323" alt="A triangle. One angle is 37 degrees with opposite side = 11. Another angle is x degrees with opposite side = 8.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_208.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_208.jpg"/>
 </media>
   </problem>
 </exercise><exercise id="fs-id1165134271335"><problem id="fs-id1165134271337">
 <media id="fs-id1165135442505" alt="A triangle. One angle is 22 degrees with side opposite = 5. Another angle is x degrees with opposite side = 13.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_209.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_209.jpg"/>
 </media>
 </problem>
   <solution id="fs-id1165133300591">
@@ -2601,7 +2601,7 @@
   </solution>
 </exercise><exercise id="fs-id1165131880286"><problem id="fs-id1165131880288">
 <media id="fs-id1165137832518" alt="A triangle. One angle is 59 degrees with opposite side = 5.7. Another angle is x degrees with opposite side = 5.3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_210.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_210.jpg"/>
 </media>
   </problem>
 </exercise><exercise id="fs-id1165137832530"><problem id="fs-id1165132005056">
@@ -2610,7 +2610,7 @@
 <m:mi>x</m:mi></m:mrow>
     </m:math> is an obtuse angle.</para>
 <media id="fs-id1165134328319" alt="A triangle. One angle is 55 degrees with side opposite = 21. Another angle is x degrees with opposite side = 24.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_211.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_211.jpg"/>
 </media>
   </problem>
 <solution id="fs-id1165137450859">
@@ -2622,12 +2622,12 @@
 </solution>
 </exercise><exercise id="fs-id1165135600243"><problem id="fs-id1165135600245">
 <media id="fs-id1165133023578" alt="A triangle. One angle is 65 degrees with opposite side = 10. Another angle is x degrees with opposite side = 12.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_212.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_212.jpg"/>
 </media>
   </problem>
 </exercise><para id="fs-id1165133023590">For the following exercises, find the area of each triangle. Round each answer to the nearest tenth.</para><exercise id="fs-id1165134185460"><problem id="fs-id1165134185462">
 <media id="fs-id1165134185468" alt="A triangle. One angle is 93 degrees with opposite side = 32.6. Another side is 24.1.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_214.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_214.jpg"/>
 </media>
   </problem>
 <solution id="fs-id1165137456555">
@@ -2639,12 +2639,12 @@
 </solution>
 </exercise><exercise id="fs-id1165135505462"><problem id="fs-id1165135505464">
 <media id="fs-id1165131894562" alt="A triangle. One angle is 30 degrees. The two sides adjacent to that angle are 10 and 16.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_215.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_215.jpg"/>
 </media>
   </problem>
 </exercise><exercise id="fs-id1165137899950"><problem id="fs-id1165137899952">
 <media id="fs-id1165137899959" alt="A triangle. One angle is 25 degrees. The two sides adjacent to that angle are 18 and 15">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_216.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_216.jpg"/>
 </media>
   </problem>
 <solution id="fs-id1165134068913">
@@ -2655,12 +2655,12 @@
   </para>
 </solution></exercise><exercise id="fs-id1165135633912"><problem id="fs-id1165135633914">
 <media id="fs-id1165135633921" alt="A triangle. One angle is 51 degrees with opposite side = 3.5. The other two sides are 4.5 and 2.9.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_217.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_217.jpg"/>
 </media>
   </problem>
 </exercise><exercise id="fs-id1165137810101"><problem id="fs-id1165137810104">
 <media id="fs-id1165135400875" alt="A triangle. One angle is 58 degrees with opposite side unknown. Another angle is 51 degrees with opposite side = 9. The side adjacent to the two given angles is 11.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_218.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_218.jpg"/>
 </media>
   </problem>
 <solution id="fs-id1165135400886">
@@ -2672,12 +2672,12 @@
 </solution>
 </exercise><exercise id="fs-id1165135512599"><problem id="fs-id1165135512601">
 <media id="fs-id1165135512608" alt="A triangle. One angle is 40 degrees with opposite side = 18. One of the other sides is 25.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_219.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_219.jpg"/>
 </media>
  </problem>
 </exercise><exercise id="fs-id1165135388763"><problem id="fs-id1165135388765">
 <media id="fs-id1165135388772" alt="A triangle. One angle is 115 degrees with opposite side = 50. Another angle is 30 degrees with opposite side = 30.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_220.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_220.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165134384443">
@@ -2694,13 +2694,13 @@
       <para id="fs-id1165133088149">Find the radius of the circle in <link target-id="Figure_08_01_221"/>. Round to the nearest tenth.</para>
   <figure id="Figure_08_01_221" class="small">
     <media id="fs-id1165135694392" alt="A triangle inscribed in a circle. Two of the legs are radii. The central angle formed by the radii is 145 degrees, and the opposite side is 3.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_221.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_221.jpg"/>
     </media>
   </figure>
     </problem>
   </exercise><exercise id="fs-id1165135149916"><problem id="fs-id1165135149918"><para id="fs-id1165137734376">Find the diameter of the circle in <link target-id="Figure_08_01_222"/>. Round to the nearest tenth.</para>
   <figure id="Figure_08_01_222" class="small"><media id="fs-id1165135149928" alt="A triangle inscribed in a circle. Two of the legs are radii. The central angle formed by the radii is 110 degrees, and the opposite side is 8.3.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_222.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_222.jpg"/>
     </media>
   </figure></problem>
 <solution id="fs-id1165135506392">
@@ -2717,7 +2717,7 @@
   <m:mi>m</m:mi><m:mo>∠</m:mo><m:mi>A</m:mi><m:mi>D</m:mi><m:mi>C</m:mi>
  </m:mrow>
 </m:math> in <link target-id="Figure_08_01_223"/>. Round to the nearest tenth.</para><figure id="Figure_08_01_223" class="small"><media id="fs-id1165135698485" alt="A triangle inside a triangle. The outer triangle is formed by vertices A, B, and D. Side B D is the base. The inner triangle shares vertices A and B. The last vertex C is located on the base side of the outer triangle between vertices B and D. Angle B is 60 degrees, side A D is 10, and side A C is 9. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_223.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_223.jpg"/>
 </media>
 </figure></problem>
   </exercise>
@@ -2728,7 +2728,7 @@
  <m:mrow>
   <m:mi>A</m:mi><m:mi>D</m:mi></m:mrow>
 </m:math> in <link target-id="Figure_08_01_224"/>. Round to the nearest tenth.</para><figure id="Figure_08_01_224" class="small"><media id="fs-id1165134317924" alt="A triangle inside a triangle. The outer triangle is formed by vertices A, B, and D. Side B D is the base. The inner triangle shares vertices A and B. The last vertex C is located on the base side of the outer triangle between vertices B and D. Angle B is 53 degrees, angle D is 44 degrees, side A B is 12, and side A C is 13.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_224.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_224.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165135186220">
@@ -2744,7 +2744,7 @@
   <problem id="fs-id1165133091582">
     <para id="fs-id1165133091585">Solve both triangles in <link target-id="Figure_08_01_225"/>. Round each answer to the nearest tenth.</para>
 <figure id="Figure_08_01_225" class="small"><media id="fs-id1165135483111" alt="Two triangles formed by intersecting lines A D and B C. They intersect at point E. The first triangle is formed from vertices A, B, and E while the second triangle is formed from vertices C, E, and D. Angle A is 48 degrees, side A B is 4.2, angle D is 48 degrees, and side C D is 2. Angle A E B is 46 degrees.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_225.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_225.jpg"/>
 </media>
 </figure></problem>
 </exercise>
@@ -2757,7 +2757,7 @@
     </m:math> in the parallelogram shown in <link target-id="Figure_08_01_226"/>.</para>
 
 <figure id="Figure_08_01_226" class="small"><media id="fs-id1165135556655" alt="A parallelogram with vertices A, B, C, and D. There is a diagonal from vertex B to vertex C. Angle A is 130 degrees, angle D is 130 degrees, side B D is 10, and the diagonal B C is 12.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_226.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_226.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165135690080">
@@ -2777,7 +2777,7 @@
     <m:mrow>
       <m:mi>J</m:mi><m:mi>K</m:mi><m:mo>).</m:mo></m:mrow>
   </m:math> Round each answer to the nearest tenth.</para><figure id="Figure_08_01_227" class="small"><media id="fs-id1165134501236" alt="A triangle with vertices J, K, and H. Side J K is the horizontal base and is 10. Side JH is 7. Angle J is 20 degrees.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_227.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_227.jpg"/>
 </media>
 </figure></problem>
 </exercise>
@@ -2791,7 +2791,7 @@
       <m:mrow>
 <m:mi>L</m:mi><m:mi>M</m:mi><m:mo>).</m:mo></m:mrow>
     </m:math> Round each answer to the nearest tenth.</para><figure id="Figure_08_01_228" class="small"><media id="fs-id1165134331084" alt="A triangle with vertices M, N, and L. Side M N is the horizontal base and is 4.6. Angle M is 74 degrees, and side M L is 5.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_228.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_228.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165133359479">
@@ -2813,7 +2813,7 @@
   <m:mo>∠</m:mo><m:mi>m</m:mi>
  </m:mrow>
 </m:math> is obtuse. Solve both triangles. Round each answer to the nearest tenth.</para><figure id="Figure_08_01_229" class="small"><media id="fs-id1165137538994" alt="A quadrilateral with vertices A, B, C, and D. There is a diagonal from vertex B to vertex D of length 45. Side A B is x, side B C is y, side C D is 40, and side D A is 29. Angle A is m degrees, angle C is 65 degrees, angle A B D is 35 degrees, angle D B C is n degrees, angle B D C is k degrees, and angle A D B is h degrees.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_229.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_229.jpg"/>
 </media>
 </figure></problem>
 </exercise>
@@ -2832,7 +2832,7 @@
       <m:mrow>
 <m:mn>55°</m:mn><m:mo>,</m:mo></m:mrow>
     </m:math> the pole casts a shadow 42 feet long on the level ground. How long is the pole? Round the answer to the nearest tenth.</para><figure id="Figure_08_01_231" class="small"><media id="fs-id1165135545537" alt="A triangle within a triangle. The outer triangle is formed by vertices A, B, and S (the sun). Side A B is the horizontal base, the ground, and is 42 feet. Angle A is 55 degrees. The inner triangle is formed by vertices A, B, and C. Side B C is the pole. Vertex C is located on side A S of the outer triangle between vertices A and S. Angle C B S is 7 degrees.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_231.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_231.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165133348802">
@@ -2845,7 +2845,7 @@
       <m:mrow>
 <m:mi>A</m:mi></m:mrow>
     </m:math> and the distance of the boat from shore. Round your answers to the nearest whole foot.</para><figure id="Figure_08_01_232" class="small"><media id="fs-id1165133340991" alt="A triangle formed by the two radar stations A and B and the boat. Side A B is the horizontal base. Angle A is 70 degrees and angle B is 60 degrees.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_232.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_232.jpg"/>
 </media>
 </figure></problem></exercise>
 
@@ -2873,7 +2873,7 @@
       <m:mrow>
 <m:mi>A</m:mi></m:mrow>
     </m:math> and how high is the satellite above the ground? Round answers to the nearest whole mile.</para><figure id="Figure_08_01_233" class="small"><media id="fs-id1165135181798" alt="A triangle formed by two ground tracking stations A and B and the satellite. Side A B is the horizontal base of the triangle. Angle A is 83.9 degrees, and the supplementary angle to angle B is 86.2 degrees.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_233.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_233.jpg"/>
 </media>
 </figure></problem>
 
@@ -2895,7 +2895,7 @@
       <m:mrow>
 <m:mn>16°.</m:mn></m:mrow>
     </m:math> Find the length of the cable required for the guy wire to the nearest whole meter.</para><figure id="Figure_08_01_234" class="small"><media id="fs-id1165135695097" alt="A triangle formed by the bottom of the hill, the base of the tower at the top of the hill, and the top of the tower. The side between the bottom of the hill and the top of the tower is wire. The length of the side bertween the bottom of the hill and the bottom of the tower is 165 meters. The angle formed by the wire side and the bottom of the hill is 16 degrees. The angle between the hill and the horizontal ground is 67 degrees. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_234.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_234.jpg"/>
 </media>
 </figure></problem>
 </exercise>
@@ -2909,7 +2909,7 @@
       <m:mrow>
 <m:mn>38°</m:mn></m:mrow>
     </m:math> relative to the horizontal for optimal results. (See <link target-id="Figure_08_01_235"/>). How long does the vertical support holding up the back of the panel need to be? Round to the nearest tenth.</para><figure id="Figure_08_01_235" class="small"><media id="fs-id1165134263935" alt="A triangle whose sides are the solar panel, the roof which goes past the solar panel, and the vertical support for the panel. The solar panel side is 8 feet long. There are horizontal dotted lines at the bottom of the solar panel and the bottom of the roof. The angle between the solar panel and the horizontal is 38 degrees. The angle between the roof and the horizontal is 20 degrees.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_235.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_235.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165134239618">
@@ -2928,7 +2928,7 @@
       <m:mrow>
 <m:mi>A</m:mi></m:mrow>
     </m:math> to the nearest tenth of a kilometer.</para><figure id="Figure_08_01_236" class="small"><media id="fs-id1165134401633" alt="A triangle formed by points A and B on the ground and a plane in the air between them. Side A B is the horizontal ground. There is a horizontal dotted line parallel to the ground going through the plane. The angle formed by the dotted horizontal, the plane, and point A is 37 degrees. The angle between the dotted horizontal, the plane, and point B is 44 degrees.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_236.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_236.jpg"/>
 </media>
 </figure></problem>
 </exercise>
@@ -2938,7 +2938,7 @@
       <m:mrow>
 <m:mi>A</m:mi></m:mrow>
     </m:math> to the nearest tenth of a kilometer.</para><figure id="Figure_08_01_237" class="small"><media id="fs-id1165135186078" alt="A triangle formed between the plane and two points on the ground, A and B. Side A B is the horizontal base. The plane is above and to the left of both A and B. Point B is to the right of point A. There is a dotted horizontal line going through the plane parallel to the ground. The angle formed between point B, the plane, and the dotted horizontal line is 32 degrees. The angle formed between point A, the plane, and the dotted horizontal line is 56 degrees. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_237.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_237.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165135339575">
@@ -3053,7 +3053,7 @@
       <para id="fs-id1165135648724">Brian’s house is on a corner lot. Find the area of the front yard if the edges measure 40 and 56 feet, as shown in <link target-id="Figure_08_01_238"/>.</para>
 
 <figure id="Figure_08_01_238" class="small"><media id="fs-id1165137694933" alt="A triangle with angle 135 degrees. The sides adjacent to that angle are 56 feet and 40 feet. The other side is the house, length unknown.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_238.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_238.jpg"/>
 </media>
 </figure></problem>
   </exercise>
@@ -3073,7 +3073,7 @@
 <exercise id="fs-id1165137782262">
   <problem id="fs-id1165137782264">
     <para id="fs-id1165137782266">Naomi bought a modern dining table whose top is in the shape of a triangle. Find the area of the table top if two of the sides measure 4 feet and 4.5 feet, and the smaller angles measure 32° and 42°, as shown in <link target-id="Figure_08_01_239"/>.</para><figure id="Figure_08_01_239" class="small"><media id="fs-id1165135413644" alt="A triangle. One angle is 32 degrees with opposite side = 4. Another angle is 42 degrees with opposite side = 4.5.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_01_239.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_01_239.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165133044322">

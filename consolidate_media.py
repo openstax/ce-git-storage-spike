@@ -4,6 +4,7 @@ import sys
 from pathlib import Path
 import hashlib
 from lxml import etree
+import os.path
 
 IGNORE_FILENAMES = [
     "index.cnxml",
@@ -13,18 +14,18 @@ IGNORE_FILENAMES = [
 SHA_SUFFIX_LENGTH = 4
 
 
-def update_cnxml_references(media, new_filename):
-    """Given a media file, update all image references in the corresponding
-    index.cnxml
+def update_cnxml_references(cnxml_file, reference_updates):
+    """Given a cnxml file, update all specified image references
     """
-    cnxml_file = media.parent / "index.cnxml"
     doc = etree.parse(str(cnxml_file))
 
     for node in doc.xpath(
-        f"//x:image[@src='{media.name}']",
+        "//x:image",
         namespaces={"x": "http://cnx.rice.edu/cnxml"}
     ):
-        node.attrib["src"] = new_filename
+        src_filename = node.attrib["src"]
+        if src_filename in reference_updates:
+            node.attrib["src"] = reference_updates[src_filename]
 
     with open(cnxml_file, "wb") as f:
         doc.write(f, encoding="utf-8", xml_declaration=False)
@@ -67,16 +68,38 @@ def main():
     print(f"Found {len(sha_conflicts)} filenames with conflicting shas")
 
     # Pass 2: Move files to media directory, adding a subset of the sha string
-    # to the name as a suffix if it has a sha conflict and updating CNXML
+    # to the name as a suffix if it has a sha conflict and queue updates to
+    # CNXML files
+
+    cnxml_reference_updates = {}
+
     for media in media_files:
+        cnxml_file = media.parent / "index.cnxml"
+
+        # Add the relative path to all image filenames
+        new_media_relpath = os.path.relpath(
+            media_dir,
+            media.resolve().parent
+        )
+
         if media.name not in sha_conflicts:
+            cnxml_reference_updates.setdefault(cnxml_file, {})[media.name] = \
+                f"{new_media_relpath}/{media.name}"
+
             media.rename(media_dir / media.name)
         else:
             sha_suffix = shas_by_filepath[media][0:SHA_SUFFIX_LENGTH]
             new_filename = \
                 f"{media.with_suffix('').name}-{sha_suffix}{media.suffix}"
-            update_cnxml_references(media, new_filename)
+
+            cnxml_reference_updates.setdefault(cnxml_file, {})[media.name] = \
+                f"{new_media_relpath}/{new_filename}"
+
             media.rename(media_dir / new_filename)
+
+    # Update image references in CNXML files
+    for cnxml_file, reference_updates in cnxml_reference_updates.items():
+        update_cnxml_references(cnxml_file, reference_updates)
 
 
 if __name__ == "__main__":

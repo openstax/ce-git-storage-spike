@@ -169,7 +169,7 @@ because the principal root of <m:math>
   <m:mo>.</m:mo>
  </m:mrow>
 </m:math> </para><media id="fs-id1165137832295" alt="Showing the real and imaginary parts of 5 + 2i. In this complex number, 5 is the real part and 2i is the complex part." display="block">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_03_01_001.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_01_001.jpg"/>
    </media>
 <para id="fs-id1165137892327">Imaginary numbers are distinguished from real numbers because a squared imaginary number produces a negative real number. Recall, when a positive real number is squared, the result is a positive real number and when a negative real number is squared, again, the result is a positive real number. Complex numbers are a combination of real and imaginary numbers.</para>
 
@@ -371,13 +371,13 @@ because the principal root of <m:math>
 
 <figure id="Figure_03_01_002" class="small">
 <media id="fs-id1165135189769" alt="Plot of a complex number, -2 + 3i. Note that the real part (-2) is plotted on the x-axis and the imaginary part (3i) is plotted on the y-axis.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_01_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_01_002.jpg"/>
 </media>
 </figure><note id="fs-id1165135160413"><label>A General Note label</label><title>Complex Plane</title>
 
 <para id="fs-id1165137570393">In the <emphasis>complex plane</emphasis>, the horizontal axis is the real axis, and the vertical axis is the imaginary axis as shown in <link target-id="Figure_03_01_003"/><emphasis>.</emphasis></para>
 <figure id="Figure_03_01_003" class="medium"><media id="fs-id1165135189755" alt="The complex plane showing that the horizontal axis (in the real plane, the x-axis) is known as the real axis and the vertical axis (in the real plane, the y-axis) is known as the imaginary axis.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_01_003n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_01_003n.jpg"/>
 </media>
 </figure></note><note id="fs-id1165137461552" class="how-to-notitle">
 <label>How To Feature</label>
@@ -414,7 +414,7 @@ because the principal root of <m:math>
   <m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>−4</m:mn><m:mo stretchy="false">)</m:mo>
  </m:mrow>
 </m:math> as shown in <link target-id="Figure_03_01_004"/>.</para><figure id="Figure_03_01_004"><media id="fs-id1165137386665" alt="Plot of a complex number, 3 - 4i. Note that the real part (3) is plotted on the x-axis and the imaginary part (-4i) is plotted on the y-axis.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_01_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_01_004.jpg"/>
 </media>
 </figure></solution>
 </exercise>
@@ -429,7 +429,7 @@ because the principal root of <m:math>
 </m:math> on the complex plane.</para></problem>
 <solution id="fs-id1165135192307">
 <media id="fs-id1165137827875" alt="Graph of the plotted point, -4-i.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_01_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_01_005.jpg"/>
 </media>
 </solution>
 </exercise></note>
@@ -565,7 +565,7 @@ because the principal root of <m:math>
 
 <section id="fs-id1165137575792"><title>Multiplying a Complex Number by a Real Number</title><para id="fs-id1165137628993">Let’s begin by multiplying a complex number by a real number. We distribute the real number just as we would with a binomial. So, for example,</para>
 <media id="fs-id1165137417358" alt="Showing how distribution works for complex numbers. For 3(6+2i), 3 is multiplied to both the real and imaginary parts. So we have (3)(6)+(3)(2i) = 18 + 6i. " display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_01_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_01_006.jpg"/>
 </media>
 <note id="fs-id1165137745292" class="how-to-notitle">
 <label>How To Feature</label>
@@ -1304,7 +1304,7 @@ because the principal root of <m:math>
  </m:mrow>
 </m:math> and simplify.</para>
 <para id="fs-id1165137834909"><media id="eip-id1165137897952" alt="">
-<image mime-type="image/png" src="CNX_Precalc_Figure_03_01_007.jpg"/>
+<image mime-type="image/png" src="../../media/CNX_Precalc_Figure_03_01_007.jpg"/>
 </media>
 </para></solution>
 <commentary id="fs-id1165137834913">
@@ -2346,13 +2346,13 @@ because the principal root of <m:math>
 <para id="fs-id1165135332710">For the following exercises, determine the number of real and nonreal solutions for each quadratic function shown.</para>
 <exercise id="fs-id1165137838261"><problem id="fs-id1165137838263">
 <media id="fs-id1165137838270" alt="Graph of a parabola intersecting the real axis.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_01_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_01_201.jpg"/>
 </media>
 
 </problem>
 <solution id="fs-id1165135186976"><para id="fs-id1165135186977">2 real and 0 nonreal</para></solution>
 </exercise><exercise id="fs-id1165135186982"><problem id="fs-id1165135186984"><media id="fs-id1165135186989" alt="Graph of a parabola not intersecting the real axis.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_01_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_01_202.jpg"/>
 </media>
 </problem>
 </exercise><para id="fs-id1165134191548">For the following exercises, plot the complex numbers on the complex plane.</para>
@@ -2362,7 +2362,7 @@ because the principal root of <m:math>
  </m:mrow>
 </m:math> </para></problem>
 <solution id="fs-id1165134093889"><media id="fs-id1165135454899" alt="Graph of the plotted point, 1-2i.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_01_203-6d3b.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_01_203-6d3b.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165135454913">
@@ -2378,7 +2378,7 @@ because the principal root of <m:math>
 </m:math>
 </para></problem>
 <solution id="fs-id1165137834538"><media id="fs-id1165137834544" alt="Graph of the plotted point, i.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_01_205-b6b4.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_01_205-b6b4.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165135698643">

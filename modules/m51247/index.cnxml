@@ -31,7 +31,7 @@
 </para><para id="eip-961">The <term>summary</term> will be written in the lower section about 2 inches from the bottom. You will complete this after class <term>summarizing the important concepts</term> you were taught in a short compact way. Think of this summary as what you might describe to a friend who happened to miss class that day. <term>Reflect</term> on the important ideas here. Add illustrations or a <term>mind map</term> to your summary if this helps. You will use this section to find information later when studying.
 </para>
 <figure id="cornell"><media id="cornellmethod" alt="A sample of the Cornell note template has rows and columns for “Topic/Objective,” “Name,” “Class/Period,” “Date,” “Essential Question,” “Questions,” “Notes,” and “Summary.”">
-    <image mime-type="image/jpeg" src="cornell_method.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/cornell_method.jpg"/>
   </media>
 
 <caption>The Cornell Method provides a straightforward, organized, and flexible approach.</caption></figure>
@@ -74,7 +74,7 @@ Share these completed Cornell notes with your classmates. Fill in any gaps in yo
 
 <figure id="Figure_01_05_001" class="small">
 <media id="fs-id1167339259291" alt="A large rectangle with smaller squares and a rectangle inside. The length of the outer rectangle is 6x and the width is 10x. The side length of the squares is 4 and the height of the width of the inner rectangle is 4.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_01_05_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_01_05_001.jpg"/>
 </media>
 </figure>
 
@@ -2737,7 +2737,7 @@ Share these completed Cornell notes with your classmates. Fill in any gaps in yo
    <m:mi>p</m:mi>
    <m:mn>2</m:mn>
   </m:msup>
-  <m:mo>−</m:mo><m:mn>120</m:mn><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>144</m:mn>
+  <m:mo>−</m:mo><m:mn>120</m:mn><m:mi>p</m:mi><m:mo>+</m:mo><m:mn>144</m:mn>
  </m:mrow>
 </m:math>
 </para></problem>
@@ -3195,7 +3195,7 @@ Share these completed Cornell notes with your classmates. Fill in any gaps in yo
   <m:mo>+</m:mo><m:mn>105</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>27</m:mn>
  </m:mrow>
 </m:math> m<sup>2</sup>, as shown in the figure below. The length and width of the park are perfect factors of the area.</para><media id="fs-id1167339315854" alt="A rectangle that’s textured to look like a field. The field is labeled: l times w = ninety-eight times x squared plus one hundred five times x minus twenty-seven.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_01_05_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_01_05_201.jpg"/>
 </media>
 
 <exercise id="fs-id1167339315866"><problem id="fs-id1167339315867"><para id="fs-id1167339315868">Factor by grouping to find the length and width of the park.</para></problem>
@@ -3257,7 +3257,7 @@ Share these completed Cornell notes with your classmates. Fill in any gaps in yo
   <m:mo>−</m:mo><m:mn>6</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>9</m:mn>
  </m:mrow>
 </m:math> yd<sup>2</sup>.</para><media id="fs-id1167339239346" alt="A square that’s textured to look like a field with a missing piece in the shape of a square in the center. The sides of the larger square are labeled: 100 yards. The center square is labeled: Area: x squared minus six times x plus nine.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_01_05_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_01_05_202.jpg"/>
 </media>
 
 <exercise id="fs-id1167339239356" class="material-set-2"><problem id="fs-id1167339239358"><para id="fs-id1167339239359">Find the length of the base of the flagpole by factoring.</para></problem></exercise>

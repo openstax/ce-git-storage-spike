@@ -19,7 +19,7 @@
 </item></list></section><section id="eip-37"><title>Objective: Graph quadratic functions using properties. (IA 9.6.4)</title><para id="eip-805">A <term>quadratic function</term> is a function that can be written in the <term>general form</term> <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mi>a</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>c</m:mi></m:math>, where <emphasis effect="italics">a, b</emphasis>, and <emphasis effect="italics">c</emphasis> are real numbers and a≠0. The graph of <term>quadratic function</term> is called a <term>parabola</term>. Parabolas are <term>symmetric</term> around a line (also called an axis) and have the highest (maximum) or the lowest (minimum) point that is called a <term>vertex</term>.
 </para><section id="eip-791"><title>Making a Table</title><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-514">We can graph quadratic function <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:math> by making a table and plotting points.
 </para><figure id="f-1"><media id="m-1" alt="This figure shows an upward-opening parabola graphed on the x y-coordinate plane. The x-axis of the plane runs from negative 4 to 4. The y-axis of the plane runs from negative 2 to 6. The parabola has a vertex at (0, 0) and also passes through the points (-2, 4), (-1, 1), (1, 1), and (2, 4). To the right of the graph is a table of values with 3 columns. The first row is a header row and labels each column, “x”, “f of x equals x squared”, and “the order pair x, f of x.” In row 2, x equals negative 3, f of x equals x squared is 9 and the ordered pair x, f of x is the ordered pair negative 3, 9. In row 3, x equals negative 2, f of x equals x squared is 4 and the ordered pair x, f of x is the ordered pair negative 2, 4. In row 4, x equals negative 1, f of x equals x squared is 1 and the ordered pair x, f of x is the ordered pair negative 1, 1. In row 5, x equals 0, f of x equals x squared is 0 and the ordered pair x, f of x is the ordered pair 0, 0. In row 6, x equals 1, f of x equals x squared is 1 and the ordered pair x, f of x is the ordered pair 1, 1. In row 7, x equals 2, f of x equals x squared is 4 and the ordered pair x, f of x is the ordered pair 2, 4. In row 8, x equals 3, f of x equals x squared is 9 and the ordered pair x, f of x is the ordered pair 3, 9.">
-    <image mime-type="image/jpeg" src="coreq_5.1_1.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/coreq_5.1_1.jpg"/>
   </media>
 
 <caption>
@@ -57,7 +57,7 @@
 <para id="eip-idm499395296"><span class="token">ⓒ</span> In what direction does it open?<newline/>
 <figure id="eip-idm604757248">
 <media id="m-2" alt="A blank 4-quadrant coordinate graph ranging from -6 to 6.">
-    <image mime-type="image/png" src="blankplot-bf29.png"/>
+    <image mime-type="image/png" src="../../media/blankplot-bf29.png"/>
   </media>
 </figure>
 </para>
@@ -98,7 +98,7 @@
 <para id="eip-idm345995696"><span class="token">ⓑ</span> Plot the points, and then connect them with a smooth curve. The result will be the graph of the function.<newline/>
 <figure id="eip-idm603457760">
 <media id="eip-idm603457504" alt="A blank 4-quadrant coordinate graph ranging from -6 to 6.">
-    <image mime-type="image/png" src="blankplot-bf29.png"/>
+    <image mime-type="image/png" src="../../media/blankplot-bf29.png"/>
   </media>
 </figure>
 </para>
@@ -143,7 +143,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 <para id="eip-idm311420304"><span class="token">ⓐ</span> Determine the direction of opening.<newline/>
 <figure id="eip-idm609078496">
 <media id="eip-idm608805904" alt="A blank 4-quadrant coordinate graph ranging from -6 to 6.">
-    <image mime-type="image/png" src="blankplot-bf29.png"/>
+    <image mime-type="image/png" src="../../media/blankplot-bf29.png"/>
   </media>
 </figure>
 </para>
@@ -216,7 +216,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 </tgroup>
 </table><figure id="eip-idm218076208">
 <media id="eip-idm218075952" alt="A blank 4-quadrant coordinate graph ranging from -6 to 6.">
-    <image mime-type="image/png" src="blankplot-bf29.png"/>
+    <image mime-type="image/png" src="../../media/blankplot-bf29.png"/>
   </media>
 </figure>
 </para>
@@ -227,7 +227,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 
 </exercise></section></section></section><figure id="Figure_03_02_001" class="medium">
 <media id="fs-id1165134550646" alt="Satellite dishes.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_001.jpg"/>
 </media>
 <caption>An array of satellite dishes. (credit: Matthew Colvin de Valle, Flickr)</caption>
 </figure>
@@ -237,7 +237,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 
 <figure id="Figure_03_02_002" class="small">
 <media id="fs-id1165134118332" alt="Graph of a parabola showing where the x and y intercepts, vertex, and axis of symmetry are.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_002.jpg"/>
 </media>
 </figure>
 
@@ -258,7 +258,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 
 <figure id="Figure_03_02_003" class="small">
 <media id="fs-id1165135571657" alt="Graph of a parabola with a vertex at (3, 1) and a y-intercept at (0, 7).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_003.jpg"/>
 </media>
 </figure>
 
@@ -415,7 +415,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
  </m:mrow>
 </m:math> </para><figure id="Figure_03_02_004" class="small">
 <media id="fs-id1165135527014" alt="Graph of a parabola showing where the x and y intercepts, vertex, and axis of symmetry are for the function y=x^2+4x+3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_004.jpg"/>
 </media>
 </figure>
 
@@ -482,7 +482,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
  </m:mrow>
 </m:math> </para><figure id="Figure_03_02_005" class="small">
 <media id="fs-id1165134252223" alt="Graph of a parabola showing where the x and y intercepts, vertex, and axis of symmetry are for the function y=-3(x+2)^2+4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_005.jpg"/>
 </media>
 </figure>
 
@@ -497,7 +497,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 
 <figure id="Figure_03_02_006" class="small">
 <media id="fs-id1165137411252" alt="Graph of y=x^2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_006-e5c0.jpg"/>
 </media>
 </figure>
 
@@ -798,7 +798,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
  </m:mrow>
 </m:math> and then expand the formula, and simplify terms to write the equation in general form.</para><figure id="Figure_03_02_007" class="small">
 <media id="fs-id1165137725791" alt="Graph of a parabola with its vertex at (-2, -3).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_007.jpg"/>
 </media>
 </figure>
 </problem>
@@ -1007,7 +1007,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 <exercise id="ti_03_02_01">
 <problem id="fs-id1165137933940"><para id="fs-id1165137933941">A coordinate grid has been superimposed over the quadratic path of a basketball in <link target-id="Figure_03_02_008"/>. Find an equation for the path of the ball. Does the shooter make the basket?</para>
 <figure id="Figure_03_02_008" class="small"><media id="fs-id1165137558055" alt="Stop motioned picture of a boy throwing a basketball into a hoop to show the parabolic curve it makes.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_008-e78b.jpg"/>
 </media>
 <caption>(credit: modification of work by Dan Meyer)</caption></figure>
 </problem>
@@ -1678,7 +1678,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 
 <section id="fs-id1165137736541"><title>Determining the Maximum and Minimum Values of Quadratic Functions</title><para id="fs-id1165137442167">The output of the quadratic function at the vertex is the maximum or minimum value of the function, depending on the orientation of the <term class="no-emphasis">parabola</term>. We can see the maximum and minimum values in <link target-id="Figure_03_02_009"/>.</para><figure id="Figure_03_02_009">
 <media id="fs-id1165135250650" alt="Two graphs where the first graph shows the maximum value for f(x)=(x-2)^2+1 which occurs at (2, 1) and the second graph shows the minimum value for g(x)=-(x+3)^2+4 which occurs at (-3, 4).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_009-cf30.jpg"/>
 </media>
 </figure>
 
@@ -1704,7 +1704,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 
 <figure id="Figure_03_02_010" class="small">
 <media id="fs-id1165135208803" alt="Diagram of the garden and the backyard.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_010.jpg"/>
 </media>
 </figure>
 <list id="fs-id1165134363440" list-type="enumerated" number-style="arabic" class="circled">
@@ -1865,7 +1865,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 
 <figure id="Figure_03_02_011" class="small">
 <media id="fs-id1165134572513" alt="Graph of the parabolic function A(L)=-2L^2+80L, which the x-axis is labeled Length (L) and the y-axis is labeled Area (A). The vertex is at (20, 800).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_011.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -2099,7 +2099,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 
 <figure id="Figure_03_02_012" class="small">
 <media id="fs-id1165137740867" alt="Graph of the parabolic function which the x-axis is labeled Price (p) and the y-axis is labeled Revenue ($). The vertex is at (31.80, 258100).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_012.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_012.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -2115,7 +2115,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
  <m:mrow><m:mi>x</m:mi><m:mtext>-</m:mtext>
  </m:mrow>
 </m:math> intercepts can vary depending upon the location of the graph.</para><figure id="Figure_03_02_013"><media id="fs-id1165137772104" alt="Three graphs where the first graph shows a parabola with no x-intercept, the second is a parabola with one –intercept, and the third parabola is of two x-intercepts.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_013.jpg"/>
 </media>
 <caption>Number of <emphasis effect="italics">x</emphasis>-intercepts of a parabola</caption></figure><note id="fs-id1165137464602" class="how-to-notitle">
 <label>How To</label>
@@ -2218,74 +2218,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
   <m:mn>0</m:mn><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo>
  </m:mrow>
 </m:math> </equation>
-<equation id="eip-id1165134586903" class="unnumbered"><label/>
- <m:math display="block">
- <m:mrow>
-  <m:mtable>
-   <m:mtr rowalign="center">
-    <m:mtd rowalign="center" columnalign="right"><m:mi>h</m:mi></m:mtd>
-    <m:mtd rowalign="center"><m:mo>=</m:mo></m:mtd>
-    <m:mtd rowalign="center">
-     <m:mrow>
-      <m:mo>−</m:mo><m:mfrac>
-       <m:mi>b</m:mi>
-       <m:mrow>
-        <m:mn>2</m:mn><m:mi>a</m:mi></m:mrow>
-      </m:mfrac>
-      </m:mrow>
-    </m:mtd>
-    <m:mtd columnalign="right" rowalign="center">
-     <m:mspace width="2em"/><m:mi>k</m:mi>
-    </m:mtd>
-    <m:mtd rowalign="center">
-     <m:mo>=</m:mo>
-    </m:mtd>
-    <m:mtd rowalign="center" columnalign="left">
-     <m:mrow>
-      <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>−1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr>
-    <m:mtd rowalign="center"/>
-    <m:mtd rowalign="center"><m:mo>=</m:mo></m:mtd>
-    <m:mtd rowalign="center" columnalign="left">
-     <m:mrow>
-      <m:mo>−</m:mo><m:mfrac>
-       <m:mn>4</m:mn>
-       <m:mrow>
-        <m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo></m:mrow>
-      </m:mfrac>
-      </m:mrow>
-    </m:mtd>
-    <m:mtd rowalign="center"/>
-    <m:mtd rowalign="center"><m:mo>=</m:mo></m:mtd>
-    <m:mtd columnalign="right" rowalign="center">
-     <m:mrow>
-      <m:mn>2</m:mn><m:msup>
-       <m:mrow>
-        <m:mo stretchy="false">(</m:mo><m:mn>−1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow>
-       <m:mn>2</m:mn>
-      </m:msup>
-      <m:mo>+</m:mo><m:mn>4</m:mn><m:mo stretchy="false">(</m:mo><m:mn>−1</m:mn><m:mo stretchy="false">)</m:mo><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr rowalign="center">
-    <m:mtd rowalign="center"/>
-    <m:mtd rowalign="center"><m:mo>=</m:mo></m:mtd>
-    <m:mtd rowalign="center" columnalign="left">
-     <m:mrow>
-      <m:mn>−1</m:mn></m:mrow>
-    </m:mtd>
-    <m:mtd rowalign="center"/>
-    <m:mtd rowalign="center"><m:mo>=</m:mo></m:mtd>
-    <m:mtd rowalign="center" columnalign="left">
-     <m:mrow>
-      <m:mn>−6</m:mn></m:mrow>
-    </m:mtd>
-   </m:mtr>
-
-  </m:mtable></m:mrow>
-</m:math> </equation><para id="fs-id1165137644422">So the <emphasis effect="italics">x</emphasis>-intercepts are at <m:math>
+<para id="fs-id1165137644422">So the <emphasis effect="italics">x</emphasis>-intercepts are at <m:math>
  <m:mrow><m:mrow><m:mo>(</m:mo>
    <m:mrow>
     <m:mfrac>
@@ -2325,7 +2258,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
  </m:mrow>
 </m:math> See <link target-id="Figure_03_02_014"/></para><figure id="Figure_03_02_014" class="small">
 <media id="fs-id1165135453241" alt="Graph of a parabola which has the following intercepts (-2, 0), (1/3, 0), and (0, -2).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_014.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_014.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -2585,7 +2518,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 
 <figure id="Figure_03_02_015" class="small">
 <media id="fs-id1165132949897" alt="Graph of a parabola which has the following x-intercepts (-2.732, 0) and (0.732, 0).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_015.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_015.jpg"/>
 </media>
 </figure>
 </solution>
@@ -3001,7 +2934,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 
 <figure id="Figure_03_02_016" class="small">
 <media id="fs-id1165135580349" alt="A graph is shown on a set of x and y axes. The scale is minus five to plus five for both x and y. The graph rises from below in the third quadrant, crossing the x-axis at x = -2, has a turning point at minus one, three, crosses the x-axis again at the origin, has another turning point at one, minus three, and crosses the x-axis one last time at x = 2, rising from there.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_016-4ad9.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_016-4ad9.jpg"/>
 </media>
 </figure>
 <para id="eip-id1827109">Note that the graph does not represent the physical path of the ball upward and downward. Keep the quantities on each axis in mind while interpreting the graph. </para>
@@ -3803,7 +3736,7 @@ The vertex is at the point (1, -5) and the axis of symmetry is <m:math><m:mi>x</
 <para id="eip-idm462085072">Vertex: (3, −10), axis of
 symmetry: x = 3, intercepts:
  <m:math><m:mo>(</m:mo><m:mn>3</m:mn><m:mo>+</m:mo><m:msqrt><m:mn>10</m:mn></m:msqrt><m:mo>,</m:mo><m:mn>0</m:mn><m:mo>)</m:mo></m:math> and <m:math><m:mo>(</m:mo><m:mn>3</m:mn><m:mo>-</m:mo><m:msqrt><m:mn>10</m:mn></m:msqrt><m:mo>,</m:mo><m:mn>0</m:mn><m:mo>)</m:mo></m:math>
-<media id="eip-idm1032328272" alt=""><image mime-type="jpeg" src="CNX_Precalc_Figure_05_01_235.jpg"/></media></para></solution></exercise><exercise id="fs-id1165135692195"><problem id="fs-id1165135692197"><para id="fs-id1165135692198"> <m:math>
+<media id="eip-idm1032328272" alt=""><image mime-type="jpeg" src="../../media/CNX_Precalc_Figure_05_01_235.jpg"/></media></para></solution></exercise><exercise id="fs-id1165135692195"><problem id="fs-id1165135692197"><para id="fs-id1165135692198"> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msup>
    <m:mi>x</m:mi>
@@ -3877,7 +3810,7 @@ and
 </m:mfrac>
 <m:mo>, </m:mo> <m:mn>0</m:mn><m:mo>)</m:mo>
 </m:math>
-<media id="eip-idm381174624" alt=""><image mime-type="jpeg" src="CNX_Precalc_Figure_05_01_237.jpg"/></media></para></solution></exercise><exercise id="fs-id1165135500665"><problem id="fs-id1165135500667"><para id="fs-id1165135500668"> <m:math>
+<media id="eip-idm381174624" alt=""><image mime-type="jpeg" src="../../media/CNX_Precalc_Figure_05_01_237.jpg"/></media></para></solution></exercise><exercise id="fs-id1165135500665"><problem id="fs-id1165135500667"><para id="fs-id1165135500668"> <m:math>
  <m:mrow>
   <m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>−2</m:mn><m:msup>
    <m:mi>x</m:mi>
@@ -3941,11 +3874,11 @@ and
 </problem>
 <solution id="eip-id1165134560567">
 <media id="fs-id1165134391611" alt="Graph of f(x)=4x^2-12x-3">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_206.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_206.jpg"/>
 </media>
 </solution></exercise><para id="fs-id1165134391625">For the following exercises, write the equation for the graphed quadratic function.</para><exercise id="fs-id1165134391628"><problem id="fs-id1165134391630">
 <media id="fs-id1165134391635" alt="Graph of a positive parabola with a vertex at (2, -3) and y-intercept at (0, 1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_207.jpg"/>
 </media>
 </problem>
 <!--<solution id="fs-id1165134391648"><para id="fs-id1165134391649"> <m:math>
@@ -3961,7 +3894,7 @@ and
 </exercise><exercise id="fs-id1165135262595"><problem id="fs-id1165135262597">
 
 <media id="fs-id1165135262603" alt="Graph of a positive parabola with a vertex at (-1, 2) and y-intercept at (0, 3)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_208.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_208.jpg"/>
 </media>
 </problem>
 <solution id="eip-idm349051408">
@@ -3979,7 +3912,7 @@ and
 </solution></exercise><exercise id="fs-id1165135262616"><problem id="fs-id1165135262618">
 
 <media id="fs-id1165135262624" alt="Graph of a negative parabola with a vertex at (2, 7).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_209.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_209.jpg"/>
 </media>
 
 </problem>
@@ -3996,7 +3929,7 @@ and
 </exercise><exercise id="fs-id1165134162152"><problem id="fs-id1165134162154">
 
 <media id="fs-id1165134162160" alt="Graph of a negative parabola with a vertex at (-1, 2).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_210.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_210.jpg"/>
 </media>
 </problem>
 <solution id="eip-idm193648640">
@@ -4013,7 +3946,7 @@ and
 </para>
 </solution></exercise><exercise id="fs-id1165134162173"><problem id="fs-id1165134162175">
 <media id="fs-id1165134196136" alt="Graph of a positive parabola with a vertex at (3, -1) and y-intercept at (0, 3.5).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_211n-0ec8.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_211n-0ec8.jpg"/>
 </media>
 </problem>
 <!--<solution id="fs-id1165134196148"><para id="fs-id1165134196149"> <m:math>
@@ -4036,7 +3969,7 @@ and
 </para></solution>-->
 </exercise><exercise id="fs-id1165137940515"><problem id="fs-id1165137940518">
 <media id="fs-id1165131959568" alt="Graph of a negative parabola with a vertex at (-2, 3).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_02_212.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_02_212.jpg"/>
 </media>
 </problem>
 <solution id="eip-idm578885680">

@@ -58,7 +58,7 @@
 
 </tgroup>
 </table></para><para id="eip-idm398862608"><span class="token">ⓐ</span> Plot each of the data points on a coordinate system below. You may either plot the points by hand or using a graphing utility. Be sure to label your x and y axes. <newline/> <media id="fs-id2573209" alt="Scatter plot, titled 'Final Exam Score VS Age'. The x-axis is the age, and the y-axis is the final exam score. The range of ages are between 20s - 50s, and the range for scores are between upper 50s and 90s.">
-  <image mime-type="image/jpg" src="blanklineplot.png"/>
+  <image mime-type="image/jpg" src="../../media/blanklineplot.png"/>
   </media>
   </para>
 <para id="eip-idm407175232"><span class="token">ⓑ</span> Observe any patterns in the data points. Do you think the association between the variables is positive or negative? Is the pattern linear or nonlinear?</para>
@@ -180,7 +180,7 @@
   <para id="fs-id1618160">A <term class="no-emphasis">scatter plot</term> is a graph of plotted points that may show a relationship between two sets of data. If the relationship is from a <term class="no-emphasis">linear model</term>, or a model that is nearly linear, the professor can draw conclusions using his knowledge of linear functions. <link target-id="Figure_04_03_001"/> shows a sample scatter plot.</para>
   <figure id="Figure_04_03_001" class="small">
   <media id="fs-id2575209" alt="Scatter plot, titled 'Final Exam Score VS Age'. The x-axis is the age, and the y-axis is the final exam score. The range of ages are between 20s - 50s, and the range for scores are between upper 50s and 90s.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_001.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_001.jpg"/>
   </media>
   <caption>A scatter plot of age and final exam score variables </caption>
   </figure>
@@ -240,7 +240,7 @@
   <para id="fs-id2064463">Plotting this data, as depicted in <link target-id="Figure_04_03_002"/> suggests that there may be a trend. We can see from the trend in the data that the number of chirps increases as the temperature increases. The trend appears to be roughly linear, though certainly not perfectly so.</para>
   <figure id="Figure_04_03_002" class="small">
   <media id="fs-id2637811" alt="Scatter plot, titled 'Cricket Chirps vs. Air Temperature'. The x-axis is the Cricket Chirps in 15 Seconds, and the y-axis is the Temperature (F). The line regression is generally positive.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_002.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_002.jpg"/>
   </media>
   </figure>
   </solution>
@@ -317,7 +317,7 @@
   </m:math> is the temperature in degrees Fahrenheit. The resulting equation is represented in <link target-id="Figure_04_03_003"/>.</para>
   <figure id="Figure_04_03_003" class="small">
   <media id="fs-id1434802" alt="Scatter plot, showing the line of best fit: T(c) = 1.2c + 30. It is titled 'Cricket Chirps Vs Air Temperature'. The x-axis is 'c, Number of Chirps', and the y-axis is 'T(c), Temperature (F)'.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_003.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_003.jpg"/>
   </media>
   </figure>
   </solution>
@@ -339,7 +339,7 @@
    </m:mrow>
   </m:math> that is in 50 years, the model would not apply because we could not account for factors fifty years in the future.</para><figure id="Figure_04_03_004" class="small">
   <media id="fs-id2757799" alt="Scatter plot, showing the line of best fit. It is titled 'Cricket Chirps Vs Air Temperature'. The x-axis is 'c, Number of Chirps', and the y-axis is 'T(c), Temperature (F)'.  The area around the scattered points is enclosed in a box labeled: Interpolation.  The area outside of this box is labeled: Extrapolation.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_004.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_004.jpg"/>
   </media>
   <caption>Interpolation occurs within the domain and range of the provided data whereas extrapolation occurs outside. </caption>
   </figure>
@@ -420,7 +420,7 @@
   <para id="fs-id1594157">We can compare the regions of interpolation and extrapolation using <link target-id="Figure_04_03_005"/>.</para>
   <figure id="Figure_04_03_005" class="small">
   <media id="fs-id1284983" alt="Scatter plot, showing the line of best fit and where interpolation and extrapolation occurs. It is titled 'Cricket Chirps vs. Air Temperature'. The x-axis is 'c, Number of Chirps', and the y-axis is 'T(c), Temperature (F)'.  An additional point is plotted inside of the box to represent an interpolated point.  There is another additional point plotted outside of the box to represent an extrapolated point.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_005.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_005.jpg"/>
   </media>
   </figure>
   </solution>
@@ -551,7 +551,7 @@
   </equation><para id="fs-id1552163">The graph of the scatter plot with the least squares regression line is shown in <link target-id="Figure_04_03_006"/>.</para>
   <figure id="Figure_04_03_006" class="small">
   <media id="fs-id2099377" alt="Scatter plot, showing the line of best fit: T(c) = 30.281 + 1.143c. It is titled 'Cricket Chirps vs. Air Temperature'. The x-axis is 'c, Number of Chirps', and the y-axis is 'T(c), Temperature (F)'.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_006.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_006.jpg"/>
   </media>
   </figure>
   </commentary>
@@ -577,7 +577,7 @@
   </m:math> and the graph of the data, <link target-id="Figure_04_03_007"/> shows some large data sets with their correlation coefficients. Remember, for all plots, the horizontal axis shows the input and the vertical axis shows the output.</para>
   <figure id="Figure_04_03_007">
   <media id="fs-id1450932" alt="Correlation coefficients values range from -1.0 - 1.0.  Collections of dots representing an example of each kind of correlation coefficient are plotted underneath them.  The closer to 1.0 the more the points are grouped tightly to form a line in the positive direction.  The closer to -1.0 the more the points are grouped tightly to form a line in the negative direction.  The closer to 0 the points are very scattered and do not form a line.  Several shapes are displayed at the bottom row, none of which are lines, but all of them have values of 0.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_007.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_007.jpg"/>
   </media>
   <caption>Plotted data and related correlation coefficients. (credit: “DenisBoigelot,” Wikimedia Commons)</caption>
   </figure>
@@ -681,7 +681,7 @@
   </table><para id="fs-id1460109">The scatter plot of the data, including the least squares regression line, is shown in <link target-id="Figure_04_03_008"/>.</para>
   <figure id="Figure_04_03_008" class="small">
   <media id="fs-id2529687" alt="Scatter plot, showing the line of best fit. It is titled 'Gas Consumption VS Year'. The x-axis is 'Year After 1994', and the y-axis is 'Gas Consumption (billions of gallons)'. The points are strongly positively correlated and the line of best fit goes through most of the points completely. ">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_008.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_008.jpg"/>
   </media>
   </figure>
   </problem>
@@ -929,7 +929,7 @@
   </table></problem>
   <solution id="fs-id1412608">
   <media id="fs-id1552024" alt="Scatter plot with a collection of points appearing at (1,46); (2,50); (3,59); (4,75); (5, 100); and (6,136); they do not appear linear">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_234.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_234.jpg"/>
   </media>
   <para id="fs-id1534066">No.</para></solution></exercise><exercise id="fs-id1541935" class="material-set-2"><problem id="fs-id1374381">
   <table id="Table_04_03_05" summary="Two rows and six columns. The values in the first row are: 100, 250, 300, 450, 600, 750. The values in the second row are: 12, 12.6, 13.1, 14, 14.5, 15.2." class="unnumbered">
@@ -994,7 +994,7 @@
 
   <solution id="fs-id1326815">
   <media id="fs-id1382151" alt="Scatterplot with a collection of points at (1,1); (3,9); (5,28); (7,65); (9,125); and (11,216); they do not appear linear">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_236.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_236.jpg"/>
   </media>
   <para id="fs-id1542149">No.</para></solution></exercise><exercise id="fs-id1549099" class="material-set-2"><problem id="fs-id2257504"><para id="fs-id1536153">For the following data, draw a scatter plot. If we wanted to know when the population would reach 15,000, would the answer involve interpolation or extrapolation? Eyeball the line, and estimate the answer.</para>
   <table id="Table_04_03_07" summary="This table includes two columns and six rows. The first column is labeled: “Year” and the second is labeled: “Population”. The values in the first column are: 1990, 1995, 2000, 2005, 2010. The values in the second column are 11,500; 12,100; 12,700; 13,000; 13,750." class="unnumbered">
@@ -1059,7 +1059,7 @@
   </problem>
   <solution id="fs-id2078772">
   <media id="fs-id2099243" alt="Scatterplot with a collection of points at (16,46); (18,50); (20,54); (25,55); and (30,62); they appear nonlinear">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_238.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_238.jpg"/>
   </media>
   <para id="fs-id1470010">Interpolation. About <m:math>
    <m:mrow>
@@ -1068,11 +1068,11 @@
   </m:math> </para></solution>
   </exercise></section><section id="fs-id1475649"><title>Graphical</title><para id="fs-id2570326">For the following exercises, match each scatterplot with one of the four specified correlations in <link target-id="Figure_04_03_201"/> and <link target-id="Figure_04_03_202a"/><emphasis>.</emphasis></para>
   <figure id="Figure_04_03_201"><media id="fs-id1566729" alt="Side-by-side scatter plots.  The first is a scattered correlation in the positive direction.  The second is a scattered correlation in the negative direction">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_204ab.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_204ab.jpg"/>
   </media>
   </figure><figure id="Figure_04_03_202a">
   <media id="fs-id1561291" alt="Side-by-side scatter plots.  The first has a strong negative correlation with all the points spaced out evenly near the top and center, but more spread out near the bottom.  The second has a strong positive correlation, with the points more spread out near the bottom and closer together near the center and top.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_204cd.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_204cd.jpg"/>
   </media>
   </figure>
   <exercise id="fs-id1284066"><problem id="fs-id1364781"><para id="fs-id1380305"> <m:math>
@@ -1110,29 +1110,29 @@
   <para id="fs-id1691868">For the following exercises, draw a best-fit line for the plotted data.</para>
   <exercise id="fs-id1374546" class="material-set-2"><problem id="fs-id1694634">
   <media id="fs-id2094007" alt="Scatter plot with a domain of 0 to 10 and a range of 4 to 9.  The points are at (0,5); (2.1,4.2); (3.5,6); (4.5,6.5); (5.5,6.8); (7,7.4); (8,8.5); (9,8); and (10,9).">
-  <image mime-type="image/jpg" src="CNX_Precalc_02_04_202.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_02_04_202.jpg"/>
   </media>
   </problem></exercise><exercise id="fs-id2366654" class="material-set-2"><problem id="fs-id2366655">
   <media id="fs-id2157593" alt="Scatter plot with a domain of 0 to 10 and a range of -1 to 4.  The points are at (0,1.5); (1.5, -0.1); (2.1,1.9); (3.4, 1.5); (4.5,2.5); (5.8,2.2); (6.8,3.8); (7.8,3.6); (8.8,2); and (10,2.4).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_204-b8a4.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_204-b8a4.jpg"/>
   </media>
   </problem>
   <solution id="fs-id1729040">
   <media id="fs-id1565517" alt="Scatter plot with domain 0 to 10 and a range from -1 to 4 with the line of best fit drawn going through the points: (0,1.5); (1.5, -0.1); (2.1,1.9); (3.4, 1.5); (4.5,2.5); (5.8,2.2); (6.8,3.8); (7.8,3.6); (8.8,2); and (10,2.4).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_205.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_205.jpg"/>
   </media>
   </solution></exercise><exercise id="fs-id1703008" class="material-set-2"><problem id="fs-id1703009">
   <media id="fs-id1630678" alt="Scatter plot with a domain of 0 to 10 and range of 0 to 7 with the points: (0,7.3); (1,7); (2.2,6); (3.6,7); (4.8,6.2); (5.8,4); (6.6,3.8); (7.9,2.4); (8.8,2); and (10,0.1).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_206-a048.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_206-a048.jpg"/>
   </media>
   </problem></exercise><exercise id="fs-id1581440" class="material-set-2"><problem id="fs-id1581441">
   <media id="fs-id1451072" alt="Scatter plot with a domain of 0 to 10 and a range of 2 to 6 with the points: (0,2.1); (1,3.9); (2.1,3.6); (3.6,3.9); (4.4,4); (5.6,4.2); (6.8,5); (7.8,5); (9,5.6); and (10,6).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_208-1265.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_208-1265.jpg"/>
   </media>
   </problem>
   <solution id="fs-id1702047">
   <media id="fs-id1968088" alt="Scatter plot with a domain of 0 to 10 and a range of 2 to 6 and the line of best fit going through the points: (0,2.1); (1,3.9); (2.1,3.6); (3.6,3.9); (4.4,4); (5.6,4.2); (6.8,5); (7.8,5); (9,5.6); and (10,6)">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_210.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_210.jpg"/>
   </media>
   </solution>
   </exercise></section><section id="fs-id2464699">
@@ -1756,16 +1756,16 @@
   <problem id="fs-id2748160">
   <para id="fs-id2748161">Find the slope of the line shown in the graph.<newline/></para>
   <media id="fs-id2593769" alt="This is a graph of an increasing line with a y-intercept of -3 and x-intercept of 1 on an x, y coordinate plane.  The x and y-axis range from -6 to 6.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_211-603f.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_211-603f.jpg"/>
   </media>
   </problem>
   <solution id="fs-id1799100"><para id="fs-id2555716">3</para></solution></exercise><exercise id="fs-id2555719" class="material-set-2"><problem id="fs-id2571097"><para id="fs-id2571098">Find the slope of the line graphed.<newline/></para>
   <media id="fs-id2267005" alt="This is a graph of a line with a y-intercept of -2 and no x-intercepts on an x, y coordinate plane.  The x- and y-axis range from -6 to 6">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_212-3b7e.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_212-3b7e.jpg"/>
   </media>
   </problem></exercise><exercise id="fs-id2799886" class="material-set-2"><problem id="fs-id2799888"><para id="fs-id1433211">Write an equation in slope-intercept form for the line shown.<newline/></para>
   <media id="fs-id2755625" alt="This is a graph of a line with a y-intercept of -2 and x-intercept of 1 on an x, y coordinate plane.  The x- and y-axis both range from -6 to 6.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_213-5863.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_213-5863.jpg"/>
   </media>
   </problem>
   <solution id="fs-id2134829"><para id="fs-id2134830"> <m:math>
@@ -1972,7 +1972,7 @@
   <solution id="fs-id1798839">
   <para id="eip-id2545197"><newline/>
   <media id="fs-id2437747" alt="This is a graph of f of t = 2 times t minus 5 on a x, y coordinate plane.  The x-axis ranges from -4 to 6 and the y-axis ranges from -6 to 6. The curve is an increasing linear function that goes through the points (0,-5) and (2.5,0). ">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_214.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_214.jpg"/>
   </media></para>
   </solution></exercise><exercise id="fs-id2489570"><problem id="fs-id2489571"><para id="fs-id1966917">Find the point of intersection for the 2 linear functions: <m:math>
    <m:mrow>
@@ -2030,7 +2030,7 @@
    <m:mi>x</m:mi>
    </m:mrow>
   </m:math> represents years since 1980.</para><figure id="Figure_04_03_202" class="small"><media id="fs-id2208795" alt="This graph shows profits starting at 1985 at $10,000 and ending at 2005 at $4,000.  The x-axis ranges from 0 to 30 in intervals of 5 and the y –axis goes from 0 to 12,000 in intervals of 2,000.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_215.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_215.jpg"/>
   </media>
   </figure><exercise id="fs-id1429436" class="material-set-2"><problem id="fs-id1429437"><para id="fs-id2662623">Find the linear function <emphasis effect="italics">y</emphasis>, where <emphasis effect="italics">y</emphasis> depends on <m:math>
    <m:mrow>
@@ -2170,7 +2170,7 @@
   <solution id="fs-id2208904"><para id="fs-id2208906">Extrapolation</para>
   <para id="eip-id1505656"><newline/>
   <media id="fs-id2240962" alt="Scatter plot with the points (1990,5600); (1995,5950); (2000,6300); (2005,6600); and (2010,6900).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_226.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_226.jpg"/>
   </media></para>
 
   </solution></exercise><exercise id="fs-id2267039"><problem id="fs-id2267040"><para id="fs-id2267041">Eight students were asked to estimate their score on a 10-point quiz. Their estimated and actual scores are given in <link target-id="Table_04_03_26"/>. Plot the points, then sketch a line that fits the data.</para>
@@ -2215,14 +2215,14 @@
   </table></problem></exercise><exercise id="fs-id2578689"><problem id="fs-id2578690"><para id="fs-id2578691">Draw a best-fit line for the plotted data.<newline/></para>
 
   <media id="fs-id2464743" alt="Scatter plot of the points: (2,78); (4,81); (6,85); (8,90); and (10,99).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_216.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_216.jpg"/>
   </media>
 
   </problem>
   <solution id="fs-id2160490">
   <para id="eip-id2601966"><newline/>
   <media id="fs-id2160495" alt="Scatter plot of: (2,78); (4,81); (6,85); (8,90); and (10,99) and the line of best fit running through these points.  The line of best fit goes through most of the points.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_217.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_217.jpg"/>
   </media></para>
   </solution>
   </exercise><para id="fs-id2755468">For the following exercises, consider the data in <link target-id="Table_04_03_27"/>, which shows the percent of unemployed in a city of people 25 years or older who are college graduates is given below, by year. </para>
@@ -2389,7 +2389,7 @@
   </solution></exercise><exercise id="fs-id2489441"><problem id="fs-id2489442"><para id="fs-id2757895">Find the slope of the line in <link target-id="Image_04_03_220"/>.</para>
   <figure id="Image_04_03_220" class="small">
   <media id="fs-id2757905" alt="This image is a graph of a decreasing linear function on an x, y coordinate plane. The x and y-axis range from -6 to 6. The line passes through the points (0,2) and (1,0). ">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_218-250a.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_218-250a.jpg"/>
   </media>
   </figure>
   </problem>
@@ -2401,7 +2401,7 @@
   <exercise id="fs-id2429836" class="material-set-2"><problem id="fs-id2429838"><para id="fs-id2429839">Write an equation for line in <link target-id="Image_04_03_221"/>.</para>
   <figure id="Image_04_03_221" class="small">
   <media id="fs-id2674489" alt="This image is a graph showing a decreasing linear function on an x, y coordinate plane. The x and y axis range from -6 to 6. The line passes through the points (0,-1) and (-.5,0).  ">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_219-415a.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_219-415a.jpg"/>
   </media>
   </figure>
   </problem>
@@ -2625,7 +2625,7 @@
    </m:mrow>
   </m:math> </para></problem>
   <solution id="eip-idm458844272">
-  <media id="eip-idm430922064" alt=""><image mime-type="jpeg" src="CNX_ColAlg_Figure_04_217.jpg"/></media>
+  <media id="eip-idm430922064" alt=""><image mime-type="jpeg" src="../../media/CNX_ColAlg_Figure_04_217.jpg"/></media>
   <para id="eip-idm453499792">
   Slope = −1 and
   y-intercept = 6
@@ -2709,7 +2709,7 @@
 
   <para id="eip-id1167337358428"><figure id="Figure_04_03_224" class="small">
   <media id="fs-id2436294" alt="This image is a graph showing the company's profit from 1985 at around $15,000 to 2010 at about $32,500.  The x-axis goes from 0 to 30 in intervals of 5 and the y-axis goes from 0 to 35,000 in intervals of 5,000.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_222.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_222.jpg"/>
   </media>
   </figure>
   </para>
@@ -2784,12 +2784,12 @@
   </media><newline/></para></solution>--></exercise><exercise id="fs-id2804427" class="material-set-2"><problem id="fs-id2804428"><para id="fs-id2804429">Draw a best-fit line for the plotted data.<newline/></para>
 
   <media id="fs-id2804435" alt="Scatterplot with domain from 2 to 10 and range from 20 from 33.  The points plotted are (2,20); (4,23); (6,26); (8,26); and (10,32).">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_02_04_223.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_223.jpg"/>
   </media>
 
   </problem>
   <solution id="eip-idm438133904">
-  <media id="eip-idm438133648" alt=""><image mime-type="jpeg" src="CNX_ColAlg_Figure_04_227.jpg"/></media>
+  <media id="eip-idm438133648" alt=""><image mime-type="jpeg" src="../../media/CNX_ColAlg_Figure_04_227.jpg"/></media>
   </solution></exercise><para id="fs-id2804465">For the following exercises, use <link target-id="Table_04_03_33"/>, which shows the percent of unemployed persons 25 years or older who are college graduates in a particular city, by year.</para>
   <table id="Table_04_03_33" summary="This table shows two rows and six columns.  The first row is labeled: “Year” and the second is labeled: “Percent Graduates”.  The values in the first row are: 2000, 2002, 2005, 2007, 2010.  The values in the second row are: 8.5, 8.0, 7.2, 6.7 and 6.4">
   <title/>

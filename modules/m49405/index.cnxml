@@ -18,7 +18,7 @@
 
   <para id="fs-id1165137693532">Suppose a boat leaves port, travels 10 miles, turns 20 degrees, and travels another 8 miles as shown in <link target-id="Figure_08_02_001"/>. How far from port is the boat?</para>
   <figure id="Figure_08_02_001" class="small"><media id="fs-id1165137428050" alt="A triangle whose vertices are the boat, the port, and the turning point of the boat. The side between the port and the turning point is 10 mi, and the side between the turning point and the boat is 8 miles. The side between the port and the turning point is extended in a straight dotted line. The angle between the dotted line and the 8 mile side is 20 degrees.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_001.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_001.jpg"/>
     </media>
   </figure><para id="fs-id1165135553590">Unfortunately, while the Law of Sines enables us to address many non-right triangle cases, it does not help us with triangles where the known angle is between two known sides, a <term class="no-emphasis">SAS (side-angle-side) triangle</term>, or when all three sides are known, but no angles are known, a <term class="no-emphasis">SSS (side-side-side) triangle</term>. In this section, we will investigate another tool for solving oblique triangles described by these last two cases.</para><section id="fs-id1165135190782">
     <title>Using the Law of Cosines to Solve Oblique Triangles</title>
@@ -42,7 +42,7 @@
             <m:mi>x</m:mi><m:mo>,</m:mo><m:mi>y</m:mi></m:mrow>
           <m:mo>)</m:mo></m:mrow></m:mrow>
     </m:math> in the plane, as illustrated in <link target-id="Figure_08_02_002"/>. Generally, triangles exist anywhere in the plane, but for this explanation we will place the triangle as noted.</para><figure id="Figure_08_02_002" class="small"><media id="fs-id1165135500831" alt="A triangle A B C plotted in quadrant 1 of the x,y plane. Angle A is theta degrees with opposite side a, angles B and C, with opposite sides b and c respectively, are unknown. Vertex A is located at the origin (0,0), vertex B is located at some point (x-c, 0) along the x-axis, and point C is located at some point in quadrant 1 at the point (b times the cos of theta, b times the sin of theta). ">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_002.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_002.jpg"/>
       </media>
     </figure><para id="fs-id1165134363434">We can drop a perpendicular from <m:math>
       <m:mrow>
@@ -446,7 +446,7 @@
 
       </m:math>
       </equation><figure id="Figure_08_02_003" class="small"><media id="fs-id1165137482948" alt="A triangle with standard labels: angles alpha, beta, and gamma with opposite sides a, b, and c respectively.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_003n.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_003n.jpg"/>
         </media>
       </figure><para id="fs-id1165137900234">To solve for a missing side measurement, the corresponding opposite angle measure is needed.</para>
       <para id="fs-id1165134272589">When solving for an angle, the corresponding opposite side measure is needed. We can use another version of the Law of Cosines to solve for an angle.</para>
@@ -579,7 +579,7 @@
           <para id="fs-id1165137723520">Find the unknown side and angles of the triangle in <link target-id="Figure_08_02_004"/>.</para>
 
           <figure id="Figure_08_02_004" class="small"><media id="fs-id1165137723349" alt="A triangle with standard labels. Side a = 10, side c = 12, and angle beta = 30 degrees.">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_004.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_004.jpg"/>
             </media>
           </figure></problem>
         <solution id="fs-id1165137810707">
@@ -1253,7 +1253,7 @@
  </m:mrow>
 </m:math>
 </equation><para id="fs-id1165133349386">See <link target-id="Figure_08_02_005"/>.</para><figure id="Figure_08_02_005" class="small"><media id="fs-id1165133349396" alt="A triangle with standard labels. Side b =25, side a = 20, side c = 18, and angle alpha = 52.4 degrees.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_005.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_005.jpg"/>
           </media>
         </figure></solution>
         <commentary id="fs-id1165137807087">
@@ -1295,7 +1295,7 @@
 
 
         <figure id="Figure_08_02_006" class="small"><media id="fs-id1165137448224" alt="A triangle formed between the two cell phone towers located on am east to west highway and the cellphone between and north of them. The side between the two towers is 6000 feet, the side between the left tower and the phone is 5050 feet, and the side between the right tower and the phone is 2420 feet. The angle between the 5050 and 6000 feet sides is labeled theta.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_006.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_006.jpg"/>
           </media>
         </figure><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165135428314">Using the Law of Cosines, we can solve for the angle <m:math>
             <m:mrow>
@@ -1454,7 +1454,7 @@
   </m:mtable>
 </m:math>
 </equation><para id="fs-id1165133178309">To answer the questions about the phone’s position north and east of the tower, and the distance to the highway, drop a perpendicular from the position of the cell phone, as in <link target-id="Figure_08_02_007"/>. This forms two right triangles, although we only need the right triangle that includes the first tower for this problem.</para><figure id="Figure_08_02_007" class="small"><media id="fs-id1165133178311" alt="The triangle between the phone, the left tower, and a point between the phone and the highway between the towers. The side between the phone and the highway is perpendicular to the highway and is y feet. The highway side is x feet. The angle at the tower, previously labeled theta, is 23.3 degrees.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_007.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_007.jpg"/>
           </media>
         </figure><para id="fs-id1165135317539">Using the angle <m:math>
             <m:mrow>
@@ -1549,7 +1549,7 @@
       <exercise id="fs-id1165134113730"><problem id="fs-id1165134113733">
           <title>Calculating Distance Traveled Using a SAS Triangle </title>
           <para id="fs-id1165134113738">Returning to our problem at the beginning of this section, suppose a boat leaves port, travels 10 miles, turns 20 degrees, and travels another 8 miles. How far from port is the boat? The diagram is repeated here in <link target-id="Figure_08_02_009"/>.</para><figure id="Figure_08_02_009" class="small"><media id="fs-id1165135536142" alt="A triangle whose vertices are the boat, the port, and the turning point of the boat. The side between the port and the turning point is 10 mi, and the side between the turning point and the boat is 8 miles. The side between the port and the turning point is extended in a straight dotted line. The angle between the dotted line and the 8 mile side is 20 degrees.">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_009.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_009.jpg"/>
             </media>
           </figure></problem>
         <solution id="fs-id1165134282021">
@@ -1668,7 +1668,7 @@
           <para id="fs-id1165137723224">Find the area of the triangle in <link target-id="Figure_08_02_010"/> using Heron’s formula.</para>
 
           <figure id="Figure_08_02_010" class="small"><media id="fs-id1165137675840" alt="A triangle with angles A, B, and C and opposite sides a, b, and c, respectively. Side a = 10, side b - 15, and side c = 7.">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_010.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_010.jpg"/>
             </media>
           </figure></problem>
         <solution id="fs-id1165134314757">
@@ -1775,7 +1775,7 @@
           <para id="fs-id1165137769681">A Chicago city developer wants to construct a building consisting of artist’s lofts on a triangular lot bordered by Rush Street, Wabash Avenue, and Pearson Street. The frontage along Rush Street is approximately 62.4 meters, along Wabash Avenue it is approximately 43.5 meters, and along Pearson Street it is approximately 34.1 meters. How many square meters are available to the developer? See <link target-id="Figure_08_02_011"/> for a view of the city property.</para>
 
           <figure id="Figure_08_02_011" class="small"><media id="fs-id1165134309527" alt="A triangle formed by sides Rush Street, N. Wabash Ave, and E. Pearson Street with lengths 62.4, 43.5, and 34.1, respectively. ">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_011.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_011.jpg"/>
             </media>
           </figure></problem>
         <solution id="fs-id1165135518137">
@@ -2367,14 +2367,14 @@
 </m:math>  Round to the nearest tenth.</para><exercise id="fs-id1165135600236"><problem id="fs-id1165135600238">
 
         <media id="fs-id1165135600244" alt="A triangle. One angle is 72 degrees, with opposite side = x. The other two sides are 5 and 6.5.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_201.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_201.jpg"/>
         </media>
 
         </problem>
       </exercise><exercise id="fs-id1165135442441"><problem id="fs-id1165135442443">
 
         <media id="fs-id1165135505452" alt="A triangle. One angle is 42 degrees with opposite side = x. The other two sides are 4.5 and 3.4.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_202.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_202.jpg"/>
         </media>
 
       </problem>
@@ -2382,14 +2382,14 @@
 <para id="fs-id1165135505465">3.0 </para>
 </solution></exercise><exercise id="fs-id1165134272137"><problem id="fs-id1165134272139">
             <media id="fs-id1165134272145" alt="A triangle. One angle is 40 degrees with opposite side = 15. The other two sides are 12 and x.">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_203.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_203.jpg"/>
             </media>
 
         </problem>
       </exercise><exercise id="fs-id1165137450863"><problem id="fs-id1165137450865">
 
         <media id="fs-id1165133249121" alt="A triangle. One angle is 65 degrees with opposite side = x. The other two sides are 30 and 23.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_204.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_204.jpg"/>
         </media>
         </problem>
       <solution id="fs-id1165133249132">
@@ -2397,12 +2397,12 @@
 </solution></exercise><exercise id="fs-id1165135483114"><problem id="fs-id1165135483116">
 
         <media id="fs-id1165135483123" alt="A triangle. One angle is 50 degrees with opposite side = x. The other two sides are 225 and 305.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_205.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_205.jpg"/>
         </media>
         </problem>
       </exercise><exercise id="fs-id1165135556651"><problem id="fs-id1165135556653">
        <media id="fs-id1165134370014" alt="A triangle. One angle is 123 degrees with opposite side = x. The other two sides are 1/5 and 1/3.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_206.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_206.jpg"/>
         </media>
         </problem>
       <solution id="fs-id1165134370025">
@@ -2415,13 +2415,13 @@
       <exercise id="fs-id1165135502926"><problem id="fs-id1165135502928">
 
         <media id="fs-id1165135502934" alt="A triangle. Angle A is opposite a side of length 2.3. The other two sides are 1.5 and 2.5.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_207.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_207.jpg"/>
         </media>
         </problem>
       </exercise><exercise id="fs-id1165137696000"><problem id="fs-id1165137696003">
 
         <media id="fs-id1165134323614" alt="A triangle. Angle A is opposite a side of length 125. The other two sides are 115 and 100.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_208.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_208.jpg"/>
         </media>
         </problem>
       <solution id="fs-id1165135545523">
@@ -2430,13 +2430,13 @@
       </exercise><exercise id="fs-id1165135545530"><problem id="fs-id1165135545532">
 
         <media id="fs-id1165134384434" alt="A triangle. Angle A is opposite a side of length 6.8. The other two sides are 4.3 and 8.2.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_209.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_209.jpg"/>
         </media>
 
       	  </problem>
       	</exercise><exercise id="fs-id1165134384446"><problem id="fs-id1165134068908">
         <media id="fs-id1165134068914" alt="A triangle. Angle A is opposite a side of length 40.6. The other two sides are 38.7 and 23.3.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_210.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_210.jpg"/>
         </media>
         </problem>
       <solution id="fs-id1165134401621">
@@ -2446,13 +2446,13 @@
           <para id="fs-id1165134401633">Find the measure of each angle in the triangle shown in <link target-id="Figure_08_02_211"/>. Round to the nearest tenth.</para>
 
 <figure id="Figure_08_02_211" class="small"><media id="fs-id1165134134062" alt="A triangle A B C. Angle A is opposite a side of length 10, angle B is opposite a side of length 12, and angle C is opposite a side of length 7.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_211.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_211.jpg"/>
         </media>
 </figure></problem>
       </exercise><para id="eip-483">For the following exercises, solve for the unknown side. Round to the nearest tenth.</para><exercise id="fs-id1165137731858"><problem id="fs-id1165137731860">
 
        <media id="fs-id1165133236441" alt="A triangle. One angle is 60 degrees with opposite side unknown. The other two sides are 20 and 28.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_212.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_212.jpg"/>
         </media>
         </problem>
       <solution id="fs-id1165133236451">
@@ -2460,25 +2460,25 @@
       </solution>
       </exercise><exercise id="fs-id1165135400878"><problem id="fs-id1165135400880">
         <media id="fs-id1165135400887" alt="A triangle. One angle is 30 degrees with opposite side unknown. The other two sides are 16 and 10.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_213.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_213.jpg"/>
         </media>
         </problem>
       </exercise><exercise id="fs-id1165135186079"><problem id="fs-id1165135186081">
         <media id="fs-id1165134087532" alt="A triangle. One angle is 22 degrees with opposite side unknown. The other two sides are 20 and 13.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_214.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_214.jpg"/>
         </media>
       </problem>
       <solution id="fs-id1165135698477">
 <para id="fs-id1165135698480">9.3 </para>
 </solution></exercise><exercise id="fs-id1165135698484"><problem id="fs-id1165135698486">
         <media id="fs-id1165135385603" alt="A triangle. One angle is 88 degrees with opposite side = 9. Another side is 5.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_215.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_215.jpg"/>
         </media>
         </problem>
       </exercise><para id="eip-520">For the following exercises, find the area of the triangle. Round to the nearest hundredth.</para><exercise id="fs-id1165135385615"><problem id="fs-id1165135385617">
 
         <media id="fs-id1165133088150" alt="A triangle with sides 8, 12, and 17. Angles unknown.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_216.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_216.jpg"/>
         </media>
         </problem>
       <solution id="fs-id1165135525901">
@@ -2487,13 +2487,13 @@
       </exercise><exercise id="fs-id1165135525909"><problem id="fs-id1165135525911">
 
         <media id="fs-id1165135512604" alt="A triangle with sides 50, 22, and 36. Angles unknown.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_217.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_217.jpg"/>
         </media>
         </problem>
       </exercise><exercise id="fs-id1165137507971"><problem id="fs-id1165137507973">
 
         <media id="fs-id1165137507980" alt="A triangle with sides 1.9, 2.6, and 4.3. Angles unknown.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_218.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_218.jpg"/>
         </media>
         </problem>
         <solution id="fs-id1165134239622">
@@ -2501,14 +2501,14 @@
 </solution></exercise><exercise id="fs-id1165134239629"><problem id="fs-id1165135149916">
 
         <media id="fs-id1165135149921" alt="A triangle with sides 8.9, 12.5, and 16.2. Angles unknown.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_219.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_219.jpg"/>
         </media>
 
         </problem>
       </exercise><exercise id="fs-id1165135450305"><problem id="fs-id1165135450307">
 
         <media id="fs-id1165135450313" alt="A triangle with sides 1/2, 2/3, and 3/5. Angles unknown.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_220.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_220.jpg"/>
         </media>
         </problem>
       <solution id="fs-id1165134263935">
@@ -2538,7 +2538,7 @@
         <problem id="fs-id1165134383777">
           <para id="fs-id1165134383779">A regular octagon is inscribed in a circle with a radius of 8 inches. (See <link target-id="Figure_08_02_221"/>.) Find the perimeter of the octagon.</para>
       <figure id="Figure_08_02_221" class="small"><media id="fs-id1165135697752" alt="An octagon inscribed in a circle.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_221.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_221.jpg"/>
         </media>
       </figure></problem>
       <solution id="fs-id1165135697763">
@@ -2549,7 +2549,7 @@
       <problem id="fs-id1165134331098"><para id="fs-id1165134248779">A regular pentagon is inscribed in a circle of radius 12 cm. (See <link target-id="Figure_08_02_222"/>.) Find the perimeter of the pentagon.  Round to the nearest tenth of a centimeter.</para>
 
       <figure id="Figure_08_02_222" class="small"><media id="fs-id1165133017569" alt="A pentagon inscribed in a circle.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_222.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_222.jpg"/>
         </media>
       </figure></problem>
     </exercise>
@@ -2570,7 +2570,7 @@
       <solution id="fs-id1165131837019">
 
 <media id="fs-id1165135339571" alt="A triangle. One angle is 52 degrees with opposite side = x. The other two sides are 5 and 6.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_223.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_223.jpg"/>
         </media></solution>
       </exercise><exercise id="fs-id1165135339583">
         <problem id="fs-id1165135388758">
@@ -2582,7 +2582,7 @@
       <exercise id="fs-id1165135388769"><problem id="fs-id1165135388771">
 
         <media id="fs-id1165135390787" alt="A triangle. One angle is 22 degrees with opposite side = 3.4. Another side is 5.3.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_224.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_224.jpg"/>
         </media>
 
         </problem>
@@ -2591,14 +2591,14 @@
 </solution></exercise><exercise id="fs-id1165134130020"><problem id="fs-id1165134130023">
 
         <media id="fs-id1165134260427" alt="A triangle. One angle is 80 degrees with opposite side unknown. The other two sides are 8 and 6.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_225.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_225.jpg"/>
         </media>
 
       	  </problem>
       	</exercise><exercise id="fs-id1165134260439"><problem id="fs-id1165134260441">
 
         <media id="fs-id1165135186219" alt="A triangle. One angle is 18 degrees with opposite side = 12.8. Another side is 18.8.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_226.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_226.jpg"/>
         </media>
 
         </problem>
@@ -2611,7 +2611,7 @@
 
       <exercise id="fs-id1165132957157"><problem id="fs-id1165132957158"><para id="fs-id1165132957160">A surveyor has taken the measurements shown in <link target-id="Figure_08_02_227"/>. Find the distance across the lake. Round answers to the nearest tenth.</para>
       <figure id="Figure_08_02_227" class="small"><media id="fs-id1165132957170" alt="A triangle. One angle is 70 degrees with opposite side unknown, which is the length of the lake. The other two sides are 800 and 900 feet.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_227.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_227.jpg"/>
         </media>
       </figure></problem></exercise>
 
@@ -2620,7 +2620,7 @@
           <para id="fs-id1165134540073">A satellite calculates the distances and angle shown in <link target-id="Figure_08_02_228"/> (not to scale). Find the distance between the two cities. Round answers to the nearest tenth.</para>
 
       <figure id="Figure_08_02_228" class="small"><media id="fs-id1165134317920" alt="Insert figure(table) alt text: A triangle formed by two cities on the ground and a satellite above them. The angle by the satellite is 2.1 degrees with opposite side unknown, which is the distance between the two cities. The lengths of the other sides are 370 and 350 km.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_228.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_228.jpg"/>
         </media>
       </figure></problem>
       <solution id="fs-id1165137827744">
@@ -2636,7 +2636,7 @@
          <para id="fs-id1165135181808">A 113-foot tower is located on a hill that is inclined 34° to the horizontal, as shown in <link target-id="Figure_08_02_230"/>. A guy-wire is to be attached to the top of the tower and anchored at a point 98 feet uphill from the base of the tower.  Find the length of wire needed.</para>
 
       <figure id="Figure_08_02_230" class="small"><media id="fs-id1165134331086" alt="Insert figure(table) alt text: Two triangles, one on top of the other. The bottom triangle is the hill inclined 34 degrees to the horizontal. The second is formed by the base of the tower on the incline of the hill, the top of the tower, and the wire anchor point uphill from the tower on the incline. The sides are the tower, the incline of the hill, and the wire. The tower side is 113 feet and the incline side is 98 feet.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_230.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_230.jpg"/>
         </media>
       </figure></problem>
       <solution id="fs-id1165135500669">
@@ -2651,7 +2651,7 @@
          <para id="fs-id1165135510887">The graph in <link target-id="Figure_08_02_231"/> represents two boats departing at the same time from the same dock. The first boat is traveling at 18 miles per hour at a heading of 327° and the second boat is traveling at 4 miles per hour at a heading of 60°. Find the distance between the two boats after 2 hours.</para>
 
       <figure id="Figure_08_02_231" class="small"><media id="fs-id1165135695089" alt="Insert figure(table) alt text: A graph of two rays, which represent the paths of the two boats. Both rays start at the origin. The first goes into the first quadrant at a 60 degree angle at 4 mph. The second goes into the fourth quadrant at a 327 degree angle from the origin. The second travels at 18 mph.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_231.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_231.jpg"/>
         </media>
       </figure></problem>
       <solution id="fs-id1165135695099">
@@ -2675,7 +2675,7 @@
       </exercise>
       <exercise id="fs-id1165135200372"><problem id="fs-id1165135200373"><para id="fs-id1165135200374">Philadelphia is 140 miles from Washington, D.C., Washington, D.C. is 442 miles from Boston, and Boston is 315 miles from Philadelphia. Draw a triangle connecting these three cities and find the angles in the triangle.</para></problem>
       <solution id="fs-id1165135200381"><media id="fs-id1165135659154" alt="Angle BO is 9.1 degrees, angle PH is 150.2 degrees, and angle DC is 20.7 degrees.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_02_233.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_02_233.jpg"/>
         </media></solution>
       </exercise><exercise id="fs-id1165135659166">
         <problem id="fs-id1165135659168">

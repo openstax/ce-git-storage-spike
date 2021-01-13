@@ -62,7 +62,7 @@
 
 </tgroup>
 </table><media id="fs-id1167834017914" alt="Blank plot.">
-<image mime-type="image/png" src="blankplot5.5.png"/>
+<image mime-type="image/png" src="../../media/blankplot5.5.png"/>
 </media>
 <list id="eip-idm204680288" list-type="enumerated" number-style="lower-alpha"><item>Is it one-to-one?</item>
 <item>Domain?</item>
@@ -152,7 +152,7 @@ The function <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>log</m:mi><m:mmultiscript
 
 <emphasis effect="bold">is the logarithmic function with base</emphasis> <m:math><m:mi>a</m:mi></m:math>, where <m:math><m:mi>a</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:math>,  <m:math><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:math></para></solution>
 </exercise></example><para id="eip-775">Since the equations <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mi>a</m:mi></m:msub><m:mi>x</m:mi></m:mrow></m:math> and <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:msup><m:mi>a</m:mi><m:mi>y</m:mi></m:msup></m:mrow></m:math> are equivalent, we can go back and forth between them. This will often be the method to solve some exponential and logarithmic equations. To help with converting back and forth, let’s take a close look at the equations. Notice the positions of the exponent and base.</para><figure id="CNX_IntAlg_Figure_10_03_001"><media id="fs-id1167834505632" alt="This figure shows the expression y equals log sub a of x, where y is the exponent and a is the base. Next to this expression we have x equals a to the y, where again y is the exponent and a is the base.">
-<image mime-type="image/jpeg" src="CNX_IntAlg_Figure_10_03_001.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_10_03_001.jpg"/>
 </media></figure><para id="eip-444">If we remember the logarithm is the exponent, it makes the conversion easier. You may want to repeat, “base to the exponent gives us the number.”</para><example id="eip-202"><para id="eip-379">
 Convert between exponential and logarithmic form.</para><exercise id="eip-470"><problem id="eip-987">
   <para id="eip-924"><span class="token">ⓐ</span> Convert to logarithmic form: <m:math><m:msup><m:mn>2</m:mn><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mn>8</m:mn></m:math> </para></problem>
@@ -318,7 +318,7 @@ We can solve and evaluate logarithmic equations by using the technique of conver
 </para></problem>
 
 </exercise></section></section></section><figure id="CNX_Precalc_Figure_04_03_001" class="small"><media id="fs-id1165137526877" alt="Photo of the aftermath of the earthquake in Japan with a focus on the Japanese flag.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_03_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_03_001.jpg"/>
 </media>
 <caption>Devastation of March 11, 2011 earthquake in Honshu, Japan. (credit: Daniel Pierce)</caption> </figure><para id="fs-id1165137557013">In 2010, a major earthquake struck Haiti, destroying or damaging over 285,000 homes<footnote id="fs-id1165137805048">http://earthquake.usgs.gov/earthquakes/eqinthenews/2010/us2010rja6/#summary. Accessed 3/4/2013.</footnote>. One year later, another, stronger earthquake devastated Honshu, Japan, destroying or damaging over 332,000 buildings,<footnote id="fs-id1165137457231">http://earthquake.usgs.gov/earthquakes/eqinthenews/2011/usc0001xgp/#summary. Accessed 3/4/2013.</footnote> like those shown in <link target-id="CNX_Precalc_Figure_04_03_001"/>. Even though both caused substantial damage, the earthquake in 2011 was 100 times stronger than the earthquake in Haiti. How do we know? The magnitudes of earthquakes are measured on a scale known as the Richter Scale. The Haitian earthquake registered a 7.0 on the Richter Scale<footnote id="fs-id1165137827715">http://earthquake.usgs.gov/earthquakes/eqinthenews/2010/us2010rja6/. Accessed 3/4/2013.</footnote> whereas the Japanese earthquake registered a 9.0.<footnote id="fs-id1165137611326">http://earthquake.usgs.gov/earthquakes/eqinthenews/2011/usc0001xgp/#details. Accessed 3/4/2013.</footnote></para>
 
@@ -396,7 +396,7 @@ We can solve and evaluate logarithmic equations by using the technique of conver
 </m:mrow>
 </m:math> is increasing. We can examine a graph, as in <link target-id="CNX_Precalc_Figure_04_03_002"/><emphasis effect="bold">,</emphasis> to better estimate the solution.</para><figure id="CNX_Precalc_Figure_04_03_002" class="small">
 <media id="fs-id1165137645275" alt="Graph of the intersections of the equations y=10^x and y=500.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_03_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_03_002.jpg"/>
 </media>
 </figure>
 <para id="fs-id1165137662989">Estimating from a graph, however, is imprecise. To find an algebraic solution, we must introduce a new function. Observe that the graph in <link target-id="CNX_Precalc_Figure_04_03_002"/> passes the horizontal line test. The exponential function <m:math>
@@ -514,7 +514,7 @@ We can solve and evaluate logarithmic equations by using the technique of conver
 
 
 <media id="fs-id1165137696233" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_03_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_03_004.jpg"/>
 </media>
 
 <para id="fs-id1165137400957">Because logarithm is a function, it is most correctly written as <m:math>
@@ -546,7 +546,7 @@ We can solve and evaluate logarithmic equations by using the technique of conver
 
 
 <media id="fs-id1165137771679" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_03_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_03_003.jpg"/>
 </media>
 
 

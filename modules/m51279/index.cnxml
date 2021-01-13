@@ -102,7 +102,7 @@ Determine the value for which the rational expression <m:math><m:mfrac><m:mrow><
 
 </exercise><exercise id="eip-801"><problem id="eip-849">
   <para id="eip-843">Determine the value for which the function <m:math><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac><m:mn>3</m:mn><m:mrow><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:math> is undefined.
-</para><media id="eip-idm639293712" alt="."> <image mime-type="image/jpeg" src="CNX_Coreq_Figure_05_06_001.jpg"/></media><para id="eip-idm217601600">What is the connection between the value you found and the graph of this function?</para>
+</para><media id="eip-idm639293712" alt="."> <image mime-type="image/jpeg" src="../../media/CNX_Coreq_Figure_05_06_001.jpg"/></media><para id="eip-idm217601600">What is the connection between the value you found and the graph of this function?</para>
 <para id="eip-idm258089840">Because function is not defined at <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:math> , we say that the Domain of this function is <m:math><m:mfenced><m:mrow><m:mo>-</m:mo><m:mo>∞</m:mo><m:mo>,</m:mo><m:mo> </m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mfenced><m:mrow><m:mn>2</m:mn><m:mo>,</m:mo><m:mo> </m:mo><m:mo>∞</m:mo></m:mrow></m:mfenced></m:math>
 </para>
 <para id="eip-idm739836352"><emphasis>The domain of a rational function includes all real numbers except those that cause the denominator to equal zero.</emphasis></para>
@@ -142,7 +142,7 @@ Determine the domain of the function and express using interval notation.
 </tgroup>
 </table>
 <figure id="eip-idm1125287936" class="unnumbered"><label/><media id="eip-idm1125287680" alt="The table has 3 rows and 2 columns. The first row is a header row with the headers x and y. The second row contains a and 0. The third row contains 0 and b.">
-    <image mime-type="image/jpeg" src="5_6_1.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/5_6_1.jpg"/>
   </media>
 </figure></note><section id="eip-29" class="practice-perfect"><title>Practice Makes Perfect</title><para id="eip-724">Find <m:math><m:mi>x</m:mi></m:math> - and <m:math><m:mi>y</m:mi></m:math> -intercept of each of the following functions. Express each as an ordered pair.
 
@@ -209,7 +209,7 @@ Determine the domain of the function and express using interval notation.
 
 <figure id="Figure_03_07_001" class="medium">
 <media id="fs-id1165135193214" alt="Graphs of f(x)=1/x and f(x)=1/x^2">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_001.jpg"/>
 </media>
 </figure>
 
@@ -487,7 +487,7 @@ Determine the domain of the function and express using interval notation.
 
 <figure id="Figure_03_07_002" class="medium">
 <media id="fs-id1165137560237" alt="Graph of f(x)=1/x which denotes the end behavior. As x goes to negative infinity, f(x) goes to 0, and as x goes to 0^-, f(x) goes to negative infinity. As x goes to positive infinity, f(x) goes to 0, and as x goes to 0^+, f(x) goes to positive infinity.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_002.jpg"/>
 </media>
 </figure>
 
@@ -499,7 +499,7 @@ Determine the domain of the function and express using interval notation.
 
 <figure id="Figure_03_07_003" class="small">
 <media id="fs-id1165137892178" alt="Graph of f(x)=1/x with its vertical asymptote at x=0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_003.jpg"/>
 </media>
 </figure>
 
@@ -537,7 +537,7 @@ Determine the domain of the function and express using interval notation.
 </m:math> </para>
 <figure id="Figure_03_07_004" class="medium">
 <media id="fs-id1165135499886" alt="Graph of f(x)=1/x which highlights the segments of the turning points to denote their end behavior.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_004.jpg"/>
 </media>
 </figure>
 
@@ -549,7 +549,7 @@ Determine the domain of the function and express using interval notation.
 
 <figure id="Figure_03_07_005" class="small">
 <media id="fs-id1165137597969" alt="Graph of f(x)=1/x with its vertical asymptote at x=0 and its horizontal asymptote at y=0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_005.jpg"/>
 </media>
 </figure>
 
@@ -571,7 +571,7 @@ Determine the domain of the function and express using interval notation.
 
 <figure id="Figure_03_07_006" class="small">
 <media id="fs-id1165137410356" alt="Graph of f(x)=1/(x-2)+4 with its vertical asymptote at x=2 and its horizontal asymptote at y=4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_006.jpg"/>
 </media>
 </figure>
 </problem>
@@ -658,7 +658,7 @@ Determine the domain of the function and express using interval notation.
 </m:math> </equation><para id="fs-id1165137446966">The graph of the shifted function is displayed in <link target-id="Figure_03_07_007"/>.</para>
 <figure id="Figure_03_07_007" class="small">
 <media id="fs-id1165134246233" alt="Graph of f(x)=1/(x+2)+3 with its vertical asymptote at x=-2 and its horizontal asymptote at y=3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_007.jpg"/>
 </media>
 </figure>
 
@@ -705,7 +705,7 @@ Determine the domain of the function and express using interval notation.
 <exercise id="ti_03_07_02"><problem id="fs-id1165137824780"><para id="fs-id1165137824781">Sketch the graph, and find the horizontal and vertical asymptotes of the reciprocal squared function that has been shifted right 3 units and down 4 units. </para></problem>
 <solution id="fs-id1165137812954">
 <media id="fs-id1165137443617" alt="Graph of f(x)=1/(x-3)^2-4 with its vertical asymptote at x=3 and its horizontal asymptote at y=-4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_008.jpg"/>
 </media>
 
 <para id="fs-id1165137416225">The function and the asymptotes are shifted 3 units right and 4 units down. As <m:math>
@@ -1141,7 +1141,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 </m:math> </para>
 <figure id="Figure_03_07_009" class="small">
 <media id="fs-id1165137426255" alt="Graph of f(x)=1/(x-3) with its vertical asymptote at x=3 and its horizontal asymptote at y=0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_009.jpg"/>
 </media>
 </figure>
 <para id="fs-id1165137455163">There is a vertical asymptote at <m:math>
@@ -1324,7 +1324,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> are zeros of the numerator, so the two values indicate two vertical asymptotes. The graph in <link target-id="Figure_03_07_010"/> confirms the location of the two vertical asymptotes.</para><figure id="Figure_03_07_010" class="small">
 <media id="fs-id1165134573849" alt="Graph of k(x)=(5+2x)^2/(2-x-x^2) with its vertical asymptotes at x=-2 and x=1 and its horizontal asymptote at y=-2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_010.jpg"/>
 </media>
 </figure>
 </solution>
@@ -1400,7 +1400,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 </m:math> is the vertical asymptote. See <link target-id="Figure_03_07_011"/>. [Note that removable discontinuities may not be visible when we use a graphing calculator, depending upon the window selected.]
 </para><figure id="Figure_03_07_011" class="small">
 <media id="fs-id1165134122956" alt="Graph of f(x)=(x^2-1)/(x^2-2x-3) with its vertical asymptote at x=3 and a removable discontinuity at x=-1.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_011.jpg"/>
 </media>
 </figure>
 
@@ -1477,7 +1477,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> See <link target-id="Figure_03_07_012"/>.</para><figure id="Figure_03_07_012" class="small">
 <media id="fs-id1165135346296" alt="Graph of k(x)=(x-2)/(x-2)(x+2) with its vertical asymptote at x=-2 and a removable discontinuity at x=2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_012.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_012.jpg"/>
 </media>
 </figure>
 
@@ -1595,7 +1595,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 </m:math> See <link target-id="Figure_03_07_013"/>. Note that this graph crosses the horizontal asymptote.</para>
 
 <figure id="Figure_03_07_013"><media id="fs-id1165135699169" alt="Graph of f(x)=(4x+2)/(x^2+4x-5) with its vertical asymptotes at x=-5 and x=1 and its horizontal asymptote at y=0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_013.jpg"/>
 </media>
 <caption>Horizontal asymptote <m:math>
  <m:mrow>
@@ -1691,7 +1691,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 </m:math> See <link target-id="Figure_03_07_014"/>.</para>
 
 <figure id="Figure_03_07_014" class="small"><media id="fs-id1165137583908" alt="Graph of f(x)=(3x^2-2x+1)/(x-1) with its vertical asymptote at x=1 and a slant asymptote aty=3x+1.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_014.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_014.jpg"/>
 </media>
 <caption>Slant asymptote when <m:math>
  <m:mrow>
@@ -1826,7 +1826,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 </m:math> See <link target-id="Figure_03_07_015"/>. Note that this graph crosses the horizontal asymptote.</para>
 
 <figure id="Figure_03_07_015"><media id="fs-id1165137664617" alt="Graph of f(x)=(3x^2+2)/(x^2+4x-5) with its vertical asymptotes at x=-5 and x=1 and its horizontal asymptote at y=3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_015.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_015.jpg"/>
 </media>
 <caption>Horizontal asymptote when <m:math>
  <m:mrow>
@@ -2071,7 +2071,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 </m:math>
 
 <media id="fs-id1575681" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_05_01_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_05_01_011.jpg"/>
 </media>
 
 <para id="fs-id1165134324263">The quotient is <m:math>
@@ -2235,7 +2235,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 
 <figure id="Figure_03_07_016" class="medium">
 <media id="fs-id1165137925273" alt="Graph of f(x)=(x-2)(x+3)/(x-1)(x+2)(x-5) with its vertical asymptotes at x=-2, x=1, and x=5 and its horizontal asymptote at y=0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_016.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_016.jpg"/>
 </media>
 </figure>
 </solution>
@@ -2441,7 +2441,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> See <link target-id="Figure_03_07_017"/>.</para><figure id="Figure_03_07_017" class="medium">
 <media id="fs-id1165137443981" alt="Graph of f(x)=(x-2)(x+3)/(x-1)(x+2)(x-5) with its vertical asymptotes at x=-2, x=1, and x=5, its horizontal asymptote at y=0, and its intercepts at (-3, 0), (0, -0.6), and (2, 0).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_017.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_017.jpg"/>
 </media>
 </figure>
 </solution>
@@ -2558,14 +2558,14 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 
 <figure id="Figure_03_07_019" class="small">
 <media id="fs-id1165134043613" alt="Graph of y=1/x with its vertical asymptote at x=0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_019.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_019.jpg"/>
 </media>
 </figure>
 
 <para id="fs-id1165137661229">When the degree of the factor in the denominator is even, the distinguishing characteristic is that the graph either heads toward positive infinity on both sides of the vertical asymptote or heads toward negative infinity on both sides. See <link target-id="Figure_03_07_018"/>.</para>
 
 <figure id="Figure_03_07_018" class="small"><media id="fs-id1165134246241" alt="Graph of y=1/x^2 with its vertical asymptote at x=0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_018.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_018.jpg"/>
 </media>
 </figure><para id="fs-id1165137678097">For example, the graph of <m:math>
  <m:mrow>
@@ -2595,7 +2595,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 
 <figure id="Figure_03_07_020" class="medium">
 <media id="fs-id1165137852160" alt="Graph of f(x)=(x+1)^2(x-3)/(x+3)^2(x-2) with its vertical asymptotes at x=-3 and x=2, its horizontal asymptote at y=1, and its intercepts at (-1, 0), (0, 1/6), and (3, 0).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_020.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_020.jpg"/>
 </media>
 </figure>
 <list id="fs-id1165137723939" list-type="bulleted"><item>At the <emphasis effect="italics">x</emphasis>-intercept <m:math>
@@ -2796,7 +2796,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 
 <figure id="Figure_03_07_021" class="small">
 <media id="fs-id1165137589382" alt="Graph of only the middle portion of f(x)=(x+2)(x-3)/(x+1)^2(x-2) with its intercepts at (-2, 0), (0, 3), and (3, 0).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_021.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_021.jpg"/>
 </media>
 </figure>
 
@@ -2812,7 +2812,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 
 <figure id="Figure_03_07_022" class="small">
 <media id="fs-id1165135160140" alt="Graph of f(x)=(x+2)(x-3)/(x+1)^2(x-2) with its vertical asymptotes at x=-1 and x=2, its horizontal asymptote at y=0, and its intercepts at (-2, 0), (0, 3), and (3, 0).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_022.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_022.jpg"/>
 </media>
 </figure>
 </solution>
@@ -2884,7 +2884,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> is a single zero and the graph crosses the axis at this point.</para>
 <media id="fs-id1165137745200" alt="Graph of f(x)=(x+2)^2(x-2)/2(x-1)^2(x-3) with its vertical and horizontal asymptotes.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_023.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_023.jpg"/>
 </media>
 </solution>
 </exercise></note>
@@ -3084,7 +3084,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 
 <figure id="Figure_03_07_024" class="small">
 <media id="fs-id1165137768456" alt="Graph of a rational function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_024.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_024.jpg"/>
 </media>
 </figure>
 </problem>
@@ -3129,7 +3129,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> with the graph heading toward negative infinity on both sides of the asymptote. See <link target-id="Figure_03_07_025"/>.</para><figure id="Figure_03_07_025" class="medium">
 <media id="fs-id1165137647586" alt="Graph of a rational function denoting its vertical asymptotes and x-intercepts.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_025.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_025.jpg"/>
 </media>
 </figure>
 
@@ -4405,7 +4405,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> </para>
 <media id="fs-id1165137452734" alt="Graph of a rational function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_008.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165135330624">
@@ -4419,7 +4419,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> </para>
 <media id="fs-id1165137665868" alt="Graph of a rational function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_203.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_203.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165137806754">
@@ -4465,7 +4465,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> </para>
 <media id="fs-id1165137750007" alt="Graph of p(x)=(2x-3)/(x+4) with its vertical asymptote at x=-4 and horizontal asymptote at y=2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_205.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_205.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165137762205">
@@ -4515,7 +4515,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> </para>
 <media id="fs-id1165135566851" alt="Graph of s(x)=4/(x-2)^2 with its vertical asymptote at x=2 and horizontal asymptote at y=0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_207.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165134091274">
 <problem id="fs-id1165134091276"><para id="fs-id1165137425333"> <m:math>
@@ -4594,7 +4594,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> </para>
 <media id="fs-id1165135161245" alt="Graph of f(x)=(3x^2-14x-5)/(3x^2+8x-16) with its vertical asymptotes at x=-4 and x=4/3 and horizontal asymptote at y=1.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_209-9c83.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_209-9c83.jpg"/>
 </media></solution>
 </exercise><exercise id="fs-id1165137887416">
 <problem id="fs-id1165135422889"><para id="fs-id1165135422890"> <m:math>
@@ -4659,7 +4659,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> </para>
 <media id="fs-id1165135383641" alt="Graph of a(x)=(x^2+2x-3)/(x^2-1) with its vertical asymptote at x=-1 and horizontal asymptote at y=1.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_211.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_211.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165137410372">
 <problem id="fs-id1165137410374"><para id="fs-id1165137410375"> <m:math>
  <m:mrow>
@@ -4731,7 +4731,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> </para>
 <media id="fs-id1165133238453" alt="Graph of h(x)=(2x^2+x-1)/(x-1) with its vertical asymptote at x=4 and slant asymptote at y=2x+9.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_213.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_213.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165137777667">
 <problem id="fs-id1165137777669"><para id="fs-id1165135618213"> <m:math>
@@ -4822,7 +4822,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> </para>
 <media id="fs-id1165135383132" alt="Graph of w(x)=(x-1)(x+3)(x-5)/(x+2)^2(x-4) with its vertical asymptotes at x=-2 and x=4 and horizontal asymptote at y=1.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_215-9e62.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_215-9e62.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165135481255">
 <problem id="fs-id1165137463906"><para id="fs-id1165137463907"> <m:math>
@@ -5087,7 +5087,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 <exercise id="fs-id1165137442589"><problem id="fs-id1165135149090">
 
 <media id="fs-id1165135149095" alt="Graph of a rational function with vertical asymptotes at x=-3 and x=4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_217.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_217.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165131990658"><para id="fs-id1165131990659"> <m:math>
@@ -5110,13 +5110,13 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 </exercise><exercise id="fs-id1165137891476"><problem id="fs-id1165137891478">
 
 <media id="fs-id1165134346335" alt="Graph of a rational function with vertical asymptotes at x=-3 and x=4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_218.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_218.jpg"/>
 </media>
 </problem>
 </exercise><exercise id="fs-id1165135389887"><problem id="fs-id1165135389889">
 
 <media id="fs-id1165137832198" alt="Graph of a rational function with vertical asymptotes at x=-3 and x=3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_219.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_219.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165137936728"><para id="fs-id1165137936729"> <m:math>
@@ -5136,12 +5136,12 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 </m:math> </para></solution>
 </exercise><exercise id="fs-id1165135434130"><problem id="fs-id1165135434132">
 <media id="fs-id1165135434137" alt="Graph of a rational function with vertical asymptotes at x=-3 and x=4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_220.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_220.jpg"/>
 </media>
 </problem>
 </exercise><exercise id="fs-id1165135186507"><problem id="fs-id1165135186509">
 <media id="fs-id1165135186515" alt="Graph of a rational function with vertical asymptote at x=1.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_221.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_221.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165137414994"><para id="fs-id1165137414995"> <m:math>
@@ -5168,13 +5168,13 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 </exercise><exercise id="fs-id1165135522187"><problem id="fs-id1165135522190">
 
 <media id="fs-id1165135541931" alt="Graph of a rational function with vertical asymptote at x=-2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_222.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_222.jpg"/>
 </media>
 </problem>
 </exercise><exercise id="fs-id1165135575978"><problem id="fs-id1165135575980">
 
 <media id="fs-id1165137456138" alt="Graph of a rational function with vertical asymptotes at x=-3 and x=2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_223.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_223.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165137732796"><para id="fs-id1165137732797"> <m:math>
@@ -5204,7 +5204,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
 </m:math> </para></solution>
 </exercise><exercise id="fs-id1165137424684"><problem id="fs-id1165137424686">
 <media id="fs-id1165137424692" alt="Graph of a rational function with vertical asymptotes at x=-2 and x=4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_224.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_224.jpg"/>
 </media>
 </problem>
 </exercise></section><section id="fs-id1165137896276">
@@ -5578,7 +5578,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> </para>
 <media id="fs-id1165137940515" alt="Graph of f(x)=4/(2x-3).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_226.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_226.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165134129629">
 <problem id="fs-id1165135551854"><para id="fs-id1165135551855"> <m:math>
@@ -5629,7 +5629,7 @@ There are 1,200 freshmen and 1,500 sophomores at a prep rally at noon. After 12 
  </m:mrow>
 </m:math> </para>
 <media id="fs-id1165137836962" alt="Graph of f(x)=(x+2)/(x-1)(x-4).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_03_07_228.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_03_07_228.jpg"/>
 </media>
 </solution></exercise><exercise id="fs-id1165137432988">
 <problem id="fs-id1165137432990"><para id="fs-id1165137432991"> <m:math>

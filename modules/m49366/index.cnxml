@@ -276,7 +276,7 @@ Don’t forget to check your solutions.
  <m:math><m:mi>log</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo><m:mo>-</m:mo><m:mi>log</m:mi><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>16</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>log</m:mi><m:mfrac><m:mn>1</m:mn><m:mi>x</m:mi></m:mfrac></m:math> </para>
 </problem>
 </exercise></section></section></section><figure id="CNX_Precalc_Figure_04_06_001" class="small"><media id="fs-id1165137417393" alt="Seven rabbits in front of a brick building.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_06_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_06_001.jpg"/>
 </media>
 <caption>Wild rabbits in Australia. The rabbit population grew so quickly in Australia that the event became known as the “rabbit plague.” (credit: Richard Taylor, Flickr)</caption></figure><para id="fs-id1165137871518">In 1859, an Australian landowner named Thomas Austin released 24 rabbits into the wild for hunting. Because Australia had few predators and ample food, the rabbit population exploded. In fewer than ten years, the rabbit population numbered in the millions.</para>
 
@@ -1198,7 +1198,7 @@ Don’t forget to check your solutions.
 <para id="fs-id1165137578263"><link target-id="CNX_Precalc_Figure_04_06_002"/> shows that the two graphs do not cross so the left side is never equal to the right side. Thus the equation has no solution.</para>
 <figure id="CNX_Precalc_Figure_04_06_002" class="small">
 <media id="fs-id1165137767780" alt="Graph of 3^(x+1)=-2 and y=-2. The graph notes that they do not cross.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_06_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_06_002.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -2650,7 +2650,7 @@ Don’t forget to check your solutions.
 </m:math> </para>
 <figure id="CNX_Precalc_Figure_04_06_003" class="small">
 <media id="fs-id1165137460711" alt="Graph of two questions, y=3 and y=ln(x), which intersect at the point (e^3, 3) which is approximately (20.0855, 3).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_04_06_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_04_06_003.jpg"/>
 </media>
 
 <caption>The graphs of <m:math>
@@ -5056,7 +5056,7 @@ Don’t forget to check your solutions.
 <m:mi>x</m:mi><m:mo>=</m:mo><m:mn>9</m:mn>
 </m:mrow>
 </m:math> </para><media id="fs-id1165135192951" alt="Graph of log_9(x)-5=y and y=-4.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_06_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_06_201.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165135192962">
 <problem id="fs-id1165137832106">
 <para id="fs-id1165137832108"> <m:math>
@@ -5103,7 +5103,7 @@ Don’t forget to check your solutions.
 <m:mo>≈</m:mo><m:mn>2.5</m:mn>
 </m:mrow>
 </m:math> </para><media id="fs-id1165135504940" alt="Graph of ln(3x)=y and y=2.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_06_203.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_06_203.jpg"/>
 </media></solution>
 </exercise><exercise id="fs-id1165135524527">
 <problem id="fs-id1165135524529">
@@ -5138,7 +5138,7 @@ Don’t forget to check your solutions.
 <m:mi>x</m:mi><m:mo>=</m:mo><m:mo>−</m:mo><m:mn>5</m:mn>
 </m:mrow>
 </m:math> </para><media id="fs-id1165132922035" alt="Graph of log(4)+log(-5x)=y and y=2.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_06_205.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_06_205.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165135485178">
 <problem id="fs-id1165135485180">
 <para id="fs-id1165135485183"> <m:math>
@@ -5182,7 +5182,7 @@ Don’t forget to check your solutions.
 </m:mrow>
 </m:math> </para>
 <media id="fs-id1165137806947" alt="Graph of ln(4x-10)-6=y and y=-5.">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_06_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_06_207.jpg"/>
 </media></solution>
 </exercise><exercise id="fs-id1165137679189">
 <problem id="fs-id1165137679191">
@@ -5240,7 +5240,7 @@ Don’t forget to check your solutions.
 <solution id="fs-id1165137834542">
 <para id="fs-id1165137834544">No solution</para>
 <media id="fs-id1165137838262" alt="Graph of log_11(-2x^2-7x)=y and y=log_11(x-2).">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_06_209.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_06_209.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165137838274">
@@ -5301,7 +5301,7 @@ Don’t forget to check your solutions.
 </m:mrow>
 </m:math> </para>
 <media id="fs-id1165137749149" alt="Graph of log_9(3-x)=y and y=log_9(4x-8).">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_06_211.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_06_211.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165137749164">
@@ -5372,7 +5372,7 @@ Don’t forget to check your solutions.
 </m:mrow>
 </m:math> </para>
 <media id="fs-id1165135471123" alt="Graph of 3/log_2(10)-log(x-9)=y and y=log(44).">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_06_213.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_06_213.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165135471137">
@@ -5411,7 +5411,7 @@ Don’t forget to check your solutions.
 </m:mrow>
 </m:math> </para>
 <media id="fs-id1165134176025" alt="Graph of f(x)=6500e^(0.0725x) with the labeled point at (20, 27710.24).">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_06_215.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_06_215.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165134176039">
@@ -5486,7 +5486,7 @@ Don’t forget to check your solutions.
 <solution id="fs-id1165137737687">
 <para id="fs-id1165135342973">about 5 years</para>
 <media id="fs-id1165135342980" alt="Graph of P(t)=1650e^(0.5x) with the labeled point at (5, 20000).">
-<image mime-type="image/jpg" src="CNX_PreCalc_Figure_04_06_217.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_PreCalc_Figure_04_06_217.jpg"/>
 </media>
 </solution>
 </exercise></section>

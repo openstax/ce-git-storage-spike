@@ -1240,7 +1240,7 @@
  </m:mrow>
 </m:math> the graph touches the <emphasis effect="italics">x-</emphasis>axis and bounces back. It does not cross the <emphasis effect="italics">x-</emphasis>axis. This is typical of double solutions.</para><figure id="Figure_02_06_001" class="small">
 <media id="fs-id1548359" alt="Coordinate plane with the x-axis ranging from negative 5 to 5 and the y-axis ranging from negative 400 to 500 in intervals of 100. The function five times x to the fourth power minus eighty x squared equals zero is graphed along with the points (negative 4,0), (0,0), and (4,0).">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_06_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_06_001.jpg"/>
 </media>
 </figure>
 </commentary>
@@ -1454,7 +1454,7 @@ using the difference of squares formula.</para>
  </m:mrow>
 </m:math> Note that the highest exponent is 3 and we obtained 3 solutions. We can see the solutions, the <emphasis effect="italics">x-</emphasis>intercepts, on the graph in <link target-id="Figure_02_06_002"/><emphasis>.</emphasis></para><figure id="Figure_02_06_002" class="small">
 <media id="fs-id2304259" alt="Coordinate plane with the x-axis ranging from negative 5 to 5 and the y-axis ranging from negative 30 to 20 in intervals of 5. The function x cubed plus x squared minus nine times x minus nine equals zero is graphed along with the points (negative 3,0), (negative 1,0), and (3,0).">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_06_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_06_002.jpg"/>
 </media>
 </figure>
 </solution>
@@ -4504,7 +4504,7 @@ using the difference of squares formula.</para>
   <m:mo>=</m:mo><m:mi>x</m:mi>
  </m:mrow>
 </m:math> </para></problem>
-<solution id="fs-id2412231"><para id="fs-id2412232">All real numbers</para></solution></exercise>
+<solution id="fs-id2412231"><para id="fs-id2412232"><m:math><m:mi>x</m:mi><m:mo>≥</m:mo><m:mn>0</m:mn></m:math></para></solution></exercise>
 <exercise id="fs-id2412235"><problem id="fs-id2412236"><para id="fs-id2412237"> <m:math>
  <m:mrow>
   <m:msup>

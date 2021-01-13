@@ -15,7 +15,7 @@
 The following chart summarizes the factoring methods and outlines a strategy you should use when factoring polynomials.
 </para>
 <figure id="Figure_02_02_001" class="medium"><title>General Strategy for Factoring Polynomials</title><media id="fs-id1294390" alt="This chart shows the general strategies for factoring polynomials. It shows ways to find GCF of binomials, trinomials and polynomials with more than 3 terms. For binomials, we have difference of squares: a squared minus b squared equals a minus b, a plus b; sum of squares do not factor; sub of cubes: a cubed plus b cubed equals open parentheses a plus b close parentheses open parentheses a squared minus ab plus b squared close parentheses; difference of cubes: a cubed minus b cubed equals open parentheses a minus b close parentheses open parentheses a squared plus ab plus b squared close parentheses. For trinomials, we have x squared plus bx plus c where we put x as a term in each factor and we have a squared plus bx plus c. Here, if a and c are squares, we have a plus b whole squared equals a squared plus 2 ab plus b squared and a minus b whole squared equals a squared minus 2 ab plus b squared. If a and c are not squares, we use the ac method. For polynomials with more than 3 terms, we use grouping.">
-<image mime-type="image/jpg" src="CNX_IntAlg_Figure_06_04_002_img_new.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_IntAlg_Figure_06_04_002_img_new.jpg"/>
 </media>
 </figure><note id="eip-743" class="how-to-notitle"><list xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1167836525628" list-type="enumerated" number-style="arabic" class="stepwise"><item>Is there a factor common to all terms? Factor it out.</item>
 <item>Consider the number of terms in the original polynomial.
@@ -258,7 +258,7 @@ The following chart summarizes the factoring methods and outlines a strategy you
 </problem>
 </exercise></section></section></section><figure id="Figure_02_05_001" class="medium">
 <media id="fs-id1278656" alt="Two televisions side-by-side. The right television is slightly larger than the left. ">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_05_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_05_001.jpg"/>
 </media>
 </figure>
 <para id="fs-id1087569">The computer monitor on the left in <link target-id="Figure_02_05_001"/> is a 23.6-inch model and the one on the right is a 27-inch model. Proportionally, the monitors appear very similar. If there is a limited amount of space and we desire the largest monitor possible, how do we decide which one to choose? In this section, we will learn how to solve problems such as this using four different methods.</para>
@@ -451,7 +451,7 @@ The following chart summarizes the factoring methods and outlines a strategy you
 
 <example id="Example_02_05_01">
 <exercise id="fs-id1315053"><problem id="fs-id2697997">
-<title>Solving a Quadratic Equation by Factoring when the Leading Coefficient is not 1</title>
+<title>Factoring and Solving a Quadratic with Leading Coefficient of 1</title>
 <para id="fs-id1207622">Factor and solve the equation: <m:math>
  <m:mrow>
   <m:msup>
@@ -602,7 +602,7 @@ The following chart summarizes the factoring methods and outlines a strategy you
 </m:math>
 </para><figure id="Figure_02_05_002" class="small">
 <media id="fs-id2381086" alt="Coordinate plane with the x-axis ranging from negative 5 to 5 and the y-axis ranging from negative 7 to 7. The function x squared plus x minus six equals zero is graphed, with the x-intercepts (-3,0) and (2,0), plotted as well.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_05_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_05_002.jpg"/>
 </media>
 </figure>
 </solution>
@@ -1123,7 +1123,7 @@ The following chart summarizes the factoring methods and outlines a strategy you
  </m:mrow>
 </m:math> See <link target-id="Figure_02_05_003"/>.</para><figure id="Figure_02_05_003" class="small">
 <media id="fs-id1269396" alt="Coordinate plane with the x-axis ranging from negative 6 to 2 with every other tick mark labeled and the y-axis ranging from negative 6 to 2 with each tick mark numbered. The equation: four x squared plus fifteen x plus nine is graphed with its x-intercepts: (-3/4,0) and (-3,0) plotted as well.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_05_003n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_05_003n.jpg"/>
 </media>
 </figure>
 </solution>
@@ -3314,7 +3314,7 @@ The following chart summarizes the factoring methods and outlines a strategy you
 </m:math> refers to the hypotenuse, as shown in <link target-id="Figure_02_05_004"/>.</para>
 <figure id="Figure_02_05_004" class="small">
 <media id="fs-id3040390" alt="Right triangle with the base labeled: a, the height labeled: b, and the hypotenuse labeled: c">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_05_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_05_004.jpg"/>
 </media>
 </figure>
 <example id="Example_02_05_12">
@@ -3323,7 +3323,7 @@ The following chart summarizes the factoring methods and outlines a strategy you
 <para id="fs-id1887267">Find the length of the missing side of the right triangle in <link target-id="Figure_02_05_005"/>.</para>
 <figure id="Figure_02_05_005" class="small">
 <media id="fs-id3155491" alt="Right triangle with the base labeled: a, the height labeled: 4, and the hypotenuse labeled 12.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_05_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_05_005.jpg"/>
 </media>
 </figure>
 </problem>
@@ -4659,7 +4659,7 @@ The following chart summarizes the factoring methods and outlines a strategy you
  </m:mrow>
 </m:math> is measured in seconds. How long will it take for the object to travel 74 ft?</para></problem></exercise>
 <exercise id="fs-id2413468"><problem id="fs-id2413469"><para id="fs-id2413470">A vacant lot is being converted into a community garden. The garden and the walkway around its perimeter have an area of 378 ft<sup>2</sup>. Find the width of the walkway if the garden is 12 ft. wide by 15 ft. long.</para><media id="fs-id2413475" alt="A rectangle inside of a larger rectangle. The smaller rectangle has the length labeled: 15 feet and the width labeled: 12 feet. The distance between the two rectangles is labeled as x on all four sides.">
-  <image mime-type="image/jpg" src="CNX_CAT_Figure_02_05_201.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_05_201.jpg"/>
  </media>
  </problem>
 <solution id="fs-id2385539"><para id="fs-id2385540">3 feet</para></solution></exercise>

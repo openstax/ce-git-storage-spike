@@ -30,7 +30,7 @@
     <entry>Constant</entry>
     <entry><emphasis effect="italics">y</emphasis>=<emphasis effect="italics">c</emphasis>, where <emphasis effect="italics">c</emphasis> is a constant</entry>
     <entry><media id="eip-idm236863408" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media></entry>
   </row>
 </tbody>
@@ -74,7 +74,7 @@ Choose 3 values of x to evaluate for each.
     <entry>Identity</entry>
     <entry><emphasis effect="italics">y</emphasis>=<emphasis effect="italics">x</emphasis></entry>
     <entry><media id="eip-idm238813568" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media></entry>
   </row>
 </tbody>
@@ -120,7 +120,7 @@ Choose 3 values of x to evaluate for each.
     <entry>Absolute Value</entry>
     <entry><emphasis effect="italics">y</emphasis>=|<emphasis effect="italics">x</emphasis>|</entry>
     <entry><media id="eip-idm528249776" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media></entry>
   </row>
 </tbody>
@@ -166,7 +166,7 @@ Choose 3 values of x to evaluate for each.
     <entry>Quadratic</entry>
     <entry><emphasis effect="italics">y</emphasis>=<emphasis effect="italics">x</emphasis><sup>2</sup></entry>
     <entry><media id="eip-idm219322864" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media></entry>
   </row>
 </tbody>
@@ -212,7 +212,7 @@ Choose 3 values of x to evaluate for each.
     <entry>Cubic</entry>
     <entry><emphasis effect="italics">y</emphasis>=<emphasis effect="italics">x</emphasis><sup>3</sup></entry>
     <entry><media id="eip-idm238776288" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media></entry>
   </row>
 </tbody>
@@ -258,7 +258,7 @@ Choose 3 values of x to evaluate for each.
     <entry>Reciprocal</entry>
     <entry> <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>x</m:mi></m:mfrac></m:math> </entry>
     <entry><media id="eip-idm523984000" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media></entry>
   </row>
 </tbody>
@@ -304,7 +304,7 @@ Choose 3 values of x to evaluate for each.
     <entry>Square Root</entry>
     <entry> <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:msqrt><m:mi>x</m:mi></m:msqrt></m:math> </entry>
     <entry><media id="eip-idm518069712" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media></entry>
   </row>
 </tbody>
@@ -350,7 +350,7 @@ Choose 3 values of x to evaluate for each.
     <entry>Cube Root</entry>
     <entry> <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mroot><m:mi>x</m:mi><m:mn>3</m:mn></m:mroot></m:math> </entry>
     <entry><media id="eip-idm538118512" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media></entry>
   </row>
 </tbody>
@@ -396,7 +396,7 @@ Choose 3 values of x to evaluate for each.
     <entry>Exponential</entry>
     <entry> <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:msup><m:mi>e</m:mi><m:mi>x</m:mi></m:msup></m:math> </entry>
     <entry><media id="eip-idm397717152" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media></entry>
   </row>
 </tbody>
@@ -437,21 +437,21 @@ When we modify basic functions by adding, subtracting, or multiplying constants 
 <tgroup cols="3"><tbody>
   <row>
     <entry><media id="eip-idm369717184" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media><newline/>
  <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:math>
 <newline/>
 vertex: ________
 </entry>
 <entry><media id="eip-idm375166416" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media><newline/>
  <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn></m:math>
 <newline/>
 vertex: ________
 </entry>
     <entry><media id="eip-idm375164416" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media><newline/>
  <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>–</m:mo><m:mn>4</m:mn></m:math>
 <newline/>
@@ -468,21 +468,21 @@ vertex: ________
 <tgroup cols="3"><tbody>
   <row>
     <entry><media id="eip-idm375618656" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media><newline/>
  <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>2</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:math>
 <newline/>
 vertex: ________
 </entry>
 <entry><media id="eip-idm375038240" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media><newline/>
  <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>4</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:math>
 <newline/>
 vertex: ________
 </entry>
     <entry><media id="eip-idm333903072" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media><newline/>
  <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:math>
 <newline/>
@@ -498,21 +498,21 @@ vertex: ________
 <tgroup cols="3"><tbody>
   <row>
     <entry><media id="eip-idm346188128" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media><newline/>
  <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:math>
 <newline/>
 vertex: ________
 </entry>
 <entry><media id="eip-idm335872016" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media><newline/>
  <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>5</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:math>
 <newline/>
 vertex: ________
 </entry>
     <entry><media id="eip-idm533136368" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media><newline/>
  <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>10</m:mn></m:mfrac><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:math>
 <newline/>
@@ -528,21 +528,21 @@ vertex: ________
 <tgroup cols="3"><tbody>
   <row>
     <entry><media id="eip-idm352790432" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media><newline/>
  <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mo>–</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:math>
 <newline/>
 vertex: ________
 </entry>
 <entry><media id="eip-idm532523808" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media><newline/>
  <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mo>–</m:mo><m:mn>3</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:math>
 <newline/>
 vertex: ________
 </entry>
     <entry><media id="eip-idm341670560" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media><newline/>
  <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>–</m:mo><m:mn>2</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:math>
 <newline/>
@@ -560,28 +560,28 @@ vertex: ________
 <tgroup cols="3"><tbody>
   <row>
     <entry><media id="eip-idm343631280" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media><newline/>
  <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn></m:math>
 <newline/>
 vertex: ________
 </entry>
 <entry><media id="eip-idm356392816" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media><newline/>
  <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>–</m:mo><m:mn>2</m:mn></m:math>
 <newline/>
 vertex: ________
 </entry>
     <entry><media id="eip-idm364986240" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media><newline/>
  <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>–</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn></m:math>
 <newline/>
 vertex: ________
 </entry>
    <entry><media id="eip-idm86240" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/>
+<image mime-type="image/png" src="../../media/blankgraph.png"/>
 </media><newline/>
  <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>–</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>–</m:mo><m:mn>2</m:mn></m:math>
 <newline/>
@@ -622,12 +622,12 @@ Apply what you have learned in this skill sheet regarding transformations. Write
      <para id="eip-idm188334432">
           <span class="token">ⓐ</span> Flipped upside down and shifted to the right 3 units and down 2 units.<newline/>
 <emphasis effect="italics">f</emphasis>(<emphasis effect="italics">x</emphasis>) =     <newline/><media id="eip-idm211516032" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/></media>
+<image mime-type="image/png" src="../../media/blankgraph.png"/></media>
      </para>
      <para id="eip-idm175595872">
           <span class="token">ⓑ</span> Stretched vertically by a factor of 4 and shifted left 6 units and up 5 units.<newline/>
 <emphasis effect="italics">f</emphasis>(<emphasis effect="italics">x</emphasis>) =  <newline/><media id="eip-idm209417936" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/></media>
+<image mime-type="image/png" src="../../media/blankgraph.png"/></media>
      </para>
 
 </problem></exercise><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-885"><problem id="eip-2ds29">
@@ -638,17 +638,17 @@ Apply what you have learned in this skill sheet regarding transformations. Write
      <para id="eip-idm532688512">
           <span class="token">ⓐ</span> Begin with a basic square root function. Reflect the graph over the x-axis and shift it to the right 2 units and down 1 unit.<newline/>
 <emphasis effect="italics">f</emphasis>(<emphasis effect="italics">x</emphasis>) =     <newline/><media id="eip-media" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/></media>
+<image mime-type="image/png" src="../../media/blankgraph.png"/></media>
      </para>
      <para id="eip-idm504029504">
           <span class="token">ⓑ</span> Begin with an absolute value function. Stretch the graph vertically by a factor of 3 and shift it left 4 units and up 5 units.<newline/>
 <emphasis effect="italics">f</emphasis>(<emphasis effect="italics">x</emphasis>) =  <newline/><media id="eip-medias" alt="blank graph">
-<image mime-type="image/png" src="blankgraph.png"/></media>
+<image mime-type="image/png" src="../../media/blankgraph.png"/></media>
      </para>
 
 </problem></exercise></section></section></section>
 <figure id="Figure_01_05_001" class="medium"><media id="fs-id1165137760000" alt="A photograph of two children staring at themselves in a distorting mirror.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_038n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_038n.jpg"/>
 </media>
 
 <caption>(credit: "Misko"/Flickr)</caption></figure><para id="fs-id1165137742090">We all know that a flat mirror enables us to see an accurate image of ourselves and whatever is behind us. When we tilt the mirror, the images we see may shift horizontally or vertically. But what happens when we bend a flexible mirror? Like a carnival funhouse mirror, it presents us with a distorted image of ourselves, stretched or compressed horizontally or vertically. In a similar way, we can distort or transform mathematical functions to better adapt them to describing objects or processes in the real world. In this section, we will take a look at several kinds of transformations.</para>
@@ -674,7 +674,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
 <figure id="Figure_01_05_002" class="small">
 <media id="fs-id1165137464872" alt="Graphing is shown on a set of x and y axes. The scale is minus three to plus three for both x and y. Two graphs are shown. A blue curve for the cube root of x, and an orange curve for the cube root of x plus one. The blue curve goes from the third quadrant through the origin into the first quadrant. The orange curve is shifted one unit up.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_001.jpg"/>
 </media>
 <caption>Vertical shift by <m:math>
  <m:mrow>
@@ -770,14 +770,14 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
 <figure id="Figure_01_05_003" class="small">
 <media id="fs-id1165137473989" alt="A blue graph is shown on a set of t and v axes. The scale is minus four to plus twenty-four for t and minus four to three hundred for v. The graph lies along the t axis from the origin to eight, then rises as a straight line to ten, two hundred twenty. Then it is a horizontal straight line to seventeen, two hundred twenty. It then is a straight line to the t axis at nineteen. It is then a straight line along the t axis until t equals twenty four.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_002.jpg"/>
 </media>
 </figure>
 </problem>
 <solution id="fs-id1165135504997">
  <para id="fs-id1165137667304">We can sketch a graph of this new function by adding 20 to each of the output values of the original function. This will have the effect of shifting the graph vertically up, as shown in <link target-id="Figure_01_05_004"/>.</para><figure id="Figure_01_05_004">
 <media id="fs-id1165137437043" alt="A blue graph is shown on a set of t and v axes. The scale is minus four to plus twenty-four for t and minus four to three hundred for v. The graph lies along the t axis from the origin to eight, then rises as a straight line to ten, two hundred twenty. Then it is a horizontal straight line to seventeen, two hundred twenty. It then is a straight line to the t axis at nineteen. It is then a straight line along the t axis until t equals twenty four. There is also an orange graph identical to the blue graph but shifted up by twenty units.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_003a.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_003a.jpg"/>
 </media>
 </figure>
 
@@ -1136,7 +1136,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 <section id="fs-id1165137597159"><title>Identifying Horizontal Shifts</title><para id="fs-id1165137404493">We just saw that the vertical shift is a change to the output, or outside, of the function. We will now look at how changes to input, on the inside of the function, change its graph and meaning. A shift to the input results in a movement of the graph of the function left or right in what is known as a <emphasis>horizontal shift</emphasis>, shown in <link target-id="Figure_01_05_005"/>.</para>
 
 <figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="Figure_01_05_005" class="small"><media id="fs-id1165137662366" alt="A graph is shown on a set of x and y axes. The scale is minus three to plus three for both x and y. Two graphs are shown. A blue curve for the cube root of x, and an orange curve for the cube root of (x plus one). The blue curve goes from the third quadrant through the origin into the first quadrant. The orange curve is shifted one unit to the left.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_004.jpg"/>
 </media>
 
 <caption>Horizontal shift of the function <m:math>
@@ -1333,7 +1333,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
 <figure id="Figure_01_05_006" class="small">
 <media id="fs-id1165137640758" alt="A blue graph is shown on a set of t and v axes. The scale is minus four to plus twenty-four for t and minus four to three hundred for v. The graph lies along the t axis from the origin to eight, then rises as a straight line to ten, two hundred twenty. Then it is a horizontal straight line to seventeen, two hundred twenty. It then is a straight line to the t axis at nineteen. It is then a straight line along the t axis until t equals twenty four. There is also an orange graph identical to the blue graph but shifted left by two units.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_005a.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_005a.jpg"/>
 </media>
 </figure>
 </solution>
@@ -1581,7 +1581,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
 
 <figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="Figure_01_05_007" class="small"><media id="fs-id1165137419459" alt="Graph of the points from the previous table for f(x) and g(x)=f(x-3).">
-<image mime-type="image/png" src="CNX_Precalc_Figure_01_05_006.png"/>
+<image mime-type="image/png" src="../../media/CNX_Precalc_Figure_01_05_006.png"/>
 </media>
 </figure></commentary>
 </exercise>
@@ -1610,7 +1610,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
  </m:math> </para>
 
 <figure id="Figure_01_05_008" class="small"><media id="fs-id1165137406070" alt="Graph of a parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_007.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165135173899">
@@ -1800,7 +1800,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
 
  <media id="fs-id1165137761611" alt="Graph of a square root function and a horizontally shift square foot function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_008.jpg"/>
 </media>
  </solution>
 </exercise>
@@ -1872,7 +1872,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 </m:math> </item>
 </list><figure id="Figure_01_05_010a" class="small">
  <media id="fs-id1165137938698" alt="Graph of an absolute function, y=|x|, and how it was transformed to y=|x+1|-3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_009a-26da.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_009a-26da.jpg"/>
 </media>
 </figure>
 
@@ -1884,7 +1884,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
 <figure id="Figure_01_05_010b" class="small">
  <media id="fs-id1165137534968" alt="The final function y=|x+1|-3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_009b-2d2d.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_009b-2d2d.jpg"/>
 </media>
 </figure>
 </solution>
@@ -1905,7 +1905,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 <solution id="fs-id1165137422205">
 
  <media id="fs-id1165137557535" alt="Graph of h(x)=|x-2|+4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_010.jpg"/>
 </media>
 </solution>
   </exercise></note>
@@ -1918,7 +1918,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
 <figure id="Figure_01_05_012" class="small">
  <media id="fs-id1165137593967" alt="Graph of a square root function transposed right one unit and up 2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_011.jpg"/>
 </media>
 </figure>
 
@@ -1994,7 +1994,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
  <section id="fs-id1165137600415">
   <title>Graphing Functions Using Reflections about the Axes</title><para id="fs-id1165137772409">Another transformation that can be applied to a function is a reflection over the <emphasis effect="italics">x</emphasis>- or <emphasis effect="italics">y</emphasis>-axis. A <emphasis>vertical reflection</emphasis> reflects a graph vertically across the <emphasis effect="italics">x</emphasis>-axis, while a <emphasis>horizontal reflection</emphasis> reflects a graph horizontally across the <emphasis effect="italics">y</emphasis>-axis. The reflections are shown in <link target-id="Figure_01_05_013"/>.</para><figure id="Figure_01_05_013" class="small">
    <media id="fs-id1165137661975" alt="Graph of the vertical and horizontal reflection of a function.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_012.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_012.jpg"/>
    </media>
    <caption>Vertical and horizontal reflections of a function.</caption>
   </figure>
@@ -2044,7 +2044,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
     <figure id="Figure_01_05_014">
      <media id="fs-id1165137460965" alt="Graph of the vertical reflection of the square root function.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_013-453a.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_013-453a.jpg"/>
      </media>
      <caption>Vertical reflection of the square root function</caption>
     </figure>
@@ -2066,7 +2066,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
     <figure id="Figure_01_05_015">
      <media id="fs-id1165137393283" alt="Graph of the horizontal reflection of the square root function.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_014-48c4.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_014-48c4.jpg"/>
      </media>
      <caption>Horizontal reflection of the square root function</caption>
     </figure>
@@ -2125,13 +2125,13 @@ Apply what you have learned in this skill sheet regarding transformations. Write
   <list id="fs-id1165137444428" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span>
 
      <media id="fs-id1165137693977" alt="Graph of a vertically reflected absolute function.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_015a.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_015a.jpg"/>
    </media>
   </item>
 
   <item><span class="token">ⓑ</span>
     <media id="fs-id1165135436637" alt="Graph of an absolute function translated one unit left.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_015b.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_015b.jpg"/>
    </media>
   </item>
   </list></solution>
@@ -2467,7 +2467,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
      </m:math>
      </para><figure id="Figure_01_05_017" class="small">
       <media id="fs-id1165137409142" alt="Graph of k(t)">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_016-ee54.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_016-ee54.jpg"/>
       </media>
      </figure>
 
@@ -2510,7 +2510,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
     <figure id="Figure_01_05_018">
      <media id="fs-id1165137579886" alt="Graphs of all the transformations.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_017abc-cc59.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_017abc-cc59.jpg"/>
      </media>
     </figure>
     </solution>
@@ -2541,7 +2541,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
     </problem>
     <solution id="fs-id1165137894550">
       <media id="fs-id1165137778960" alt="Graph of x^2 and its reflections.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_020.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_020.jpg"/>
    </media>
      <para id="fs-id1165135255910">Notice: <m:math>
       <m:mrow><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow>
@@ -2581,7 +2581,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
   <figure id="Figure_01_05_022">
 <media id="fs-id1165137676986" alt="Graph of x^3 and its reflections.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_021abc-08cd.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_021abc-08cd.jpg"/>
    </media>
   <caption>(a) The cubic toolkit function (b) Horizontal reflection of the cubic toolkit function (c) Horizontal and vertical reflections reproduce the original cubic function. </caption>
 </figure>
@@ -2711,7 +2711,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
  </m:mrow>
 </m:math> is also on the graph.</para><figure id="Figure_01_05_039" class="medium">
       <media id="fs-id1165135543459" alt="Graph of f(x) with labeled points at (1, 3) and (-1, -3).">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_039-cdda.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_039-cdda.jpg"/>
       </media>
      </figure>
      </commentary>
@@ -2746,7 +2746,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 <title> Vertical Stretches and Compressions </title>
  <para id="fs-id1165137461225">When we multiply a function by a positive constant, we get a function whose graph is stretched or compressed vertically in relation to the graph of the original function. If the constant is greater than 1, we get a <emphasis>vertical stretch</emphasis>; if the constant is between 0 and 1, we get a<emphasis> vertical compression</emphasis>. <link target-id="Figure_01_05_025"/> shows a function multiplied by constant factors 2 and 0.5 and the resulting vertical stretch and compression.</para><figure id="Figure_01_05_025" class="small">
  <media id="fs-id1165135191886" alt="Graph of a function that shows vertical stretching and compression.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_024.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_024.jpg"/>
  </media>
  <caption>Vertical stretch and compression</caption>
 </figure>
@@ -2832,7 +2832,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
 <figure id="Figure_01_05_026" class="small">
  <media id="fs-id1165137501364" alt="Graph to represent the growth of the population of fruit flies.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_025.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_025.jpg"/>
 </media>
 </figure>
 
@@ -2901,7 +2901,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
  </m:math>
  </equation><figure id="Figure_01_05_027" class="small">
  <media id="fs-id1165135190469" alt="Graph of the population function doubled.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_026.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_026.jpg"/>
 </media>
 </figure>
 
@@ -3241,7 +3241,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
 <figure id="Figure_01_05_028" class="small">
  <media id="fs-id1165137431034" alt="Graph of a transformation of f(x)=x^3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_027.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_027.jpg"/>
 </media>
 </figure>
 
@@ -3333,7 +3333,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
  <figure id="Figure_01_05_029" class="small">
   <media id="fs-id1165137659669" alt="Graph of the vertical stretch and compression of x^2.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_028.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_028.jpg"/>
       </media>
       </figure>
 
@@ -3386,7 +3386,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
     <m:mn>2</m:mn>
    </m:msup>
    </m:mrow>
- </m:math> by a factor of 2.</para>
+ </m:math> by a factor of <m:math><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math>.</para>
 
 <note id="fs-id1165137732896">
 
@@ -3522,7 +3522,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 </equation><para id="fs-id1165134380331">See <link target-id="Figure_01_05_030"/> for a graphical comparison of the original population and the compressed population.</para>
 
 <figure id="Figure_01_05_030"><media id="fs-id1165137844206" alt="Two side-by-side graphs. The first graph has function for original population whose domain is [0,7] and range is [0,3]. The maximum value occurs at (3,3). The second graph has the same shape as the first except it is half as wide. It is a graph of transformed population, with a domain of [0, 3.5] and a range of [0,3]. The maximum occurs at (1.5, 3). ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_029ab.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_029ab.jpg"/>
  </media>
 
 <caption>(a) Original population graph (b) Compressed population graph </caption></figure></solution>
@@ -3676,7 +3676,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 </tgroup>
 </table><para id="fs-id1165135190052"><link target-id="Figure_01_05_032"/> shows the graphs of both of these sets of points.</para><figure id="Figure_01_05_032">
  <media id="fs-id1165137899007" alt="Graph of the previous table.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_031.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_031.jpg"/>
 </media>
 </figure>
 </solution>
@@ -3703,7 +3703,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
  <figure id="Figure_01_05_033" class="small">
   <media id="fs-id1165137542176" alt="Graph of f(x) being vertically compressed to g(x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_032.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_032.jpg"/>
 </media>
 </figure>
 
@@ -3934,7 +3934,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
    <para id="fs-id1165137423095">When combining horizontal transformations written in the form <m:math>
     <m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>b</m:mi><m:mi>x</m:mi><m:mo>-</m:mo><m:mi>h</m:mi><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo></m:mrow>
    </m:math> first horizontally shift by <m:math>
-    <m:mrow><m:mi>h</m:mi></m:mrow>
+    <m:mrow><m:mfrac><m:mi>h</m:mi><m:mi>b</m:mi></m:mfrac></m:mrow>
    </m:math> and then horizontally stretch by <m:math>
     <m:mrow><m:mfrac>
       <m:mn>1</m:mn>
@@ -4146,7 +4146,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
      <figure id="Figure_01_05_035" class="small">
       <media id="fs-id1165137619127" alt="Graph of a half-circle.">
-       <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_034-a5a3.jpg"/>
+       <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_034-a5a3.jpg"/>
       </media>
      </figure>
 
@@ -4181,7 +4181,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
        </m:mrow>
      </m:math> on the inside of the function. Remember that twice the size of 0 is still 0, so the point (0,2) remains at (0,2) while the point (2,0) will stretch to (4,0). See <link target-id="Figure_01_05_036"/>.</para><figure id="Figure_01_05_036" class="small">
      <media id="fs-id1165135580394" alt="Graph of a vertically stretch half-circle.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_035-e52a.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_035-e52a.jpg"/>
      </media>
     </figure>
 
@@ -4191,7 +4191,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
     <figure id="Figure_01_05_037" class="small">
      <media id="fs-id1165135641688" alt="Graph of a vertically stretch and translated half-circle.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_036-b572.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_036-b572.jpg"/>
      </media>
     </figure>
 
@@ -4201,7 +4201,7 @@ Apply what you have learned in this skill sheet regarding transformations. Write
 
     <figure id="Figure_01_05_038" class="small">
      <media id="fs-id1165135196774" alt="Graph of a vertically stretch and translated half-circle.">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_037-ccd5.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_037-ccd5.jpg"/>
      </media>
     </figure>
     </solution>
@@ -4718,7 +4718,7 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
 
  <figure id="Figure_01_05_201" class="small">
   <media id="fs-id1165137432996" alt="Graph of f(x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_201-0821.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_201-0821.jpg"/>
 </media>
 </figure>
 
@@ -4749,7 +4749,7 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
 <solution id="fs-id1165137644136">
 
  <media id="fs-id1165137644142" alt="Graph of k(x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_203-db69.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_203-db69.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165135436604">
@@ -4784,7 +4784,7 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
  </problem>
 <solution id="fs-id1165135631538">
  <media id="fs-id1165135497724" alt="Graph of f(t).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_206-990e.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_206-990e.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165137932662">
@@ -4811,7 +4811,7 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
 </para></problem>
 <solution id="fs-id1165134234193">
  <media id="fs-id1165134234199" alt="Graph of k(x).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_208-8e38.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_208-8e38.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165137424880">
@@ -5129,7 +5129,7 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
 <exercise id="fs-id1165137431229"><problem id="fs-id1165137431231">
 
    <media id="fs-id1165135543438" alt="Graph of an absolute function." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_210.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_210.jpg"/>
 </media>
 
  </problem>
@@ -5142,14 +5142,14 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
 </exercise><exercise id="fs-id1165135481230"><problem id="fs-id1165135481232">
 
    <media id="fs-id1165137851362" alt="Graph of a parabola." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_211.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_211.jpg"/>
 </media>
 
  </problem>
 </exercise><exercise id="fs-id1165137817635"><problem id="fs-id1165137817637">
 
    <media id="fs-id1165133341017" alt="Graph of a square root function." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_212.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_212.jpg"/>
 </media>
 
  </problem>
@@ -5167,14 +5167,14 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
 </exercise><exercise id="fs-id1165132929618"><problem id="fs-id1165132929620">
 
    <media id="fs-id1165135203675" alt="Graph of an absolute function." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_213.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_213.jpg"/>
 </media>
 
  </problem>
 </exercise><exercise id="fs-id1165135487204"><problem id="fs-id1165135487206">
 
    <media id="fs-id1165135535017" alt="Graph of a parabola" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_214.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_214.jpg"/>
 </media>
 
  </problem>
@@ -5192,14 +5192,14 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
 </exercise><exercise id="fs-id1165135190411"><problem id="fs-id1165135190413">
 
    <media id="fs-id1165133277626" alt="Graph of a square root function." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_215.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_215.jpg"/>
 </media>
 
  </problem>
 </exercise><exercise id="fs-id1165133103936"><problem id="fs-id1165133103938">
 
    <media id="fs-id1165134362846" alt="Graph of an absolute function." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_216f.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_216f.jpg"/>
 </media>
 
  </problem>
@@ -5213,7 +5213,7 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
 </exercise><exercise id="fs-id1165134043550"><problem id="fs-id1165134043552">
 
    <media id="fs-id1165134036728" alt="Graph of a square root function." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_217F.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_217F.jpg"/>
 </media>
 
  </problem>
@@ -5222,7 +5222,7 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
 <exercise id="fs-id1165134187277"><problem id="fs-id1165134187279">
 
    <media id="fs-id1165137834957" alt="Graph of a square root function." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_218.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_218.jpg"/>
 </media>
 
  </problem>
@@ -5238,7 +5238,7 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
  </solution>
 </exercise><exercise id="fs-id1165137930320"><problem id="fs-id1165137930323">
   <media id="fs-id1165135487154" alt="Graph of a square root function." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_219.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_219.jpg"/>
 </media>
 
 </problem>
@@ -5248,7 +5248,7 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
 <exercise id="fs-id1165134177113"><problem id="fs-id1165137806559">
 
    <media id="fs-id1165137806566" alt="Graph of a parabola." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_220.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_220.jpg"/>
 </media>
 
  </problem>
@@ -5267,14 +5267,14 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
 </exercise><exercise id="fs-id1165135384400"><problem id="fs-id1165137693606">
 
    <media id="fs-id1165137693612" alt="Graph of a cubic function." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_221.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_221.jpg"/>
 </media>
 
  </problem>
 </exercise><exercise id="fs-id1165137892243"><problem id="fs-id1165134352554">
 
    <media id="fs-id1165134352561" alt="Graph of a square root function." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_222.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_222.jpg"/>
 </media>
 
  </problem>
@@ -5292,7 +5292,7 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
 </exercise><exercise id="fs-id1165135411377"><problem id="fs-id1165135411379">
 
    <media id="fs-id1165133155251" alt="Graph of an absolute function." display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_223.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_223.jpg"/>
 </media>
 
  </problem>
@@ -5734,7 +5734,7 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
     </m:mrow>
   </m:math> is shifted to the left 1 unit, stretched vertically by a factor of 4, and shifted down 5 units.</para>
  <media id="fs-id1165137837881" alt="Graph of a parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_224-da56.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_224-da56.jpg"/>
 </media>
  </solution>
 </exercise><exercise id="fs-id1165135199465">
@@ -5765,7 +5765,7 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
   </m:math> is stretched vertically by a factor of 2, shifted horizontally 4 units to the right, reflected across the horizontal axis, and then shifted vertically 3 units up.</para>
 
  <media id="fs-id1165137849263" alt="Graph of an absolute function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_226-945c.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_226-945c.jpg"/>
 </media>
  </solution>
 </exercise><exercise id="fs-id1165137758532">
@@ -5814,7 +5814,7 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
   </para>
 
  <media id="fs-id1165137408616" alt="Graph of a cubic function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_228-71bf.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_228-71bf.jpg"/>
 </media>
  </solution>
 </exercise><exercise id="fs-id1165137832423">
@@ -5856,7 +5856,7 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
 <solution id="fs-id1165135253220">
  <para id="fs-id1165135253222"> The graph of the function is stretched horizontally by a factor of 3 and then shifted vertically downward by 3 units.</para>
  <media id="fs-id1165135253231" alt="Graph of a cubic function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_230-1bbb.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_230-1bbb.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165137898977">
@@ -5907,12 +5907,12 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
  </para>
 
  <media id="fs-id1165135188697" alt="Graph of a square root function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_232-720f.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_232-720f.jpg"/>
 </media>
 </solution>
 </exercise><para id="fs-id1165134338807">For the following exercises, use the graph in <link target-id="Figure_01_05_233"/> to sketch the given transformations.</para><figure id="Figure_01_05_233">
   <media id="fs-id1165134338818" alt="Graph of a polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_233.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_233.jpg"/>
 </media>
 </figure>
 <exercise id="fs-id1165135706785">
@@ -5933,7 +5933,7 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
  </problem>
 <solution id="fs-id1165137936918">
  <media id="fs-id1165137456016" alt="Graph of a polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_235-acd1.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_235-acd1.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165137722436">
@@ -5955,7 +5955,7 @@ is shifted down 3 units and to the right 1 unit.</para></problem>
 
 
  <media id="fs-id1165135193236" alt="Graph of a polynomial.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_01_05_237.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_01_05_237.jpg"/>
 </media>
 </solution>
 </exercise></section></section></content>

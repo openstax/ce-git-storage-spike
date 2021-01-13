@@ -16,13 +16,13 @@
 </list></section><section id="eip-688"><title>Objective 1: Use Pascal’s Triangle to expand a binomial. (IA 12.4.1)</title><para id="eip-831">Pascal’s triangle helps us find the coefficients of the terms in the expansion of a binomial.
 </para><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-820">To find the coefficients of the terms, we write our expansion again focusing on the coefficients. We rewrite the coefficients to the right forming an array of coefficients. The array to the right is called <term>Pascal’s Triangle</term>.
 </para><media id="eip-idm190683104" alt="A plus b to the power of 0 equals 1. The top level of Pascal’s Triangle is 1. A plus b to the power of 1 equals 1 a plus 1 b. The second level of Pascal’s Triangle is 1, 1. A plus b to the power of 2 equals 1 a to the power of 2 plus 2 a b plus 1 b to the power of 2. The third level of Pascal’s Triangle is 1, 2, 1. A plus b to the power of 3 equals 1 a to the power of 3 plus 3 a to the power of 2 b plus 3 a b to the power of 2 plus 1 b to the power of 3. The fourth level of Pascal’s Triangle is 1,3,3,1. A plus b to the power of 4 equals 1 a to the power of 4 plus 4 a to the power of 3 b plus 6 a to the power of 2 b to the power of 2 plus 4 a b to the power of 3 plus 1 b to the power of 4. The fifth level of Pascal’s Triangle is 1, 4, 6, 4, 1. A plus b to the power of 5 equals 1 a to the power of 5 plus 5 a to the power of 4 b plus 10 a to the power of 3 b to the power of 2 plus 10 a to the power of 2 b to the power of 3. The sixth row of the Pascal’s Triangle is 1, 5, 10, 10, 5, 1.">
-    <image mime-type="image/jpeg" src="9_6_1.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/9_6_1.jpg"/>
   </media><para id="eip-534">Notice that in each expansion the powers of <emphasis effect="italics">a</emphasis> in each term decrease from <emphasis effect="italics">n</emphasis> to 0, and the powers of <emphasis effect="italics">b</emphasis> increase from 0 to <emphasis effect="italics">n</emphasis>.
 </para><para id="eip-519">Notice each number in the array is the sum of the two closest numbers in the row above. We can find the next row by starting and ending with one and then adding two adjacent numbers.
 </para><para id="eip-779">To find the coefficients of the expansion of the binomial <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi><m:mo>)</m:mo></m:mrow><m:mi>n</m:mi></m:msup></m:math> , go to the row that has the value n as a second entry.
 </para>
 <media id="eip-idm372639904" alt="This figure shows Pascal’s Triangle. The first level is 1. The second level is 1, 1. The third level is 1, 2, 1. The fourth level is 1, 3, 3, 1. The fifth level is 1, 4, 6, 4, 1. The sixth level is 1, 5, 10, 10, 5, 1. The seventh level is 1, 6, 15, 20, 15, 6, 1.">
-    <image mime-type="image/jpeg" src="9_6_2.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/9_6_2.jpg"/>
   </media><example id="eip-35"><exercise xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-615"><problem id="eip-44">
   <para id="eip-684">
 Use Pascal’s Triangle to expand <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>y</m:mi><m:mo>)</m:mo></m:mrow><m:mn>6</m:mn></m:msup></m:math> .
@@ -35,23 +35,23 @@ Use Pascal’s Triangle to expand <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x<
   <row>
     <entry>Go to Pascal’s Triangle and read off the coefficients from the row whose second entry is 6.
 </entry>
-    <entry><media id="eip-idm461088896" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_001-01.jpg"/></media></entry>
+    <entry><media id="eip-idm461088896" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_001-01.jpg"/></media></entry>
   </row>
   <row>
     <entry>Write the expansion with the coefficients.
 </entry>
-    <entry><media id="eip-idm482406720" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_001-02.jpg"/></media></entry>
+    <entry><media id="eip-idm482406720" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_001-02.jpg"/></media></entry>
   </row>
   <row>
     <entry>
 Fill in the variable with the power of x decreasing from 6 to 0, and the power of y increasing from 0 to 6.
 </entry>
-    <entry><media id="eip-idm435760416" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_001-03.jpg"/></media></entry>
+    <entry><media id="eip-idm435760416" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_001-03.jpg"/></media></entry>
   </row>
   <row>
     <entry>Binomial expansion of <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>y</m:mi><m:mo>)</m:mo></m:mrow><m:mn>6</m:mn></m:msup></m:math> .
 </entry>
-    <entry><media id="eip-idm478303120" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_001-04.jpg"/></media></entry>
+    <entry><media id="eip-idm478303120" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_001-04.jpg"/></media></entry>
   </row>
 </tbody>
 
@@ -68,25 +68,25 @@ Use Pascal’s Triangle to expand <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x<
 <table id="eip-244" summary="." class="unnumbered unstyled">
 <tgroup cols="2"><tbody>
   <row>
-    <entry><media id="eip-idm811216624" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_002-06.jpg"/></media><newline/>Go to Pascal’s Triangle and read off the coefficients from the row whose second entry is 5.
+    <entry><media id="eip-idm811216624" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_002-06.jpg"/></media><newline/>Go to Pascal’s Triangle and read off the coefficients from the row whose second entry is 5.
 </entry>
-    <entry><media id="eip-idm226530160" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_002-01.jpg"/></media></entry>
+    <entry><media id="eip-idm226530160" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_002-01.jpg"/></media></entry>
   </row>
   <row>
     <entry>Write the expansion with the coefficients.
 </entry>
-    <entry><media id="eip-idm512381888" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_002-05.jpg"/></media></entry>
+    <entry><media id="eip-idm512381888" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_002-05.jpg"/></media></entry>
   </row>
   <row>
     <entry>
 Fill in the variable with the power of x decreasing from 5 to 0, and the power of 3 increasing from 0 to 5.
 </entry>
-    <entry><media id="eip-idm518478352" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_002-02.jpg"/></media><newline/><media id="eip-idm255825088" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_002-03.jpg"/></media></entry>
+    <entry><media id="eip-idm518478352" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_002-02.jpg"/></media><newline/><media id="eip-idm255825088" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_002-03.jpg"/></media></entry>
   </row>
   <row>
     <entry>Binomial expansion of <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:mrow><m:mn>5</m:mn></m:msup></m:math> .
 </entry>
-    <entry><media id="eip-idm201444304" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_002-04.jpg"/></media></entry>
+    <entry><media id="eip-idm201444304" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_002-04.jpg"/></media></entry>
   </row>
 </tbody>
 
@@ -106,23 +106,23 @@ Use Pascal’s Triangle to expand <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mn>3<
   <para id="eip-453"><table id="eip-245" summary="." class="unnumbered unstyled">
 <tgroup cols="2"><tbody>
   <row>
-    <entry><media id="eip-idm540340496" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_003-02.jpg"/></media><newline/>Go to Pascal’s Triangle and read off the coefficients from the row whose second entry is 4.
+    <entry><media id="eip-idm540340496" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_003-02.jpg"/></media><newline/>Go to Pascal’s Triangle and read off the coefficients from the row whose second entry is 4.
 </entry>
-    <entry><media id="eip-idm536128416" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_003-01.jpg"/></media></entry>
+    <entry><media id="eip-idm536128416" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_003-01.jpg"/></media></entry>
   </row>
   <row>
     <entry>Write the expansion with the coefficients.
 </entry>
-    <entry><media id="eip-idm528248592" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_003-03.jpg"/></media></entry>
+    <entry><media id="eip-idm528248592" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_003-03.jpg"/></media></entry>
   </row>
   <row>
     <entry>Fill in the variable with the power of (3x) decreasing from 4 to 0, and the power of (-2) increasing from 0 to 4.</entry>
-    <entry><media id="eip-idm250115696" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_003-04.jpg"/></media><newline/><media id="eip-idm299725536" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_003-05.jpg"/></media><newline/><media id="eip-idm296607152" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_003-06.jpg"/></media></entry>
+    <entry><media id="eip-idm250115696" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_003-04.jpg"/></media><newline/><media id="eip-idm299725536" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_003-05.jpg"/></media><newline/><media id="eip-idm296607152" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_003-06.jpg"/></media></entry>
   </row>
   <row>
     <entry>Binomial expansion of <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>2</m:mn><m:mo>)</m:mo></m:mrow><m:mn>4</m:mn></m:msup></m:math> .
 </entry>
-    <entry><media id="eip-idm236996528" alt="."><image mime-type="image/jpg" src="CNX_Coreq_Figure_09_06_003-07.jpg"/></media></entry>
+    <entry><media id="eip-idm236996528" alt="."><image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_09_06_003-07.jpg"/></media></entry>
   </row>
 </tbody>
 
@@ -1101,7 +1101,7 @@ Use Pascal’s Triangle to expand <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mn>2<
  </m:mrow>
 </m:math> </para>
 <figure id="CNX_Precalc_Figure_11_06_002"><media id="fs-id1165137570609" alt="Graph of the function f_2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_06_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_06_002.jpg"/>
 </media>
 </figure><para id="fs-id1165137443527">See <link target-id="CNX_Precalc_Figure_11_06_002"/>, which illustrates the following:</para><list id="fs-id1165137748570" list-type="bulleted"><item>There are <m:math>
  <m:mrow>
@@ -1283,7 +1283,7 @@ Use Pascal’s Triangle to expand <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mn>2<
  </m:mrow>
 </m:math> </equation><para id="fs-id1165137737731">But where do those coefficients come from? The binomial coefficients are symmetric. We can see these coefficients in an array known as <term class="no-emphasis">Pascal's Triangle</term>, shown in <link target-id="CNX_Precalc_Figure_11_06_001"/>.</para><figure id="CNX_Precalc_Figure_11_06_001" class="medium">
 <media id="fs-id1165137444433" alt="Pascal's Triangle">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_06_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_06_001.jpg"/>
 </media>
 </figure>
 <para id="fs-id1165137446339">To generate Pascal’s Triangle, we start by writing a 1. In the row below, row 2, we write two 1’s. In the 3<sup>rd</sup> row, flank the ends of the rows with 1’s, and add <m:math>
@@ -1297,7 +1297,7 @@ Use Pascal’s Triangle to expand <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mn>2<
 </m:math> row, flank the ends of the row with 1’s. Each element in the triangle is the sum of the two elements immediately above it.</para><para id="fs-id1165137864198">To see the connection between Pascal’s Triangle and binomial coefficients, let us revisit the expansion of the binomials in general form.</para>
 
 <media id="fs-id1165137643968" alt="Pascal's Triangle expanded to show the values of the triangle as x and y terms with exponents" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_06_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_06_003.jpg"/>
 </media>
 
 <note id="fs-id1165135187302">
@@ -3986,7 +3986,7 @@ Use Pascal’s Triangle to expand <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mn>2<
  </m:mrow>
 </m:math>
 </para><media id="fs-id1165137726516" alt="Graph of the function f_2.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_06_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_06_202.jpg"/>
 </media></solution>
 </exercise><exercise id="fs-id1165137812692">
 <problem id="fs-id1165137812694">
@@ -4052,7 +4052,7 @@ Use Pascal’s Triangle to expand <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mn>2<
  </m:mrow>
 </m:math>
 </para><media id="fs-id1165137482837" alt="Graph of the function f_4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_11_06_204.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_11_06_204.jpg"/>
 </media>
 </solution>
 </exercise><exercise id="fs-id1165137557834">

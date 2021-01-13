@@ -121,7 +121,7 @@
 
 <figure id="CNX_Precalc_Figure_02_02_001" class="medium">
 <media id="fs-id1165135565075" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_001.jpg"/>
 </media>
 <caption>The graph of the linear function <m:math><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>5.</m:mn></m:mrow></m:math> </caption>
 </figure>
@@ -140,7 +140,7 @@
 <solution id="fs-id1165137749908">
 
 <media id="fs-id1165137405092" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_002.jpg"/>
 </media>
 
 </solution>
@@ -156,7 +156,7 @@
 
 <figure id="CNX_Precalc_Figure_02_02_003" class="medium">
 <media id="fs-id1165137668956" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_003.jpg"/>
 </media>
 </figure>
 
@@ -240,7 +240,7 @@
 
 <figure id="CNX_Precalc_Figure_02_02_004">
 <media id="fs-id1165137660533" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_004.jpg"/>
 </media>
 </figure>
 </solution>
@@ -264,7 +264,7 @@
 </note>
 </section><section id="fs-id1165137543411"><title>Graphing a Function Using Transformations</title><para id="fs-id1165137695235">Another option for graphing is to use <term class="no-emphasis">transformations</term> of the identity function <m:math><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>x</m:mi></m:mrow></m:math>. A function may be transformed by a shift up, down, left, or right. A function may also be transformed using a reflection, stretch, or compression.</para><section id="fs-id1165137662254"><title>Vertical Stretch or Compression</title><para id="fs-id1165137444518">In the equation <m:math><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>m</m:mi><m:mi>x</m:mi><m:mo>,</m:mo></m:mrow></m:math> the <m:math><m:mi>m</m:mi></m:math> is acting as the <term class="no-emphasis">vertical stretch</term> or <term class="no-emphasis">compression</term> of the identity function. When <m:math><m:mi>m</m:mi></m:math> is negative, there is also a vertical reflection of the graph. Notice in <link target-id="CNX_Precalc_Figure_02_02_005"/> that multiplying the equation of <m:math><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>x</m:mi></m:mrow></m:math> by <m:math><m:mi>m</m:mi></m:math> stretches the graph of <m:math><m:mi>f</m:mi></m:math> by a factor of <m:math><m:mi>m</m:mi></m:math> units if <m:math><m:mrow><m:mi>m</m:mi><m:mo>&gt;</m:mo><m:mtext>1</m:mtext></m:mrow></m:math> and compresses the graph of <m:math><m:mi>f</m:mi></m:math> by a factor of <m:math><m:mi>m</m:mi></m:math> units if <m:math><m:mrow><m:mn>0</m:mn><m:mo>&lt;</m:mo><m:mi>m</m:mi><m:mo>&lt;</m:mo><m:mn>1.</m:mn></m:mrow></m:math> This means the larger the absolute value of <m:math><m:mrow><m:mi>m</m:mi><m:mo>,</m:mo></m:mrow></m:math> the steeper the slope.</para><figure id="CNX_Precalc_Figure_02_02_005">
 <media id="fs-id1165137529517" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_005.jpg"/>
 </media>
 <caption>Vertical stretches and compressions and reflections on the function <m:math><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>x</m:mi><m:mo>.</m:mo></m:mrow></m:math> </caption>
 </figure>
@@ -272,7 +272,7 @@
 
 <figure id="CNX_Precalc_Figure_02_02_006">
 <media id="fs-id1165137634286" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_006.jpg"/>
 </media>
 <caption>This graph illustrates vertical shifts of the function <m:math><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>x</m:mi><m:mo>.</m:mo></m:mrow></m:math> </caption>
 </figure>
@@ -297,7 +297,7 @@
 <solution id="fs-id1165135693789">
 <para id="fs-id1165135192082">The equation for the function shows that <m:math><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> so the identity function is vertically compressed by <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> The equation for the function also shows that <m:math><m:mrow><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>−3</m:mn></m:mrow></m:math> so the identity function is vertically shifted down 3 units. First, graph the identity function, and show the vertical compression as in <link target-id="CNX_Precalc_Figure_02_02_007"/>.</para><figure id="CNX_Precalc_Figure_02_02_007" class="small">
 <media id="fs-id1165135245753" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_007.jpg"/>
 </media>
 <caption>The function, <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>x</m:mi><m:mo>,</m:mo></m:mrow></m:math> compressed by a factor of <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> </caption>
 </figure>
@@ -306,7 +306,7 @@
 
 <figure id="CNX_Precalc_Figure_02_02_008" class="small">
 <media id="fs-id1165137610735" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_008.jpg"/>
 </media>
 <caption>The function <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>x</m:mi><m:mo>,</m:mo></m:mrow></m:math> shifted down 3 units.</caption>
 </figure>
@@ -321,7 +321,7 @@
 <solution id="fs-id1165137767085">
 
 <media id="fs-id1165137405182" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_009.jpg"/>
 </media>
 
 </solution>
@@ -369,7 +369,7 @@
 
 <figure id="CNX_Precalc_Figure_02_02_010" class="medium">
 <media id="fs-id1165137629251" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_010.jpg"/>
 </media>
 </figure>
 
@@ -417,7 +417,7 @@
 </list>
 <figure id="CNX_Precalc_Figure_02_02_011" class="small">
 <media id="fs-id1165137823169" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_011.jpg"/>
 </media>
 </figure>
 </problem>
@@ -434,7 +434,7 @@
 
 <figure id="CNX_Precalc_Figure_02_02_012" class="small">
 <media id="fs-id1165137758078" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_012.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_012.jpg"/>
 </media>
 </figure>
 </solution>
@@ -486,7 +486,7 @@
  <para id="fs-id1165137827599"><emphasis effect="italics">No. However, linear functions of the form <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>c</m:mi><m:mo>,</m:mo></m:mrow></m:math> where <m:math><m:mi>c</m:mi></m:math> is a nonzero real number are the only examples of linear functions with no x-intercept. For example, <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>5</m:mn></m:mrow></m:math> is a horizontal line 5 units above the x-axis. This function has no x-intercepts,</emphasis> as shown in <link target-id="CNX_Precalc_Figure_02_02_026"/>.</para>
 
 <figure id="CNX_Precalc_Figure_02_02_026" class="medium"><media id="fs-id1165137652763" alt="Graph of y = 5.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_026.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_026.jpg"/>
 </media>
 </figure></note><note id="fs-id1165137653298">
 
@@ -541,7 +541,7 @@
 <para id="fs-id1165135450388">A graph of the function is shown in <link target-id="CNX_Precalc_Figure_02_02_013"/>. We can see that the <emphasis effect="italics">x</emphasis>-intercept is <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>6</m:mn><m:mo>,</m:mo><m:mtext> 0</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> as we expected.</para>
 <figure id="CNX_Precalc_Figure_02_02_013" class="medium">
 <media id="fs-id1165137424274" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_013.jpg"/>
 </media>
 <caption>The graph of the linear function <m:math><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>3.</m:mn></m:mrow></m:math> </caption>
 </figure>
@@ -564,7 +564,7 @@
 
 <figure id="CNX_Precalc_Figure_02_02_014" class="medium">
 <media id="fs-id1165137914048" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_014.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_014.jpg"/>
 </media>
 <caption>A horizontal line representing the function <m:math><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>2.</m:mn></m:mrow></m:math> </caption>
 </figure>
@@ -572,7 +572,7 @@
 <para id="fs-id1165137891303">A <emphasis>vertical line</emphasis> indicates a constant input, or <emphasis effect="italics">x</emphasis>-value. We can see that the input value for every point on the line is 2, but the output value varies. Because this input value is mapped to more than one output value, a vertical line does not represent a function. Notice that between any two points, the change in the input values is zero. In the slope formula, the denominator will be zero, so the slope of a vertical line is undefined.</para>
 
 <media id="fs-id1165135547417" display="block" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_015.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_015.jpg"/>
 </media>
 
 <para id="fs-id1165137737387">Notice that a vertical line, such as the one in <link target-id="CNX_Precalc_Figure_02_02_016"/><emphasis>,</emphasis> has an <emphasis effect="italics">x</emphasis>-intercept, but no <emphasis effect="italics">y-</emphasis>intercept unless it’s the line <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0.</m:mn></m:mrow></m:math> This graph represents the line <m:math>
@@ -583,7 +583,7 @@
 </para>
 
 <figure id="CNX_Precalc_Figure_02_02_016" class="medium"><media id="fs-id1165137771701" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_016.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_016.jpg"/>
 </media>
 
 <caption>The vertical line, <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mo>,</m:mo></m:mrow></m:math> which does not represent a function.</caption></figure>
@@ -599,7 +599,7 @@
 <para id="fs-id1165137639442">Write the equation of the line graphed in <link target-id="CNX_Precalc_Figure_02_02_017"/>.</para>
 
 <figure id="CNX_Precalc_Figure_02_02_017" class="small"><media id="fs-id1165137639451" alt="Graph of x = 7.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_017.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_017.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165137439120">
@@ -613,7 +613,7 @@
 <para id="fs-id1165137871492">Write the equation of the line graphed in <link target-id="CNX_Precalc_Figure_02_02_018"/>.</para>
 
 <figure id="CNX_Precalc_Figure_02_02_018" class="small"><media id="fs-id1165137645052" alt="Graph of two functions where the baby blue line is y = -2/3x + 7, and the blue line is y = -x + 1.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_018.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_018.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165137727350">
@@ -624,7 +624,7 @@
 
 <figure id="CNX_Precalc_Figure_02_02_019" class="small">
 <media id="fs-id1165137598494" alt="Graph of two functions where the blue line is y = -2/3x + 1, and the baby blue line is y = -2/3x +7. Notice that they are parallel lines.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_019n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_019n.jpg"/>
 </media>
 
 <caption>Parallel lines.</caption></figure><para id="fs-id1165135499959">We can determine from their equations whether two lines are parallel by comparing their slopes. If the slopes are the same and the <emphasis effect="italics">y</emphasis>-intercepts are different, the lines are parallel. If the slopes are different, the lines are not parallel.</para>
@@ -687,7 +687,7 @@
 <para id="fs-id1165137400297">Unlike parallel lines,<emphasis> perpendicular lines</emphasis> do intersect. Their intersection forms a right, or 90-degree, angle. The two lines in <link target-id="CNX_Precalc_Figure_02_02_020"/> are perpendicular.</para>
 
 <figure id="CNX_Precalc_Figure_02_02_020" class="small"><media id="fs-id1165137640237" alt="Graph of two functions where the blue line is perpendicular to the orange line.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_020n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_020n.jpg"/>
 </media>
 
 <caption>Perpendicular lines.</caption></figure>
@@ -851,7 +851,7 @@
 <para id="fs-id1165135187513">A graph of the lines is shown in <link target-id="CNX_Precalc_Figure_02_02_021"/>.</para>
 
 <figure id="CNX_Precalc_Figure_02_02_021" class="small"><media id="fs-id1165137925369" alt="Graph of four functions where the blue line is h(x) = -2x + 2, the orange line is f(x) = 2x + 3, the green line is j(x) = 2x - 6, and the red line is g(x) = 1/2x - 4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_021.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_021.jpg"/>
 </media>
 </figure><para id="fs-id1165137407484">The graph shows that the lines <m:math><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>–</m:mo><m:mn>6</m:mn></m:mrow></m:math> are parallel, and the lines <m:math><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>x</m:mi><m:mo>–</m:mo><m:mn>4</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:math> are perpendicular.</para>
 </commentary>
@@ -994,7 +994,7 @@
 <para id="fs-id1165137433991">We can confirm that the two lines are parallel by graphing them. <link target-id="CNX_Precalc_Figure_02_02_022"/> shows that the two lines will never intersect.</para>
 
 <figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="CNX_Precalc_Figure_02_02_022"><media id="fs-id1165135168455" alt="Graph of two functions where the blue line is y = 3x + 6, and the orange line is y = 3x - 9.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_022.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_022.jpg"/>
 </media>
 </figure></commentary>
 </exercise>
@@ -1180,7 +1180,7 @@
 <para id="fs-id1165135175331">A graph of the two lines is shown in <link target-id="CNX_Precalc_Figure_02_02_023"/> below.</para>
 
 <figure id="CNX_Precalc_Figure_02_02_023"><media id="fs-id1165137936715" alt="Graph of two functions where the blue line is g(x) = -1/3x + 1, and the orange line is f(x) = 3x + 6.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_023n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_023n.jpg"/>
 </media>
 </figure></commentary>
 </exercise>
@@ -1515,7 +1515,7 @@
 <para id="fs-id1165137502476">Looking at <link target-id="CNX_Precalc_Figure_02_02_024"/>, this result seems reasonable.</para>
 
 <figure id="CNX_Precalc_Figure_02_02_024" class="small"><media id="fs-id1165137502488" alt="Graph of two functions h(t) = 3t - 4 and j(t) = t +5 and their intersection at (9/4, 11/4).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_024.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_024.jpg"/>
 </media>
 </figure></commentary>
 </exercise></example>
@@ -1634,7 +1634,7 @@
 <commentary id="fs-id1165137935592">
 <title>Analysis</title>
 <para id="fs-id1165137935597">This means if the company sells 12,500 helmets, they break even; both the sales and cost incurred equaled 1.75 million dollars. See <link target-id="CNX_Precalc_Figure_02_02_025"/></para><figure id="CNX_Precalc_Figure_02_02_025"><media id="fs-id1165137770300" alt="Graph of the two functions, C(x) and R(x) where it shows that below (12500, 1750000) the company loses money and above that point the company makes a profit.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_025.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_025.jpg"/>
 </media>
 </figure></commentary>
 </exercise>
@@ -2099,7 +2099,7 @@
 <title>Graphical</title>
 <para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1165137436424">For the following exercises, match the given linear equation with its graph in <link target-id="CNX_Precalc_Figure_02_02_201"/>.</para><figure id="CNX_Precalc_Figure_02_02_201">
 <media id="fs-id1165137436430" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_201.jpg"/>
 </media>
 </figure>
 
@@ -2169,7 +2169,7 @@
 <solution id="fs-id1165137827139">
 
 <media id="fs-id1165137855229" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_203.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_203.jpg"/>
 </media>
 
 </solution>
@@ -2185,7 +2185,7 @@
 <solution id="fs-id1165135536361">
 
 <media id="fs-id1165135536367" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_205.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_205.jpg"/>
 </media>
 
 </solution>
@@ -2204,7 +2204,7 @@
 <solution id="fs-id1165137806692">
 
 <media id="fs-id1165137806699" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_207.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_207.jpg"/>
 </media>
 
 </solution>
@@ -2220,7 +2220,7 @@
 <solution id="fs-id1165137652652">
 
 <media id="fs-id1165137652658" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_209-4a85.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_209-4a85.jpg"/>
 </media>
 
 </solution>
@@ -2236,7 +2236,7 @@
 <solution id="fs-id1165137725851">
 
 <media id="fs-id1165137725858" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_211.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_211.jpg"/>
 </media>
 
 </solution>
@@ -2260,7 +2260,7 @@
 <solution id="fs-id1165135435515">
 
 <media id="fs-id1165135435521" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_226.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_226.jpg"/>
 </media>
 
 </solution>
@@ -2278,7 +2278,7 @@
 <solution id="fs-id1165137827876">
 
 <media id="fs-id1165137827883" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_214.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_214.jpg"/>
 </media>
 
 </solution>
@@ -2294,7 +2294,7 @@
 <solution id="fs-id1165135262681">
 
 <media id="fs-id1165135262687" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_216.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_216.jpg"/>
 </media>
 
 </solution>
@@ -2310,7 +2310,7 @@
 <solution id="fs-id1165134149801">
 
 <media id="fs-id1165134149808" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_218.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_218.jpg"/>
 </media>
 
 </solution>
@@ -2326,7 +2326,7 @@
 <solution id="fs-id1165137551958">
 
 <media id="fs-id1165137551964" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_220.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_220.jpg"/>
 </media>
 
 </solution>
@@ -2376,7 +2376,7 @@
 <exercise id="fs-id1165137812822" class="material-set-2"><problem id="fs-id1165137812824">
 
 <media id="fs-id1165137812830" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_222-33c3.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_222-33c3.jpg"/>
 </media>
 
 </problem>
@@ -2385,13 +2385,13 @@
 </solution>
 </exercise><exercise id="fs-id1165135400185" class="material-set-2"><problem id="fs-id1165137432821">
 <media id="fs-id1165135400192" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_223-5871.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_223-5871.jpg"/>
 </media>
 
 </problem>
 </exercise><exercise id="fs-id1165135593487" class="material-set-2"><problem id="fs-id1165135593490">
 <media id="fs-id1165135593496" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_224-739b.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_224-739b.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1165137911080">
@@ -2400,7 +2400,7 @@
 </exercise><exercise id="fs-id1165135441757" class="material-set-2"><problem id="fs-id1165137641248">
 
 <media id="fs-id1165135441763" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_02_225.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_02_225.jpg"/>
 </media>
 
 </problem>

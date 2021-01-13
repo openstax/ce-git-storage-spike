@@ -73,7 +73,7 @@
 </m:mrow>
 </m:math> coordinates to find the other functions.</para><figure id="Figure_07_04_001" class="small">
 <media id="fs-id1572011" alt="This image is a graph of circle with angle of t inscribed and a radius of 1. Point of (x, y) is at intersection of terminal side of angle and edge of circle.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_001.jpg"/>
 </media>
 </figure>
 
@@ -304,7 +304,7 @@
 </m:math>
 </para><figure id="Figure_07_04_002" class="small">
 <media id="fs-id1409404" alt="This is an image of a graph of circle with angle of t inscribed and with radius 1. Point of (negative square root of 3 over 2, 1/2) is at intersection of terminal side of angle and edge of circle. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_002.jpg"/>
 </media>
 </figure>
 
@@ -663,7 +663,7 @@
   <m:mi>cot</m:mi><m:mspace width="0.3em"/><m:mi>t</m:mi><m:mo>.</m:mo></m:mrow>
 </m:math> </para><figure id="Figure_07_02_003" class="small">
 <media id="fs-id2183093" alt="This is an image of a graph of circle with angle of t inscribed with radius 1. Point of (square root of 2 over 2, negative square root of 2 over 2) is at intersection of terminal side of angle and edge of circle. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_003.jpg"/>
 </media>
 </figure>
 </problem>
@@ -1434,7 +1434,7 @@
 <title>Using Reference Angles to Evaluate Tangent, Secant, Cosecant, and Cotangent</title>
 <para id="fs-id1450310">We can evaluate <term class="no-emphasis">trigonometric functions</term> of angles outside the first quadrant using reference angles as we have already done with the sine and cosine functions. The procedure is the same: Find the <term class="no-emphasis">reference angle</term> formed by the terminal side of the given angle with the horizontal axis. The trigonometric function values for the original angle will be the same as those for the reference angle, except for the positive or negative sign, which is determined by <emphasis effect="italics">x</emphasis>- and <emphasis effect="italics">y</emphasis>-values in the original quadrant. <link target-id="Figure_07_04_004"/> shows which functions are positive in which quadrant.</para><para id="fs-id931590">To help remember which of the six trigonometric functions are positive in each quadrant, we can use the mnemonic phrase “A Smart Trig Class.” Each of the four words in the phrase corresponds to one of the four quadrants, starting with quadrant I and rotating counterclockwise. In quadrant I, which is “<emphasis>A</emphasis>,” <emphasis effect="underline"><emphasis>a</emphasis></emphasis>ll of the six trigonometric functions are positive. In quadrant II, “<emphasis>S</emphasis>mart,” only <emphasis effect="underline"><emphasis>s</emphasis></emphasis>ine and its reciprocal function, cosecant, are positive.   In quadrant III, “<emphasis>T</emphasis>rig,” only <emphasis effect="underline"><emphasis>t</emphasis></emphasis>angent and its reciprocal function, cotangent, are positive.  Finally, in quadrant IV, “<emphasis>C</emphasis>lass,” only <emphasis effect="underline"><emphasis>c</emphasis></emphasis>osine and its reciprocal function, secant, are positive.</para><figure id="Figure_07_04_004" class="small">
 <media id="fs-id1549906" alt="This image is a graph of circle with each quadrant labeled. Under quadrant I, labels for sin t, cos t, tan t, sec t, csc t, and cot t. Under quadrant II, labels for sin t and csc t. Under quadrant III, labels for tan t and cot t. Under quadrant IV, labels for cos t, sec t.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_004.jpg"/>
 </media>
 <caption>The trigonometric functions are each listed in the quadrants in which they are positive.</caption>
 </figure>
@@ -1798,7 +1798,7 @@
 </m:mrow>
 </m:math>
 </para><figure id="Figure_07_04_005" class="medium"><media id="fs-id1632301" alt="This is an image of a graph of and upward facing parabola with points (-2, 4) and (2, 4) labeled.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_005.jpg"/>
 </media>
 
 <caption>The function <m:math>
@@ -1838,7 +1838,7 @@
 </para>
 
 <figure id="Figure_07_04_006" class="small"><media id="fs-id1337392" alt="This is an image of a graph of the function f of x = x to the third power with labels for points (-1, -1) and (1, 1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_006-4dd4.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_006-4dd4.jpg"/>
 </media>
 
 <caption>The function <m:math>
@@ -1860,7 +1860,7 @@
 
 <figure id="Figure_07_04_007" class="small">
 <media id="fs-id1622964" alt="Graph of circle with angle of t and -t inscribed. Point of (x, y) is at intersection of terminal side of angle t and edge of circle. Point of (x, -y) is at intersection of terminal side of angle -t and edge of circle. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_007.jpg"/>
 </media>
 </figure>
 
@@ -3124,7 +3124,7 @@
         </m:mrow>
     </m:math> is in quadrant IV, as shown in <link target-id="Figure_07_04_008"/>, find the values of the other five trigonometric functions.</para><figure id="Figure_07_04_008" class="small">
 <media id="fs-id1450145" alt="This is an image of graph of circle with angle of t inscribed. Point of (12/13, y) is at intersection of terminal side of angle and edge of circle. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_008.jpg"/>
 </media>
 </figure>
 
@@ -3649,7 +3649,7 @@
 </para>
 <figure id="Figure_07_04_009" class="small">
 <media id="fs-id1380940" alt="This is an image of a graph of circle with angle of t inscribed. Point of (1/2, negative square root of 3 over 2) is at intersection of terminal side of angle and edge of circle. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_009.jpg"/>
 </media>
 </figure>
 </problem>
@@ -3876,7 +3876,7 @@
 </m:math> based on <link target-id="Figure_07_04_010"/>.</para>
 <figure id="Figure_07_04_010" class="small">
 <media id="fs-id2903241" alt="This is an image of a graph of circle with angle of t inscribed. Point of (0, -1) is at intersection of terminal side of angle and edge of circle.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_010.jpg"/>
 </media>
 </figure>
 </problem>
@@ -5125,7 +5125,7 @@
 <para id="fs-id2048989">For the following exercises, use the angle in the unit circle to find the value of the each of the six trigonometric functions.</para>
 <exercise id="fs-id1794410"><problem id="fs-id1794411">
 <para id="eip-id1167337244636"><media id="fs-id1794416" alt="This is an image of a graph of circle with angle of t inscribed. Point of (square root of 2 over 2, square root of 2 over 2) is at intersection of terminal side of angle and edge of circle.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_201-2e06.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_201-2e06.jpg"/>
 </media></para>
 </problem>
 <solution id="fs-id1347159"><para id="fs-id1347160"> <m:math>
@@ -5158,11 +5158,11 @@
  </m:mrow>
 </m:math> </para></solution></exercise><exercise id="fs-id1693573"><problem id="fs-id1693576">
 <para id="eip-id1167337289591"><media id="fs-id2248388" alt="This is an image of a graph of circle with angle of t inscribed. Point of (square root of 3 over 2, 1/2) is at intersection of terminal side of angle and edge of circle.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_202-3f19.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_202-3f19.jpg"/>
 </media></para></problem>
 </exercise><exercise id="fs-id2611543"><problem id="fs-id1592261">
 <para id="eip-id1167337270880"><media id="fs-id1592265" alt="This is an image of a graph of circle with angle of t inscribed. Point of (-1/2, negative square root of 3 over 2) is at intersection of terminal side of angle and edge of circle.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_03_203-d79c.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_03_203-d79c.jpg"/>
 </media></para>
 </problem>
 <solution id="fs-id3032320"><para id="fs-id1618616"> <m:math>
@@ -5686,7 +5686,7 @@
 <solution id="fs-id2245266">
  <para id="fs-id1475367"><newline/>
   <media id="fs-id1475369" alt="This is an image of a graph of a circle with a negative angle inscribed.">
-   <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_217.jpg"/>
+   <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_217.jpg"/>
   </media>
  </para>
 </solution></exercise><exercise id="fs-id2212445">
@@ -5714,7 +5714,7 @@
  </problem>
  <solution id="fs-id2838450"><para id="fs-id2838451"><newline/>
   <media id="fs-id2838453" alt="This is an image of a graph of a circle with an angle inscribed.">
-   <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_219.jpg"/>
+   <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_219.jpg"/>
   </media>
 </para></solution></exercise><exercise id="fs-id2413143">
   <problem id="fs-id2413145">
@@ -5887,7 +5887,7 @@
 
 <figure id="Figure_07_04_221">
 <media id="fs-id1801690" alt="A right triangle with side lengths of 11 and 6. Corners A and B are also labeled.  The angle A is opposite the side labeled 11.  The angle B is opposite the side labeled 6. ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_221.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_221.jpg"/>
 </media>
 </figure>
 
@@ -5918,14 +5918,14 @@
 <exercise id="fs-id2099301"><problem id="fs-id2099304">
   <para id="eip-id1167337076062"><newline/>
    <media id="fs-id2099306" alt="A right triangle with corners labeled A, B, and C. Hypotenuse has length of 4 times square root of 2. Other angles measure 45 degrees.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_222.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_222.jpg"/>
    </media>
 </para>
  </problem>
 </exercise><exercise id="fs-id2610175"><problem id="fs-id2610176">
 <para id="eip-id1167336943860"><newline/>
   <media id="fs-id2610178" alt="A right triangle with hypotenuse with length 5, and an angle of 30 degrees.">
-  <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_223.jpg"/>
+  <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_223.jpg"/>
  </media></para>
 </problem>
   <solution id="fs-id2748162"><para id="fs-id2748163"> <m:math>
@@ -6296,7 +6296,7 @@ There are two possible solutions.
   </m:math> in standard position on the Cartesian plane.</para></problem>
   <solution id="fs-id1581384"><para id="fs-id1581385"><newline/>
 <media id="fs-id1581387" alt="This is an image of a graph of a circle with an angle inscribed.">
-    <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_224.jpg"/>
+    <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_224.jpg"/>
    </media>
     </para></solution></exercise>
   <exercise id="fs-id2375151"><problem id="fs-id2375152"><para id="fs-id2375153">Draw the angle <m:math>
@@ -6337,7 +6337,7 @@ There are two possible solutions.
 <para id="eip-id2694120">Find the missing sides of the triangle.</para>
 <para id="eip-id1167337267487"><newline/>
    <media id="fs-id2523519" alt="A right triangle with hypotenuse length of 9 and angle measure of 60 degrees.">
-   <image mime-type="image/jpg" src="CNX_Precalc_Figure_05_04_226.jpg"/>
+   <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_04_226.jpg"/>
   </media></para>
     </problem>
    <solution id="fs-id2523528"><para id="fs-id2398825"> <m:math>

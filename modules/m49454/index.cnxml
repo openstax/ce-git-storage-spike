@@ -47,7 +47,7 @@
  <m:mi>x</m:mi>
 </m:math> is the time of day, using a 24-hour clock on a particular summer day.</para><figure id="CNX_Precalc_Figure_12_03_001" class="small">
 <media id="fs-id1165135415638" alt="Graph of function that maps the time since midnight to the temperature. The x-axis, labelled x, represents the hours since midnight from 0 to 24. The y-axis, labelled T(x), represents the temperature from 0 to 120. The function is continuous that peaks at (16, 118).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_001.jpg"/>
 </media>
 <caption>Temperature as a function of time forms a continuous function.</caption>
 </figure>
@@ -151,7 +151,7 @@
 
 <figure id="CNX_Precalc_Figure_12_03_002">
 <media id="fs-id1165137817533" alt="Graph of function that maps the time since midnight to the temperature. The x-axis represents the hours parked from 0 to 24. The y-axis represents dollars amounting from 0 to 28. The function is a step-function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_002.jpg"/>
 </media>
 <caption>Parking-garage charges form a discontinuous function.</caption>
 </figure>
@@ -167,7 +167,7 @@
 </m:math> represented in <link target-id="CNX_Precalc_Figure_12_03_003"/> as an example.</para>
 <figure id="CNX_Precalc_Figure_12_03_003" class="small">
 <media id="fs-id1165137898924" alt="Graph of an increasing function with a discontinuity at (a, f(a)).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_003.jpg"/>
 </media>
 </figure>
 
@@ -187,7 +187,7 @@
  </m:mrow>
 </m:math> as in <link target-id="CNX_Precalc_Figure_12_03_004"/>.</para><figure id="CNX_Precalc_Figure_12_03_004" class="small">
 <media id="fs-id1165137643954" alt="Graph of an increasing function with a discontinuity at (a, 2). The point (a, f(a)) is directly below the hole.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_004.jpg"/>
 </media>
 </figure>
 
@@ -253,7 +253,7 @@
 
 <figure id="CNX_Precalc_Figure_12_03_005" class="small">
 <media id="fs-id1165137837146" alt="Graph of an increasing function with filled-in discontinuity at (a, f(a)).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_005.jpg"/>
 </media>
 <caption>All three conditions are satisfied. The function is continuous at <m:math>
  <m:mrow>
@@ -270,27 +270,27 @@
 
 <figure id="CNX_Precalc_Figure_12_03_006" class="small">
 <media id="fs-id1165135301707" alt="Graph of an increasing function with a discontinuity at (a, f(a)).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_006.jpg"/>
 </media>
 <caption>Condition 2 is satisfied. Conditions 1 and 3 both fail.</caption>
 </figure>
 
 <figure id="CNX_Precalc_Figure_12_03_007" class="small">
 <media id="fs-id1165135208923" alt="Graph of an increasing function with a discontinuity at (a, 2). The point (a, f(a)) is directly below the hole.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_007.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_007.jpg"/>
 </media>
 <caption>Conditions 1 and 2 are both satisfied. Condition 3 fails.</caption>
 </figure>
 
 <figure id="CNX_Precalc_Figure_12_03_008" class="small">
 <media id="fs-id1165137567043" alt="Graph of a piecewise function with an increasing segment from negative infinity to (a, f(a)), which is closed, and another increasing segment from (a, f(a)-1), which is open, to positive infinity.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_008.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_008.jpg"/>
 </media>
 <caption>Condition 1 is satisfied. Conditions 2 and 3 fail.</caption>
 </figure>
 
 <figure id="CNX_Precalc_Figure_12_03_009" class="small"><media id="fs-id1165137640127" alt="Graph of a piecewise function with an increasing segment from negative infinity to (a, f(a)) and another increasing segment from (a, f(a) - 1) to positive infinity. This graph does not include the point (a, f(a)).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_009.jpg"/>
 </media>
 
 <caption>Conditions 1, 2, and 3 all fail.</caption></figure>
@@ -386,7 +386,7 @@
 
 <figure id="CNX_Precalc_Figure_12_03_010" class="small">
 <media id="fs-id1165137543523" alt="Graph of a piecewise function with an increasing segment from negative infinity to (a, f(a)), which is closed, and another increasing segment from (a, f(a)-1), which is open, to positive infinity.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_010.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_010.jpg"/>
 </media>
 <caption>Graph of a function with a jump discontinuity.</caption>
 </figure>
@@ -457,7 +457,7 @@
 
 <figure id="CNX_Precalc_Figure_12_03_011" class="small">
 <media id="fs-id1165135192129" alt="Graph of an increasing function with a removable discontinuity at (a, f(a)).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_011.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_011.jpg"/>
 </media>
 <caption>Graph of function <m:math>
  <m:mi>f</m:mi>
@@ -1839,7 +1839,7 @@
 
 <figure id="CNX_Precalc_Figure_12_03_013" class="small">
 <media id="fs-id1165135523228" alt="Graph of an increasing function with a removable discontinuity at (5, 10).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_013.jpg"/>
 </media>
 </figure>
 
@@ -2434,7 +2434,7 @@
 
 <figure id="CNX_Precalc_Figure_12_03_014" class="small">
 <media id="fs-id1165135681717" alt="Graph of a piecewise function that has disconuity at (4, 3).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_014.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_014.jpg"/>
 </media>
 <caption>Graph is continuous at <m:math>
  <m:mrow>
@@ -2643,7 +2643,7 @@
 
 <figure id="CNX_Precalc_Figure_12_03_015" class="small">
 <media id="fs-id1165135694743" alt="Graph of a piecewise function where from negative infinity to 0 f(x) = sin(x) and from 0 to positive infinity f(x) = x^3.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_015.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_015.jpg"/>
 </media>
 <caption>Function has removable discontinuity at 0.</caption>
 </figure>
@@ -4036,7 +4036,7 @@
   <m:mi>x</m:mi><m:mo>=</m:mo><m:mi>a</m:mi>
  </m:mrow>
 </m:math> and which are not.</para><figure id="CNX_Precalc_Figure_12_03_201" class="small"><media id="fs-id1165135693526" alt="Graph of a piecewise function where at x = -3 the line is disconnected, at x = 2 there is a removable discontinuity, and at x = 4 there is a removable discontinuity and f(4) exists.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_201F.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_201F.jpg"/>
 </media>
 </figure><exercise id="fs-id1165135693540">
 <problem id="fs-id1165135693542">
@@ -4089,7 +4089,7 @@
   <m:mo>)</m:mo></m:mrow>
  </m:mrow>
 </m:math> as in <link target-id="CNX_Precalc_Figure_12_03_202"/>. Set the <emphasis effect="italics">x</emphasis>-axis a short distance before and after 0 to illustrate the point of discontinuity.</para><figure id="CNX_Precalc_Figure_12_03_202" class="small"><media id="fs-id1165135693680" alt="Graph of the sinusodial function with a viewing window of [-10, 10] by [-1, 1].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_202F.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_202F.jpg"/>
 </media>
 </figure><exercise id="fs-id1165135693693">
 <problem id="fs-id1165135693695">
@@ -4147,7 +4147,7 @@
 
 <para id="fs-id1165135693870">For the following exercises, consider the function shown in <link target-id="CNX_Precalc_Figure_12_03_203"/>.</para><figure id="CNX_Precalc_Figure_12_03_203" class="small">
 <media id="fs-id1165135693882" alt="Graph of a piecewise function where at x = -1 the line is disconnected and at x = 1 there is a removable discontinuity.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_203.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_203.jpg"/>
 </media>
 </figure>
 
@@ -4189,7 +4189,7 @@
 <problem id="fs-id1165135699310">
 <para id="fs-id1165135699312">Consider the function shown in <link target-id="CNX_Precalc_Figure_12_03_204"/>. At what <emphasis effect="italics">x</emphasis>-coordinates is the function discontinuous? What condition(s) of continuity were violated?</para><figure id="CNX_Precalc_Figure_12_03_204" class="small">
 <media id="fs-id1165135699325" alt="Graph of a piecewise function where at x = -1 the line is disconnected and where at x = 1 and x = 2 there are a removable discontinuities.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_204.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_204.jpg"/>
 </media>
 </figure>
 </problem>
@@ -4265,7 +4265,7 @@
 </m:math> but there is an <emphasis effect="italics">x</emphasis>-value on that interval at which the function is discontinuous. Determine the value of <m:math>
  <m:mi>x</m:mi>
 </m:math> at which the function is discontinuous, and explain the pitfall of utilizing technology when considering continuity of a function by examining its graph.</para><figure id="CNX_Precalc_Figure_12_03_205" class="small"><media id="fs-id1165135699560" alt="Graph of the function f(x) = (x^3 - 1)/(x-1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_205F.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_205F.jpg"/>
 </media>
 </figure></problem>
 </exercise>
@@ -4366,7 +4366,7 @@
 
 <figure id="CNX_Precalc_Figure_12_03_206" class="medium">
 <media id="fs-id1165135699876" alt="Graph of the function f(x) = sin(2x)/x with a viewing window of [-4.5, 4.5] by [-1, 2.5]">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_03_206.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_03_206.jpg"/>
 </media>
 </figure>
 </problem>

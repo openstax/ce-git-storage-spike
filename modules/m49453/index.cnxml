@@ -99,7 +99,7 @@
   <m:mo>)</m:mo></m:mrow><m:mo>,</m:mo>
  </m:mrow>
 </m:math> as shown in <link target-id="CNX_Precalc_Figure_12_02_002"/>.</para><figure id="CNX_Precalc_Figure_12_02_001" class="small"><media id="fs-id1165135369319" alt="Graph of an increasing function where f(x) = (x^2-6x-7)\(x-7) with a discontinuity at (7, 8)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_02_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_02_001.jpg"/>
 </media>
 
 <caption>The graph of function <m:math>
@@ -114,7 +114,7 @@
  </m:mrow>
 </m:math> </caption></figure><figure id="CNX_Precalc_Figure_12_02_002" class="small">
 <media id="fs-id1165137693695" alt="Graph of an increasing function where g(x) = x+1">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_02_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_02_002.jpg"/>
 </media>
 <caption>The graph of function <m:math>
  <m:mi>g</m:mi>
@@ -1489,7 +1489,7 @@
 <solution id="fs-id1165137673434">
 <para id="fs-id1165137673436">Find the LCD for the denominators of the two terms in the numerator, and convert both fractions to have the LCD as their denominator.</para>
 <para id="eip-id1165135390875"><media id="eip-id1165134431197" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_EQ_12_02_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_EQ_12_02_001.jpg"/>
 </media></para></solution>
 <commentary id="fs-id1165135319290">
 <title>Analysis</title>
@@ -4242,7 +4242,7 @@
 <para id="fs-id1165135417943">Find an equation that could be represented by <link target-id="CNX_Precalc_Figure_12_02_201"/>.</para>
 <figure id="CNX_Precalc_Figure_12_02_201" class="small">
 <media id="fs-id1165135417929" alt="Graph of increasing function with a removable discontinuity at (2, 3).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_02_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_02_201.jpg"/>
 </media>
 </figure>
 </problem>
@@ -4253,7 +4253,7 @@
 <para id="fs-id1165135417969">Find an equation that could be represented by <link target-id="CNX_Precalc_Figure_12_02_202"/>.</para>
 <figure id="CNX_Precalc_Figure_12_02_202" class="small">
 <media id="fs-id1165135417955" alt="Graph of increasing function with a removable discontinuity at (-3, -1).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_02_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_02_202.jpg"/>
 </media>
 </figure>
 </problem>
@@ -4282,7 +4282,7 @@
 </exercise>
 
 <para id="fs-id1165135453072">For the following exercises, refer to <link target-id="CNX_Precalc_Figure_12_02_203"/>.</para><figure id="CNX_Precalc_Figure_12_02_203" class="small"><media id="fs-id1165135453082" alt="Graph of increasing function from zero to positive infinity.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_02_203F.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_02_203F.jpg"/>
 </media>
 </figure><exercise id="fs-id1165135453092">
 <problem id="fs-id1165135453094">

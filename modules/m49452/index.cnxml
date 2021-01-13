@@ -72,7 +72,7 @@
  </m:mrow>
 </m:math> </para><figure id="CNX_Precalc_Figure_12_01_001" class="small">
 <media id="fs-id1165137762261" alt="Graph representing how a function with a hole at (a, L) approaches a limit.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_001.jpg"/>
 </media>
 <caption>The output (<emphasis effect="italics">y</emphasis>--coordinate) approaches <m:math>
  <m:mi>L</m:mi>
@@ -186,7 +186,7 @@
  </m:mrow>
 </m:math> for the simplified function. We can represent the function graphically as shown in <link target-id="CNX_Precalc_Figure_12_01_002"/>.</para><figure id="CNX_Precalc_Figure_12_01_002" class="small">
 <media id="fs-id1165135187205" alt="Graph of an increasing function, f(x) = (x^2-6x-7)/(x-7), with a hole at (7, 8).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_002.jpg"/>
 </media>
 <caption>Because 7 is not allowed as an input, there is no point at <m:math>
  <m:mrow>
@@ -496,7 +496,7 @@
 </m:math> </equation><para id="fs-id1165137452506">as described earlier and depicted in <link target-id="CNX_Precalc_Figure_12_01_002"/>.</para>
 <figure id="CNX_Precalc_Figure_12_01_013">
 <media id="fs-id1165137749229" alt="Table showing that f(x) approaches 8 from either side as x approaches 7 from either side.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_013.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_013.jpg"/>
 </media>
 </figure>
 <para id="fs-id1165137810143">Values described as “from the left” are less than the input value 7 and would therefore appear to the left of the value on a number line. The input values that approach 7 from the left in <link target-id="CNX_Precalc_Figure_12_01_013"/> are <m:math>
@@ -640,7 +640,7 @@
 </m:math>
 </equation><figure id="CNX_Precalc_Figure_12_01_003" class="small">
 <media id="fs-id1165137474244" alt="Graph of the previous function explaining the function's limit at (7, 8)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_003.jpg"/>
 </media>
 <caption>The left- and right-hand limits are the same for this function.</caption>
 </figure>
@@ -854,7 +854,7 @@
   <m:mi>a</m:mi><m:mo>.</m:mo>
  </m:mrow>
 </m:math> </para><figure id="CNX_Precalc_Figure_12_01_004" class="small"><media id="fs-id1165137742229" alt="Graph of a function that explains the behavior of a limit at (a, L) where the function is increasing when x is less than a and decreasing when x is greater than a.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_004F.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_004F.jpg"/>
 </media>
 </figure><para id="fs-id1165137425915">To determine if a left-hand limit exists, we observe the branch of the graph to the left of <m:math>
  <m:mrow>
@@ -1023,7 +1023,7 @@
     </list>
 <figure id="CNX_Precalc_Figure_12_01_005" class="small">
 <media id="fs-id1165135190959" alt="Graph of a piecewise function that has a positive parabola centered at the origin and goes from negative infinity to (2, 8), an open point, and a decreasing line from (2, 3), a closed point, to positive infinity on the x-axis.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_005.jpg"/>
 </media>
 </figure>
 </item>
@@ -1092,7 +1092,7 @@
 
 <figure id="CNX_Precalc_Figure_12_01_006" class="small">
 <media id="fs-id1165135209438" alt="Graph of a piecewise function that has a positive parabola from negative infinity to 2 on the x-axis, a decreasing line from 2 to positive infinity on the x-axis, and a point at (2, 4).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_006.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_006.jpg"/>
 </media>
 </figure>
 </item>
@@ -1370,7 +1370,7 @@
   <item><m:math><m:munder><m:mrow><m:mi>l</m:mi><m:mi>i</m:mi><m:mi>m</m:mi></m:mrow><m:mrow><m:mi>x</m:mi><m:mo>→</m:mo><m:mn>4</m:mn></m:mrow></m:munder><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:math></item>
 </list>
 <figure id="CNX_Precalc_Figure_12_01_007" class="small"><media id="fs-id1165137827279" alt="Graph of a piecewise function that has three segments: 1) negative infinity to 0, 2) 0 to 2, and 3) 2 to positive inifnity, which has a discontinuity at (4, 4)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_007n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_007n.jpg"/>
 </media>
 </figure></problem>
 <solution id="fs-id1165137722857">
@@ -1435,7 +1435,7 @@
 </m:math> but nearing 5, the corresponding output also gets close to 75.</para>
 
 <figure id="CNX_Precalc_Figure_12_01_008"><media id="fs-id1165135192197" alt="Table shows that as x values approach 5 from the positive or negative direction, f(x) gets very close to 75. But when x is equal to 5, y is undefined.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_008n.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_008n.jpg"/>
 </media>
 </figure><para id="fs-id1165137849102">Because</para>
 <equation id="fs-id1165137849104" class="unnumbered"><label/> <m:math display="block">
@@ -1619,7 +1619,7 @@
 </m:math> </para>
 <figure id="CNX_Precalc_Figure_12_01_009">
 <media id="fs-id1165135205799" alt="Table shows that as x values approach 0 from the positive or negative direction, f(x) gets very close to 5 over 3. But when x is equal to 0, y is undefined.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_009.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_009.jpg"/>
 </media>
 </figure>
 
@@ -1707,7 +1707,7 @@
  </m:mrow>
 </m:math> </emphasis></para>
 <figure id="CNX_Precalc_Figure_12_01_010" class="small"><media id="fs-id1165135203666" alt="Graph of an increasing function with a discontinuity at (5, 75)">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_010F.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_010F.jpg"/>
 </media>
 </figure></note>
 
@@ -1769,7 +1769,7 @@
  </m:mrow>
 </m:math> </para>
 <media id="fs-id1165135168310" alt="Table showing that f(x) approaches 5 from either side as x approaches 0 from either side.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_014.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_014.jpg"/>
 </media>
 </solution>
 </exercise></note>
@@ -1826,7 +1826,7 @@
   <m:mo stretchy="false">[</m:mo><m:mo>−</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo stretchy="false">]</m:mo><m:mo>.</m:mo>
  </m:mrow>
 </m:math> </para><figure id="CNX_Precalc_Figure_12_01_011" class="small"><media id="fs-id1165137585796" alt="Graph of a sinusodial function zoomed in at [-2, 2] by [-3, 3].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_011F.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_011F.jpg"/>
 </media>
 </figure><para id="fs-id1165135195640">The result would resemble <link target-id="CNX_Precalc_Figure_12_01_012"/> for <m:math>
  <m:mrow>
@@ -1837,7 +1837,7 @@
   <m:mo stretchy="false">[</m:mo><m:mn>−3</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo stretchy="false">]</m:mo><m:mo>.</m:mo>
  </m:mrow>
 </m:math> </para><figure id="CNX_Precalc_Figure_12_01_012" class="small"><media id="fs-id1165137727192" alt="Graph of the same sinusodial function as in the previous image zoomed in at [-0.1, 0.1] by [-3. 3].">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_012F.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_012F.jpg"/>
 </media>
 
 <caption>Even closer to zero, we are even less able to distinguish any limits.</caption></figure><para id="fs-id1165137844208">The closer we get to 0, the greater the swings in the output values are. That is not the behavior of a function with either a left-hand limit or a right-hand limit. And if there is no left-hand limit or right-hand limit, there certainly is no limit to the function <m:math>
@@ -2154,7 +2154,7 @@
  <m:mi>f</m:mi>
 </m:math> provided in <link target-id="CNX_Precalc_Figure_12_01_201"/>.</para><figure id="CNX_Precalc_Figure_12_01_201" class="small">
 <media id="fs-id1165137642887" alt="A piecewise function with discontinuities at x = -2, x = 1, and x = 4.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_201.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_201.jpg"/>
 </media>
 </figure>
 
@@ -3436,7 +3436,7 @@
 </para>
 
 <media id="fs-id1165137851910" alt="Table shows as the function approaches 0, the value is 7 over 3 but the function is undefined at 0.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_202.jpg"/>
 </media>
 </solution>
 </exercise>
@@ -3471,7 +3471,7 @@
 </problem>
 <solution id="fs-id1165137755682">
 <media id="fs-id1165137836663" alt="Table shows as the function approaches 4, the value does not exist since approaching the limit value from the left is negative infinity and approaching the limit value from the right is positive infinity.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_12_01_203.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_12_01_203.jpg"/>
 </media>
 </solution>
 </exercise>

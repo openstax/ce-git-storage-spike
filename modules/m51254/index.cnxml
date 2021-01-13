@@ -20,7 +20,7 @@
   <para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-34">The formula for the perimeter of a rectangle is found using the formula: <m:math><m:mrow><m:mi>P</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mi>l</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>w</m:mi></m:mrow></m:math> .
   Solve this formula in terms of <emphasis effect="italics">l</emphasis>.<newline/>
 <media id="fs-id1333921" alt=".">
-<image mime-type="image/jpg" src="CNX_Coreq_Figure_02_03_001_img.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_02_03_001_img.jpg"/>
 </media>
 </para></problem>
 
@@ -191,7 +191,7 @@
   <para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-735">The formula for area of a trapezoid is <m:math><m:mi>A</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>(</m:mo><m:mi>B</m:mi><m:mo>+</m:mo><m:mi>b</m:mi><m:mo>)</m:mo><m:mi>h</m:mi></m:math> where B is the length of the base, b is the length of the other base and h is the height of the trapezoid.
   <newline/>
 <media id="fs-id1336921" alt=".">
-<image mime-type="image/jpg" src="CNX_Coreq_Figure_02_03_002_img.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Coreq_Figure_02_03_002_img.jpg"/>
 </media><newline/>
 If <m:math><m:mi>B</m:mi><m:mo>=</m:mo><m:mn>10</m:mn><m:mtext>cm</m:mtext></m:math> , <m:math><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>8</m:mn><m:mtext>cm</m:mtext></m:math> and <m:math><m:mi>A</m:mi><m:mo>=</m:mo><m:mn>45</m:mn><m:msup><m:mtext>cm</m:mtext><m:mn>2</m:mn></m:msup></m:math> , find the height of the trapezoid.</para></problem>
 
@@ -228,7 +228,7 @@ If <m:math><m:mi>B</m:mi><m:mo>=</m:mo><m:mn>10</m:mn><m:mtext>cm</m:mtext></m:m
 
 
 <figure id="Figure_02_03_001" class="medium"><media id="fs-id1334921" alt="Many students studying in a large lecture hall ">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_03_001N.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_03_001N.jpg"/>
 </media>
 
 <caption>Credit: Kevin Dooley </caption></figure><para id="fs-id2026270">Josh is hoping to get an A in his college algebra class. He has scores of 75, 82, 95, 91, and 94 on his first five tests. Only the final exam remains, and the maximum of points that can be earned is 100. Is it possible for Josh to end the course with an A? A simple linear equation will give Josh his answer.</para>
@@ -683,7 +683,7 @@ If <m:math><m:mi>B</m:mi><m:mo>=</m:mo><m:mn>10</m:mn><m:mtext>cm</m:mtext></m:m
 <para id="fs-id1270129">Therefore, a monthly average of 600 talk-time minutes renders the plans equal. See <link target-id="Figure_02_03_002"/></para></item>
 </list><figure id="Figure_02_03_002" class="medium">
 <media id="fs-id1288783" alt="Coordinate plane with the x-axis ranging from 0 to 1200 in intervals of 100 and the y-axis ranging from 0 to 90 in intervals of 10.  The functions A = 0.05x + 34 and B = 0.04x + 40 are graphed on the same plot">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_03_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_03_002.jpg"/>
 </media>
 </figure>
 </solution>
@@ -1188,7 +1188,7 @@ If <m:math><m:mi>B</m:mi><m:mo>=</m:mo><m:mn>10</m:mn><m:mtext>cm</m:mtext></m:m
 </m:math> Substitute the perimeter value and the expression for length into the formula. It is often helpful to make a sketch and label the sides as in <link target-id="Figure_02_03_003"/>.</para>
 <figure id="Figure_02_03_003" class="small">
 <media id="fs-id1521984" alt="A rectangle with the length labeled as: L = W + 3 and the width labeled as: W.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_02_03_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_02_03_003.jpg"/>
 </media>
 </figure>
 <para id="fs-id1923328">Now we can solve for the width and then calculate the length.</para>

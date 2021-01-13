@@ -16,7 +16,7 @@
 
 <content>
 <figure id="CNX_Precalc_Figure_02_03_001"><media id="fs-id1165137836734" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_001.jpg"/>
 </media>
 <caption>(credit: EEK Photography/Flickr)</caption></figure><para id="fs-id1165134221808">Emily is a college student who plans to spend a summer in Seattle. She has saved $3,500 for her trip and anticipates spending $400 each week on rent, food, and activities. How can we write a linear model to represent her situation? What would be the <emphasis effect="italics">x</emphasis>-intercept, and what can she learn from it? To answer these and related questions, we can create a model using a linear function. Models such as this one can be extremely useful for analyzing relationships and making predictions based on those relationships. In this section, we will explore examples of <term class="no-emphasis">linear function</term> models.</para>
 
@@ -66,7 +66,7 @@
 </m:mrow>
 </m:math> Then we can substitute the intercept and slope provided.</para>
 <media id="fs-id1165137619312" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_002-e897.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_002-e897.jpg"/>
 </media>
 
 <para id="fs-id1165137651962">To find the <m:math>
@@ -546,7 +546,7 @@
 <para id="fs-id1165137427530">Because it is not obvious how to define our output variable, we’ll start by drawing a picture such as <link target-id="CNX_Precalc_Figure_02_03_003"/>.</para>
 
 <figure id="CNX_Precalc_Figure_02_03_003"><media id="fs-id1165137422298" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_003.jpg"/>
 </media>
 </figure>
 
@@ -596,7 +596,7 @@
 </m:math> represent distances.</para>
 
 <figure id="CNX_Precalc_Figure_02_03_004"><media id="fs-id1165137748481" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_004.jpg"/>
 </media>
 </figure>
 
@@ -815,7 +815,7 @@
 
 <figure id="CNX_Precalc_Figure_02_03_005">
 <media id="fs-id1165137664330" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_005.jpg"/>
 </media>
 </figure>
 <para id="fs-id1165137911037">Using this point along with the origin, we can find the slope of the line from Westborough to Agritown:</para>
@@ -1099,7 +1099,7 @@
 </section><section id="fs-id1165137475998"><title>Building Systems of Linear Models</title><para id="fs-id1165135176498">Real-world situations including two or more linear functions may be modeled with a <term class="no-emphasis">system of linear equations</term>. Remember, when solving a system of linear equations, we are looking for points the two lines have in common. Typically, there are three types of answers possible, as shown in <link target-id="Figure_02_03_006"/>.</para>
 
 <figure id="Figure_02_03_006"><media id="eip-id1165135414368" alt="" display="block">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_006abc.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_006abc.jpg"/>
 </media>
 </figure><note id="fs-id1165137898012" class="how-to-notitle">
 <label>How To</label>
@@ -1228,7 +1228,7 @@
 
 <figure id="CNX_Precalc_Figure_02_03_007">
 <media id="fs-id1165137526514" alt="">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_007-35ee.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_007-35ee.jpg"/>
 </media>
 </figure>
 
@@ -1624,7 +1624,7 @@
 
 <figure id="CNX_Precalc_Figure_02_03_201" class="small">
 <media id="fs-id1165135443886" alt="Graph of a line from (15, 150) to (25, 130).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_201-467d.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_201-467d.jpg"/>
 </media>
 </figure>
 
@@ -1673,7 +1673,7 @@
  </m:mrow>
 </m:math> represents the number of years since 1980.</para><figure id="CNX_Precalc_Figure_02_03_202" class="small">
 <media id="fs-id1165137742230" alt="Graph of a line from (15, 150) to (25, 450).">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_02_03_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_03_202.jpg"/>
 </media>
 </figure>
 

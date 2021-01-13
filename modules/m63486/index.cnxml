@@ -43,7 +43,7 @@ Narrative text is used to introduce key concepts, terms, and definitions, to pro
 </para></section><section id="eip-236"><title>Figures</title><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-829"><emphasis effect="italics">Algebra and Trigonometry</emphasis> contains figures and illustrations, the vast majority of which are graphs and diagrams. Art throughout the text adheres to a clear, understated style, drawing the eye to the most important information in each figure while minimizing visual distractions. Color contrast is employed with discretion to distinguish between the different functions or features of a graph.  
 </para><media id="preface01" alt="Example figure">
        
-  <image mime-type="image/jpeg" src="CNX_Precalc_Figure_Preface_01.jpg"/>
+  <image mime-type="image/jpeg" src="../../media/CNX_Precalc_Figure_Preface_01.jpg"/>
          
 </media></section><section id="eip-22"><title>Supporting Features</title><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-id1164246669840">Four unobtrusive but important features contribute to and check understanding.</para><list xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-928" list-type="bulleted" bullet-style="none"><item>A <emphasis>“How To”</emphasis> is a list of steps necessary to solve a certain type of problem. A How To typically precedes an Example that proceeds to demonstrate the steps in action.</item>
 

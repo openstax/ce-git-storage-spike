@@ -15,7 +15,7 @@
 
 <content>
   <figure id="Figure_10_05_008"><media id="fs-id1233290" alt="">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_008n.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_008n.jpg"/>
     </media>
   <caption>Planets orbiting the sun follow elliptical paths. (credit: NASA Blueshift, Flickr)</caption></figure><para id="fs-id1258255">Most of us are familiar with orbital motion, such as the motion of a planet around the sun or an electron around an atomic nucleus. Within the planetary system, orbits of planets, asteroids, and comets around a larger celestial body are often elliptical. Comets, however, may take on a parabolic or hyperbolic orbit instead. And, in reality, the characteristics of the planets’ orbits may vary over time. Each orbit is tied to the location of the celestial body being orbited and the distance and direction of the planet or other object from that body. As a result, we tend to use polar coordinates to represent these orbits.</para>
   <para id="fs-id1482642">In an elliptical orbit, the <term class="no-emphasis">periapsis</term> is the point at which the two objects are closest, and the <term class="no-emphasis">apoapsis</term> is the point at which they are farthest apart. Generally, the velocity of the orbiting body tends to increase as it approaches the periapsis and decrease as it approaches the apoapsis. Some objects reach an escape velocity, which results in an infinite orbit. These bodies exhibit either a parabolic or a hyperbolic orbit about a body; the orbiting body breaks free of the celestial body’s gravitational pull and fires off into space. Each of these orbits can be modeled by a conic section in the polar coordinate system.</para>
@@ -34,7 +34,7 @@
 
     <figure id="Figure_10_05_001" class="small">
       <media id="fs-id1154348" alt="A horizontal parabola, labeled x = 2 + y squared, opening to the right is shown. The Focus is labeled Focus @ pole and is on the horizontal Polar Axis. The vertical Directrix is shown. A point on the upper side of the parabola is labeled P times (r, theta) and two lines of equal length r are drawn from it, one to the Focus and the other to the Directrix and perpendicular to it. The line to the Focus makes an angle theta with the Polar Axis.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_001.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_001.jpg"/>
       </media>
     </figure>
 
@@ -1257,7 +1257,7 @@
 </tgroup>
 </table><figure id="Figure_10_05_002" class="small">
           <media id="fs-id1978048" alt="A horizontal parabola opening left is shown in a polar coordinate system. The Focus is at the Pole. The Directrix, the vertical line x = 5/3, is shown. The Vertex is labeled A. The points where the parabola intersects the vertical axis through the Pole are labeled: the upper point is B, the lower point is D. The Polar Axis tick marks are labeled 2, 3, 4, 5.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_002.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_002.jpg"/>
           </media>
         </figure>
         </solution>
@@ -1267,7 +1267,7 @@
 
           <figure id="Figure_10_05_003" class="small">
             <media id="fs-id2141697" alt="A horizontal parabola opening left is shown in a polar coordinate system. The Vertex is on the Polar Axis at r = 1. The Polar Axis tick marks are labeled 2, 3, 4, 5.">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_003.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_003.jpg"/>
             </media>
           </figure>
         </commentary>
@@ -1573,7 +1573,7 @@
 </tgroup>
 </table><figure id="Figure_10_05_004">
           <media id="fs-id1992197" alt="A vertical hyperbola is shown in a polar coordinate system, centered below the Pole. The Vertices are on the vertical axis through the Pole. The upper Vertex is labeled D and the lower Vertex is labeled B. The points where the upper branch of the hyperbola intersect the Polar Axis and its horizontal extension are labeled A and C respectively. The Polar Axis tick marks are labeled 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_004.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_004.jpg"/>
           </media>
         </figure>
         </solution>
@@ -1879,7 +1879,7 @@
 </tgroup>
 </table><figure id="Figure_10_05_006" class="small">
           <media id="fs-id1551880" alt="A horizontal ellipse is shown in a polar coordinate system, centered on the Polar Axis to the right of the Pole. The Vertices are on the Polar Axis. The right Vertex is labeled A and the left Vertex is labeled C and is to the left of the Pole.  Point A is on the Polar Axis at r = 10. The Polar Axis tick marks are labeled 2, 4, 6, 8, 10, 12. The upper and lower points where the ellipse intersects the vertical axis through the Pole are labeled B and D respectively. The Directrix, the vertical line x = negative 5/2, is shown.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_006.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_006.jpg"/>
           </media>
         </figure>
         </solution>
@@ -1888,7 +1888,7 @@
           <para id="fs-id1551888">We can check our result using a graphing utility. See <link target-id="Figure_10_05_007"/>.</para>
 
           <figure id="Figure_10_05_007" class="small"><media id="fs-id2056354" alt="">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_007.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_007.jpg"/>
             </media>
 
           <caption> <m:math>
@@ -1939,7 +1939,7 @@
 
       <solution id="fs-id1639620">
         <media id="fs-id1639625" alt="">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_009.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_009.jpg"/>
         </media>
       </solution>
 
@@ -3121,7 +3121,7 @@
 
 
         <media id="fs-id1978645" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_201.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_201.jpg"/>
         </media>
 
 </solution></exercise>
@@ -3155,7 +3155,7 @@
 
 
         <media id="fs-id1872527" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_203.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_203.jpg"/>
         </media>
 
 </solution></exercise>
@@ -3187,7 +3187,7 @@
 
 
         <media id="fs-id1479161" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_205.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_205.jpg"/>
         </media>
 
 </solution></exercise>
@@ -3219,7 +3219,7 @@
 
 
         <media id="fs-id1703897" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_207.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_207.jpg"/>
         </media>
 
 </solution></exercise><exercise id="fs-id1703908"><problem id="fs-id1703909"><para id="fs-id1703910"> <m:math>
@@ -3244,7 +3244,7 @@
 
 
         <media id="fs-id2089738" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_209.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_209.jpg"/>
         </media>
 
 </solution></exercise>
@@ -3264,7 +3264,7 @@
 
 
         <media id="fs-id2089833" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_211.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_211.jpg"/>
         </media>
 
 </solution></exercise>
@@ -3923,7 +3923,7 @@
         </m:mrow>
       </m:math>
       <newline count="1"/></para><media id="fs-id2196864" alt="" display="block">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_223.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_223.jpg"/>
       </media>
 
 </solution></exercise>
@@ -4028,7 +4028,7 @@
         </m:mrow>
       </m:math>
             <newline count="1"/></para><media id="fs-id1363974" alt="" display="block">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_225.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_225.jpg"/>
       </media>
 
 </solution></exercise>
@@ -4492,7 +4492,7 @@
 
 <para id="eip-id2341156"><newline/>
       <media id="fs-id2130447" alt="" display="block">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_228.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_228.jpg"/>
       </media>
 </para>
 </solution></exercise><exercise id="fs-id2130458"><problem id="fs-id2130459"><para id="fs-id2130460"> <m:math>
@@ -4527,7 +4527,7 @@
 
     <para id="eip-id2036615"><newline/>
       <media id="fs-id2732752" alt="" display="block">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_230.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_230.jpg"/>
       </media>
     </para>
 </solution></exercise><para id="fs-id2732763">For the following exercises, find the equation of the hyperbola.</para><exercise id="fs-id2732766"><problem id="fs-id2732767"><para id="fs-id2732768">Center at <m:math>
@@ -4816,7 +4816,7 @@
     <para id="eip-id1197954"><newline/>
 
       <media id="fs-id2131476" alt="" display="block">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_232.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_232.jpg"/>
       </media>
     </para>
 </solution></exercise><exercise id="fs-id2131487"><problem id="fs-id2131488"><para id="fs-id2131489"> <m:math>
@@ -4843,7 +4843,7 @@
 
      <para id="eip-id2575115"><newline/>
       <media id="fs-id2131580" alt="" display="block">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_234.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_234.jpg"/>
       </media>
     </para>
 </solution></exercise><para id="fs-id2450076">For the following exercises, write the equation of the parabola using the given information.</para><exercise id="fs-id2450079"><problem id="fs-id2450080"><para id="fs-id2450081">Focus at <m:math>
@@ -5120,7 +5120,7 @@
         </para>
 
         <media id="fs-id2886354" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_236.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_236.jpg"/>
         </media>
 
 </solution></exercise>
@@ -5235,7 +5235,7 @@
 
     <para id="eip-id3836227"><newline/>
         <media id="fs-id1740902" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_238.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_238.jpg"/>
         </media>
       </para>
 </solution></exercise><exercise id="fs-id1740913"><problem id="fs-id1740914"><para id="fs-id1740915"> <m:math>
@@ -5267,7 +5267,7 @@
       <solution id="fs-id1727593">
     <para id="eip-id2006911"><newline/>
         <media id="fs-id1727598" alt="" display="block">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_240.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_240.jpg"/>
         </media>
       </para>
 </solution></exercise><exercise id="fs-id1727609"><problem id="fs-id1727610"><para id="fs-id1727611"> <m:math>
@@ -5537,7 +5537,7 @@
         </m:mrow>
       </m:math>
             <newline/></para><media id="fs-id2234965" alt="" display="block">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_242.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_242.jpg"/>
       </media>
 
 </solution></exercise><exercise id="fs-id2234975"><problem id="fs-id2234976"><para id="fs-id2234978"> <m:math>
@@ -5855,7 +5855,7 @@
         </m:mrow>
       </m:math>
       </para><media id="fs-id2575302" alt="" display="block">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_244.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_244.jpg"/>
 
     </media>
 
@@ -6056,7 +6056,7 @@
     <solution id="fs-id2067663">
 <para id="eip-id1525994"><newline/>
       <media id="fs-id2067668" alt="">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_247.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_247.jpg"/>
       </media>
 </para>
 </solution></exercise><exercise id="fs-id2067679"><problem id="fs-id2067680"><para id="fs-id2067681">Write the equation of a parabola with a focus at <m:math>
@@ -6216,7 +6216,7 @@
       </para>
 
       <media id="fs-id2081421" alt="" display="block">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_249.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_249.jpg"/>
       </media>
 
 </solution></exercise>
@@ -6296,7 +6296,7 @@
 
 
       <media id="fs-id2883977" alt="" display="block">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_10_05_251n.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_10_05_251n.jpg"/>
       </media>
 
 

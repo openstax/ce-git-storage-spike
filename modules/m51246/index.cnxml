@@ -34,7 +34,7 @@ It’s important to note that we as individuals do not have a strict fixed or gr
 <newline/>
 In terms of learning new skills in mathematics, which mindset, growth or fixed, best describes your beliefs as of today? Explain.<newline/>
 <figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fixed_growth"><media id="fixed_growth1" alt=" A diagram illustrates the comparison between “Fixed Mindset” and “Growth Mindset” based on six different parameters.">
-    <image mime-type="image/png" src="fixed_and_growth_mindset.png"/>
+    <image mime-type="image/png" src="../../media/fixed_and_growth_mindset.png"/>
   </media>
 
 <caption>The differences between fixed and growth mindset are clear when aligned to key elements of learning and personality. (Credit: Adapted for OpenStax <emphasis effect="italics">College Success</emphasis>, based on work by Dr. Carol Dweck)</caption></figure></item>
@@ -111,7 +111,7 @@ Think about what you would like to achieve in your classes this term and how a g
 </section>
 <para id="fs-id1167339150823">Earl is building a doghouse, whose front is in the shape of a square topped with a triangle. There will be a rectangular door through which the dog can enter and exit the house. Earl wants to find the area of the front of the doghouse so that he can purchase the correct amount of paint. Using the measurements of the front of the house, shown in <link target-id="Figure_01_04_001"/>, we can create an expression that combines several variable terms, allowing us to solve this problem and others like it.</para><figure id="Figure_01_04_001" class="small">
 <media id="fs-id1167339185486" alt="Sketch of a house formed by a square and a triangle based on the top of the square. A rectangle is placed at the bottom center of the square to mark a doorway. The height of the door is labeled: x and the width of the door is labeled: 1 foot. The side of the square is labeled: 2x. The height of the triangle is labeled: 3/2 feet.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_01_04_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_01_04_001.jpg"/>
 </media>
 </figure>
 
@@ -347,7 +347,7 @@ Think about what you would like to achieve in your classes this term and how a g
 </m:math> is called a <term>trinomial</term>.</para><para id="fs-id1167339222212">We can find the <term>degree</term> of a polynomial by identifying the highest power of the variable that occurs in the polynomial. The term with the highest degree is called the <term>leading term</term> because it is usually written first. The coefficient of the leading term is called the <term>leading coefficient</term>. When a polynomial is written so that the powers are descending, we say that it is in standard form.</para>
 
 <media id="fs-id1167339243309" alt="A polynomial reading: a sub n times x to the nth power plus and so on plus a sub 2 times x squared plus a sub one times x plus a subzero is shown. The a in the term a sub n is labeled: leading coefficient. The n in the term x to the nth power is labeled: degree. Finally, the entire term is labeled as: Leading term.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_01_04_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_01_04_002.jpg"/>
 </media>
 
 <note id="fs-id1167339137964">
@@ -1245,7 +1245,7 @@ Think about what you would like to achieve in your classes this term and how a g
 <para id="fs-id1167339243388">A shortcut called FOIL is sometimes used to find the product of two binomials. It is called FOIL because we multiply the <emphasis>f</emphasis>irst terms, the <emphasis>o</emphasis>uter terms, the <emphasis>i</emphasis>nner terms, and then the <emphasis>l</emphasis>ast terms of each binomial.</para>
 
 <media id="fs-id1167339168201" alt="Two quantities in parentheses are being multiplied, the first being: a times x plus b and the second being: c times x plus d. This expression equals ac times x squared plus ad times x plus bc times x plus bd. The terms ax and cx are labeled: First Terms. The terms ax and d are labeled: Outer Terms. The terms b and cx are labeled: Inner Terms. The terms b and d are labeled: Last Terms.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_01_04_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_01_04_003.jpg"/>
 </media>
 
 <para id="fs-id1167339429089">The FOIL method arises out of the distributive property. We are simply multiplying each term of the first binomial by each term of the second binomial, and then combining like terms.</para>
@@ -1272,18 +1272,18 @@ Think about what you would like to achieve in your classes this term and how a g
 <solution id="eip-id1167338039926">
 <para id="eip-id1673659">Find the product of the first terms.</para>
 <para id="eip-id1673663"><media id="eip-id1673664" alt="">
-<image mime-type="image/jpeg" src="CNX_CAT_Figure_01_04_004.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_CAT_Figure_01_04_004.jpg"/>
 </media></para>
 <para id="eip-id1673675">Find the product of the outer terms.</para>
 <para id="eip-id1673678"><media id="eip-id1673679" alt="">
-<image mime-type="image/jpeg" src="CNX_CAT_Figure_01_04_005.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_CAT_Figure_01_04_005.jpg"/>
 </media></para>
 <para id="eip-id1923767">Find the product of the inner terms.</para>
 <para id="eip-id1923770"><media id="eip-id1923771" alt="">
-<image mime-type="image/jpeg" src="CNX_CAT_Figure_01_04_006.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_CAT_Figure_01_04_006.jpg"/>
 </media></para>
 <para id="eip-id1923782">Find the product of the last terms.</para><para id="eip-id1923784"><media id="eip-id1923785" alt="">
-<image mime-type="image/jpeg" src="CNX_CAT_Figure_01_04_007.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_CAT_Figure_01_04_007.jpg"/>
 </media></para>
 
 <para id="eip-id1167336078703"> <m:math>

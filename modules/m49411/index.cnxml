@@ -21,7 +21,7 @@
 </m:math> to the horizontal. How far will the ball travel? Will it clear the fence for a game-winning home run? The outcome may depend partly on other factors (for example, the wind), but mathematicians can model the path of a projectile and predict approximately how far it will travel using <term class="no-emphasis">parametric equations</term>. In this section, we’ll discuss parametric equations and some common applications, such as projectile motion problems.</para>
 <figure id="Figure_08_07_001" class="small">
 <media id="fs-id1165137598637" alt="Photo of a baseball batter swinging.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_001.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_001.jpg"/>
       </media>
 
     <caption>Parametric equations can model the path of a projectile. (credit: Paul Kreher, Flickr)</caption></figure><section id="fs-id1165137566996">
@@ -290,7 +290,7 @@
           </m:math> opening to the right. See <link target-id="Figure_08_07_002"/>.</para>
 <figure id="Figure_08_07_002" class="small">
 <media id="fs-id1165137930319" alt="Graph of the given parabola opening to the right.">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_002.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_002.jpg"/>
             </media>
           </figure></solution>
             <commentary id="fs-id1165135515789">
@@ -329,7 +329,7 @@
         </m:math>
         </para></problem>
       <solution id="fs-id1165137849525"><media id="fs-id1165135347757" alt="Graph of the given parametric equations with the restricted domain - it looks like the right half of an upward opening parabola.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_003.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_003.jpg"/>
         </media></solution></exercise></note><example id="Example_08_07_02"><exercise id="fs-id1165131892642"><problem id="fs-id1165135305906">
             <title>Sketching the Graph of Trigonometric Parametric Equations</title>
             <para id="fs-id1165137942382">Construct a table of values for the given parametric equations and sketch the graph:</para>
@@ -933,7 +933,7 @@
 </table><para id="fs-id1165137581718"><link target-id="Figure_08_07_004"/> shows the graph.</para>
 <figure id="Figure_08_07_004" class="small">
 <media id="fs-id1165137644320" alt="Graph of the given equations - a vertical ellipse.">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_004.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_004.jpg"/>
             </media>
           </figure><para id="fs-id1165135569879">By the symmetry shown in the values of <m:math>
             <m:mrow>
@@ -1003,7 +1003,7 @@
  </m:mrow>
 </m:math>         </para></problem>
       <solution id="fs-id1165137408223"><media id="fs-id1165137464397" alt="Graph of the given equations - a horizontal ellipse.">
-          <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_005.jpg"/>
+          <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_005.jpg"/>
         </media></solution></exercise></note>
     </section>
 
@@ -1277,7 +1277,7 @@
           </m:math> values from the table. See <link target-id="Figure_08_07_006"/>.</para>
 
           <figure id="Figure_08_07_006"><media id="fs-id1165137474600" alt="Graph of the given ellipse in parametric and rectangular coordinates - it is the same thing in both images.">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_006.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_006.jpg"/>
             </media>
           </figure><para id="fs-id1165135245777">Next, translate the parametric equations to rectangular form. To do this, we solve for <m:math>
           <m:mrow>
@@ -1493,7 +1493,7 @@
             <title>Analysis</title>
             <para id="fs-id1165137424263">In <link target-id="Figure_08_07_007"/>, the data from the parametric equations and the rectangular equation are plotted together. The parametric equations are plotted in blue; the graph for the rectangular equation is drawn on top of the parametric in a dashed style colored red. Clearly, both forms produce the same graph.</para>
 <figure id="Figure_08_07_007" class="small"><media id="fs-id1165134032313" alt="Overlayed graph of the two versions of the ellipse, showing that they are the same whether they are given in parametric or rectangular coordinates.">
-        <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_007.jpg"/>
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_007.jpg"/>
       </media>
        </figure></commentary>
 
@@ -1534,7 +1534,7 @@
 
 
           <figure id="Figure_08_07_008" class="small"><media id="fs-id1165134284394" alt="Overlayed graph of the two versions of the given function, showing that they are the same whether they are given in parametric or rectangular coordinates.">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_008.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_008.jpg"/>
             </media>
           </figure></solution>
             <commentary id="fs-id1165135347348">
@@ -1559,7 +1559,7 @@
           </m:math> along with the rectangular equation on the same grid.</para></problem>
           <solution id="fs-id1165137807092"><para id="fs-id1165137807093">The graph of the parametric equations is in red and the graph of the rectangular equation is drawn in blue dots on top of the parametric equations.</para>
         <media id="fs-id1165135541737" alt="Overlayed graph of the two versions of the ellipse, showing that they are the same whether they are given in parametric or rectangular coordinates.">
-            <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_009.jpg"/>
+            <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_009.jpg"/>
           </media></solution></exercise></note>
 
     </section><section id="fs-id1165134181759"><title>Applications of Parametric Equations</title><para id="fs-id1165135393365">Many of the advantages of parametric equations become obvious when applied to solving real-world problems. Although rectangular equations in <emphasis effect="italics">x</emphasis> and <emphasis effect="italics">y</emphasis> give an overall picture of an object's path, they do not reveal the position of an object at a specific time. Parametric equations, however, illustrate how the values of <emphasis effect="italics">x</emphasis> and <emphasis effect="italics">y</emphasis> change depending on <emphasis effect="italics">t</emphasis>, as the location of a moving object at a particular time.</para>
@@ -2050,7 +2050,7 @@
               </list>
 
             <figure id="Figure_08_07_010"><media id="fs-id1165135448259" alt="Plotted trajectory of a hit ball, showing the position of the batter at the origin, the ball's path in the shape of a wide downward facing parabola, and the outfield wall as a vertical line segment rising to 10 ft under the ball's path.">
-                <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_010n.jpg"/>
+                <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_010n.jpg"/>
               </media>
             </figure></solution>
           </exercise>
@@ -2395,7 +2395,7 @@
 
 </problem>
 <solution id="fs-id1165135188326"><media id="fs-id1165135190482" alt="Graph of the given equations - looks like an upward opening parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_202.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_202.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165135172250"><problem id="fs-id1165135172252"><para id="fs-id1165135172253"> <m:math>
     <m:mrow>
       <m:mrow><m:mo>{</m:mo> <m:mrow>
@@ -2604,7 +2604,7 @@
 </tgroup>
 </table></problem>
 <solution id="fs-id1165134583390"><media id="fs-id1165134572578" alt="Graph of the given equations - a line, negative slope.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_204.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_204.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165137643624"><problem id="fs-id1165137643625"><para id="fs-id1165137643626"> <m:math>
     <m:mrow>
       <m:mrow><m:mo>{</m:mo> <m:mrow>
@@ -2809,7 +2809,7 @@
 </tgroup>
 </table></problem>
 <solution id="fs-id1165135237047"><media id="fs-id1165137834145" alt="Graph of the given equations - looks like a sideways parabola, opening to the right.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_206.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_206.jpg"/>
 </media></solution></exercise><para id="fs-id1165137698486">For the following exercises, sketch the curve and include the orientation.</para><exercise id="fs-id1165135155255"><problem id="fs-id1165135155256"><para id="fs-id1165135155257"> <m:math>
     <m:mrow>
       <m:mrow><m:mo>{</m:mo> <m:mtable columnalign="left">
@@ -2853,7 +2853,7 @@
   </m:math>
   </para></problem>
 <solution id="fs-id1165134069188"><media id="fs-id1165134092005" alt="Graph of the given equations - looks like the left half of an upward opening parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_208.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_208.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165135404698"><problem id="fs-id1165135404699"><para id="fs-id1165137811212"> <m:math>
     <m:mrow>
       <m:mrow><m:mo>{</m:mo> <m:mtable columnalign="left">
@@ -2891,7 +2891,7 @@
   </m:math>
   </para></problem>
 <solution id="fs-id1165137417002"><media id="fs-id1165137407880" alt="Graph of the given equations - looks like a downward opening absolute value function.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_210.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_210.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165137737228"><problem id="fs-id1165137737229"><para id="fs-id1165137737230"> <m:math>
  <m:mrow>
   <m:mrow><m:mo>{</m:mo> <m:mrow>
@@ -2938,7 +2938,7 @@
 </m:math>
 </para></problem>
 <solution id="fs-id1165137936702"><media id="fs-id1165133067122" alt="Graph of the given equations - a vertical ellipse.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_212.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_212.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165137589849"><problem id="fs-id1165137589850"><para id="fs-id1165137589851"> <m:math>
     <m:mrow>
       <m:mrow><m:mo>{</m:mo> <m:mtable columnalign="left">
@@ -2989,7 +2989,7 @@
   </para></problem>
 <solution id="fs-id1165134081386">
 <media id="fs-id1165135151320" alt="Graph of the given equations- line from (0, -3) to (3,0). It is traversed in both directions, positive and negative slope.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_214.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_214.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165137601187"><problem id="fs-id1165137601188"><para id="fs-id1165137601189"> <m:math>
     <m:mrow>
       <m:mrow><m:mo>{</m:mo> <m:mtable columnalign="left">
@@ -3038,7 +3038,7 @@
   </m:math>
   </para></problem>
 <solution id="fs-id1165137805783"><media id="fs-id1165137937556" alt="Graph of the given equations- looks like an upward opening parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_216.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_216.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165137896941"><problem id="fs-id1165137896942"><para id="fs-id1165137698304"> <m:math>
     <m:mrow>
       <m:mrow><m:mo>{</m:mo> <m:mtable columnalign="left">
@@ -3109,7 +3109,7 @@
   </m:math>
   </para></problem>
 <solution id="fs-id1165135149887"><media id="fs-id1165137453246" alt="Graph of the given equations- looks like a downward opening parabola.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_218.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_218.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165135190005"><problem id="fs-id1165135190006"><para id="fs-id1165135190007"> <m:math>
     <m:mrow>
       <m:mrow><m:mo>{</m:mo> <m:mrow>
@@ -3161,7 +3161,7 @@
   </m:math>
   </para></problem>
 <solution id="fs-id1165135512730"><para id="fs-id1165135512731"><media id="fs-id1165137769966" alt="Graph of the given equations- horizontal ellipse.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_220.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_220.jpg"/>
 </media></para></solution></exercise><exercise id="fs-id1165132945460"><problem id="fs-id1165135209077"><para id="fs-id1165135209078"> <m:math>
     <m:mrow>
       <m:mrow><m:mo>{</m:mo> <m:mtable columnalign="left">
@@ -3211,7 +3211,7 @@
   </m:math>
   </para></problem>
 <solution id="fs-id1165132912723"><media id="fs-id1165134316930" alt="Graph of the given equations- looks like the lower half of a sideways parabola opening to the right">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_222.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_222.jpg"/>
 </media></solution></exercise><para id="fs-id1165135185162">For the following exercises, graph the equation and include the orientation.</para><exercise id="fs-id1165135185165"><problem id="fs-id1165135185166"><para id="fs-id1165135185167"> <m:math>
     <m:mrow>
       <m:mi>x</m:mi><m:mo>=</m:mo><m:msup>
@@ -3233,7 +3233,7 @@
   </m:math>
   </para></problem>
   <solution id="fs-id1165133064407"><media id="fs-id1165133306861" alt="Graph of the given equations- looks like an upwards opening parabola">
-      <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_224.jpg"/>
+      <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_224.jpg"/>
     </media></solution></exercise><exercise id="fs-id1165133065688"><problem id="fs-id1165133065689"><para id="fs-id1165135553506"> <m:math>
     <m:mrow>
       <m:mi>x</m:mi><m:mo>=</m:mo><m:mi>t</m:mi><m:mo>,</m:mo></m:mrow></m:math> <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:msqrt>
@@ -3259,7 +3259,7 @@
   </m:math>
   </para></problem>
 <solution id="fs-id1165135252162"><media id="fs-id1165135487324" alt="Graph of the given equations- looks like the upper half of a sideways parabola opening to the left">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_226.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_226.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165134575412"><problem id="fs-id1165134575413"><para id="fs-id1165134575414"> <m:math>
     <m:mrow>
       <m:mi>x</m:mi><m:mo>=</m:mo><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>cos</m:mi><m:mspace width="0.3em"/><m:mi>t</m:mi><m:mo>,</m:mo></m:mrow></m:math> <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>6</m:mn><m:mspace width="0.3em"/><m:mi>sin</m:mi><m:mspace width="0.3em"/><m:mi>t</m:mi><m:mo>,</m:mo></m:mrow></m:math> <m:math><m:mrow><m:mn>0</m:mn><m:mo>≤</m:mo><m:mi>t</m:mi><m:mo>≤</m:mo><m:mi>π</m:mi>
@@ -3283,7 +3283,7 @@
 </m:math>
 </para></problem>
 <solution id="fs-id1165137680409"><media id="fs-id1165137680414" alt="Graph of the given equations- the left half of a hyperbola with diagonal asymptotes">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_228.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_228.jpg"/>
 </media></solution></exercise><para id="fs-id1165134032307">For the following exercises, use the parametric equations for integers <emphasis effect="italics">a </emphasis>and <emphasis effect="italics">b</emphasis>:</para>
   <equation id="eip-155" class="unnumbered"><label/> <m:math display="block">
     <m:mtable columnalign="left">
@@ -3328,7 +3328,7 @@
     </m:mrow>
   </m:math>, and include the orientation.</para></problem>
 <solution id="fs-id1165137409296"><media id="fs-id1165135181123" alt="Graph of the given equations - vertical periodic trajectory">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_230.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_230.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165137619318"><problem id="fs-id1165137619319"><para id="fs-id1165137619320">Graph on the domain <m:math>
     <m:mrow>
       <m:mrow><m:mo>[</m:mo> <m:mrow>
@@ -3358,7 +3358,7 @@
     </m:mrow>
   </m:math>, and include the orientation.</para></problem>
 <solution id="fs-id1165137551247"><media id="fs-id1165137551252" alt="Graph of the given equations - vertical periodic trajectory">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_232.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_232.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165133233024"><problem id="fs-id1165133233025"><para id="fs-id1165133233026">If <m:math>
     <m:mrow>
       <m:mi>a</m:mi>    </m:mrow>
@@ -3538,7 +3538,7 @@
   </m:math>
   </para></problem>
 <solution id="fs-id1165132960728"><media id="fs-id1165134050588" alt="Graph of the given equations ">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_233.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_233.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165133276223"><problem id="fs-id1165133276224"><para id="fs-id1165133276225"> <m:math>
     <m:mrow>
       <m:mi>a</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>1</m:mn>
@@ -3553,7 +3553,7 @@
   </para></problem>
 
 <solution id="fs-id1165134386554"><media id="fs-id1165134386560" alt="Graph of the given equations - lines extending into Q1 and Q3 (in both directions) from the origin to 1 unit.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_235.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_235.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165135572012"><problem id="fs-id1165135572013"><para id="fs-id1165135572014"> <m:math>
     <m:mrow>
       <m:mi>a</m:mi><m:mo>=</m:mo><m:mn>5</m:mn><m:mo>,</m:mo><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>5</m:mn>
@@ -3567,7 +3567,7 @@
   </m:math>
   </para></problem>
 <solution id="fs-id1165133349420"><media id="fs-id1165135426370" alt="Graph of the given equations - lines extending into Q1 and Q3 (in both directions) from the origin to 3 units.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_237.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_237.jpg"/>
 </media></solution></exercise><exercise id="fs-id1165134357489"><problem id="fs-id1165134357490"><para id="fs-id1165134357491"> <m:math>
     <m:mrow>
       <m:mi>a</m:mi><m:mo>=</m:mo><m:mn>5</m:mn><m:mo>,</m:mo><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>2</m:mn>
@@ -3609,7 +3609,7 @@
             </m:mrow>
           </m:math>  to achieve each graph.</para><exercise id="fs-id1165137701974" class="material-set-2"><problem id="fs-id1165137701975">
             <media id="fs-id1165137701981" alt="Graph of the given equations ">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_239.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_239.jpg"/>
             </media>
           </problem>
   <solution id="fs-id1165137651752"><para id="fs-id1165137651754"> <m:math>
@@ -3619,11 +3619,11 @@
   </m:math>
   </para></solution></exercise><exercise id="fs-id1165132032531" class="material-set-2"><problem id="fs-id1165132032532">
             <media id="fs-id1165137827744" alt="Graph of the given equations ">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_240.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_240.jpg"/>
             </media>
          </problem></exercise><exercise id="fs-id1165134237259" class="material-set-2"><problem id="fs-id1165134237260">
             <media id="fs-id1165134237266" alt="Graph of the given equations ">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_241.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_241.jpg"/>
             </media>
      </problem>
             <solution id="fs-id1165137693606"><para id="fs-id1165137693607"> <m:math>
@@ -3632,7 +3632,7 @@
               </m:mrow>
             </m:math>
             </para></solution></exercise><exercise id="fs-id1165133393487" class="material-set-2"><problem id="fs-id1165133393488"><media id="fs-id1165137734462" alt="Graph of the given equations ">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_242.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_242.jpg"/>
             </media>
         </problem></exercise><para id="fs-id1165134211299">For the following exercises, use a graphing utility to graph the given parametric equations.
         <list id="fs-id1165134211302" list-type="enumerated" number-style="lower-alpha">
@@ -3703,13 +3703,13 @@
           </para></problem>
 
           <solution id="fs-id1165137419669"><para id="eip-id1168252917601"><media id="fs-id1165137419674" alt="Graph of the given equations ">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_243.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_243.jpg"/>
             </media></para>
          <para id="eip-id4974410"><media id="fs-id1165131990655" alt="Graph of the given equations ">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_244.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_244.jpg"/>
             </media></para>
           <para id="eip-id1168245590312"><media id="fs-id1165134080848" alt="Graph of the given equations ">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_245.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_245.jpg"/>
             </media></para></solution></exercise><exercise id="fs-id1165134422229"><problem id="fs-id1165135253195"><para id="fs-id1165135253196">Graph all three sets of parametric equations on the domain <m:math>
             <m:mrow>
               <m:mrow><m:mo>[</m:mo> <m:mrow>
@@ -3727,13 +3727,13 @@
           </m:math>
           </para></problem>
           <solution id="fs-id1165131962224"><para id="eip-id1167711689609"><media id="fs-id1165131962228" alt="Graph of the given equations ">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_249.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_249.jpg"/>
             </media>
           </para><para id="eip-id6707660"><media id="fs-id1165137737032" alt="Graph of the given equations ">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_250.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_250.jpg"/>
             </media>
           </para><para id="eip-id1167707952320"><media id="fs-id1165135448160" alt="Graph of the given equations ">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_251.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_251.jpg"/>
             </media>
           </para></solution></exercise><exercise id="fs-id1165135515798"><problem id="fs-id1165135515799"><para id="fs-id1165135515800">The graph of each set of parametric equations appears to “creep” along one of the axes. What controls which axis the graph creeps along?</para></problem></exercise>
           <exercise id="fs-id1165135662544"><problem id="fs-id1165135662545"><para id="fs-id1165135662546">Explain the effect on the graph of the parametric equation when we switched <m:math>
@@ -3910,7 +3910,7 @@
           </m:math>.</para></problem>
 
           <solution id="fs-id1165134569130"><media id="fs-id1165134569135" alt="Graph of the given equations - a hypocycloid">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_253.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_253.jpg"/>
             </media></solution></exercise><exercise id="fs-id1165131958330" class="material-set-2"><problem id="fs-id1165131958331"><para id="fs-id1165131958332">A hypotrochoid: <m:math>
  <m:mrow>
   <m:mrow><m:mo>{</m:mo> <m:mrow>
@@ -3965,7 +3965,7 @@
             </m:mrow>
           </m:math>.</para></problem>
           <solution id="fs-id1165134134026"><media id="fs-id1165135412041" alt="Graph of the given equations - a four petal rose">
-              <image mime-type="image/jpg" src="CNX_Precalc_Figure_08_07_255.jpg"/>
+              <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_08_07_255.jpg"/>
             </media></solution></exercise></section>
       </section></content>
 </document>

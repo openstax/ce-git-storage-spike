@@ -487,7 +487,7 @@
 </m:math> be the height.</para>
 <figure id="CNX_CAT_Figure_APP_001" class="unnumbered"><label/>
 <media id="fs-id3268401" alt="A triangle with sides labeled: a, b and c.  A line runs through the center of the triangle, bisecting the top angle; this line is labeled: h.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_APP_001.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_APP_001.jpg"/>
 </media>
 </figure>
 <para id="fs-id1884355">So <m:math>
@@ -507,7 +507,7 @@
 </m:math> </para>
 <figure id="CNX_CAT_Figure_APP_002" class="unnumbered"><label/>
 <media id="fs-id1932539" alt="A triangle with sides labeled: a, b, and c.  A line runs through the center of the triangle bisecting the angle at the top; this line is labeled: h. The two new line segments on the base of the triangle are labeled: p and q.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_APP_002.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_APP_002.jpg"/>
 </media>
 </figure>
 <para id="fs-id1774158">Using the Pythagorean Theorem, <m:math>
@@ -1835,13 +1835,13 @@
  </m:mrow>
 </m:math> </para>
 <figure id="CNX_CAT_Figure_APP_003" class="unnumbered"><label/><media id="fs-id1482653" alt="An ellipse centered at the origin on an x, y-coordinate plane.  Points C1 and C2 are plotted at the points (0, b) and (0, -b) respectively; these points appear on the ellipse.  Points V1 and V2 are plotted at the points (-a, 0) and (a, 0) respectively; these points appear on the ellipse.  Points F1 and F2 are plotted at the points (-c, 0) and (c, 0) respectively; these points appear on the x-axis, but not the ellipse. The point (x, y) appears on the ellipse in the first quadrant.  Dotted lines extend from F1 and F2 to the point (x, y).">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_APP_003N.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_APP_003N.jpg"/>
 </media>
 </figure><para id="fs-id1973820">Consider a vertex. </para>
 
 <figure id="CNX_CAT_Figure_APP_004" class="unnumbered"><label/>
 <media id="fs-id1964739" alt="An ellipse centered at the origin.  The points C1 and C2 are plotted at the points (0, b) and (0, -b) respectively; these points are on the ellipse.  The points V1 and V2 are plotted at the points (-a, 0) and (a, 0) respectively; these points are on the ellipse.  The points F1 and F2 are plotted at the points (-c, 0) and (c, 0) respectively; these points are on the x-axis and not on the ellipse.  A line extends from the point F1 to a point (x, y) which is at the point (a, 0).  A line extends from the point F2 to the point (x, y) as well.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_APP_004.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_APP_004.jpg"/>
 </media>
 </figure>
 <para id="fs-id2505964">Then, <m:math>
@@ -1906,7 +1906,7 @@
 <para id="fs-id3182519">Consider a covertex.</para>
 <figure id="CNX_CAT_Figure_APP_005" class="unnumbered"><label/>
 <media id="fs-id2664969" alt="An ellipse centered at the origin.  The points C1 and C2 are plotted at the points (0, b) and (0, -b) respectively; these points are on the ellipse.  The points V1 and V2 are plotted at the points (-a, 0) and (a, 0) respectively; these points are on the ellipse.  The points F1 and F2 are plotted at the points (-c, 0) and (c, 0) respectively; these points are on the x-axis and not on the ellipse.  There is a point (x, y) which is plotted at (0, b). A line extends from the origin to the point (c, 0), this line is labeled: c.  A line extends from the origin to the point (x, y), this line is labeled: b.  A line extends from the point (c, 0) to the point (x, y); this line is labeled: (1/2)(2a)=a.  A dotted line extends from the point (-c, 0) to the point (x, y); this line is labeled: (1/2)(2a)=a.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_APP_005.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_APP_005.jpg"/>
 </media>
 </figure>
 <para id="fs-id1562079">Then <m:math>
@@ -2850,7 +2850,7 @@
 <para id="fs-id1736667"><emphasis>Derivation</emphasis></para>
 <para id="fs-id1768393">A hyperbola is the set of all points in a plane such that the absolute value of the difference of the distances between two fixed points is constant.</para>
 <figure id="CNX_CAT_Figure_APP_006" class="unnumbered"><label/><media id="fs-id553537" alt="Side-by-side graphs of hyperbole.  In Diagram 1: The foci F’ and F are labeled and can be found a little in front of the opening of the hyperbola.  A point P at (x,y) on the right curve is labeled.  A line extends from the F’ focus to the point P labeled: D1.  A line extends from the F focus to the point P labeled: D2.  In Diagram 2:  The foci F’ and F are labeled and can be found a little in front of the opening of the hyperbola.  A point V is labeled at the vertex of the right hyperbola.  A line extends from the F’ focus to the point V labeled: D1.  A line extends from the F focus to the point V labeled: D2.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_APP_006N.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_APP_006N.jpg"/>
 </media>
 </figure><para id="fs-id1685872">Diagram 1: The difference of the distances from Point <emphasis effect="italics">P</emphasis> to the foci is constant:</para>
 <para id="fs-id1555925"> <m:math>
@@ -4743,18 +4743,18 @@
 <section id="fs-id1929503">
 <title>ToolKit Functions</title>
 <figure id="CNX_CAT_Figure_APP_007"><media id="fs-id1929511" alt="Three graphs side-by-side. From left to right, graph of the identify function, square function, and square root function. All three graphs extend from -4 to 4 on each axis.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_APP_007N.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_APP_007N.jpg"/>
 </media>
 </figure><figure id="CNX_CAT_Figure_APP_008"><media id="fs-id1929526" alt="Three graphs side-by-side. From left to right, graph of the cubic function, cube root function, and reciprocal function. All three graphs extend from -4 to 4 on each axis.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_APP_008N.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_APP_008N.jpg"/>
 </media>
 </figure><figure id="CNX_CAT_Figure_APP_009"><media id="fs-id1929540" alt="Three graphs side-by-side. From left to right, graph of the absolute value function, exponential function, and natural logarithm function. All three graphs extend from -4 to 4 on each axis.">
-<image mime-type="image/jpg" src="CNX_CAT_Figure_APP_009N.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_APP_009N.jpg"/>
 </media>
 </figure></section>
 <section id="fs-id1929552"><title>Trigonometric Functions</title>
 <para id="fs-id1929557"><emphasis>Unit Circle</emphasis></para><figure id="CNX_CAT_Figure_APP_010"><media id="fs-id1929563" alt="Graph of unit circle with angles in degrees, angles in radians, and points along the circle inscribed.">
-<image mime-type="image/jpg" src="CNX_Precalc_Figure_05_02_017-be31.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_05_02_017-be31.jpg"/>
 </media>
 </figure><table id="Table_07_04_01" summary="This table shows seven rows and six columns. First row shows angles of 0 degrees, 30 degrees or π/6, 45 degrees or π/4, 60 degrees or π/3, and 90 degrees or π/2. Second row is the cosine value for the degrees/radians in first row which are, in order: 1, √3/2, √2/2, ½, and 0. Third row is sine values for degrees/radians in first row which are, in order: 0, 1/2, √2/2, √3/2, and 1. Fourth row is tangent values for degrees/radians in first row which are, in order: 0, √3/3, 1,√3, and undefined. Fifth row is secant values for degrees/radians in first row which are, in order: 1, 2√3/3, √2, 2 and undefined. Sixth row is cosecant values for degrees/radians in first row which are, in order: undefined, 2, √2, 2√3/3, and 1. Seventh row is cotangent values for degrees/radians in first row which are, in order: undefined, √3, 1, √3/3, and 0.">
 <tgroup cols="6"><colspec colnum="1" colname="c1"/>
